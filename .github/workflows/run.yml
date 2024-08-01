@@ -27,8 +27,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Build the languages
-        run: pnpm gen:lang
+      # - name: Build the languages
+      #   run: pnpm gen:lang
 
       - name: Build the trending
         run: pnpm build
