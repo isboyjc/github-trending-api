@@ -25,7 +25,7 @@ async function saveToJSON (data, since = 'daily', language = 'all') {
     templateContent = templateContent.replace(new RegExp(key, 'g'), value);
   }
   let templateJson = JSON.parse(templateContent);
-  console.log(templateJson)
+  // console.log(templateJson)
 
   templateJson.data = data
 
