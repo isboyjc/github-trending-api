@@ -36,17 +36,24 @@ function convertToSlug(str) {
     .replace(/^-|-$/g, '');
 }
 
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 (async () => {
   await run('daily', 'all')
   await run('weekly', 'all')
   await run('monthly', 'all')
 
-  // let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
-  // languages = JSON.parse(languages);
+  let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
+  languages = JSON.parse(languages);
 
-  // console.log("Number of languages: ", languages.length)
+  console.log("Number of languages: ", languages.length)
 
-  // languages.forEach(async langObj => {
-  //   await run('daily', convertToSlug(langObj.name))
-  // })
+  for(const langObj of languages){
+    await delay(3000)
+    await run('daily', convertToSlug(langObj.name))
+    await run('weekly', convertToSlug(langObj.name))
+    await run('monthly', convertToSlug(langObj.name))
+  }
 })();
