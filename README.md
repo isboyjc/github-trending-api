@@ -11,8 +11,7 @@ Get information about popular repositories on the [GitHub Trending Page](https:/
 |  参数 | description | options |
 | - | - | - |
 | since | Date range | daily / weekly / monthly |
-| language | Language | [languages list](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [languages list - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) |
-
+| language | Language | [languages list](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [languages list - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) Use lowercase for language names and the "-" hyphen for spaces. |
 
 ```bash
 # json

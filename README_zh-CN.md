@@ -11,7 +11,7 @@
 |   | 说明 | 选项 |
 | - | - | - |
 | since | 时间范围 | daily / weekly / monthly |
-| language | 语言 | [语言列表](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [语言列表 - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) |
+| language | 语言 | [语言列表](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [语言列表 - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) 语言名请使用小写，空格使用 "-" 连接符 |
 
 
 ```bash
