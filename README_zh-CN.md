@@ -2,16 +2,16 @@
 
 [English](README.md) | [简体中文](README_zh-CN.md)
 
-Github trending data for developers and rss subscribers
+面向开发人员和 RSS 订阅者的 Github 趋势数据
 
-Get information about popular repositories on the [GitHub Trending Page](https://github.com/trending) via a script written in JavaScript and executed using GitHub Actions Service.
+通过 JavaScript 编写并使用 GitHub Actions Service 定时执行脚本，获取 [GitHub Trending Page](https://github.com/trending) 上热门仓库信息。
 
-## Use
+## 使用
 
-|  参数 | description | options |
+|   | 说明 | 选项 |
 | - | - | - |
-| since | Date range | daily / weekly / monthly |
-| language | Language | [languages list](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [languages list - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) |
+| since | 时间范围 | daily / weekly / monthly |
+| language | 语言 | [语言列表](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [语言列表 - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) |
 
 
 ```bash
@@ -26,7 +26,7 @@ https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.
 https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.xml
 ```
 
-## Example
+## 示例
 
 ```bash
 # since: daily language: all
@@ -51,11 +51,11 @@ https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/monthly/java.xml
 ```
 
 
-## Related links
+## 相关链接
 
-- [Rsstabs](rsstabs.com) Build Your Own AI News Assistant in RssTabs,Intelligent, personalized, and effortlessly efficient.
+- [Rsstabs](rsstabs.com) 在 RssTabs 中打造您自己的 AI 新闻助手，智能、个性化、轻松高效。
 
 
-## License
+## 许可证
 
-Licensed under the MIT License, Copyright © 2024 [Isboyjc](https://github.com).
+采用 MIT 许可协议进行许可， © 2024 [Isboyjc](https://github.com) 版权所有
