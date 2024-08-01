@@ -1,7 +1,7 @@
 const axios = require('axios');
 const { parse } = require('./parse')
 const { baseURL } = require('./base')
-const { saveToJSON } = require('./save')
+const { save } = require('./save')
 
 const instance = axios.create({
   baseURL: baseURL,
@@ -21,10 +21,9 @@ async function run (since = 'daily', language = 'all') {
 
   console.log('get', path)
   const { data } = await instance.get(path);
-
   console.log('done', path)
 
-  await saveToJSON(parse(data), since, language)
+  await save(parse(data), since, language)
 };
 
 (async () => {
