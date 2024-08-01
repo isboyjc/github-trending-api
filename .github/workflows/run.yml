@@ -1,0 +1,41 @@
+name: Fetch GitHub Trending
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '* 16 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup node.js environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies & Run Script
+        run: |
+          # Run script
+          npm ci
+          npm run dev --if-present
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git checkout main
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m ":rocket: Fetch GitHub Trending at $(date +'%Y-%m-%d %H:%M')")
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push
