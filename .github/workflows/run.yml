@@ -2,9 +2,13 @@ name: Fetch GitHub Trending
 
 on:
   push:
-    branches: [ main ]
-  schedule:
-    - cron: '* 16 * * *'
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  # schedule:
+  #   - cron: '* 16 * * *'
 
 jobs:
   build:
@@ -12,30 +16,27 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Setup node.js environment
-        uses: actions/setup-node@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
           node-version: '20'
 
-      - name: Install Dependencies & Run Script
-        run: |
-          # Run script
-          npm ci
-          npm run dev --if-present
+      - name: Install pnpm
+        run: npm install -g pnpm
 
-      - name: Configure Git
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build the project
+        run: pnpm run build
+
+      - name: Commit and Push changes
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit changes
-        run: |
-          git checkout main
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m ":rocket: Fetch GitHub Trending at $(date +'%Y-%m-%d %H:%M')")
-
-      - name: Push changes
+          git add .
+          git commit -m ":rocket: Fetch GitHub Trending at $(date +'%Y-%m-%d %H:%M')"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push
