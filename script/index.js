@@ -7,7 +7,7 @@ const path = require('path');
 const { readFileSync } = require('fs');
 
 const instance = axios.create({
-  BASE_URL: BASE_URL,
+  baseURL: BASE_URL,
   headers: {
     'Host': 'github.com',
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
@@ -41,12 +41,12 @@ function convertToSlug(str) {
   await run('weekly', 'all')
   await run('monthly', 'all')
 
-  // let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
-  // languages = JSON.parse(languages);
+  let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
+  languages = JSON.parse(languages);
 
-  // console.log("Number of languages: ", languages.length)
+  console.log("Number of languages: ", languages.length)
 
-  // languages.forEach(async langObj => {
-  //   await run('daily', convertToSlug(langObj.name))
-  // })
+  languages.forEach(async langObj => {
+    await run('daily', convertToSlug(langObj.name))
+  })
 })();
