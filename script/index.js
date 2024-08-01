@@ -51,7 +51,7 @@ function delay(ms) {
   console.log("Number of languages: ", languages.length)
 
   for(const langObj of languages){
-    await delay(3000)
+    await delay(5 * 60)
     await run('daily', convertToSlug(langObj.name))
     await run('weekly', convertToSlug(langObj.name))
     await run('monthly', convertToSlug(langObj.name))

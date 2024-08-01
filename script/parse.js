@@ -16,7 +16,7 @@ function parse(data){
     const forks = $(elm).find(`a[href=${url + '/forks'}]`).text().replace(/\n/g, '').trim()
     const addStars = $(elm).find('span').last().text().match(/\d+/g)[0]
     const contributors = $(elm).find(`a[data-hovercard-type="user"]`).map((_ ,user) => {
-      const name = $(user).find('.avatar.avatar-user').attr('alt').replace(/^@/, '')
+      const name = $(user).find('.avatar').attr('alt').replace(/^@/, '')
       return {
         avatar: $(user).find('.avatar.avatar-user').attr('src'),
         name,
