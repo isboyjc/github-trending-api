@@ -41,12 +41,12 @@ function convertToSlug(str) {
   await run('weekly', 'all')
   await run('monthly', 'all')
 
-  let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
-  languages = JSON.parse(languages);
+  // let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
+  // languages = JSON.parse(languages);
 
-  console.log("Number of languages: ", languages.length)
+  // console.log("Number of languages: ", languages.length)
 
-  languages.forEach(async langObj => {
-    await run('daily', convertToSlug(langObj.name))
-  })
+  // languages.forEach(async langObj => {
+  //   await run('daily', convertToSlug(langObj.name))
+  // })
 })();
