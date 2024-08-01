@@ -41,22 +41,19 @@ function delay(ms) {
 }
 
 (async () => {
-  // await run('daily', 'all')
-  // await run('weekly', 'all')
-  // await run('monthly', 'all')
+  await run('daily', 'all')
+  await run('weekly', 'all')
+  await run('monthly', 'all')
 
-  // let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
-  // languages = JSON.parse(languages);
+  let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
+  languages = JSON.parse(languages);
 
-  // console.log("Number of languages: ", languages.length)
+  console.log("Number of languages: ", languages.length)
 
-  // for(const langObj of languages){
-  //   await delay(5 * 60)
-  //   await run('daily', convertToSlug(langObj.name))
-  //   await run('weekly', convertToSlug(langObj.name))
-  //   await run('monthly', convertToSlug(langObj.name))
-  // }
-  await run('daily', 'json')
-  await run('weekly', 'json')
-  await run('monthly', 'json')
+  for(const langObj of languages){
+    await delay(5 * 60)
+    await run('daily', convertToSlug(langObj.name))
+    await run('weekly', convertToSlug(langObj.name))
+    await run('monthly', convertToSlug(langObj.name))
+  }
 })();

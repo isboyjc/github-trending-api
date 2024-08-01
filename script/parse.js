@@ -17,9 +17,7 @@ function parse(data){
     const addStars = $(elm).find('span').last().text().match(/\d+/g)[0]
     const contributors = $(elm).find(`a[data-hovercard-type="user"] .avatar.avatar-user`).map((_ ,user) => {
       const name = $(user).attr('alt').replace(/^@/, '')
-      // const url = BASE_URL + $(user).attr('href')
       const url = `${BASE_URL}/${name}`
-      // console.log(url)
       return {
         avatar: $(user).attr('src'),
         name,
