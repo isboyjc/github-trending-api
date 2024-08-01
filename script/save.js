@@ -15,7 +15,7 @@ async function saveToJSON (data, since = 'daily', language = 'all') {
     }
   );
 
-  const templateContent = readFileSync(path.resolve(__dirname, templateBaseURL, 'template.json'), 'utf8');
+  let templateContent = readFileSync(path.resolve(__dirname, templateBaseURL, 'template.json'), 'utf8');
   const replacements = {
     '{{language}}': language.replace(/^./, match => match.toUpperCase()),
     '{{since}}': since.replace(/^./, match => match.toUpperCase()),
