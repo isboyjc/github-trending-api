@@ -17,14 +17,12 @@
 
 
 ```bash
-# json
+# json or rss
 https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/{since}/{language}.json
-
-# rss
 https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/{since}/{language}.xml
 
 # cdn
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.xml
+https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.json
 https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.xml
 ```
 

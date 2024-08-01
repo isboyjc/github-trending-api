@@ -16,14 +16,12 @@ Get information about popular repositories on the [GitHub Trending Page](https:/
 To view trend data for all languages, please pass in `all` for languages.
 
 ```bash
-# json
+# json or rss
 https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/{since}/{language}.json
-
-# rss
 https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/{since}/{language}.xml
 
 # cdn
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.xml
+https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.json
 https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.xml
 ```
 
