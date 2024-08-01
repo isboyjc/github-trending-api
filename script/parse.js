@@ -1,5 +1,5 @@
 const cheerio = require('cheerio');
-const { baseURL } = require('./base')
+const { BASE_URL } = require('./base')
 
 function parse(data){
   const $ = cheerio.load(data);
@@ -25,7 +25,7 @@ function parse(data){
     }).get();
     const item = {
       title,
-      url: baseURL + url,
+      url: BASE_URL + url,
       description,
       language,
       languageColor,

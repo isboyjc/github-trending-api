@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node ./script/index.js",
+    "gen:lang": "node ./script/language.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

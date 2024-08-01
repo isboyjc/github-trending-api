@@ -1,13 +1,13 @@
-const path = require('path');
 const moment = require('moment');
+const path = require('path');
 const { writeFileSync, readFileSync, mkdirSync } = require('fs');
 const { Builder } = require('xml2js');
-const { fileBaseURL, templateBaseURL } = require('./base')
+const { DATA_BASE_URL, TEMPLATE_BASE_URL } = require('./base')
 
 const dateTime = moment().format('MMMM Do YYYY, h:mm:ss a');
 
 async function save (data, since = 'daily', language = 'all') {
-  const filePath = fileBaseURL + since
+  const filePath = DATA_BASE_URL + since
   await mkdirSync(
     path.resolve(__dirname, filePath),
     { recursive: true },
@@ -32,7 +32,7 @@ async function save (data, since = 'daily', language = 'all') {
 };
 
 function generationJson(data, since = 'daily', language = 'all'){
-  let templateContent = readFileSync(path.resolve(__dirname, templateBaseURL, 'template.json'), 'utf8');
+  let templateContent = readFileSync(path.resolve(__dirname, TEMPLATE_BASE_URL, 'template.json'), 'utf8');
   const replacements = {
     '{{language}}': language.replace(/^./, match => match.toUpperCase()),
     '{{since}}': since.replace(/^./, match => match.toUpperCase()),

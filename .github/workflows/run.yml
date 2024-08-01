@@ -27,8 +27,11 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Build the project
-        run: pnpm run build
+      - name: Build the languages
+        run: pnpm gen:lang
+
+      - name: Build the trending
+        run: pnpm build
 
       - name: Commit and Push changes
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
