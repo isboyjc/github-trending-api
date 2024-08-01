@@ -20,11 +20,11 @@ const instance = axios.create({
 
 async function run (since = 'daily', language = 'all') {
   let reqPath = `/trending${language == 'all' ? '' : ('/' + language)}`
-  if(since !== 'daily') path += `?since=${since}`
+  if(since !== 'daily') reqPath += `?since=${since}`
 
-  console.log('get', path)
+  console.log('get', reqPath)
   const { data } = await instance.get(reqPath);
-  console.log('done', path)
+  console.log('done', reqPath)
 
   await save(parse(data), since, language)
 };
@@ -41,12 +41,12 @@ function convertToSlug(str) {
   await run('weekly', 'all')
   await run('monthly', 'all')
 
-  // let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
-  // languages = JSON.parse(languages);
+  let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
+  languages = JSON.parse(languages);
 
-  // console.log("Number of languages: ", languages.length)
+  console.log("Number of languages: ", languages.length)
 
-  // languages.forEach(async langObj => {
-  //   await run('daily', convertToSlug(langObj.name))
-  // })
+  languages.forEach(async langObj => {
+    await run('daily', convertToSlug(langObj.name))
+  })
 })();
