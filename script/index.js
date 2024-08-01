@@ -41,9 +41,13 @@ function delay(ms) {
 }
 
 (async () => {
-  await run('daily', 'all')
-  await run('weekly', 'all')
-  await run('monthly', 'all')
+  try {
+    await run('daily', 'all')
+    await run('weekly', 'all')
+    await run('monthly', 'all')
+  } catch (error) {
+    console.error('Error language all:', error);
+  }
 
   let languages = readFileSync(path.resolve(__dirname, DATA_BASE_URL, 'languages.json'), 'utf8');
   languages = JSON.parse(languages);
@@ -51,9 +55,13 @@ function delay(ms) {
   console.log("Number of languages: ", languages.length)
 
   for(const langObj of languages){
-    await delay(5 * 60)
-    await run('daily', convertToSlug(langObj.name))
-    await run('weekly', convertToSlug(langObj.name))
-    await run('monthly', convertToSlug(langObj.name))
+    try {
+      await delay(5 * 60)
+      await run('daily', convertToSlug(langObj.name))
+      await run('weekly', convertToSlug(langObj.name))
+      await run('monthly', convertToSlug(langObj.name))
+    } catch (error) {
+      console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
+    }
   }
 })();
