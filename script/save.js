@@ -1,6 +1,7 @@
 const path = require('path');
 const moment = require('moment');
 const { writeFileSync, readFileSync, mkdirSync } = require('fs');
+const { Builder } = require('xml2js');
 const { fileBaseURL, templateBaseURL } = require('./base')
 
 const dateTime = moment().format('MMMM Do YYYY, h:mm:ss a');
