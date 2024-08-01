@@ -1,6 +1,6 @@
 const path = require('path');
 const moment = require('moment');
-const { writeFileSync, mkdirSync } = require('fs');
+const { writeFileSync, readFileSync, mkdirSync } = require('fs');
 const { fileBaseURL, templateBaseURL } = require('./base')
 
 const dateTime = moment().format('MMMM Do YYYY, h:mm:ss a');
@@ -15,7 +15,7 @@ async function saveToJSON (data, since = 'daily', language = 'all') {
     }
   );
 
-  const templateContent = fs.readFileSync(path.resolve(__dirname, templateBaseURL, 'template.json'), 'utf8');
+  const templateContent = readFileSync(path.resolve(__dirname, templateBaseURL, 'template.json'), 'utf8');
   const replacements = {
     '{{language}}': language.replace(/^./, match => match.toUpperCase()),
     '{{since}}': since.replace(/^./, match => match.toUpperCase()),
