@@ -43,6 +43,8 @@ function generationJson(data, since = 'daily', language = 'all'){
   let templateJson = JSON.parse(templateContent);
 
   templateJson.items = data
+
+  return templateJson
 }
 
 function JsonToRss(json){
