@@ -19,11 +19,11 @@ const instance = axios.create({
 });
 
 async function run (since = 'daily', language = 'all') {
-  let path = `/trending${language == 'all' ? '' : '/' + language}`
+  let reqPath = `/trending${language == 'all' ? '' : ('/' + language)}`
   if(since !== 'daily') path += `?since=${since}`
 
   console.log('get', path)
-  const { data } = await instance.get(path);
+  const { data } = await instance.get(reqPath);
   console.log('done', path)
 
   await save(parse(data), since, language)
