@@ -1,0 +1,16 @@
+export default {
+  title: 'GitHub Trending API',
+  desc: 'GitHub trending data for developers and rss subscribers',
+  'desc.secondary': 'Get information about popular repositories on the GitHub Trending Page via a script written in JavaScript and executed using GitHub Actions Service.',
+  guide: 'Guide',
+  language: 'Language',
+  since: 'Data range',
+  cdn: 'Server CDN',
+  lastReq: 'Last pulled on {time} ago',
+  seconds: 'seconds',
+  minutes: 'minutes',
+  hours: 'hours',
+  days: 'days',
+  months: 'months',
+  years: 'years',
+}

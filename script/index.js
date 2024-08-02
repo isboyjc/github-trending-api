@@ -1,3 +1,10 @@
+/*
+ * @LastEditTime: 2024-08-02 18:04:36
+ * @Description: ...
+ * @Date: 2024-08-01 22:16:50
+ * @Author: isboyjc
+ * @LastEditors: isboyjc
+ */
 const axios = require('axios');
 const { parse } = require('./parse')
 const { BASE_URL, DATA_BASE_URL } = require('./base')
@@ -54,14 +61,14 @@ function delay(ms) {
 
   console.log("Number of languages: ", languages.length)
 
-  for(const langObj of languages){
-    try {
-      await delay(5 * 60)
-      await run('daily', convertToSlug(langObj.name))
-      await run('weekly', convertToSlug(langObj.name))
-      await run('monthly', convertToSlug(langObj.name))
-    } catch (error) {
-      console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
-    }
-  }
+  // for(const langObj of languages){
+  //   try {
+  //     await delay(5 * 60)
+  //     await run('daily', convertToSlug(langObj.name))
+  //     await run('weekly', convertToSlug(langObj.name))
+  //     await run('monthly', convertToSlug(langObj.name))
+  //   } catch (error) {
+  //     console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
+  //   }
+  // }
 })();

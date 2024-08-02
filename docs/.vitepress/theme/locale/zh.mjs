@@ -1,0 +1,16 @@
+export default {
+  title: 'GitHub Trending API',
+  desc: '面向开发人员和 RSS 订阅者的 Github 趋势数据',
+  'desc.secondary': '通过 JavaScript 编写并使用 GitHub Actions Service 定时执行脚本，获取 GitHub Trending Page 上热门仓库信息。',
+  guide: '指南',
+  language: '语言',
+  since: '时间范围',
+  cdn: 'CDN 服务',
+  lastReq: '最近一次拉取在{time}前',
+  seconds: '秒',
+  minutes: '分钟',
+  hours: '小时',
+  days: '天',
+  months: '月',
+  years: '年',
+}
