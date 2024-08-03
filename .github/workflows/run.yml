@@ -1,9 +1,9 @@
 name: Fetch GitHub Trending
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: '0 3 * * *' # UTC 凌晨 3 点
     - cron: '0 9 * * *' # UTC 早 9 点

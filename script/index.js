@@ -1,5 +1,5 @@
 /*
- * @LastEditTime: 2024-08-03 19:51:30
+ * @LastEditTime: 2024-08-03 20:25:39
  * @Description: ...
  * @Date: 2024-08-01 22:16:50
  * @Author: isboyjc
@@ -29,9 +29,9 @@ async function run (since = 'daily', language = 'all') {
   let reqPath = `/trending${language == 'all' ? '' : ('/' + language)}`
   if(since !== 'daily') reqPath += `?since=${since}`
 
-  console.log('get', reqPath)
+  // console.log('get', reqPath)
   const { data } = await instance.get(reqPath);
-  console.log('done', reqPath)
+  // console.log('done')
 
   await save(parse(data), since, language)
 };
@@ -49,9 +49,11 @@ function delay(ms) {
 
 (async () => {
   try {
+    console.log('get', 'all')
     await run('daily', 'all')
     await run('weekly', 'all')
     await run('monthly', 'all')
+    console.log('done')
   } catch (error) {
     console.error('Error language all:', error);
   }
@@ -64,9 +66,11 @@ function delay(ms) {
   for(const langObj of languages){
     try {
       await delay(5 * 60)
+      console.log('get', convertToSlug(langObj.name))
       await run('daily', convertToSlug(langObj.name))
       await run('weekly', convertToSlug(langObj.name))
       await run('monthly', convertToSlug(langObj.name))
+      console.log('done')
     } catch (error) {
       console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
     }

@@ -93,7 +93,7 @@ const pubDateFormat = computed(() => {
   if(!pubDate.value) return ''
   moment.locale(lang.value)
 
-  const time = moment(pubDate.value, 'MMMM Do YYYY, h:mm:ss a');
+  const time = moment.utc(pubDate.value, 'MMMM Do YYYY, h:mm:ss a');
   if (!time.isValid()) {
     throw new Error('Invalid time format');
   }
