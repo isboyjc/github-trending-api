@@ -1,5 +1,5 @@
 /*
- * @LastEditTime: 2024-08-02 18:04:36
+ * @LastEditTime: 2024-08-03 19:51:30
  * @Description: ...
  * @Date: 2024-08-01 22:16:50
  * @Author: isboyjc
@@ -61,14 +61,14 @@ function delay(ms) {
 
   console.log("Number of languages: ", languages.length)
 
-  // for(const langObj of languages){
-  //   try {
-  //     await delay(5 * 60)
-  //     await run('daily', convertToSlug(langObj.name))
-  //     await run('weekly', convertToSlug(langObj.name))
-  //     await run('monthly', convertToSlug(langObj.name))
-  //   } catch (error) {
-  //     console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
-  //   }
-  // }
+  for(const langObj of languages){
+    try {
+      await delay(5 * 60)
+      await run('daily', convertToSlug(langObj.name))
+      await run('weekly', convertToSlug(langObj.name))
+      await run('monthly', convertToSlug(langObj.name))
+    } catch (error) {
+      console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
+    }
+  }
 })();
