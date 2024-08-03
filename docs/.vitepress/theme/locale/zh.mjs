@@ -6,7 +6,7 @@ export default {
   language: '语言',
   since: '时间范围',
   cdn: 'CDN 服务',
-  lastReq: '最近一次拉取在{time}前',
+  lastReq: '最近一次拉取在 {time}前',
   seconds: '秒',
   minutes: '分钟',
   hours: '小时',
