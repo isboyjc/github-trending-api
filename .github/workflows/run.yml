@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          COMMIT_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ)
+          COMMIT_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           git commit -m "publish🚀: Fetch GitHub Trending at $COMMIT_TIME"
           git push
         env:
