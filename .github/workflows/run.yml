@@ -5,11 +5,10 @@ on:
   #   branches:
   #     - main
   schedule:
-    - cron: '0 3 * * *' # UTC 凌晨 3 点
-    - cron: '0 9 * * *' # UTC 早 9 点
+    - cron: '0 1 * * *' # UTC 凌晨 1 点
+    - cron: '0 7 * * *' # UTC 早 7 点
     - cron: '0 13 * * *' # UTC 中午 1 点
-    - cron: '0 18 * * *' # UTC 下午 6 点
-    - cron: '0 23 * * *' # UTC 下午 11 点
+    - cron: '0 19 * * *' # UTC 下午 7 点
 
 jobs:
   build:
@@ -35,7 +34,7 @@ jobs:
         run: pnpm build
 
       - name: Commit and Push changes
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'schedule' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

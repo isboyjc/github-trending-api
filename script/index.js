@@ -1,5 +1,5 @@
 /*
- * @LastEditTime: 2024-08-03 20:25:39
+ * @LastEditTime: 2024-08-04 17:53:44
  * @Description: ...
  * @Date: 2024-08-01 22:16:50
  * @Author: isboyjc
@@ -65,7 +65,7 @@ function delay(ms) {
 
   for(const langObj of languages){
     try {
-      await delay(5 * 60)
+      await delay(6 * 60)
       console.log('get', convertToSlug(langObj.name))
       await run('daily', convertToSlug(langObj.name))
       await run('weekly', convertToSlug(langObj.name))
