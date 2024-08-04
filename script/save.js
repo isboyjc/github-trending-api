@@ -1,10 +1,11 @@
 const moment = require('moment');
+require('moment-timezone')
 const path = require('path');
 const { writeFileSync, readFileSync, mkdirSync } = require('fs');
 const { Builder } = require('xml2js');
 const { DATA_BASE_URL, TEMPLATE_BASE_URL } = require('./base')
 
-const dateTime = moment().format('MMMM Do YYYY, h:mm:ss a');
+const dateTime = moment().tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]');
 
 async function save (data, since = 'daily', language = 'all') {
   const filePath = DATA_BASE_URL + since

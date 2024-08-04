@@ -3,6 +3,7 @@ import { ref, computed, watch } from 'vue'
 import { useData } from 'vitepress'
 import { useClipboard } from '@vueuse/core'
 import moment from 'moment';
+import 'moment-timezone'
 import 'moment-duration-format';
 import {t, routerPath} from '../locale'
 
@@ -93,12 +94,12 @@ const pubDateFormat = computed(() => {
   if(!pubDate.value) return ''
   moment.locale(lang.value)
 
-  const time = moment.utc(pubDate.value, 'MMMM Do YYYY, h:mm:ss a');
+  const time = moment(pubDate.value).tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]');
   if (!time.isValid()) {
     throw new Error('Invalid time format');
   }
 
-  const now = moment();
+  const now = moment().tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]');
   const duration = moment.duration(now.diff(time));
 
   const seconds = Math.floor(duration.asSeconds());
