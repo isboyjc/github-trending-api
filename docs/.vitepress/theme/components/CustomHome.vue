@@ -94,12 +94,8 @@ const pubDateFormat = computed(() => {
   if(!pubDate.value) return ''
   moment.locale(lang.value)
 
-  const time = moment(pubDate.value).tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]');
-  if (!time.isValid()) {
-    throw new Error('Invalid time format');
-  }
-
-  const now = moment().tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]');
+  const time = moment(pubDate.value).tz('GMT')
+  const now = moment().tz('GMT')
   const duration = moment.duration(now.diff(time));
 
   const seconds = Math.floor(duration.asSeconds());
