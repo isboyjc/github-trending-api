@@ -28,20 +28,28 @@
           ></div>
           <div class="ml-1">{{ data.language }}</div>
         </div>
-        <div class="flex justify-start items-center text-12px lg:mr-3 mr-2">
+        <div class="flex justify-start items-center text-12px lg:mr-3 mr-2" uno-hover="text-primary!">
           <icon-tabler-star class="text-12px" />
           
           <a
             target="_blank"
-            class="no-underline!"
+            class="no-underline! text-inherit!"
             :href="data.url + '/stargazers'"
           >
             <span class="ml-1">{{ data.stars }}</span>
           </a>
         </div>
-        <div class="flex justify-start items-center text-12px lg:mr-3 mr-2">
+        <div class="flex justify-start items-center text-12px lg:mr-3 mr-2" uno-hover="text-primary!">
           <icon-tabler-git-fork class="text-14px" />
-          <span class="ml-1">{{ data.forks }}</span>
+
+          <a
+            target="_blank"
+            class="no-underline! text-inherit!"
+            :href="data.url + '/forks'"
+          >
+            <span class="ml-1">{{ data.forks }}</span>
+          </a>
+         
         </div>
         <div class="flex flex-shrink-0 justify-start items-center text-12px lg:mr-3 mr-2">
           <div>{{ t(lang, 'builtBy') }}</div>
