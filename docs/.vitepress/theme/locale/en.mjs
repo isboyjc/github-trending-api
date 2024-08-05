@@ -13,4 +13,8 @@ export default {
   days: 'days',
   months: 'months',
   years: 'years',
+  today: 'Today',
+  thisWeek: 'This week',
+  thisMonth: 'This month',
+  builtBy: 'Built by',
 }

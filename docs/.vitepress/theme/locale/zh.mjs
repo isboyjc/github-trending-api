@@ -13,4 +13,8 @@ export default {
   days: '天',
   months: '月',
   years: '年',
+  today: '今天',
+  thisWeek: '本周',
+  thisMonth: '本月',
+  builtBy: '贡献者',
 }

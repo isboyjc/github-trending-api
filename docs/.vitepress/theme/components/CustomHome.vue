@@ -80,10 +80,16 @@ async function fetchData(url, type = 'json') {
 }
 
 const json = ref('')
-const rss = ref('')
+const itemLoading = ref(false)
+// const rss = ref('')
 watch(form, async () => {
-  json.value = JSON.stringify(await fetchData(jsonAPI.value), null, 2)
-  rss.value = await fetchData(rssAPI.value, 'rss')
+  try{
+    itemLoading.value = true
+    json.value = await fetchData(jsonAPI.value)
+    // rss.value = await fetchData(rssAPI.value, 'rss')
+  }finally{
+    itemLoading.value = false
+  }
 }, {
   immediate: true,
   deep: true
@@ -236,9 +242,9 @@ const pubDateFormat = computed(() => {
           </a-form-item>
           <a-form-item field="since" :label="t(lang, 'since')" label-col-flex="80px">
             <a-select class="w-auto!" v-model="form.since" :bordered="false">
-              <a-option value="daily">daily</a-option>
-              <a-option value="weekly">weekly</a-option>
-              <a-option value="monthly">monthly</a-option>
+              <a-option value="daily">{{ t(lang, 'today') }}</a-option>
+              <a-option value="weekly">{{ t(lang, 'thisWeek') }}</a-option>
+              <a-option value="monthly">{{ t(lang, 'thisMonth') }}</a-option>
             </a-select>
           </a-form-item>
           <a-form-item field="cdn" :label="t(lang, 'cdn')" label-col-flex="80px">
@@ -286,25 +292,15 @@ const pubDateFormat = computed(() => {
         </div>
         
         <div 
+          v-if="!itemLoading"
           v-motion
           :initial="{ opacity: 0, y: 100 }"
           :enter="{ opacity: 1, y: 0, scale: 1 }"
           :delay="700"
           :duration="400"
-          class="w-full mt-8"
+          class="w-full mt-8 border-1 border-solid border-[var(--vp-c-gray-soft)] rounded-lg"
         >
-          <a-row :gutter="16">
-            <a-col :xs="24" :sm="24" :md="24" :lg="12" :xl="12" :xxl="12">
-              <div class="w-full min-h-300px h-300px max-h-1000px rounded-xl" v-if="json">
-                <CustomCodeMirrorViewer :code="json" language="json" />
-              </div>
-            </a-col>
-            <a-col :xs="24" :sm="24" :md="24" :lg="12" :xl="12" :xxl="12">
-              <div class="w-full min-h-300px h-300px max-h-1000px rounded-xl" v-if="rss">
-                <CustomCodeMirrorViewer :code="rss" language="xml" />
-              </div>
-            </a-col>
-          </a-row>
+          <CustomGithubTrendingItem class="border-b-1 border-b-solid border-b-[var(--vp-c-gray-soft)]" v-for="item of json.items" :key="item.url" :data="item" :since="form.since" />
         </div>
       </div>
     </section>

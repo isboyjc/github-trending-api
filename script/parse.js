@@ -14,7 +14,7 @@ function parse(data){
     const language = $(elm).find('[itemprop="programmingLanguage"]').text() || ''
     const stars = $(elm).find(`a[href=${url + '/stargazers'}]`).text().replace(/\n/g, '').trim()
     const forks = $(elm).find(`a[href=${url + '/forks'}]`).text().replace(/\n/g, '').trim()
-    const addStars = $(elm).find('span').last().text().match(/\d+/g)[0]
+    const addStars = $(elm).find('span').last().text().split(' ')[0]
     const contributors = $(elm).find(`a[data-hovercard-type="user"] .avatar.avatar-user`).map((_ ,user) => {
       const name = $(user).attr('alt').replace(/^@/, '')
       const url = `${BASE_URL}/${name}`

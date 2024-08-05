@@ -7,12 +7,16 @@ const { Layout } = DefaultTheme
 
 const { isDark } = useData()
 
-watch(isDark, () => {
+function handleChangeArcoMode (){
   if(isDark.value){
     document.body.setAttribute('arco-theme', 'dark')
   }else{
     document.body.removeAttribute('arco-theme');
   }
+}
+handleChangeArcoMode()
+watch(isDark, () => {
+  handleChangeArcoMode()
 })
 
 const enableTransitions = () =>

@@ -23,9 +23,6 @@ importers:
       cheerio:
         specifier: 1.0.0-rc.12
         version: 1.0.0-rc.12
-      highlight.js:
-        specifier: ^11.10.0
-        version: 11.10.0
       moment:
         specifier: ^2.30.1
         version: 2.30.1
@@ -45,12 +42,18 @@ importers:
       '@iconify-json/ic':
         specifier: ^1.1.17
         version: 1.1.17
+      '@iconify-json/iconoir':
+        specifier: ^1.1.46
+        version: 1.1.46
       '@iconify-json/lucide':
         specifier: ^1.1.203
         version: 1.1.204
       '@iconify-json/solar':
         specifier: ^1.1.9
         version: 1.1.9
+      '@iconify-json/tabler':
+        specifier: ^1.1.118
+        version: 1.1.118
       '@unocss/transformer-directives':
         specifier: ^0.61.9
         version: 0.61.9
@@ -606,11 +609,17 @@ packages:
   '@iconify-json/ic@1.1.17':
     resolution: {integrity: sha512-EvAjZzVESmN36zlyefylePUNaU2BQ3eRKVZ6KQSQ2bG01ppoZaiFZRri74VTyvp5Mlv2yn68ux1fgCoT+etGmA==}
 
+  '@iconify-json/iconoir@1.1.46':
+    resolution: {integrity: sha512-6JP4ufiU6kP48NEcBT3FR7pGStpJ8PYoAkkTvzvk4qVd8ObDJU9cEULnStOGs4VmZ0LMNtmmmMQlApXBKHl+jA==}
+
   '@iconify-json/lucide@1.1.204':
     resolution: {integrity: sha512-yu85ErrSULW+4/glQjfa+RhwNVq/N55nxQJMUSo2d/gojSr6DdyaoI/l/o6YkPrG0UEwvnP6nWDD8YEJSThVrA==}
 
   '@iconify-json/solar@1.1.9':
     resolution: {integrity: sha512-BcWzZqA02BiQduYizqU/J4v4RNs0MkjZUGpMbejpozH8YQSt3+S/LfV6zfVRonx/2DhXTVSqiLa1abDRAZtojQ==}
+
+  '@iconify-json/tabler@1.1.118':
+    resolution: {integrity: sha512-nDOjYG75BlagOe4e+V3K4qVFujdPOeYzi6ZB3sYz0xbdIkpSF/4YvKGdLDr4tmkwGUTV8fhlHVfMpRoDoBnnnA==}
 
   '@iconify/types@2.0.0':
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
@@ -1316,10 +1325,6 @@ packages:
 
   hey-listen@1.0.8:
     resolution: {integrity: sha512-COpmrF2NOg4TBWUJ5UVyaCU2A88wEMkUPK4hNqyCkqHbxT92BbvfjoSozkAIIm6XhicGlJHhFdullInrdhwU8Q==}
-
-  highlight.js@11.10.0:
-    resolution: {integrity: sha512-SYVnVFswQER+zu1laSya563s+F8VDGt7o35d4utbamowvUNLLMovFqwCLSocpZTz3MgaSRA1IbqRWZv97dtErQ==}
-    engines: {node: '>=12.0.0'}
 
   hookable@5.5.3:
     resolution: {integrity: sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==}
@@ -2450,11 +2455,19 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/iconoir@1.1.46':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/lucide@1.1.204':
     dependencies:
       '@iconify/types': 2.0.0
 
   '@iconify-json/solar@1.1.9':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/tabler@1.1.118':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -3361,8 +3374,6 @@ snapshots:
     optional: true
 
   hey-listen@1.0.8: {}
-
-  highlight.js@11.10.0: {}
 
   hookable@5.5.3: {}
 
