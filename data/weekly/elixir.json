@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Weekly Trending",
   "description": "Weekly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Aug 2024 07:13:13 GMT",
+  "pubDate": "Tue, 06 Aug 2024 13:21:54 GMT",
   "items": [
     {
       "title": "elixir-lang/elixir",
@@ -10,7 +10,7 @@
       "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "24,141",
+      "stars": "24,140",
       "forks": "3,334",
       "addStars": "50",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "6,036",
+      "stars": "6,037",
       "forks": "908",
       "addStars": "18",
       "contributors": [
@@ -75,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/7374640?s=40&v=4",
           "name": "snewcomer",
           "url": "https://github.com/snewcomer"
+        }
+      ]
+    },
+    {
+      "title": "lexical-lsp/lexical",
+      "url": "https://github.com/lexical-lsp/lexical",
+      "description": "Lexical is a next-generation elixir language server",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "831",
+      "forks": "78",
+      "addStars": "23",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55809?s=40&v=4",
+          "name": "scohen",
+          "url": "https://github.com/scohen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12830256?s=40&v=4",
+          "name": "scottming",
+          "url": "https://github.com/scottming"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/503938?s=40&v=4",
+          "name": "zachallaun",
+          "url": "https://github.com/zachallaun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22460600?s=40&v=4",
+          "name": "Moosieus",
+          "url": "https://github.com/Moosieus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44734484?s=40&v=4",
+          "name": "Blond11516",
+          "url": "https://github.com/Blond11516"
         }
       ]
     },
@@ -180,44 +217,12 @@
       ]
     },
     {
-      "title": "phoenixframework/phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "21,071",
-      "forks": "2,832",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
-          "name": "chrismccord",
-          "url": "https://github.com/chrismccord"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
-          "name": "josevalim",
-          "url": "https://github.com/josevalim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/359224?s=40&v=4",
-          "name": "lancehalvorsen",
-          "url": "https://github.com/lancehalvorsen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477511?s=40&v=4",
-          "name": "Gazler",
-          "url": "https://github.com/Gazler"
-        }
-      ]
-    },
-    {
       "title": "kieraneglin/pinchflat",
       "url": "https://github.com/kieraneglin/pinchflat",
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "600",
+      "stars": "602",
       "forks": "13",
       "addStars": "68",
       "contributors": [
@@ -244,15 +249,62 @@
       ]
     },
     {
-      "title": "lexical-lsp/lexical",
-      "url": "https://github.com/lexical-lsp/lexical",
-      "description": "Lexical is a next-generation elixir language server",
+      "title": "phoenixframework/phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "831",
-      "forks": "78",
-      "addStars": "23",
+      "stars": "21,071",
+      "forks": "2,833",
+      "addStars": "28",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
+          "name": "chrismccord",
+          "url": "https://github.com/chrismccord"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
+          "name": "josevalim",
+          "url": "https://github.com/josevalim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/359224?s=40&v=4",
+          "name": "lancehalvorsen",
+          "url": "https://github.com/lancehalvorsen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477511?s=40&v=4",
+          "name": "Gazler",
+          "url": "https://github.com/Gazler"
+        }
+      ]
+    },
+    {
+      "title": "elixir-lsp/elixir-ls",
+      "url": "https://github.com/elixir-lsp/elixir-ls",
+      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "1,435",
+      "forks": "192",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1078186?s=40&v=4",
+          "name": "lukaszsamson",
+          "url": "https://github.com/lukaszsamson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9973?s=40&v=4",
+          "name": "axelson",
+          "url": "https://github.com/axelson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/547940?s=40&v=4",
+          "name": "JakeBecker",
+          "url": "https://github.com/JakeBecker"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/55809?s=40&v=4",
           "name": "scohen",
@@ -262,21 +314,260 @@
           "avatar": "https://avatars.githubusercontent.com/u/12830256?s=40&v=4",
           "name": "scottming",
           "url": "https://github.com/scottming"
+        }
+      ]
+    },
+    {
+      "title": "elixir-lsp/elixir_sense",
+      "url": "https://github.com/elixir-lsp/elixir_sense",
+      "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "291",
+      "forks": "42",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1078186?s=40&v=4",
+          "name": "lukaszsamson",
+          "url": "https://github.com/lukaszsamson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/503938?s=40&v=4",
-          "name": "zachallaun",
-          "url": "https://github.com/zachallaun"
+          "avatar": "https://avatars.githubusercontent.com/u/457237?s=40&v=4",
+          "name": "msaraiva",
+          "url": "https://github.com/msaraiva"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22460600?s=40&v=4",
-          "name": "Moosieus",
-          "url": "https://github.com/Moosieus"
+          "avatar": "https://avatars.githubusercontent.com/u/128147?s=40&v=4",
+          "name": "rodrigues",
+          "url": "https://github.com/rodrigues"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44734484?s=40&v=4",
-          "name": "Blond11516",
-          "url": "https://github.com/Blond11516"
+          "avatar": "https://avatars.githubusercontent.com/u/9973?s=40&v=4",
+          "name": "axelson",
+          "url": "https://github.com/axelson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35915460?s=40&v=4",
+          "name": "Goose97",
+          "url": "https://github.com/Goose97"
+        }
+      ]
+    },
+    {
+      "title": "woutdp/live_svelte",
+      "url": "https://github.com/woutdp/live_svelte",
+      "description": "Svelte inside Phoenix LiveView with seamless end-to-end reactivity",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "1,082",
+      "forks": "41",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3637265?s=40&v=4",
+          "name": "woutdp",
+          "url": "https://github.com/woutdp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5790814?s=40&v=4",
+          "name": "vonagam",
+          "url": "https://github.com/vonagam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43808574?s=40&v=4",
+          "name": "C-Sinclair",
+          "url": "https://github.com/C-Sinclair"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63323230?s=40&v=4",
+          "name": "tonydangblog",
+          "url": "https://github.com/tonydangblog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1967287?s=40&v=4",
+          "name": "voughtdq",
+          "url": "https://github.com/voughtdq"
+        }
+      ]
+    },
+    {
+      "title": "livebook-dev/livebook",
+      "url": "https://github.com/livebook-dev/livebook",
+      "description": "Automate code & data workflows with interactive Elixir notebooks",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "4,696",
+      "forks": "410",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17034772?s=40&v=4",
+          "name": "jonatanklosko",
+          "url": "https://github.com/jonatanklosko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
+          "name": "josevalim",
+          "url": "https://github.com/josevalim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76071?s=40&v=4",
+          "name": "wojtekmach",
+          "url": "https://github.com/wojtekmach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&v=4",
+          "name": "aleDsz",
+          "url": "https://github.com/aleDsz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5660941?s=40&v=4",
+          "name": "cristineguadelupe",
+          "url": "https://github.com/cristineguadelupe"
+        }
+      ]
+    },
+    {
+      "title": "OffchainLabs/blockscout",
+      "url": "https://github.com/OffchainLabs/blockscout",
+      "description": "",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "43",
+      "forks": "24",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
+          "name": "vbaranov",
+          "url": "https://github.com/vbaranov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32202610?s=40&v=4",
+          "name": "nikitosing",
+          "url": "https://github.com/nikitosing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105209995?s=40&v=4",
+          "name": "Qwerty5Uiop",
+          "url": "https://github.com/Qwerty5Uiop"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53992153?s=40&v=4",
+          "name": "sl1depengwyn",
+          "url": "https://github.com/sl1depengwyn"
+        }
+      ]
+    },
+    {
+      "title": "supabase/realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "6,615",
+      "forks": "294",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1172600?s=40&v=4",
+          "name": "abc3",
+          "url": "https://github.com/abc3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5532241?s=40&v=4",
+          "name": "w3b6x9",
+          "url": "https://github.com/w3b6x9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019814?s=40&v=4",
+          "name": "chasers",
+          "url": "https://github.com/chasers"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1697301?s=40&v=4",
+          "name": "filipecabaco",
+          "url": "https://github.com/filipecabaco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
+          "name": "kiwicopple",
+          "url": "https://github.com/kiwicopple"
+        }
+      ]
+    },
+    {
+      "title": "absinthe-graphql/absinthe",
+      "url": "https://github.com/absinthe-graphql/absinthe",
+      "description": "The GraphQL toolkit for Elixir",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "4,249",
+      "forks": "524",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/247817?s=40&v=4",
+          "name": "benwilson512",
+          "url": "https://github.com/benwilson512"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72?s=40&v=4",
+          "name": "bruce",
+          "url": "https://github.com/bruce"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39946?s=40&v=4",
+          "name": "binaryseed",
+          "url": "https://github.com/binaryseed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54566?s=40&v=4",
+          "name": "maartenvanvliet",
+          "url": "https://github.com/maartenvanvliet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17482349?s=40&v=4",
+          "name": "dylan-chong",
+          "url": "https://github.com/dylan-chong"
+        }
+      ]
+    },
+    {
+      "title": "elixir-grpc/grpc",
+      "url": "https://github.com/elixir-grpc/grpc",
+      "description": "An Elixir implementation of gRPC",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "1,362",
+      "forks": "210",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1253659?s=40&v=4",
+          "name": "tony612",
+          "url": "https://github.com/tony612"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16843419?s=40&v=4",
+          "name": "polvalente",
+          "url": "https://github.com/polvalente"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/342502?s=40&v=4",
+          "name": "sleipnir",
+          "url": "https://github.com/sleipnir"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6270275?s=40&v=4",
+          "name": "beligante",
+          "url": "https://github.com/beligante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/484530?s=40&v=4",
+          "name": "wingyplus",
+          "url": "https://github.com/wingyplus"
         }
       ]
     },
@@ -318,186 +609,6 @@
       ]
     },
     {
-      "title": "woutdp/live_svelte",
-      "url": "https://github.com/woutdp/live_svelte",
-      "description": "Svelte inside Phoenix LiveView with seamless end-to-end reactivity",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "1,081",
-      "forks": "41",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3637265?s=40&v=4",
-          "name": "woutdp",
-          "url": "https://github.com/woutdp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5790814?s=40&v=4",
-          "name": "vonagam",
-          "url": "https://github.com/vonagam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43808574?s=40&v=4",
-          "name": "C-Sinclair",
-          "url": "https://github.com/C-Sinclair"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63323230?s=40&v=4",
-          "name": "tonydangblog",
-          "url": "https://github.com/tonydangblog"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1967287?s=40&v=4",
-          "name": "voughtdq",
-          "url": "https://github.com/voughtdq"
-        }
-      ]
-    },
-    {
-      "title": "OffchainLabs/blockscout",
-      "url": "https://github.com/OffchainLabs/blockscout",
-      "description": "",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "43",
-      "forks": "24",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
-          "name": "vbaranov",
-          "url": "https://github.com/vbaranov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32202610?s=40&v=4",
-          "name": "nikitosing",
-          "url": "https://github.com/nikitosing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105209995?s=40&v=4",
-          "name": "Qwerty5Uiop",
-          "url": "https://github.com/Qwerty5Uiop"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53992153?s=40&v=4",
-          "name": "sl1depengwyn",
-          "url": "https://github.com/sl1depengwyn"
-        }
-      ]
-    },
-    {
-      "title": "supabase/supavisor",
-      "url": "https://github.com/supabase/supavisor",
-      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "1,684",
-      "forks": "55",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1172600?s=40&v=4",
-          "name": "abc3",
-          "url": "https://github.com/abc3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1019814?s=40&v=4",
-          "name": "chasers",
-          "url": "https://github.com/chasers"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8011761?s=40&v=4",
-          "name": "J0",
-          "url": "https://github.com/J0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76071?s=40&v=4",
-          "name": "wojtekmach",
-          "url": "https://github.com/wojtekmach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/291639?s=40&v=4",
-          "name": "hauleth",
-          "url": "https://github.com/hauleth"
-        }
-      ]
-    },
-    {
-      "title": "elixir-grpc/grpc",
-      "url": "https://github.com/elixir-grpc/grpc",
-      "description": "An Elixir implementation of gRPC",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "1,361",
-      "forks": "210",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1253659?s=40&v=4",
-          "name": "tony612",
-          "url": "https://github.com/tony612"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16843419?s=40&v=4",
-          "name": "polvalente",
-          "url": "https://github.com/polvalente"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/342502?s=40&v=4",
-          "name": "sleipnir",
-          "url": "https://github.com/sleipnir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6270275?s=40&v=4",
-          "name": "beligante",
-          "url": "https://github.com/beligante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/484530?s=40&v=4",
-          "name": "wingyplus",
-          "url": "https://github.com/wingyplus"
-        }
-      ]
-    },
-    {
-      "title": "plausible/analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "19,288",
-      "forks": "1,036",
-      "addStars": "72",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
-          "name": "ukutaht",
-          "url": "https://github.com/ukutaht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
-          "name": "aerosol",
-          "url": "https://github.com/aerosol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
-          "name": "RobertJoonas",
-          "url": "https://github.com/RobertJoonas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
-          "name": "zoldar",
-          "url": "https://github.com/zoldar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5093045?s=40&v=4",
-          "name": "vinibrsl",
-          "url": "https://github.com/vinibrsl"
-        }
-      ]
-    },
-    {
       "title": "sorentwo/oban",
       "url": "https://github.com/sorentwo/oban",
       "description": "💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3",
@@ -521,107 +632,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1370047?s=40&v=4",
           "name": "smaximov",
           "url": "https://github.com/smaximov"
-        }
-      ]
-    },
-    {
-      "title": "thmsmlr/instructor_ex",
-      "url": "https://github.com/thmsmlr/instructor_ex",
-      "description": "Structured outputs for LLMs in Elixir",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "452",
-      "forks": "53",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167206?s=40&v=4",
-          "name": "thmsmlr",
-          "url": "https://github.com/thmsmlr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10141?s=40&v=4",
-          "name": "thbar",
-          "url": "https://github.com/thbar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3660183?s=40&v=4",
-          "name": "petrus-jvrensburg",
-          "url": "https://github.com/petrus-jvrensburg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11458?s=40&v=4",
-          "name": "pgeraghty",
-          "url": "https://github.com/pgeraghty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11463027?s=40&v=4",
-          "name": "TwistingTwists",
-          "url": "https://github.com/TwistingTwists"
-        }
-      ]
-    },
-    {
-      "title": "duffelhq/paginator",
-      "url": "https://github.com/duffelhq/paginator",
-      "description": "Cursor-based pagination for Elixir Ecto",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "716",
-      "forks": "86",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/203366?s=40&v=4",
-          "name": "sgerrand",
-          "url": "https://github.com/sgerrand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/512246?s=40&v=4",
-          "name": "stevedomin",
-          "url": "https://github.com/stevedomin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1257595?s=40&v=4",
-          "name": "waltfy",
-          "url": "https://github.com/waltfy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2796010?s=40&v=4",
-          "name": "telphan",
-          "url": "https://github.com/telphan"
-        }
-      ]
-    },
-    {
-      "title": "ExHammer/hammer-backend-redis",
-      "url": "https://github.com/ExHammer/hammer-backend-redis",
-      "description": "A Redis backend for for the Hammer rate-limiter",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "43",
-      "forks": "31",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/479143?s=40&v=4",
-          "name": "epinault",
-          "url": "https://github.com/epinault"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46496?s=40&v=4",
-          "name": "ono",
-          "url": "https://github.com/ono"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6612710?s=40&v=4",
-          "name": "chaodhib",
-          "url": "https://github.com/chaodhib"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/134518?s=40&v=4",
-          "name": "kianmeng",
-          "url": "https://github.com/kianmeng"
         }
       ]
     }
