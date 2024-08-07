@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Aug 2024 07:12:18 GMT",
+  "pubDate": "Wed, 07 Aug 2024 19:02:48 GMT",
   "items": [
     {
       "title": "LnL7/nix-darwin",
@@ -10,8 +10,8 @@
       "description": "nix modules for darwin",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,579",
-      "forks": "415",
+      "stars": "2,582",
+      "forks": "416",
       "addStars": "80",
       "contributors": [
         {
@@ -37,12 +37,44 @@
       ]
     },
     {
+      "title": "NixOS/nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,805",
+      "forks": "571",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
+          "name": "mexisme",
+          "url": "https://github.com/mexisme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
+          "name": "lukateras",
+          "url": "https://github.com/lukateras"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46527539?s=40&v=4",
+          "name": "LostAttractor",
+          "url": "https://github.com/LostAttractor"
+        }
+      ]
+    },
+    {
       "title": "dustinlyons/nixos-config",
       "url": "https://github.com/dustinlyons/nixos-config",
       "description": "General purpose Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,326",
+      "stars": "1,329",
       "forks": "83",
       "addStars": "26",
       "contributors": [
@@ -74,8 +106,8 @@
       "description": "Manage a user environment using Nix [maintainer=@rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "6,456",
-      "forks": "1,705",
+      "stars": "6,459",
+      "forks": "1,707",
       "addStars": "48",
       "contributors": [
         {
@@ -102,38 +134,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/16734772?s=40&v=4",
           "name": "sumnerevans",
           "url": "https://github.com/sumnerevans"
-        }
-      ]
-    },
-    {
-      "title": "NixOS/nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,802",
-      "forks": "571",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
-          "name": "mexisme",
-          "url": "https://github.com/mexisme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
-          "name": "lukateras",
-          "url": "https://github.com/lukateras"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46527539?s=40&v=4",
-          "name": "LostAttractor",
-          "url": "https://github.com/LostAttractor"
         }
       ]
     },
@@ -175,34 +175,39 @@
       ]
     },
     {
-      "title": "nix-community/nixvim",
-      "url": "https://github.com/nix-community/nixvim",
-      "description": "Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @MattSturgeon]",
+      "title": "NixOS/nixpkgs",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,479",
-      "forks": "224",
-      "addStars": "22",
+      "stars": "16,865",
+      "forks": "13,243",
+      "addStars": "102",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33058747?s=40&v=4",
-          "name": "GaetanLepage",
-          "url": "https://github.com/GaetanLepage"
+          "avatar": "https://avatars.githubusercontent.com/u/37933096?s=40&v=4",
+          "name": "r-ryantm",
+          "url": "https://github.com/r-ryantm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5046562?s=40&v=4",
-          "name": "MattSturgeon",
-          "url": "https://github.com/MattSturgeon"
+          "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&v=4",
+          "name": "fabaff",
+          "url": "https://github.com/fabaff"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7443916?s=40&v=4",
-          "name": "pta2002",
-          "url": "https://github.com/pta2002"
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5623227?s=40&v=4",
-          "name": "traxys",
-          "url": "https://github.com/traxys"
+          "avatar": "https://avatars.githubusercontent.com/u/131599?s=40&v=4",
+          "name": "mweinelt",
+          "url": "https://github.com/mweinelt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65531?s=40&v=4",
+          "name": "marsam",
+          "url": "https://github.com/marsam"
         }
       ]
     },
@@ -212,7 +217,7 @@
       "description": "Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "800",
+      "stars": "802",
       "forks": "421",
       "addStars": "5",
       "contributors": [
@@ -249,8 +254,8 @@
       "description": "NixOS on WSL(2) [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,648",
-      "forks": "109",
+      "stars": "1,650",
+      "forks": "110",
       "addStars": "31",
       "contributors": [
         {
@@ -281,7 +286,7 @@
       "description": "age-encrypted secrets for NixOS and Home manager",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,400",
+      "stars": "1,403",
       "forks": "112",
       "addStars": "23",
       "contributors": [
@@ -318,7 +323,7 @@
       "description": "🛠️ ❤️ Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,754",
+      "stars": "1,755",
       "forks": "90",
       "addStars": "26",
       "contributors": [
@@ -350,12 +355,71 @@
       ]
     },
     {
+      "title": "nix-community/nixvim",
+      "url": "https://github.com/nix-community/nixvim",
+      "description": "Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @MattSturgeon]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,482",
+      "forks": "225",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33058747?s=40&v=4",
+          "name": "GaetanLepage",
+          "url": "https://github.com/GaetanLepage"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5046562?s=40&v=4",
+          "name": "MattSturgeon",
+          "url": "https://github.com/MattSturgeon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7443916?s=40&v=4",
+          "name": "pta2002",
+          "url": "https://github.com/pta2002"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5623227?s=40&v=4",
+          "name": "traxys",
+          "url": "https://github.com/traxys"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/nixos-generators",
+      "url": "https://github.com/nix-community/nixos-generators",
+      "description": "Collection of image builders [maintainer=@Lassulus]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,692",
+      "forks": "133",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
+          "name": "Lassulus",
+          "url": "https://github.com/Lassulus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42246742?s=40&v=4",
+          "name": "DavHau",
+          "url": "https://github.com/DavHau"
+        }
+      ]
+    },
+    {
       "title": "cachix/devenv",
       "url": "https://github.com/cachix/devenv",
       "description": "Fast, Declarative, Reproducible, and Composable Developer Environments",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,845",
+      "stars": "3,851",
       "forks": "289",
       "addStars": "29",
       "contributors": [
@@ -378,144 +442,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/6224096?s=40&v=4",
           "name": "shyim",
           "url": "https://github.com/shyim"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/nix-on-droid",
-      "url": "https://github.com/nix-community/nix-on-droid",
-      "description": "Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,200",
-      "forks": "67",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10353047?s=40&v=4",
-          "name": "Gerschtli",
-          "url": "https://github.com/Gerschtli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5991987?s=40&v=4",
-          "name": "t184256",
-          "url": "https://github.com/t184256"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9315?s=40&v=4",
-          "name": "azuwis",
-          "url": "https://github.com/azuwis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2189609?s=40&v=4",
-          "name": "zhaofengli",
-          "url": "https://github.com/zhaofengli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24027?s=40&v=4",
-          "name": "bbigras",
-          "url": "https://github.com/bbigras"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,530",
-      "forks": "171",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
-          "name": "Lassulus",
-          "url": "https://github.com/Lassulus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
-          "name": "phaer",
-          "url": "https://github.com/phaer"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/plasma-manager",
-      "url": "https://github.com/nix-community/plasma-manager",
-      "description": "Manage KDE Plasma with Home Manager",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "559",
-      "forks": "61",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85435692?s=40&v=4",
-          "name": "magnouvean",
-          "url": "https://github.com/magnouvean"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44377258?s=40&v=4",
-          "name": "HeitorAugustoLN",
-          "url": "https://github.com/HeitorAugustoLN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3737?s=40&v=4",
-          "name": "pjones",
-          "url": "https://github.com/pjones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39011842?s=40&v=4",
-          "name": "toast003",
-          "url": "https://github.com/toast003"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27573239?s=40&v=4",
-          "name": "Asqiir",
-          "url": "https://github.com/Asqiir"
-        }
-      ]
-    },
-    {
-      "title": "cardano-foundation/cardano-token-registry",
-      "url": "https://github.com/cardano-foundation/cardano-token-registry",
-      "description": "",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "264",
-      "forks": "1,685",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2879295?s=40&v=4",
-          "name": "cleanerm5",
-          "url": "https://github.com/cleanerm5"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106822766?s=40&v=4",
-          "name": "Kartiiyer12",
-          "url": "https://github.com/Kartiiyer12"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/163329108?s=40&v=4",
-          "name": "CardanoTokenIO",
-          "url": "https://github.com/CardanoTokenIO"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37076037?s=40&v=4",
-          "name": "cf-stevew",
-          "url": "https://github.com/cf-stevew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17981725?s=40&v=4",
-          "name": "VladislavKudrin",
-          "url": "https://github.com/VladislavKudrin"
         }
       ]
     },
@@ -553,6 +479,181 @@
           "avatar": "https://avatars.githubusercontent.com/u/332968?s=40&v=4",
           "name": "lucamaraschi",
           "url": "https://github.com/lucamaraschi"
+        }
+      ]
+    },
+    {
+      "title": "tpwrules/nixos-apple-silicon",
+      "url": "https://github.com/tpwrules/nixos-apple-silicon",
+      "description": "Resources to install NixOS bare metal on Apple Silicon Macs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "777",
+      "forks": "81",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208010?s=40&v=4",
+          "name": "tpwrules",
+          "url": "https://github.com/tpwrules"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86169957?s=40&v=4",
+          "name": "yu-re-ka",
+          "url": "https://github.com/yu-re-ka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9061737?s=40&v=4",
+          "name": "natsukagami",
+          "url": "https://github.com/natsukagami"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
+          "name": "dasJ",
+          "url": "https://github.com/dasJ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51676322?s=40&v=4",
+          "name": "zzywysm",
+          "url": "https://github.com/zzywysm"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,530",
+      "forks": "172",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
+          "name": "Lassulus",
+          "url": "https://github.com/Lassulus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
+          "name": "phaer",
+          "url": "https://github.com/phaer"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/nix-on-droid",
+      "url": "https://github.com/nix-community/nix-on-droid",
+      "description": "Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,202",
+      "forks": "67",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10353047?s=40&v=4",
+          "name": "Gerschtli",
+          "url": "https://github.com/Gerschtli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5991987?s=40&v=4",
+          "name": "t184256",
+          "url": "https://github.com/t184256"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9315?s=40&v=4",
+          "name": "azuwis",
+          "url": "https://github.com/azuwis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2189609?s=40&v=4",
+          "name": "zhaofengli",
+          "url": "https://github.com/zhaofengli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24027?s=40&v=4",
+          "name": "bbigras",
+          "url": "https://github.com/bbigras"
+        }
+      ]
+    },
+    {
+      "title": "oddlama/nix-topology",
+      "url": "https://github.com/oddlama/nix-topology",
+      "description": "🍁 Generate infrastructure and network diagrams directly from your NixOS configurations",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "435",
+      "forks": "15",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31919558?s=40&v=4",
+          "name": "oddlama",
+          "url": "https://github.com/oddlama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29395089?s=40&v=4",
+          "name": "JayRovacsek",
+          "url": "https://github.com/JayRovacsek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67164465?s=40&v=4",
+          "name": "IogaMaster",
+          "url": "https://github.com/IogaMaster"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79340822?s=40&v=4",
+          "name": "hauskens",
+          "url": "https://github.com/hauskens"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
+          "name": "phaer",
+          "url": "https://github.com/phaer"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/plasma-manager",
+      "url": "https://github.com/nix-community/plasma-manager",
+      "description": "Manage KDE Plasma with Home Manager",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "560",
+      "forks": "61",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85435692?s=40&v=4",
+          "name": "magnouvean",
+          "url": "https://github.com/magnouvean"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44377258?s=40&v=4",
+          "name": "HeitorAugustoLN",
+          "url": "https://github.com/HeitorAugustoLN"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3737?s=40&v=4",
+          "name": "pjones",
+          "url": "https://github.com/pjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39011842?s=40&v=4",
+          "name": "toast003",
+          "url": "https://github.com/toast003"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27573239?s=40&v=4",
+          "name": "Asqiir",
+          "url": "https://github.com/Asqiir"
         }
       ]
     }
