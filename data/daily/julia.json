@@ -2,45 +2,8 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Aug 2024 07:13:03 GMT",
+  "pubDate": "Mon, 12 Aug 2024 13:23:28 GMT",
   "items": [
-    {
-      "title": "JuliaLang/julia",
-      "url": "https://github.com/JuliaLang/julia",
-      "description": "The Julia Programming Language",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "45,208",
-      "forks": "5,450",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/744556?s=40&v=4",
-          "name": "JeffBezanson",
-          "url": "https://github.com/JeffBezanson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/330950?s=40&v=4",
-          "name": "vtjnash",
-          "url": "https://github.com/vtjnash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153596?s=40&v=4",
-          "name": "StefanKarpinski",
-          "url": "https://github.com/StefanKarpinski"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1291671?s=40&v=4",
-          "name": "Keno",
-          "url": "https://github.com/Keno"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5934628?s=40&v=4",
-          "name": "tkelman",
-          "url": "https://github.com/tkelman"
-        }
-      ]
-    },
     {
       "title": "JuliaRegistries/General",
       "url": "https://github.com/JuliaRegistries/General",
@@ -79,39 +42,433 @@
       ]
     },
     {
-      "title": "JuliaPackaging/BinaryBuilder.jl",
-      "url": "https://github.com/JuliaPackaging/BinaryBuilder.jl",
-      "description": "Binary Dependency Builder for Julia",
+      "title": "gdalle/DifferentiationInterface.jl",
+      "url": "https://github.com/gdalle/DifferentiationInterface.jl",
+      "description": "An interface to various automatic differentiation backends in Julia.",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "387",
-      "forks": "101",
+      "stars": "153",
+      "forks": "12",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/130920?s=40&v=4",
-          "name": "staticfloat",
-          "url": "https://github.com/staticfloat"
+          "avatar": "https://avatars.githubusercontent.com/u/22795598?s=40&v=4",
+          "name": "gdalle",
+          "url": "https://github.com/gdalle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
-          "name": "giordano",
-          "url": "https://github.com/giordano"
+          "avatar": "https://avatars.githubusercontent.com/u/20258504?s=40&v=4",
+          "name": "adrhill",
+          "url": "https://github.com/adrhill"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1291671?s=40&v=4",
-          "name": "Keno",
-          "url": "https://github.com/Keno"
+          "avatar": "https://avatars.githubusercontent.com/u/3628294?s=40&v=4",
+          "name": "willtebbutt",
+          "url": "https://github.com/willtebbutt"
+        }
+      ]
+    },
+    {
+      "title": "JuliaSparse/SparseArrays.jl",
+      "url": "https://github.com/JuliaSparse/SparseArrays.jl",
+      "description": "SparseArrays.jl is a Julia stdlib",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "86",
+      "forks": "50",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26658441?s=40&v=4",
+          "name": "dkarrasch",
+          "url": "https://github.com/dkarrasch"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/241512?s=40&v=4",
-          "name": "fingolfin",
-          "url": "https://github.com/fingolfin"
+          "avatar": "https://avatars.githubusercontent.com/u/2301159?s=40&v=4",
+          "name": "SobhanMP",
+          "url": "https://github.com/SobhanMP"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6396159?s=40&v=4",
-          "name": "ararslan",
-          "url": "https://github.com/ararslan"
+          "avatar": "https://avatars.githubusercontent.com/u/744411?s=40&v=4",
+          "name": "ViralBShah",
+          "url": "https://github.com/ViralBShah"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10461665?s=40&v=4",
+          "name": "jishnub",
+          "url": "https://github.com/jishnub"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/330950?s=40&v=4",
+          "name": "vtjnash",
+          "url": "https://github.com/vtjnash"
+        }
+      ]
+    },
+    {
+      "title": "SciML/ModelingToolkit.jl",
+      "url": "https://github.com/SciML/ModelingToolkit.jl",
+      "description": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "1,393",
+      "forks": "201",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
+          "name": "YingboMa",
+          "url": "https://github.com/YingboMa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25916?s=40&v=4",
+          "name": "shashi",
+          "url": "https://github.com/shashi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23384717?s=40&v=4",
+          "name": "AayushSabharwal",
+          "url": "https://github.com/AayushSabharwal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9385167?s=40&v=4",
+          "name": "isaacsas",
+          "url": "https://github.com/isaacsas"
+        }
+      ]
+    },
+    {
+      "title": "QuantumSavory/QuantumSymbolics.jl",
+      "url": "https://github.com/QuantumSavory/QuantumSymbolics.jl",
+      "description": "Computer algebra tools for symbolic manipulations in quantum mechanics and quantum information",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "24",
+      "forks": "7",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/705248?s=40&v=4",
+          "name": "Krastanov",
+          "url": "https://github.com/Krastanov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68079167?s=40&v=4",
+          "name": "apkille",
+          "url": "https://github.com/apkille"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46929125?s=40&v=4",
+          "name": "Abhishek-1Bhatt",
+          "url": "https://github.com/Abhishek-1Bhatt"
+        }
+      ]
+    },
+    {
+      "title": "SciML/OrdinaryDiffEq.jl",
+      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
+      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "523",
+      "forks": "199",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
+          "name": "YingboMa",
+          "url": "https://github.com/YingboMa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128291516?s=40&v=4",
+          "name": "ParamThakkar123",
+          "url": "https://github.com/ParamThakkar123"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26102?s=40&v=4",
+          "name": "devmotion",
+          "url": "https://github.com/devmotion"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30965945?s=40&v=4",
+          "name": "MSeeker1340",
+          "url": "https://github.com/MSeeker1340"
+        }
+      ]
+    },
+    {
+      "title": "MakieOrg/Makie.jl",
+      "url": "https://github.com/MakieOrg/Makie.jl",
+      "description": "Interactive data visualizations and plotting in Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "2,353",
+      "forks": "292",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1010467?s=40&v=4",
+          "name": "SimonDanisch",
+          "url": "https://github.com/SimonDanisch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22495855?s=40&v=4",
+          "name": "jkrumbiegel",
+          "url": "https://github.com/jkrumbiegel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10947937?s=40&v=4",
+          "name": "ffreyer",
+          "url": "https://github.com/ffreyer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32143268?s=40&v=4",
+          "name": "asinghvi17",
+          "url": "https://github.com/asinghvi17"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2054835?s=40&v=4",
+          "name": "anthony-wang",
+          "url": "https://github.com/anthony-wang"
+        }
+      ]
+    },
+    {
+      "title": "JuliaGPU/GPUCompiler.jl",
+      "url": "https://github.com/JuliaGPU/GPUCompiler.jl",
+      "description": "Reusable compiler infrastructure for Julia GPU backends.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "150",
+      "forks": "48",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
+          "name": "maleadt",
+          "url": "https://github.com/maleadt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
+          "name": "vchuravy",
+          "url": "https://github.com/vchuravy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17912843?s=40&v=4",
+          "name": "jpsamaroo",
+          "url": "https://github.com/jpsamaroo"
+        }
+      ]
+    },
+    {
+      "title": "SciML/SciMLBase.jl",
+      "url": "https://github.com/SciML/SciMLBase.jl",
+      "description": "The Base interface of the SciML ecosystem",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "126",
+      "forks": "92",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23384717?s=40&v=4",
+          "name": "AayushSabharwal",
+          "url": "https://github.com/AayushSabharwal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23134958?s=40&v=4",
+          "name": "Vaibhavdixit02",
+          "url": "https://github.com/Vaibhavdixit02"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11729272?s=40&v=4",
+          "name": "oscardssmith",
+          "url": "https://github.com/oscardssmith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30564094?s=40&v=4",
+          "name": "avik-pal",
+          "url": "https://github.com/avik-pal"
+        }
+      ]
+    },
+    {
+      "title": "ITensor/ITensors.jl",
+      "url": "https://github.com/ITensor/ITensors.jl",
+      "description": "A Julia library for efficient tensor computations and tensor network calculations",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "516",
+      "forks": "119",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/957893?s=40&v=4",
+          "name": "emstoudenmire",
+          "url": "https://github.com/emstoudenmire"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7855256?s=40&v=4",
+          "name": "mtfishman",
+          "url": "https://github.com/mtfishman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/828643?s=40&v=4",
+          "name": "kshyatt",
+          "url": "https://github.com/kshyatt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22459192?s=40&v=4",
+          "name": "kmp5VT",
+          "url": "https://github.com/kmp5VT"
+        }
+      ]
+    },
+    {
+      "title": "JuliaMolSim/DFTK.jl",
+      "url": "https://github.com/JuliaMolSim/DFTK.jl",
+      "description": "Density-functional toolkit",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "423",
+      "forks": "87",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11157893?s=40&v=4",
+          "name": "mfherbst",
+          "url": "https://github.com/mfherbst"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88065?s=40&v=4",
+          "name": "antoine-levitt",
+          "url": "https://github.com/antoine-levitt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87805034?s=40&v=4",
+          "name": "epolack",
+          "url": "https://github.com/epolack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18703284?s=40&v=4",
+          "name": "niklasschmitz",
+          "url": "https://github.com/niklasschmitz"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/ClimaLand.jl",
+      "url": "https://github.com/CliMA/ClimaLand.jl",
+      "description": "Clima's Land Model",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "34",
+      "forks": "8",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65979205?s=40&v=4",
+          "name": "kmdeck",
+          "url": "https://github.com/kmdeck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51397186?s=40&v=4",
+          "name": "juliasloan25",
+          "url": "https://github.com/juliasloan25"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
+          "name": "Sbozzolo",
+          "url": "https://github.com/Sbozzolo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22160257?s=40&v=4",
+          "name": "AlexisRenchon",
+          "url": "https://github.com/AlexisRenchon"
+        }
+      ]
+    },
+    {
+      "title": "SciML/SciMLSensitivity.jl",
+      "url": "https://github.com/SciML/SciMLSensitivity.jl",
+      "description": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "326",
+      "forks": "69",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42201748?s=40&v=4",
+          "name": "frankschae",
+          "url": "https://github.com/frankschae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
+          "name": "YingboMa",
+          "url": "https://github.com/YingboMa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23134958?s=40&v=4",
+          "name": "Vaibhavdixit02",
+          "url": "https://github.com/Vaibhavdixit02"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39688917?s=40&v=4",
+          "name": "DhairyaLGandhi",
+          "url": "https://github.com/DhairyaLGandhi"
+        }
+      ]
+    },
+    {
+      "title": "SciML/StructuralIdentifiability.jl",
+      "url": "https://github.com/SciML/StructuralIdentifiability.jl",
+      "description": "Fast and automatic structural identifiability software for ODE systems",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "105",
+      "forks": "17",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24942839?s=40&v=4",
+          "name": "pogudingleb",
+          "url": "https://github.com/pogudingleb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21179258?s=40&v=4",
+          "name": "iliailmer",
+          "url": "https://github.com/iliailmer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60229118?s=40&v=4",
+          "name": "sumiya11",
+          "url": "https://github.com/sumiya11"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
         }
       ]
     },
@@ -122,7 +479,7 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": "4,441",
-      "forks": "603",
+      "forks": "604",
       "addStars": "3",
       "contributors": [
         {
@@ -175,76 +532,71 @@
       ]
     },
     {
-      "title": "MakieOrg/Makie.jl",
-      "url": "https://github.com/MakieOrg/Makie.jl",
-      "description": "Interactive data visualizations and plotting in Julia",
+      "title": "fonsp/Pluto.jl",
+      "url": "https://github.com/fonsp/Pluto.jl",
+      "description": "🎈 Simple reactive notebooks for Julia",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "2,353",
-      "forks": "292",
-      "addStars": "1",
+      "stars": "4,918",
+      "forks": "285",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1010467?s=40&v=4",
-          "name": "SimonDanisch",
-          "url": "https://github.com/SimonDanisch"
+          "avatar": "https://avatars.githubusercontent.com/u/6933510?s=40&v=4",
+          "name": "fonsp",
+          "url": "https://github.com/fonsp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22495855?s=40&v=4",
-          "name": "jkrumbiegel",
-          "url": "https://github.com/jkrumbiegel"
+          "avatar": "https://avatars.githubusercontent.com/u/767261?s=40&v=4",
+          "name": "dralletje",
+          "url": "https://github.com/dralletje"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10947937?s=40&v=4",
-          "name": "ffreyer",
-          "url": "https://github.com/ffreyer"
+          "avatar": "https://avatars.githubusercontent.com/u/9824244?s=40&v=4",
+          "name": "Pangoraw",
+          "url": "https://github.com/Pangoraw"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32143268?s=40&v=4",
-          "name": "asinghvi17",
-          "url": "https://github.com/asinghvi17"
+          "avatar": "https://avatars.githubusercontent.com/u/8681967?s=40&v=4",
+          "name": "pankgeorg",
+          "url": "https://github.com/pankgeorg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2054835?s=40&v=4",
-          "name": "anthony-wang",
-          "url": "https://github.com/anthony-wang"
+          "avatar": "https://avatars.githubusercontent.com/u/20724914?s=40&v=4",
+          "name": "rikhuijzer",
+          "url": "https://github.com/rikhuijzer"
         }
       ]
     },
     {
-      "title": "SciML/OrdinaryDiffEq.jl",
-      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
-      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+      "title": "JuliaPy/PythonCall.jl",
+      "url": "https://github.com/JuliaPy/PythonCall.jl",
+      "description": "Python and Julia in harmony.",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "523",
-      "forks": "199",
-      "addStars": "0",
+      "stars": "744",
+      "forks": "61",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
-          "name": "ChrisRackauckas",
-          "url": "https://github.com/ChrisRackauckas"
+          "avatar": "https://avatars.githubusercontent.com/u/1844215?s=40&v=4",
+          "name": "cjdoris",
+          "url": "https://github.com/cjdoris"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
-          "name": "YingboMa",
-          "url": "https://github.com/YingboMa"
+          "avatar": "https://avatars.githubusercontent.com/u/1408922?s=40&v=4",
+          "name": "helgee",
+          "url": "https://github.com/helgee"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/128291516?s=40&v=4",
-          "name": "ParamThakkar123",
-          "url": "https://github.com/ParamThakkar123"
+          "avatar": "https://avatars.githubusercontent.com/u/7593028?s=40&v=4",
+          "name": "MilesCranmer",
+          "url": "https://github.com/MilesCranmer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26102?s=40&v=4",
-          "name": "devmotion",
-          "url": "https://github.com/devmotion"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30965945?s=40&v=4",
-          "name": "MSeeker1340",
-          "url": "https://github.com/MSeeker1340"
+          "avatar": "https://avatars.githubusercontent.com/u/8005416?s=40&v=4",
+          "name": "PallHaraldsson",
+          "url": "https://github.com/PallHaraldsson"
         }
       ]
     },
@@ -282,309 +634,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/13205162?s=40&v=4",
           "name": "tomchor",
           "url": "https://github.com/tomchor"
-        }
-      ]
-    },
-    {
-      "title": "JuliaGPU/Metal.jl",
-      "url": "https://github.com/JuliaGPU/Metal.jl",
-      "description": "Metal programming in Julia",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "343",
-      "forks": "36",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
-          "name": "maleadt",
-          "url": "https://github.com/maleadt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37495064?s=40&v=4",
-          "name": "max-Hawkins",
-          "url": "https://github.com/max-Hawkins"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28689358?s=40&v=4",
-          "name": "christiangnrd",
-          "url": "https://github.com/christiangnrd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2407108?s=40&v=4",
-          "name": "PhilipVinc",
-          "url": "https://github.com/PhilipVinc"
-        }
-      ]
-    },
-    {
-      "title": "JuliaManifolds/Manifolds.jl",
-      "url": "https://github.com/JuliaManifolds/Manifolds.jl",
-      "description": "Manifolds.jl provides a library of manifolds aiming for an easy-to-use and fast implementation.",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "363",
-      "forks": "52",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/115566?s=40&v=4",
-          "name": "kellertuer",
-          "url": "https://github.com/kellertuer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2551062?s=40&v=4",
-          "name": "mateuszbaran",
-          "url": "https://github.com/mateuszbaran"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8673634?s=40&v=4",
-          "name": "sethaxen",
-          "url": "https://github.com/sethaxen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47863288?s=40&v=4",
-          "name": "manuelweisser",
-          "url": "https://github.com/manuelweisser"
-        }
-      ]
-    },
-    {
-      "title": "SciML/ModelingToolkit.jl",
-      "url": "https://github.com/SciML/ModelingToolkit.jl",
-      "description": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "1,393",
-      "forks": "201",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
-          "name": "YingboMa",
-          "url": "https://github.com/YingboMa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
-          "name": "ChrisRackauckas",
-          "url": "https://github.com/ChrisRackauckas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25916?s=40&v=4",
-          "name": "shashi",
-          "url": "https://github.com/shashi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23384717?s=40&v=4",
-          "name": "AayushSabharwal",
-          "url": "https://github.com/AayushSabharwal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9385167?s=40&v=4",
-          "name": "isaacsas",
-          "url": "https://github.com/isaacsas"
-        }
-      ]
-    },
-    {
-      "title": "CliMA/ClimaLand.jl",
-      "url": "https://github.com/CliMA/ClimaLand.jl",
-      "description": "Clima's Land Model",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "34",
-      "forks": "8",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65979205?s=40&v=4",
-          "name": "kmdeck",
-          "url": "https://github.com/kmdeck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51397186?s=40&v=4",
-          "name": "juliasloan25",
-          "url": "https://github.com/juliasloan25"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
-          "name": "Sbozzolo",
-          "url": "https://github.com/Sbozzolo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22160257?s=40&v=4",
-          "name": "AlexisRenchon",
-          "url": "https://github.com/AlexisRenchon"
-        }
-      ]
-    },
-    {
-      "title": "SciML/LinearSolve.jl",
-      "url": "https://github.com/SciML/LinearSolve.jl",
-      "description": "LinearSolve.jl: High-Performance Unified Interface for Linear Solvers in Julia. Easily switch between factorization and Krylov methods, add preconditioners, and all in one interface.",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "237",
-      "forks": "51",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
-          "name": "ChrisRackauckas",
-          "url": "https://github.com/ChrisRackauckas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36345239?s=40&v=4",
-          "name": "vpuri3",
-          "url": "https://github.com/vpuri3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30564094?s=40&v=4",
-          "name": "avik-pal",
-          "url": "https://github.com/avik-pal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11204473?s=40&v=4",
-          "name": "ArnoStrouwen",
-          "url": "https://github.com/ArnoStrouwen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9221937?s=40&v=4",
-          "name": "j-fu",
-          "url": "https://github.com/j-fu"
-        }
-      ]
-    },
-    {
-      "title": "QuantumSavory/QuantumSymbolics.jl",
-      "url": "https://github.com/QuantumSavory/QuantumSymbolics.jl",
-      "description": "Computer algebra tools for symbolic manipulations in quantum mechanics and quantum information",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "24",
-      "forks": "7",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/705248?s=40&v=4",
-          "name": "Krastanov",
-          "url": "https://github.com/Krastanov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68079167?s=40&v=4",
-          "name": "apkille",
-          "url": "https://github.com/apkille"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46929125?s=40&v=4",
-          "name": "Abhishek-1Bhatt",
-          "url": "https://github.com/Abhishek-1Bhatt"
-        }
-      ]
-    },
-    {
-      "title": "JuliaMolSim/DFTK.jl",
-      "url": "https://github.com/JuliaMolSim/DFTK.jl",
-      "description": "Density-functional toolkit",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "423",
-      "forks": "87",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11157893?s=40&v=4",
-          "name": "mfherbst",
-          "url": "https://github.com/mfherbst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88065?s=40&v=4",
-          "name": "antoine-levitt",
-          "url": "https://github.com/antoine-levitt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87805034?s=40&v=4",
-          "name": "epolack",
-          "url": "https://github.com/epolack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18703284?s=40&v=4",
-          "name": "niklasschmitz",
-          "url": "https://github.com/niklasschmitz"
-        }
-      ]
-    },
-    {
-      "title": "SciML/SciMLSensitivity.jl",
-      "url": "https://github.com/SciML/SciMLSensitivity.jl",
-      "description": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "326",
-      "forks": "69",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
-          "name": "ChrisRackauckas",
-          "url": "https://github.com/ChrisRackauckas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42201748?s=40&v=4",
-          "name": "frankschae",
-          "url": "https://github.com/frankschae"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
-          "name": "YingboMa",
-          "url": "https://github.com/YingboMa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23134958?s=40&v=4",
-          "name": "Vaibhavdixit02",
-          "url": "https://github.com/Vaibhavdixit02"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39688917?s=40&v=4",
-          "name": "DhairyaLGandhi",
-          "url": "https://github.com/DhairyaLGandhi"
-        }
-      ]
-    },
-    {
-      "title": "CarloLucibello/GraphNeuralNetworks.jl",
-      "url": "https://github.com/CarloLucibello/GraphNeuralNetworks.jl",
-      "description": "Graph Neural Networks in Julia",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "212",
-      "forks": "48",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7014210?s=40&v=4",
-          "name": "CarloLucibello",
-          "url": "https://github.com/CarloLucibello"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65721467?s=40&v=4",
-          "name": "aurorarossi",
-          "url": "https://github.com/aurorarossi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32569566?s=40&v=4",
-          "name": "melioristic",
-          "url": "https://github.com/melioristic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59335537?s=40&v=4",
-          "name": "rbSparky",
-          "url": "https://github.com/rbSparky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45850123?s=40&v=4",
-          "name": "askorupka",
-          "url": "https://github.com/askorupka"
         }
       ]
     }
