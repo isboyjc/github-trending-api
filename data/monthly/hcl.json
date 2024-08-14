@@ -2,8 +2,45 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Aug 2024 07:12:44 GMT",
+  "pubDate": "Wed, 14 Aug 2024 13:21:43 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules/terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "4,357",
+      "forks": "4,018",
+      "addStars": "108",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
+          "name": "barryib",
+          "url": "https://github.com/barryib"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
+          "name": "brandonjbjelland",
+          "url": "https://github.com/brandonjbjelland"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8859277?s=40&v=4",
+          "name": "max-rocket-internet",
+          "url": "https://github.com/max-rocket-internet"
+        }
+      ]
+    },
     {
       "title": "ChristianLempa/boilerplates",
       "url": "https://github.com/ChristianLempa/boilerplates",
@@ -33,43 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/6594322?s=40&v=4",
           "name": "phpsystems",
           "url": "https://github.com/phpsystems"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "4,356",
-      "forks": "4,018",
-      "addStars": "108",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
-          "name": "barryib",
-          "url": "https://github.com/barryib"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
-          "name": "brandonjbjelland",
-          "url": "https://github.com/brandonjbjelland"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8859277?s=40&v=4",
-          "name": "max-rocket-internet",
-          "url": "https://github.com/max-rocket-internet"
         }
       ]
     },
@@ -180,35 +180,13 @@
       ]
     },
     {
-      "title": "philips-labs/terraform-aws-github-runner",
-      "url": "https://github.com/philips-labs/terraform-aws-github-runner",
-      "description": "Terraform module for scalable GitHub action runners on AWS",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "2,488",
-      "forks": "592",
-      "addStars": "42",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11609620?s=40&v=4",
-          "name": "npalm",
-          "url": "https://github.com/npalm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        }
-      ]
-    },
-    {
       "title": "terraform-aws-modules/terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "894",
-      "forks": "670",
+      "forks": "669",
       "addStars": "8",
       "contributors": [
         {
@@ -276,6 +254,28 @@
       ]
     },
     {
+      "title": "philips-labs/terraform-aws-github-runner",
+      "url": "https://github.com/philips-labs/terraform-aws-github-runner",
+      "description": "Terraform module for scalable GitHub action runners on AWS",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "2,489",
+      "forks": "592",
+      "addStars": "42",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11609620?s=40&v=4",
+          "name": "npalm",
+          "url": "https://github.com/npalm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
@@ -313,38 +313,6 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-example-foundation",
-      "url": "https://github.com/terraform-google-modules/terraform-example-foundation",
-      "description": "Shows how the CFT modules can be composed to build a secure cloud foundation",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,197",
-      "forks": "706",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55760939?s=40&v=4",
-          "name": "daniel-cit",
-          "url": "https://github.com/daniel-cit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55760933?s=40&v=4",
-          "name": "amandakarina",
-          "url": "https://github.com/amandakarina"
-        }
-      ]
-    },
-    {
       "title": "sidpalas/devops-directive-terraform-course",
       "url": "https://github.com/sidpalas/devops-directive-terraform-course",
       "description": "Companion repo for complete Terraform course",
@@ -367,34 +335,34 @@
       ]
     },
     {
-      "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
-      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
+      "title": "terraform-google-modules/terraform-example-foundation",
+      "url": "https://github.com/terraform-google-modules/terraform-example-foundation",
+      "description": "Shows how the CFT modules can be composed to build a secure cloud foundation",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "2,093",
-      "forks": "334",
-      "addStars": "82",
+      "stars": "1,199",
+      "forks": "706",
+      "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/518555?s=40&v=4",
-          "name": "mysticaltech",
-          "url": "https://github.com/mysticaltech"
+          "avatar": "https://avatars.githubusercontent.com/u/55760939?s=40&v=4",
+          "name": "daniel-cit",
+          "url": "https://github.com/daniel-cit"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31509435?s=40&v=4",
-          "name": "aleksasiriski",
-          "url": "https://github.com/aleksasiriski"
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
-          "name": "phaer",
-          "url": "https://github.com/phaer"
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
-          "name": "valkenburg-prevue-ch",
-          "url": "https://github.com/valkenburg-prevue-ch"
+          "avatar": "https://avatars.githubusercontent.com/u/55760933?s=40&v=4",
+          "name": "amandakarina",
+          "url": "https://github.com/amandakarina"
         }
       ]
     },
@@ -431,39 +399,34 @@
       ]
     },
     {
-      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
+      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
+      "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,435",
-      "forks": "818",
-      "addStars": "23",
+      "stars": "2,094",
+      "forks": "335",
+      "addStars": "82",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
+          "avatar": "https://avatars.githubusercontent.com/u/518555?s=40&v=4",
+          "name": "mysticaltech",
+          "url": "https://github.com/mysticaltech"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
-          "name": "juliocc",
-          "url": "https://github.com/juliocc"
+          "avatar": "https://avatars.githubusercontent.com/u/31509435?s=40&v=4",
+          "name": "aleksasiriski",
+          "url": "https://github.com/aleksasiriski"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
-          "name": "lcaggio",
-          "url": "https://github.com/lcaggio"
+          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
+          "name": "phaer",
+          "url": "https://github.com/phaer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
-          "name": "juliodiez",
-          "url": "https://github.com/juliodiez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
-          "name": "wiktorn",
-          "url": "https://github.com/wiktorn"
+          "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
+          "name": "valkenburg-prevue-ch",
+          "url": "https://github.com/valkenburg-prevue-ch"
         }
       ]
     }
