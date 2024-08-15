@@ -2,42 +2,79 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 15 Aug 2024 07:12:18 GMT",
+  "pubDate": "Thu, 15 Aug 2024 13:20:52 GMT",
   "items": [
     {
-      "title": "ESCOMP/CTSM",
-      "url": "https://github.com/ESCOMP/CTSM",
-      "description": "Community Terrestrial Systems Model (includes the Community Land Model of CESM)",
+      "title": "earth-system-radiation/rte-rrtmgp",
+      "url": "https://github.com/earth-system-radiation/rte-rrtmgp",
+      "description": "RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "300",
-      "forks": "304",
+      "stars": "74",
+      "forks": "65",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11545792?s=40&v=4",
-          "name": "ekluzek",
-          "url": "https://github.com/ekluzek"
+          "avatar": "https://avatars.githubusercontent.com/u/11824008?s=40&v=4",
+          "name": "RobertPincus",
+          "url": "https://github.com/RobertPincus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6266741?s=40&v=4",
-          "name": "billsacks",
-          "url": "https://github.com/billsacks"
+          "avatar": "https://avatars.githubusercontent.com/u/15826727?s=40&v=4",
+          "name": "brhillman",
+          "url": "https://github.com/brhillman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35322900?s=40&v=4",
-          "name": "slevis-lmwg",
-          "url": "https://github.com/slevis-lmwg"
+          "avatar": "https://avatars.githubusercontent.com/u/8059376?s=40&v=4",
+          "name": "mrnorman",
+          "url": "https://github.com/mrnorman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10454527?s=40&v=4",
-          "name": "samsrabin",
-          "url": "https://github.com/samsrabin"
+          "avatar": "https://avatars.githubusercontent.com/u/19591868?s=40&v=4",
+          "name": "skosukhin",
+          "url": "https://github.com/skosukhin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17344536?s=40&v=4",
-          "name": "negin513",
-          "url": "https://github.com/negin513"
+          "avatar": "https://avatars.githubusercontent.com/u/4671006?s=40&v=4",
+          "name": "fomics",
+          "url": "https://github.com/fomics"
+        }
+      ]
+    },
+    {
+      "title": "firemodels/fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "635",
+      "forks": "612",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
+          "name": "gforney",
+          "url": "https://github.com/gforney"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
+          "name": "mcgratta",
+          "url": "https://github.com/mcgratta"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
+          "name": "rmcdermo",
+          "url": "https://github.com/rmcdermo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
+          "name": "drjfloyd",
+          "url": "https://github.com/drjfloyd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
+          "name": "marcosvanella",
+          "url": "https://github.com/marcosvanella"
         }
       ]
     },
@@ -116,187 +153,39 @@
       ]
     },
     {
-      "title": "OpenFAST/openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "title": "geoschem/geos-chem",
+      "url": "https://github.com/geoschem/geos-chem",
+      "description": "GEOS-Chem \"Science Codebase\" repository. Contains GEOS-Chem science routines, run directory generation scripts, and interface code. This repository is used as a submodule within the GCClassic and GCHP wrappers, as well as in other modeling contexts (external ESMs).",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "662",
-      "forks": "452",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
-          "name": "bjonkman",
-          "url": "https://github.com/bjonkman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
-          "name": "andrew-platt",
-          "url": "https://github.com/andrew-platt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
-          "name": "rafmudaf",
-          "url": "https://github.com/rafmudaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
-          "name": "ebranlard",
-          "url": "https://github.com/ebranlard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2040708?s=40&v=4",
-          "name": "michaelasprague",
-          "url": "https://github.com/michaelasprague"
-        }
-      ]
-    },
-    {
-      "title": "Goddard-Fortran-Ecosystem/gFTL",
-      "url": "https://github.com/Goddard-Fortran-Ecosystem/gFTL",
-      "description": "Software containers for Fortran",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "39",
-      "forks": "9",
+      "stars": "164",
+      "forks": "154",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6225888?s=40&v=4",
-          "name": "tclune",
-          "url": "https://github.com/tclune"
+          "avatar": "https://avatars.githubusercontent.com/u/5880296?s=40&v=4",
+          "name": "yantosca",
+          "url": "https://github.com/yantosca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2982494?s=40&v=4",
-          "name": "mathomp4",
-          "url": "https://github.com/mathomp4"
+          "avatar": "https://avatars.githubusercontent.com/u/4805437?s=40&v=4",
+          "name": "msulprizio",
+          "url": "https://github.com/msulprizio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52509753?s=40&v=4",
-          "name": "weiyuan-jiang",
-          "url": "https://github.com/weiyuan-jiang"
+          "avatar": "https://avatars.githubusercontent.com/u/651947?s=40&v=4",
+          "name": "lizziel",
+          "url": "https://github.com/lizziel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1486942?s=40&v=4",
-          "name": "ZedThree",
-          "url": "https://github.com/ZedThree"
+          "avatar": "https://avatars.githubusercontent.com/u/6788764?s=40&v=4",
+          "name": "christophkeller",
+          "url": "https://github.com/christophkeller"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/130091?s=40&v=4",
-          "name": "avysk",
-          "url": "https://github.com/avysk"
-        }
-      ]
-    },
-    {
-      "title": "MCSclimate/MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "42",
-      "forks": "18",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/947068?s=40&v=4",
-          "name": "rljacob",
-          "url": "https://github.com/rljacob"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1740206?s=40&v=4",
-          "name": "quantheory",
-          "url": "https://github.com/quantheory"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6126104?s=40&v=4",
-          "name": "jedwards4b",
-          "url": "https://github.com/jedwards4b"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5412?s=40&v=4",
-          "name": "steder",
-          "url": "https://github.com/steder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13952101?s=40&v=4",
-          "name": "Katetc",
-          "url": "https://github.com/Katetc"
-        }
-      ]
-    },
-    {
-      "title": "NGEET/fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "94",
-      "forks": "91",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5891980?s=40&v=4",
-          "name": "rgknox",
-          "url": "https://github.com/rgknox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7565064?s=40&v=4",
-          "name": "glemieux",
-          "url": "https://github.com/glemieux"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10852790?s=40&v=4",
-          "name": "ckoven",
-          "url": "https://github.com/ckoven"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12954691?s=40&v=4",
-          "name": "rosiealice",
-          "url": "https://github.com/rosiealice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8231111?s=40&v=4",
-          "name": "xuchongang",
-          "url": "https://github.com/xuchongang"
-        }
-      ]
-    },
-    {
-      "title": "cp2k/cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "821",
-      "forks": "375",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
-          "name": "vondele",
-          "url": "https://github.com/vondele"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241771?s=40&v=4",
-          "name": "oschuett",
-          "url": "https://github.com/oschuett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25837887?s=40&v=4",
-          "name": "tlaino",
-          "url": "https://github.com/tlaino"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10218869?s=40&v=4",
-          "name": "mkrack",
-          "url": "https://github.com/mkrack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
-          "name": "juerghutter",
-          "url": "https://github.com/juerghutter"
+          "avatar": "https://avatars.githubusercontent.com/u/52680278?s=40&v=4",
+          "name": "kelvinhb",
+          "url": "https://github.com/kelvinhb"
         }
       ]
     },
@@ -338,187 +227,39 @@
       ]
     },
     {
-      "title": "MPAS-Dev/MPAS-Model",
-      "url": "https://github.com/MPAS-Dev/MPAS-Model",
-      "description": "Repository for MPAS models and shared framework releases.",
+      "title": "OpenFAST/openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "234",
-      "forks": "311",
-      "addStars": "0",
+      "stars": "662",
+      "forks": "452",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3979544?s=40&v=4",
-          "name": "mgduda",
-          "url": "https://github.com/mgduda"
+          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
+          "name": "bjonkman",
+          "url": "https://github.com/bjonkman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/334984?s=40&v=4",
-          "name": "douglasjacobsen",
-          "url": "https://github.com/douglasjacobsen"
+          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
+          "name": "andrew-platt",
+          "url": "https://github.com/andrew-platt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4036816?s=40&v=4",
-          "name": "mark-petersen",
-          "url": "https://github.com/mark-petersen"
+          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
+          "name": "rafmudaf",
+          "url": "https://github.com/rafmudaf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4182034?s=40&v=4",
-          "name": "matthewhoffman",
-          "url": "https://github.com/matthewhoffman"
+          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
+          "name": "ebranlard",
+          "url": "https://github.com/ebranlard"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4108894?s=40&v=4",
-          "name": "ldfowler58",
-          "url": "https://github.com/ldfowler58"
-        }
-      ]
-    },
-    {
-      "title": "JuliaPackaging/Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "294",
-      "forks": "524",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
-          "name": "giordano",
-          "url": "https://github.com/giordano"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130920?s=40&v=4",
-          "name": "staticfloat",
-          "url": "https://github.com/staticfloat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
-          "name": "maleadt",
-          "url": "https://github.com/maleadt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
-          "name": "vchuravy",
-          "url": "https://github.com/vchuravy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/213514?s=40&v=4",
-          "name": "eschnett",
-          "url": "https://github.com/eschnett"
-        }
-      ]
-    },
-    {
-      "title": "earth-system-radiation/rte-rrtmgp",
-      "url": "https://github.com/earth-system-radiation/rte-rrtmgp",
-      "description": "RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "74",
-      "forks": "65",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11824008?s=40&v=4",
-          "name": "RobertPincus",
-          "url": "https://github.com/RobertPincus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15826727?s=40&v=4",
-          "name": "brhillman",
-          "url": "https://github.com/brhillman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8059376?s=40&v=4",
-          "name": "mrnorman",
-          "url": "https://github.com/mrnorman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19591868?s=40&v=4",
-          "name": "skosukhin",
-          "url": "https://github.com/skosukhin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4671006?s=40&v=4",
-          "name": "fomics",
-          "url": "https://github.com/fomics"
-        }
-      ]
-    },
-    {
-      "title": "CFMIP/COSPv2.0",
-      "url": "https://github.com/CFMIP/COSPv2.0",
-      "description": "COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "41",
-      "forks": "38",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17782526?s=40&v=4",
-          "name": "alejandrobodas",
-          "url": "https://github.com/alejandrobodas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13949033?s=40&v=4",
-          "name": "dustinswales",
-          "url": "https://github.com/dustinswales"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11824008?s=40&v=4",
-          "name": "RobertPincus",
-          "url": "https://github.com/RobertPincus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26278953?s=40&v=4",
-          "name": "rodrigoguzman-lmd",
-          "url": "https://github.com/rodrigoguzman-lmd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43747083?s=40&v=4",
-          "name": "takmichibata",
-          "url": "https://github.com/takmichibata"
-        }
-      ]
-    },
-    {
-      "title": "grimme-lab/xtb",
-      "url": "https://github.com/grimme-lab/xtb",
-      "description": "Semiempirical Extended Tight-Binding Program Package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "563",
-      "forks": "140",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28669218?s=40&v=4",
-          "name": "awvwgk",
-          "url": "https://github.com/awvwgk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92109627?s=40&v=4",
-          "name": "Albkat",
-          "url": "https://github.com/Albkat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70513124?s=40&v=4",
-          "name": "MtoLStoN",
-          "url": "https://github.com/MtoLStoN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39367840?s=40&v=4",
-          "name": "Thomas3R",
-          "url": "https://github.com/Thomas3R"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49548271?s=40&v=4",
-          "name": "sespic",
-          "url": "https://github.com/sespic"
+          "avatar": "https://avatars.githubusercontent.com/u/2040708?s=40&v=4",
+          "name": "michaelasprague",
+          "url": "https://github.com/michaelasprague"
         }
       ]
     }
