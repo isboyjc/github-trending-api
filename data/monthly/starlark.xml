@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Tue, 27 Aug 2024 07:13:21 GMT</pubDate>
+    <pubDate>Tue, 27 Aug 2024 13:22:14 GMT</pubDate>
     <item>
       <title>googleapis/googleapis</title>
       <link>https://github.com/googleapis/googleapis</link>
@@ -44,8 +44,8 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>18,464</stars>
-      <forks>1,130</forks>
+      <stars>18,469</stars>
+      <forks>1,131</forks>
       <addStars>209</addStars>
       <contributors>
         <contributor>
@@ -71,25 +71,20 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/rules_python</title>
-      <link>https://github.com/bazelbuild/rules_python</link>
-      <description>Bazel Python Rules</description>
-      <guid>https://github.com/bazelbuild/rules_python</guid>
+      <title>bazel-contrib/rules_oci</title>
+      <link>https://github.com/bazel-contrib/rules_oci</link>
+      <description>Bazel rules for building OCI containers</description>
+      <guid>https://github.com/bazel-contrib/rules_oci</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>517</stars>
-      <forks>531</forks>
-      <addStars>6</addStars>
+      <stars>273</stars>
+      <forks>143</forks>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34175098?s=40&amp;v=4</avatar>
-          <name>rickeylev</name>
-          <url>https://github.com/rickeylev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/240938?s=40&amp;v=4</avatar>
-          <name>aignas</name>
-          <url>https://github.com/aignas</url>
+          <avatar>https://avatars.githubusercontent.com/u/20563340?s=40&amp;v=4</avatar>
+          <name>thesayyn</name>
+          <url>https://github.com/thesayyn</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
@@ -97,14 +92,19 @@
           <url>https://github.com/alexeagle</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3149049?s=40&amp;v=4</avatar>
-          <name>f0rmiga</name>
-          <url>https://github.com/f0rmiga</url>
+          <avatar>https://avatars.githubusercontent.com/u/520826?s=40&amp;v=4</avatar>
+          <name>gregmagolan</name>
+          <url>https://github.com/gregmagolan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26427366?s=40&amp;v=4</avatar>
-          <name>UebelAndre</name>
-          <url>https://github.com/UebelAndre</url>
+          <avatar>https://avatars.githubusercontent.com/u/132376425?s=40&amp;v=4</avatar>
+          <name>sfc-gh-ptabor</name>
+          <url>https://github.com/sfc-gh-ptabor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/489061?s=40&amp;v=4</avatar>
+          <name>mortenmj</name>
+          <url>https://github.com/mortenmj</url>
         </contributor>
       </contributors>
     </item>
@@ -185,44 +185,6 @@
       </contributors>
     </item>
     <item>
-      <title>bazel-contrib/rules_oci</title>
-      <link>https://github.com/bazel-contrib/rules_oci</link>
-      <description>Bazel rules for building OCI containers</description>
-      <guid>https://github.com/bazel-contrib/rules_oci</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>273</stars>
-      <forks>143</forks>
-      <addStars>14</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20563340?s=40&amp;v=4</avatar>
-          <name>thesayyn</name>
-          <url>https://github.com/thesayyn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
-          <name>alexeagle</name>
-          <url>https://github.com/alexeagle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/520826?s=40&amp;v=4</avatar>
-          <name>gregmagolan</name>
-          <url>https://github.com/gregmagolan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/132376425?s=40&amp;v=4</avatar>
-          <name>sfc-gh-ptabor</name>
-          <url>https://github.com/sfc-gh-ptabor</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/489061?s=40&amp;v=4</avatar>
-          <name>mortenmj</name>
-          <url>https://github.com/mortenmj</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>google/bazel-common</title>
       <link>https://github.com/google/bazel-common</link>
       <description>Common functionality for Google's open-source libraries that are built with bazel.</description>
@@ -299,6 +261,39 @@
       </contributors>
     </item>
     <item>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+      <guid>https://github.com/bazelbuild/bazel-central-registry</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>243</stars>
+      <forks>283</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
+          <name>alexeagle</name>
+          <url>https://github.com/alexeagle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4171702?s=40&amp;v=4</avatar>
+          <name>meteorcloudy</name>
+          <url>https://github.com/meteorcloudy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3775001?s=40&amp;v=4</avatar>
+          <name>Vertexwahn</name>
+          <url>https://github.com/Vertexwahn</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>pybind/pybind11_bazel</title>
       <link>https://github.com/pybind/pybind11_bazel</link>
       <description>Bazel wrapper around the pybind11 repository</description>
@@ -333,6 +328,44 @@
           <avatar>https://avatars.githubusercontent.com/u/534945?s=40&amp;v=4</avatar>
           <name>jblespiau</name>
           <url>https://github.com/jblespiau</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bazelbuild/examples</title>
+      <link>https://github.com/bazelbuild/examples</link>
+      <description>Examples for Bazel</description>
+      <guid>https://github.com/bazelbuild/examples</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>816</stars>
+      <forks>500</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17042?s=40&amp;v=4</avatar>
+          <name>kchodorow</name>
+          <url>https://github.com/kchodorow</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13687552?s=40&amp;v=4</avatar>
+          <name>c-parsons</name>
+          <url>https://github.com/c-parsons</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
+          <name>alexeagle</name>
+          <url>https://github.com/alexeagle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31547?s=40&amp;v=4</avatar>
+          <name>hanwen</name>
+          <url>https://github.com/hanwen</url>
         </contributor>
       </contributors>
     </item>
@@ -404,143 +437,6 @@
           <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
           <name>alexeagle</name>
           <url>https://github.com/alexeagle</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazelbuild/examples</title>
-      <link>https://github.com/bazelbuild/examples</link>
-      <description>Examples for Bazel</description>
-      <guid>https://github.com/bazelbuild/examples</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>816</stars>
-      <forks>500</forks>
-      <addStars>10</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17042?s=40&amp;v=4</avatar>
-          <name>kchodorow</name>
-          <url>https://github.com/kchodorow</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13687552?s=40&amp;v=4</avatar>
-          <name>c-parsons</name>
-          <url>https://github.com/c-parsons</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
-          <name>alexeagle</name>
-          <url>https://github.com/alexeagle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31547?s=40&amp;v=4</avatar>
-          <name>hanwen</name>
-          <url>https://github.com/hanwen</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazelbuild/bazel-central-registry</title>
-      <link>https://github.com/bazelbuild/bazel-central-registry</link>
-      <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
-      <guid>https://github.com/bazelbuild/bazel-central-registry</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>243</stars>
-      <forks>282</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
-          <name>alexeagle</name>
-          <url>https://github.com/alexeagle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4171702?s=40&amp;v=4</avatar>
-          <name>meteorcloudy</name>
-          <url>https://github.com/meteorcloudy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3775001?s=40&amp;v=4</avatar>
-          <name>Vertexwahn</name>
-          <url>https://github.com/Vertexwahn</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazel-contrib/toolchains_llvm</title>
-      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
-      <description>LLVM toolchain for bazel</description>
-      <guid>https://github.com/bazel-contrib/toolchains_llvm</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>287</stars>
-      <forks>208</forks>
-      <addStars>5</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1929612?s=40&amp;v=4</avatar>
-          <name>siddharthab</name>
-          <url>https://github.com/siddharthab</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7833358?s=40&amp;v=4</avatar>
-          <name>rrbutani</name>
-          <url>https://github.com/rrbutani</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11253?s=40&amp;v=4</avatar>
-          <name>jsharpe</name>
-          <url>https://github.com/jsharpe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
-          <name>fmeum</name>
-          <url>https://github.com/fmeum</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bazelbuild/rules_cc</title>
-      <link>https://github.com/bazelbuild/rules_cc</link>
-      <description>C++ Rules for Bazel</description>
-      <guid>https://github.com/bazelbuild/rules_cc</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>181</stars>
-      <forks>89</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/814566?s=40&amp;v=4</avatar>
-          <name>hlopko</name>
-          <url>https://github.com/hlopko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23365806?s=40&amp;v=4</avatar>
-          <name>oquenchil</name>
-          <url>https://github.com/oquenchil</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11149636?s=40&amp;v=4</avatar>
-          <name>scentini</name>
-          <url>https://github.com/scentini</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -621,40 +517,73 @@
       </contributors>
     </item>
     <item>
-      <title>tilt-dev/tilt-extensions</title>
-      <link>https://github.com/tilt-dev/tilt-extensions</link>
-      <description>Extensions for Tilt</description>
-      <guid>https://github.com/tilt-dev/tilt-extensions</guid>
+      <title>bazel-contrib/toolchains_llvm</title>
+      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
+      <description>LLVM toolchain for bazel</description>
+      <guid>https://github.com/bazel-contrib/toolchains_llvm</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>201</stars>
-      <forks>157</forks>
-      <addStars>3</addStars>
+      <stars>287</stars>
+      <forks>208</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/278641?s=40&amp;v=4</avatar>
-          <name>nicks</name>
-          <url>https://github.com/nicks</url>
+          <avatar>https://avatars.githubusercontent.com/u/1929612?s=40&amp;v=4</avatar>
+          <name>siddharthab</name>
+          <url>https://github.com/siddharthab</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/841263?s=40&amp;v=4</avatar>
-          <name>milas</name>
-          <url>https://github.com/milas</url>
+          <avatar>https://avatars.githubusercontent.com/u/7833358?s=40&amp;v=4</avatar>
+          <name>rrbutani</name>
+          <url>https://github.com/rrbutani</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6332648?s=40&amp;v=4</avatar>
-          <name>maiamcc</name>
-          <url>https://github.com/maiamcc</url>
+          <avatar>https://avatars.githubusercontent.com/u/11253?s=40&amp;v=4</avatar>
+          <name>jsharpe</name>
+          <url>https://github.com/jsharpe</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7453991?s=40&amp;v=4</avatar>
-          <name>landism</name>
-          <url>https://github.com/landism</url>
+          <avatar>https://avatars.githubusercontent.com/u/4312191?s=40&amp;v=4</avatar>
+          <name>fmeum</name>
+          <url>https://github.com/fmeum</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>0xPolygon/kurtosis-cdk</title>
+      <link>https://github.com/0xPolygon/kurtosis-cdk</link>
+      <description>A Kurtosis package that deploys a private, portable, and modular Polygon CDK devnet</description>
+      <guid>https://github.com/0xPolygon/kurtosis-cdk</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>35</stars>
+      <forks>63</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/429588?s=40&amp;v=4</avatar>
+          <name>praetoriansentry</name>
+          <url>https://github.com/praetoriansentry</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1231996?s=40&amp;v=4</avatar>
-          <name>bobjackman</name>
-          <url>https://github.com/bobjackman</url>
+          <avatar>https://avatars.githubusercontent.com/u/28714795?s=40&amp;v=4</avatar>
+          <name>leovct</name>
+          <url>https://github.com/leovct</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/100106211?s=40&amp;v=4</avatar>
+          <name>rebelArtists</name>
+          <url>https://github.com/rebelArtists</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/149679879?s=40&amp;v=4</avatar>
+          <name>kmurphypolygon</name>
+          <url>https://github.com/kmurphypolygon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/125336262?s=40&amp;v=4</avatar>
+          <name>jhkimqd</name>
+          <url>https://github.com/jhkimqd</url>
         </contributor>
       </contributors>
     </item>
@@ -688,6 +617,39 @@
           <avatar>https://avatars.githubusercontent.com/u/158658?s=40&amp;v=4</avatar>
           <name>brentleyjones</name>
           <url>https://github.com/brentleyjones</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bazelbuild/rules_cc</title>
+      <link>https://github.com/bazelbuild/rules_cc</link>
+      <description>C++ Rules for Bazel</description>
+      <guid>https://github.com/bazelbuild/rules_cc</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>181</stars>
+      <forks>89</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/814566?s=40&amp;v=4</avatar>
+          <name>hlopko</name>
+          <url>https://github.com/hlopko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23365806?s=40&amp;v=4</avatar>
+          <name>oquenchil</name>
+          <url>https://github.com/oquenchil</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11149636?s=40&amp;v=4</avatar>
+          <name>scentini</name>
+          <url>https://github.com/scentini</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
         </contributor>
       </contributors>
     </item>
