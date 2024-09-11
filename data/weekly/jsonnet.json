@@ -2,15 +2,52 @@
   "title": "GitHub Jsonnet Languages Weekly Trending",
   "description": "Weekly Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Sep 2024 07:13:37 GMT",
+  "pubDate": "Wed, 11 Sep 2024 13:24:46 GMT",
   "items": [
+    {
+      "title": "argoproj/argocd-example-apps",
+      "url": "https://github.com/argoproj/argocd-example-apps",
+      "description": "Example Apps to Demonstrate Argo CD",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": "1,519",
+      "forks": "6,901",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12677113?s=40&v=4",
+          "name": "jessesuen",
+          "url": "https://github.com/jessesuen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1142830?s=40&v=4",
+          "name": "alexec",
+          "url": "https://github.com/alexec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
+          "name": "alexmt",
+          "url": "https://github.com/alexmt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/410404?s=40&v=4",
+          "name": "limnick",
+          "url": "https://github.com/limnick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1015125?s=40&v=4",
+          "name": "ajayk",
+          "url": "https://github.com/ajayk"
+        }
+      ]
+    },
     {
       "title": "prometheus-operator/kube-prometheus",
       "url": "https://github.com/prometheus-operator/kube-prometheus",
       "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "6,634",
+      "stars": "6,635",
       "forks": "1,915",
       "addStars": "23",
       "contributors": [
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/85787986?s=40&v=4",
           "name": "prom-op-bot",
           "url": "https://github.com/prom-op-bot"
-        }
-      ]
-    },
-    {
-      "title": "argoproj/argocd-example-apps",
-      "url": "https://github.com/argoproj/argocd-example-apps",
-      "description": "Example Apps to Demonstrate Argo CD",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": "1,519",
-      "forks": "6,899",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12677113?s=40&v=4",
-          "name": "jessesuen",
-          "url": "https://github.com/jessesuen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1142830?s=40&v=4",
-          "name": "alexec",
-          "url": "https://github.com/alexec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
-          "name": "alexmt",
-          "url": "https://github.com/alexmt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/410404?s=40&v=4",
-          "name": "limnick",
-          "url": "https://github.com/limnick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1015125?s=40&v=4",
-          "name": "ajayk",
-          "url": "https://github.com/ajayk"
         }
       ]
     },
@@ -153,19 +153,19 @@
       ]
     },
     {
-      "title": "grafana/jsonnet-libs",
-      "url": "https://github.com/grafana/jsonnet-libs",
-      "description": "Grafana Labs' Jsonnet libraries",
+      "title": "grafana/grafonnet",
+      "url": "https://github.com/grafana/grafonnet",
+      "description": "Jsonnet library for generating Grafana dashboards.",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "618",
-      "forks": "160",
+      "stars": "347",
+      "forks": "19",
       "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/444037?s=40&v=4",
-          "name": "tomwilkie",
-          "url": "https://github.com/tomwilkie"
+          "avatar": "https://avatars.githubusercontent.com/u/3349855?s=40&v=4",
+          "name": "Duologic",
+          "url": "https://github.com/Duologic"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/42545407?s=40&v=4",
@@ -173,19 +173,14 @@
           "url": "https://github.com/malcolmholmes"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/66958?s=40&v=4",
+          "name": "K-Phoen",
+          "url": "https://github.com/K-Phoen"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/14870891?s=40&v=4",
           "name": "v-zhuravlev",
           "url": "https://github.com/v-zhuravlev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3349855?s=40&v=4",
-          "name": "Duologic",
-          "url": "https://github.com/Duologic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4599384?s=40&v=4",
-          "name": "jdbaldry",
-          "url": "https://github.com/jdbaldry"
         }
       ]
     },
@@ -227,19 +222,19 @@
       ]
     },
     {
-      "title": "grafana/grafonnet",
-      "url": "https://github.com/grafana/grafonnet",
-      "description": "Jsonnet library for generating Grafana dashboards.",
+      "title": "grafana/jsonnet-libs",
+      "url": "https://github.com/grafana/jsonnet-libs",
+      "description": "Grafana Labs' Jsonnet libraries",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "347",
-      "forks": "19",
+      "stars": "618",
+      "forks": "160",
       "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3349855?s=40&v=4",
-          "name": "Duologic",
-          "url": "https://github.com/Duologic"
+          "avatar": "https://avatars.githubusercontent.com/u/444037?s=40&v=4",
+          "name": "tomwilkie",
+          "url": "https://github.com/tomwilkie"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/42545407?s=40&v=4",
@@ -247,14 +242,19 @@
           "url": "https://github.com/malcolmholmes"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/66958?s=40&v=4",
-          "name": "K-Phoen",
-          "url": "https://github.com/K-Phoen"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/14870891?s=40&v=4",
           "name": "v-zhuravlev",
           "url": "https://github.com/v-zhuravlev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3349855?s=40&v=4",
+          "name": "Duologic",
+          "url": "https://github.com/Duologic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4599384?s=40&v=4",
+          "name": "jdbaldry",
+          "url": "https://github.com/jdbaldry"
         }
       ]
     },
