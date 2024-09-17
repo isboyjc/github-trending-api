@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Monthly Trending",
   "description": "Monthly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Sep 2024 07:12:58 GMT",
+  "pubDate": "Tue, 17 Sep 2024 13:25:46 GMT",
   "items": [
     {
       "title": "openembedded/meta-openembedded",
@@ -47,7 +47,7 @@
       "description": "OpenBMC Distribution",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "1,836",
+      "stars": "1,837",
       "forks": "904",
       "addStars": "47",
       "contributors": [
@@ -116,43 +116,6 @@
       ]
     },
     {
-      "title": "kraj/meta-clang",
-      "url": "https://github.com/kraj/meta-clang",
-      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "154",
-      "forks": "198",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
-          "name": "kraj",
-          "url": "https://github.com/kraj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
-          "name": "rossburton",
-          "url": "https://github.com/rossburton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
-          "name": "dankm",
-          "url": "https://github.com/dankm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24281931?s=40&v=4",
-          "name": "ovpanait",
-          "url": "https://github.com/ovpanait"
-        }
-      ]
-    },
-    {
       "title": "OE4T/meta-tegra",
       "url": "https://github.com/OE4T/meta-tegra",
       "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
@@ -190,39 +153,76 @@
       ]
     },
     {
-      "title": "meta-qt5/meta-qt5",
-      "url": "https://github.com/meta-qt5/meta-qt5",
-      "description": "QT5 layer for openembedded",
+      "title": "kraj/meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "257",
-      "forks": "327",
-      "addStars": "3",
+      "stars": "154",
+      "forks": "198",
+      "addStars": "1",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
           "name": "kraj",
           "url": "https://github.com/kraj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13902279?s=40&v=4",
-          "name": "sapiippo",
-          "url": "https://github.com/sapiippo"
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2571823?s=40&v=4",
-          "name": "schnitzeltony",
-          "url": "https://github.com/schnitzeltony"
+          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
+          "name": "rossburton",
+          "url": "https://github.com/rossburton"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/884177?s=40&v=4",
-          "name": "net147",
-          "url": "https://github.com/net147"
+          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
+          "name": "dankm",
+          "url": "https://github.com/dankm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24281931?s=40&v=4",
+          "name": "ovpanait",
+          "url": "https://github.com/ovpanait"
+        }
+      ]
+    },
+    {
+      "title": "rauc/meta-rauc",
+      "url": "https://github.com/rauc/meta-rauc",
+      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "161",
+      "forks": "90",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1416326?s=40&v=4",
+          "name": "ejoerns",
+          "url": "https://github.com/ejoerns"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3678062?s=40&v=4",
+          "name": "jluebbe",
+          "url": "https://github.com/jluebbe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19584951?s=40&v=4",
+          "name": "OnkelUlla",
+          "url": "https://github.com/OnkelUlla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31402500?s=40&v=4",
+          "name": "mschwan-phytec",
+          "url": "https://github.com/mschwan-phytec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19491045?s=40&v=4",
+          "name": "mnhu",
+          "url": "https://github.com/mnhu"
         }
       ]
     },
@@ -264,39 +264,76 @@
       ]
     },
     {
-      "title": "rauc/meta-rauc",
-      "url": "https://github.com/rauc/meta-rauc",
-      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
+      "title": "meta-qt5/meta-qt5",
+      "url": "https://github.com/meta-qt5/meta-qt5",
+      "description": "QT5 layer for openembedded",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "161",
-      "forks": "90",
-      "addStars": "6",
+      "stars": "257",
+      "forks": "327",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1416326?s=40&v=4",
-          "name": "ejoerns",
-          "url": "https://github.com/ejoerns"
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3678062?s=40&v=4",
-          "name": "jluebbe",
-          "url": "https://github.com/jluebbe"
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19584951?s=40&v=4",
-          "name": "OnkelUlla",
-          "url": "https://github.com/OnkelUlla"
+          "avatar": "https://avatars.githubusercontent.com/u/13902279?s=40&v=4",
+          "name": "sapiippo",
+          "url": "https://github.com/sapiippo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31402500?s=40&v=4",
-          "name": "mschwan-phytec",
-          "url": "https://github.com/mschwan-phytec"
+          "avatar": "https://avatars.githubusercontent.com/u/2571823?s=40&v=4",
+          "name": "schnitzeltony",
+          "url": "https://github.com/schnitzeltony"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19491045?s=40&v=4",
-          "name": "mnhu",
-          "url": "https://github.com/mnhu"
+          "avatar": "https://avatars.githubusercontent.com/u/884177?s=40&v=4",
+          "name": "net147",
+          "url": "https://github.com/net147"
+        }
+      ]
+    },
+    {
+      "title": "Xilinx/meta-xilinx",
+      "url": "https://github.com/Xilinx/meta-xilinx",
+      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "135",
+      "forks": "129",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7375778?s=40&v=4",
+          "name": "mhatle",
+          "url": "https://github.com/mhatle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1016397?s=40&v=4",
+          "name": "nathanrossi",
+          "url": "https://github.com/nathanrossi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8731280?s=40&v=4",
+          "name": "grsandeep85",
+          "url": "https://github.com/grsandeep85"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15717918?s=40&v=4",
+          "name": "ckalluri73",
+          "url": "https://github.com/ckalluri73"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68365708?s=40&v=4",
+          "name": "kedareswararao",
+          "url": "https://github.com/kedareswararao"
         }
       ]
     },
@@ -371,43 +408,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/109770420?s=40&v=4",
           "name": "eric-seppanen",
           "url": "https://github.com/eric-seppanen"
-        }
-      ]
-    },
-    {
-      "title": "Xilinx/meta-xilinx",
-      "url": "https://github.com/Xilinx/meta-xilinx",
-      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "135",
-      "forks": "129",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7375778?s=40&v=4",
-          "name": "mhatle",
-          "url": "https://github.com/mhatle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1016397?s=40&v=4",
-          "name": "nathanrossi",
-          "url": "https://github.com/nathanrossi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8731280?s=40&v=4",
-          "name": "grsandeep85",
-          "url": "https://github.com/grsandeep85"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15717918?s=40&v=4",
-          "name": "ckalluri73",
-          "url": "https://github.com/ckalluri73"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68365708?s=40&v=4",
-          "name": "kedareswararao",
-          "url": "https://github.com/kedareswararao"
         }
       ]
     },
