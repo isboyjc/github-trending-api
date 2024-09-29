@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sun, 29 Sep 2024 07:12:28 GMT</pubDate>
+    <pubDate>Sun, 29 Sep 2024 13:22:41 GMT</pubDate>
     <item>
       <title>cachix/devenv</title>
       <link>https://github.com/cachix/devenv</link>
@@ -44,8 +44,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>17,564</stars>
-      <forks>13,723</forks>
+      <stars>17,571</stars>
+      <forks>13,725</forks>
       <addStars>92</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>6,779</stars>
+      <stars>6,780</stars>
       <forks>1,772</forks>
       <addStars>47</addStars>
       <contributors>
@@ -120,7 +120,7 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,697</stars>
+      <stars>1,699</stars>
       <forks>186</forks>
       <addStars>32</addStars>
       <contributors>
@@ -142,13 +142,51 @@
       </contributors>
     </item>
     <item>
+      <title>nix-community/nixvim</title>
+      <link>https://github.com/nix-community/nixvim</link>
+      <description>Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
+      <guid>https://github.com/nix-community/nixvim</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>1,635</stars>
+      <forks>253</forks>
+      <addStars>26</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33058747?s=40&amp;v=4</avatar>
+          <name>GaetanLepage</name>
+          <url>https://github.com/GaetanLepage</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5046562?s=40&amp;v=4</avatar>
+          <name>MattSturgeon</name>
+          <url>https://github.com/MattSturgeon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
+          <name>khaneliman</name>
+          <url>https://github.com/khaneliman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7443916?s=40&amp;v=4</avatar>
+          <name>pta2002</name>
+          <url>https://github.com/pta2002</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5623227?s=40&amp;v=4</avatar>
+          <name>traxys</name>
+          <url>https://github.com/traxys</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>NixOS/nixfmt</title>
       <link>https://github.com/NixOS/nixfmt</link>
       <description>The official (but not yet stable) formatter for Nix code</description>
       <guid>https://github.com/NixOS/nixfmt</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>851</stars>
+      <stars>852</stars>
       <forks>33</forks>
       <addStars>25</addStars>
       <contributors>
@@ -176,44 +214,6 @@
           <avatar>https://avatars.githubusercontent.com/u/451835?s=40&amp;v=4</avatar>
           <name>kirelagin</name>
           <url>https://github.com/kirelagin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nix-community/nix-on-droid</title>
-      <link>https://github.com/nix-community/nix-on-droid</link>
-      <description>Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</description>
-      <guid>https://github.com/nix-community/nix-on-droid</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>1,282</stars>
-      <forks>72</forks>
-      <addStars>16</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10353047?s=40&amp;v=4</avatar>
-          <name>Gerschtli</name>
-          <url>https://github.com/Gerschtli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5991987?s=40&amp;v=4</avatar>
-          <name>t184256</name>
-          <url>https://github.com/t184256</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9315?s=40&amp;v=4</avatar>
-          <name>azuwis</name>
-          <url>https://github.com/azuwis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2189609?s=40&amp;v=4</avatar>
-          <name>zhaofengli</name>
-          <url>https://github.com/zhaofengli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24027?s=40&amp;v=4</avatar>
-          <name>bbigras</name>
-          <url>https://github.com/bbigras</url>
         </contributor>
       </contributors>
     </item>
@@ -256,106 +256,177 @@
       </contributors>
     </item>
     <item>
-      <title>nix-community/nixvim</title>
-      <link>https://github.com/nix-community/nixvim</link>
-      <description>Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
-      <guid>https://github.com/nix-community/nixvim</guid>
+      <title>nix-community/nix-on-droid</title>
+      <link>https://github.com/nix-community/nix-on-droid</link>
+      <description>Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</description>
+      <guid>https://github.com/nix-community/nix-on-droid</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,634</stars>
-      <forks>253</forks>
-      <addStars>26</addStars>
+      <stars>1,283</stars>
+      <forks>72</forks>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33058747?s=40&amp;v=4</avatar>
-          <name>GaetanLepage</name>
-          <url>https://github.com/GaetanLepage</url>
+          <avatar>https://avatars.githubusercontent.com/u/10353047?s=40&amp;v=4</avatar>
+          <name>Gerschtli</name>
+          <url>https://github.com/Gerschtli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5046562?s=40&amp;v=4</avatar>
-          <name>MattSturgeon</name>
-          <url>https://github.com/MattSturgeon</url>
+          <avatar>https://avatars.githubusercontent.com/u/5991987?s=40&amp;v=4</avatar>
+          <name>t184256</name>
+          <url>https://github.com/t184256</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
-          <name>khaneliman</name>
-          <url>https://github.com/khaneliman</url>
+          <avatar>https://avatars.githubusercontent.com/u/9315?s=40&amp;v=4</avatar>
+          <name>azuwis</name>
+          <url>https://github.com/azuwis</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7443916?s=40&amp;v=4</avatar>
-          <name>pta2002</name>
-          <url>https://github.com/pta2002</url>
+          <avatar>https://avatars.githubusercontent.com/u/2189609?s=40&amp;v=4</avatar>
+          <name>zhaofengli</name>
+          <url>https://github.com/zhaofengli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5623227?s=40&amp;v=4</avatar>
-          <name>traxys</name>
-          <url>https://github.com/traxys</url>
+          <avatar>https://avatars.githubusercontent.com/u/24027?s=40&amp;v=4</avatar>
+          <name>bbigras</name>
+          <url>https://github.com/bbigras</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>DavHau/nix-portable</title>
-      <link>https://github.com/DavHau/nix-portable</link>
-      <description>Nix - Static, Permissionless, Installation-free, Pre-configured</description>
-      <guid>https://github.com/DavHau/nix-portable</guid>
+      <title>nix-community/impermanence</title>
+      <link>https://github.com/nix-community/impermanence</link>
+      <description>Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]</description>
+      <guid>https://github.com/nix-community/impermanence</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>866</stars>
-      <forks>31</forks>
-      <addStars>9</addStars>
+      <stars>1,126</stars>
+      <forks>83</forks>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42246742?s=40&amp;v=4</avatar>
-          <name>DavHau</name>
-          <url>https://github.com/DavHau</url>
+          <avatar>https://avatars.githubusercontent.com/u/63433?s=40&amp;v=4</avatar>
+          <name>talyz</name>
+          <url>https://github.com/talyz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10492681?s=40&amp;v=4</avatar>
-          <name>Enzime</name>
-          <url>https://github.com/Enzime</url>
+          <avatar>https://avatars.githubusercontent.com/u/7243783?s=40&amp;v=4</avatar>
+          <name>lovesegfault</name>
+          <url>https://github.com/lovesegfault</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
+          <avatar>https://avatars.githubusercontent.com/u/461970?s=40&amp;v=4</avatar>
+          <name>etu</name>
+          <url>https://github.com/etu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25955146?s=40&amp;v=4</avatar>
+          <name>eyJhb</name>
+          <url>https://github.com/eyJhb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28582702?s=40&amp;v=4</avatar>
+          <name>cole-h</name>
+          <url>https://github.com/cole-h</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>tpwrules/nixos-apple-silicon</title>
-      <link>https://github.com/tpwrules/nixos-apple-silicon</link>
-      <description>Resources to install NixOS bare metal on Apple Silicon Macs</description>
-      <guid>https://github.com/tpwrules/nixos-apple-silicon</guid>
+      <title>nix-community/poetry2nix</title>
+      <link>https://github.com/nix-community/poetry2nix</link>
+      <description>Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]</description>
+      <guid>https://github.com/nix-community/poetry2nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>833</stars>
-      <forks>80</forks>
+      <stars>844</stars>
+      <forks>439</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63286?s=40&amp;v=4</avatar>
+          <name>adisbladis</name>
+          <url>https://github.com/adisbladis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/417981?s=40&amp;v=4</avatar>
+          <name>cpcloud</name>
+          <url>https://github.com/cpcloud</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/168301?s=40&amp;v=4</avatar>
+          <name>l0b0</name>
+          <url>https://github.com/l0b0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/411978?s=40&amp;v=4</avatar>
+          <name>takeda</name>
+          <url>https://github.com/takeda</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/973709?s=40&amp;v=4</avatar>
+          <name>yajo</name>
+          <url>https://github.com/yajo</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ipetkov/crane</title>
+      <link>https://github.com/ipetkov/crane</link>
+      <description>A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.</description>
+      <guid>https://github.com/ipetkov/crane</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>897</stars>
+      <forks>84</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/208010?s=40&amp;v=4</avatar>
-          <name>tpwrules</name>
-          <url>https://github.com/tpwrules</url>
+          <avatar>https://avatars.githubusercontent.com/u/1638690?s=40&amp;v=4</avatar>
+          <name>ipetkov</name>
+          <url>https://github.com/ipetkov</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86169957?s=40&amp;v=4</avatar>
-          <name>yu-re-ka</name>
-          <url>https://github.com/yu-re-ka</url>
+          <avatar>https://avatars.githubusercontent.com/u/63286?s=40&amp;v=4</avatar>
+          <name>adisbladis</name>
+          <url>https://github.com/adisbladis</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mitchellh/nixos-config</title>
+      <link>https://github.com/mitchellh/nixos-config</link>
+      <description>My NixOS configurations.</description>
+      <guid>https://github.com/mitchellh/nixos-config</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>1,977</stars>
+      <forks>190</forks>
+      <addStars>12</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4</avatar>
+          <name>mitchellh</name>
+          <url>https://github.com/mitchellh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9061737?s=40&amp;v=4</avatar>
-          <name>natsukagami</name>
-          <url>https://github.com/natsukagami</url>
+          <avatar>https://avatars.githubusercontent.com/u/143861?s=40&amp;v=4</avatar>
+          <name>klivan</name>
+          <url>https://github.com/klivan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4971975?s=40&amp;v=4</avatar>
-          <name>dasJ</name>
-          <url>https://github.com/dasJ</url>
+          <avatar>https://avatars.githubusercontent.com/u/627285?s=40&amp;v=4</avatar>
+          <name>supermarin</name>
+          <url>https://github.com/supermarin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51676322?s=40&amp;v=4</avatar>
-          <name>zzywysm</name>
-          <url>https://github.com/zzywysm</url>
+          <avatar>https://avatars.githubusercontent.com/u/8778?s=40&amp;v=4</avatar>
+          <name>fud</name>
+          <url>https://github.com/fud</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/332968?s=40&amp;v=4</avatar>
+          <name>lucamaraschi</name>
+          <url>https://github.com/lucamaraschi</url>
         </contributor>
       </contributors>
     </item>
@@ -398,134 +469,68 @@
       </contributors>
     </item>
     <item>
-      <title>nix-community/impermanence</title>
-      <link>https://github.com/nix-community/impermanence</link>
-      <description>Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]</description>
-      <guid>https://github.com/nix-community/impermanence</guid>
+      <title>oddlama/nix-topology</title>
+      <link>https://github.com/oddlama/nix-topology</link>
+      <description>🍁 Generate infrastructure and network diagrams directly from your NixOS configurations</description>
+      <guid>https://github.com/oddlama/nix-topology</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,125</stars>
-      <forks>82</forks>
-      <addStars>15</addStars>
+      <stars>485</stars>
+      <forks>20</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63433?s=40&amp;v=4</avatar>
-          <name>talyz</name>
-          <url>https://github.com/talyz</url>
+          <avatar>https://avatars.githubusercontent.com/u/31919558?s=40&amp;v=4</avatar>
+          <name>oddlama</name>
+          <url>https://github.com/oddlama</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7243783?s=40&amp;v=4</avatar>
-          <name>lovesegfault</name>
-          <url>https://github.com/lovesegfault</url>
+          <avatar>https://avatars.githubusercontent.com/u/29395089?s=40&amp;v=4</avatar>
+          <name>JayRovacsek</name>
+          <url>https://github.com/JayRovacsek</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/461970?s=40&amp;v=4</avatar>
-          <name>etu</name>
-          <url>https://github.com/etu</url>
+          <avatar>https://avatars.githubusercontent.com/u/67164465?s=40&amp;v=4</avatar>
+          <name>IogaMaster</name>
+          <url>https://github.com/IogaMaster</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25955146?s=40&amp;v=4</avatar>
-          <name>eyJhb</name>
-          <url>https://github.com/eyJhb</url>
+          <avatar>https://avatars.githubusercontent.com/u/79340822?s=40&amp;v=4</avatar>
+          <name>hauskens</name>
+          <url>https://github.com/hauskens</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28582702?s=40&amp;v=4</avatar>
-          <name>cole-h</name>
-          <url>https://github.com/cole-h</url>
+          <avatar>https://avatars.githubusercontent.com/u/101753?s=40&amp;v=4</avatar>
+          <name>phaer</name>
+          <url>https://github.com/phaer</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>nix-community/NixOS-WSL</title>
-      <link>https://github.com/nix-community/NixOS-WSL</link>
-      <description>NixOS on WSL(2) [maintainer=@nzbr]</description>
-      <guid>https://github.com/nix-community/NixOS-WSL</guid>
+      <title>DavHau/nix-portable</title>
+      <link>https://github.com/DavHau/nix-portable</link>
+      <description>Nix - Static, Permissionless, Installation-free, Pre-configured</description>
+      <guid>https://github.com/DavHau/nix-portable</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,777</stars>
-      <forks>114</forks>
-      <addStars>20</addStars>
+      <stars>866</stars>
+      <forks>31</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7851175?s=40&amp;v=4</avatar>
-          <name>nzbr</name>
-          <url>https://github.com/nzbr</url>
+          <avatar>https://avatars.githubusercontent.com/u/42246742?s=40&amp;v=4</avatar>
+          <name>DavHau</name>
+          <url>https://github.com/DavHau</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/386765?s=40&amp;v=4</avatar>
-          <name>K900</name>
-          <url>https://github.com/K900</url>
+          <avatar>https://avatars.githubusercontent.com/u/10492681?s=40&amp;v=4</avatar>
+          <name>Enzime</name>
+          <url>https://github.com/Enzime</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
-          <name>SuperSandro2000</name>
-          <url>https://github.com/SuperSandro2000</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/332418?s=40&amp;v=4</avatar>
-          <name>Trundle</name>
-          <url>https://github.com/Trundle</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nix-community/poetry2nix</title>
-      <link>https://github.com/nix-community/poetry2nix</link>
-      <description>Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]</description>
-      <guid>https://github.com/nix-community/poetry2nix</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>843</stars>
-      <forks>439</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63286?s=40&amp;v=4</avatar>
-          <name>adisbladis</name>
-          <url>https://github.com/adisbladis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/417981?s=40&amp;v=4</avatar>
-          <name>cpcloud</name>
-          <url>https://github.com/cpcloud</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/168301?s=40&amp;v=4</avatar>
-          <name>l0b0</name>
-          <url>https://github.com/l0b0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/411978?s=40&amp;v=4</avatar>
-          <name>takeda</name>
-          <url>https://github.com/takeda</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/973709?s=40&amp;v=4</avatar>
-          <name>yajo</name>
-          <url>https://github.com/yajo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mikeroyal/NixOS-Guide</title>
-      <link>https://github.com/mikeroyal/NixOS-Guide</link>
-      <description>NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.</description>
-      <guid>https://github.com/mikeroyal/NixOS-Guide</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>802</stars>
-      <forks>24</forks>
-      <addStars>10</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45159366?s=40&amp;v=4</avatar>
-          <name>mikeroyal</name>
-          <url>https://github.com/mikeroyal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
-          <name>Lassulus</name>
-          <url>https://github.com/Lassulus</url>
+          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
+          <name>Mic92</name>
+          <url>https://github.com/Mic92</url>
         </contributor>
       </contributors>
     </item>
@@ -536,7 +541,7 @@
       <guid>https://github.com/LnL7/nix-darwin</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,811</stars>
+      <stars>2,812</stars>
       <forks>430</forks>
       <addStars>14</addStars>
       <contributors>
@@ -559,6 +564,39 @@
           <avatar>https://avatars.githubusercontent.com/u/18535642?s=40&amp;v=4</avatar>
           <name>emilazy</name>
           <url>https://github.com/emilazy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>nix-community/NixOS-WSL</title>
+      <link>https://github.com/nix-community/NixOS-WSL</link>
+      <description>NixOS on WSL(2) [maintainer=@nzbr]</description>
+      <guid>https://github.com/nix-community/NixOS-WSL</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>1,779</stars>
+      <forks>114</forks>
+      <addStars>20</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7851175?s=40&amp;v=4</avatar>
+          <name>nzbr</name>
+          <url>https://github.com/nzbr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/386765?s=40&amp;v=4</avatar>
+          <name>K900</name>
+          <url>https://github.com/K900</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
+          <name>SuperSandro2000</name>
+          <url>https://github.com/SuperSandro2000</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/332418?s=40&amp;v=4</avatar>
+          <name>Trundle</name>
+          <url>https://github.com/Trundle</url>
         </contributor>
       </contributors>
     </item>
