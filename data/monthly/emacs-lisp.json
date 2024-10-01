@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 01 Oct 2024 07:14:53 GMT",
+  "pubDate": "Tue, 01 Oct 2024 13:28:18 GMT",
   "items": [
     {
       "title": "karthink/gptel",
@@ -47,7 +47,7 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "19,297",
+      "stars": "19,299",
       "forks": "3,039",
       "addStars": "185",
       "contributors": [
@@ -116,6 +116,43 @@
       ]
     },
     {
+      "title": "emacs-lsp/lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "4,763",
+      "forks": "879",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13259670?s=40&v=4",
+          "name": "yyoncho",
+          "url": "https://github.com/yyoncho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2142872?s=40&v=4",
+          "name": "vibhavp",
+          "url": "https://github.com/vibhavp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7820865?s=40&v=4",
+          "name": "ericdallo",
+          "url": "https://github.com/ericdallo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
+          "name": "jcs090218",
+          "url": "https://github.com/jcs090218"
+        }
+      ]
+    },
+    {
       "title": "syl20bnr/spacemacs",
       "url": "https://github.com/syl20bnr/spacemacs",
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
@@ -149,43 +186,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/13420573?s=40&v=4",
           "name": "duianto",
           "url": "https://github.com/duianto"
-        }
-      ]
-    },
-    {
-      "title": "emacs-lsp/lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "4,762",
-      "forks": "879",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13259670?s=40&v=4",
-          "name": "yyoncho",
-          "url": "https://github.com/yyoncho"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2142872?s=40&v=4",
-          "name": "vibhavp",
-          "url": "https://github.com/vibhavp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7820865?s=40&v=4",
-          "name": "ericdallo",
-          "url": "https://github.com/ericdallo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
-          "name": "jcs090218",
-          "url": "https://github.com/jcs090218"
         }
       ]
     },
@@ -227,117 +227,6 @@
       ]
     },
     {
-      "title": "auto-complete/popup-el",
-      "url": "https://github.com/auto-complete/popup-el",
-      "description": "Visual Popup Interface Library for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "449",
-      "forks": "96",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
-          "name": "jcs090218",
-          "url": "https://github.com/jcs090218"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
-          "name": "syohex",
-          "url": "https://github.com/syohex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/235329?s=40&v=4",
-          "name": "uk-ar",
-          "url": "https://github.com/uk-ar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29282?s=40&v=4",
-          "name": "tkf",
-          "url": "https://github.com/tkf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67725?s=40&v=4",
-          "name": "tumashu",
-          "url": "https://github.com/tumashu"
-        }
-      ]
-    },
-    {
-      "title": "tkf/emacs-request",
-      "url": "https://github.com/tkf/emacs-request",
-      "description": "Request.el -- Easy HTTP request for Emacs Lisp",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "625",
-      "forks": "93",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29282?s=40&v=4",
-          "name": "tkf",
-          "url": "https://github.com/tkf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
-          "name": "syohex",
-          "url": "https://github.com/syohex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7578770?s=40&v=4",
-          "name": "dickmao",
-          "url": "https://github.com/dickmao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/364340?s=40&v=4",
-          "name": "titaniumbones",
-          "url": "https://github.com/titaniumbones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4703128?s=40&v=4",
-          "name": "conao3",
-          "url": "https://github.com/conao3"
-        }
-      ]
-    },
-    {
-      "title": "mhayashi1120/Emacs-wgrep",
-      "url": "https://github.com/mhayashi1120/Emacs-wgrep",
-      "description": "Writable grep buffer and apply the changes to files",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "660",
-      "forks": "43",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/229283?s=40&v=4",
-          "name": "mhayashi1120",
-          "url": "https://github.com/mhayashi1120"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1533939?s=40&v=4",
-          "name": "thierryvolpiatto",
-          "url": "https://github.com/thierryvolpiatto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11372289?s=40&v=4",
-          "name": "sten0",
-          "url": "https://github.com/sten0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47980?s=40&v=4",
-          "name": "manphiz",
-          "url": "https://github.com/manphiz"
-        }
-      ]
-    },
-    {
       "title": "dajva/rg.el",
       "url": "https://github.com/dajva/rg.el",
       "description": "Emacs search tool based on ripgrep",
@@ -371,80 +260,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/414282?s=40&v=4",
           "name": "mbunkus",
           "url": "https://github.com/mbunkus"
-        }
-      ]
-    },
-    {
-      "title": "justbur/emacs-which-key",
-      "url": "https://github.com/justbur/emacs-which-key",
-      "description": "Emacs package that displays available keybindings in popup",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "1,736",
-      "forks": "87",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2208382?s=40&v=4",
-          "name": "justbur",
-          "url": "https://github.com/justbur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71235811?s=40&v=4",
-          "name": "jeremy-bryant",
-          "url": "https://github.com/jeremy-bryant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4334375?s=40&v=4",
-          "name": "bmag",
-          "url": "https://github.com/bmag"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2726057?s=40&v=4",
-          "name": "iqbalansari",
-          "url": "https://github.com/iqbalansari"
-        }
-      ]
-    },
-    {
-      "title": "joaotavora/yasnippet",
-      "url": "https://github.com/joaotavora/yasnippet",
-      "description": "A template system for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,785",
-      "forks": "311",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/387011?s=40&v=4",
-          "name": "joaotavora",
-          "url": "https://github.com/joaotavora"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/287742?s=40&v=4",
-          "name": "npostavs",
-          "url": "https://github.com/npostavs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3542?s=40&v=4",
-          "name": "pluskid",
-          "url": "https://github.com/pluskid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
-          "name": "monnier",
-          "url": "https://github.com/monnier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39563?s=40&v=4",
-          "name": "jimeh",
-          "url": "https://github.com/jimeh"
         }
       ]
     },
@@ -486,20 +301,52 @@
       ]
     },
     {
-      "title": "kiwanami/emacs-deferred",
-      "url": "https://github.com/kiwanami/emacs-deferred",
-      "description": "Simple asynchronous functions for emacs lisp",
+      "title": "mhayashi1120/Emacs-wgrep",
+      "url": "https://github.com/mhayashi1120/Emacs-wgrep",
+      "description": "Writable grep buffer and apply the changes to files",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "311",
+      "stars": "660",
       "forks": "43",
-      "addStars": "0",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158801?s=40&v=4",
-          "name": "kiwanami",
-          "url": "https://github.com/kiwanami"
+          "avatar": "https://avatars.githubusercontent.com/u/229283?s=40&v=4",
+          "name": "mhayashi1120",
+          "url": "https://github.com/mhayashi1120"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1533939?s=40&v=4",
+          "name": "thierryvolpiatto",
+          "url": "https://github.com/thierryvolpiatto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11372289?s=40&v=4",
+          "name": "sten0",
+          "url": "https://github.com/sten0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47980?s=40&v=4",
+          "name": "manphiz",
+          "url": "https://github.com/manphiz"
+        }
+      ]
+    },
+    {
+      "title": "tkf/emacs-request",
+      "url": "https://github.com/tkf/emacs-request",
+      "description": "Request.el -- Easy HTTP request for Emacs Lisp",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "625",
+      "forks": "93",
+      "addStars": "4",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29282?s=40&v=4",
           "name": "tkf",
@@ -511,14 +358,167 @@
           "url": "https://github.com/syohex"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2601132?s=40&v=4",
-          "name": "AdrieanKhisbe",
-          "url": "https://github.com/AdrieanKhisbe"
+          "avatar": "https://avatars.githubusercontent.com/u/7578770?s=40&v=4",
+          "name": "dickmao",
+          "url": "https://github.com/dickmao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1049744?s=40&v=4",
-          "name": "joddie",
-          "url": "https://github.com/joddie"
+          "avatar": "https://avatars.githubusercontent.com/u/364340?s=40&v=4",
+          "name": "titaniumbones",
+          "url": "https://github.com/titaniumbones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4703128?s=40&v=4",
+          "name": "conao3",
+          "url": "https://github.com/conao3"
+        }
+      ]
+    },
+    {
+      "title": "org-roam/org-roam",
+      "url": "https://github.com/org-roam/org-roam",
+      "description": "Rudimentary Roam replica with Org-mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "5,476",
+      "forks": "477",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1667473?s=40&v=4",
+          "name": "jethrokuan",
+          "url": "https://github.com/jethrokuan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12202828?s=40&v=4",
+          "name": "zaeph",
+          "url": "https://github.com/zaeph"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44036031?s=40&v=4",
+          "name": "progfolio",
+          "url": "https://github.com/progfolio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52547?s=40&v=4",
+          "name": "juergenhoetzel",
+          "url": "https://github.com/juergenhoetzel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12507865?s=40&v=4",
+          "name": "nobiot",
+          "url": "https://github.com/nobiot"
+        }
+      ]
+    },
+    {
+      "title": "auto-complete/popup-el",
+      "url": "https://github.com/auto-complete/popup-el",
+      "description": "Visual Popup Interface Library for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "449",
+      "forks": "96",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
+          "name": "jcs090218",
+          "url": "https://github.com/jcs090218"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
+          "name": "syohex",
+          "url": "https://github.com/syohex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/235329?s=40&v=4",
+          "name": "uk-ar",
+          "url": "https://github.com/uk-ar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29282?s=40&v=4",
+          "name": "tkf",
+          "url": "https://github.com/tkf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67725?s=40&v=4",
+          "name": "tumashu",
+          "url": "https://github.com/tumashu"
+        }
+      ]
+    },
+    {
+      "title": "pashky/restclient.el",
+      "url": "https://github.com/pashky/restclient.el",
+      "description": "HTTP REST client tool for emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,993",
+      "forks": "166",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/663876?s=40&v=4",
+          "name": "pashky",
+          "url": "https://github.com/pashky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/591567?s=40&v=4",
+          "name": "markus1189",
+          "url": "https://github.com/markus1189"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
+          "name": "syohex",
+          "url": "https://github.com/syohex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1216?s=40&v=4",
+          "name": "vetler",
+          "url": "https://github.com/vetler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5636?s=40&v=4",
+          "name": "purcell",
+          "url": "https://github.com/purcell"
+        }
+      ]
+    },
+    {
+      "title": "justbur/emacs-which-key",
+      "url": "https://github.com/justbur/emacs-which-key",
+      "description": "Emacs package that displays available keybindings in popup",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,736",
+      "forks": "87",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2208382?s=40&v=4",
+          "name": "justbur",
+          "url": "https://github.com/justbur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71235811?s=40&v=4",
+          "name": "jeremy-bryant",
+          "url": "https://github.com/jeremy-bryant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4334375?s=40&v=4",
+          "name": "bmag",
+          "url": "https://github.com/bmag"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2726057?s=40&v=4",
+          "name": "iqbalansari",
+          "url": "https://github.com/iqbalansari"
         }
       ]
     }
