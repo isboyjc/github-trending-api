@@ -2,8 +2,40 @@
   "title": "GitHub Smarty Languages Weekly Trending",
   "description": "Weekly Trending of Smarty Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Oct 2024 07:14:19 GMT",
+  "pubDate": "Sat, 19 Oct 2024 13:23:05 GMT",
   "items": [
+    {
+      "title": "sentry-kubernetes/charts",
+      "url": "https://github.com/sentry-kubernetes/charts",
+      "description": "Easily deploy Sentry on your Kubernetes Cluster",
+      "language": "Smarty",
+      "languageColor": "#f0c040",
+      "stars": "1,081",
+      "forks": "514",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5103928?s=40&v=4",
+          "name": "Mokto",
+          "url": "https://github.com/Mokto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10828883?s=40&v=4",
+          "name": "patsevanton",
+          "url": "https://github.com/patsevanton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13225811?s=40&v=4",
+          "name": "adonskoy",
+          "url": "https://github.com/adonskoy"
+        }
+      ]
+    },
     {
       "title": "grafana/helm-charts",
       "url": "https://github.com/grafana/helm-charts",
@@ -42,43 +74,6 @@
       ]
     },
     {
-      "title": "bitnami/charts",
-      "url": "https://github.com/bitnami/charts",
-      "description": "Bitnami Helm Charts",
-      "language": "Smarty",
-      "languageColor": "#f0c040",
-      "stars": "8,941",
-      "forks": "9,180",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13025337?s=40&v=4",
-          "name": "bitnami-bot",
-          "url": "https://github.com/bitnami-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1133777?s=40&v=4",
-          "name": "javsalgar",
-          "url": "https://github.com/javsalgar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13216600?s=40&v=4",
-          "name": "carrodher",
-          "url": "https://github.com/carrodher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6740773?s=40&v=4",
-          "name": "juan131",
-          "url": "https://github.com/juan131"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37381070?s=40&v=4",
-          "name": "migruiz4",
-          "url": "https://github.com/migruiz4"
-        }
-      ]
-    },
-    {
       "title": "grafana/k8s-monitoring-helm",
       "url": "https://github.com/grafana/k8s-monitoring-helm",
       "description": "",
@@ -102,6 +97,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/442745?s=40&v=4",
           "name": "bentonam",
           "url": "https://github.com/bentonam"
+        }
+      ]
+    },
+    {
+      "title": "signalfx/splunk-otel-collector-chart",
+      "url": "https://github.com/signalfx/splunk-otel-collector-chart",
+      "description": "Splunk OpenTelemetry Collector for Kubernetes",
+      "language": "Smarty",
+      "languageColor": "#f0c040",
+      "stars": "119",
+      "forks": "148",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
+          "name": "dmitryax",
+          "url": "https://github.com/dmitryax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47871238?s=40&v=4",
+          "name": "jvoravong",
+          "url": "https://github.com/jvoravong"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16758?s=40&v=4",
+          "name": "atoulme",
+          "url": "https://github.com/atoulme"
         }
       ]
     },
@@ -143,6 +165,43 @@
       ]
     },
     {
+      "title": "bitnami/charts",
+      "url": "https://github.com/bitnami/charts",
+      "description": "Bitnami Helm Charts",
+      "language": "Smarty",
+      "languageColor": "#f0c040",
+      "stars": "8,946",
+      "forks": "9,181",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13025337?s=40&v=4",
+          "name": "bitnami-bot",
+          "url": "https://github.com/bitnami-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1133777?s=40&v=4",
+          "name": "javsalgar",
+          "url": "https://github.com/javsalgar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13216600?s=40&v=4",
+          "name": "carrodher",
+          "url": "https://github.com/carrodher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6740773?s=40&v=4",
+          "name": "juan131",
+          "url": "https://github.com/juan131"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37381070?s=40&v=4",
+          "name": "migruiz4",
+          "url": "https://github.com/migruiz4"
+        }
+      ]
+    },
+    {
       "title": "mongodb/helm-charts",
       "url": "https://github.com/mongodb/helm-charts",
       "description": "",
@@ -180,34 +239,76 @@
       ]
     },
     {
-      "title": "sentry-kubernetes/charts",
-      "url": "https://github.com/sentry-kubernetes/charts",
-      "description": "Easily deploy Sentry on your Kubernetes Cluster",
+      "title": "truenas/charts",
+      "url": "https://github.com/truenas/charts",
+      "description": "TrueNAS SCALE Apps Catalogs & Charts",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "1,081",
-      "forks": "514",
-      "addStars": "10",
+      "stars": "305",
+      "forks": "294",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5103928?s=40&v=4",
-          "name": "Mokto",
-          "url": "https://github.com/Mokto"
+          "avatar": "https://avatars.githubusercontent.com/u/17968138?s=40&v=4",
+          "name": "sonicaj",
+          "url": "https://github.com/sonicaj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
+          "avatar": "https://avatars.githubusercontent.com/u/47820033?s=40&v=4",
+          "name": "stavros-k",
+          "url": "https://github.com/stavros-k"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10828883?s=40&v=4",
-          "name": "patsevanton",
-          "url": "https://github.com/patsevanton"
+          "avatar": "https://avatars.githubusercontent.com/u/40872210?s=40&v=4",
+          "name": "bugclerk",
+          "url": "https://github.com/bugclerk"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13225811?s=40&v=4",
-          "name": "adonskoy",
-          "url": "https://github.com/adonskoy"
+          "avatar": "https://avatars.githubusercontent.com/u/7848408?s=40&v=4",
+          "name": "Qubad786",
+          "url": "https://github.com/Qubad786"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1933088?s=40&v=4",
+          "name": "kmoore134",
+          "url": "https://github.com/kmoore134"
+        }
+      ]
+    },
+    {
+      "title": "open-telemetry/opentelemetry-helm-charts",
+      "url": "https://github.com/open-telemetry/opentelemetry-helm-charts",
+      "description": "OpenTelemetry Helm Charts",
+      "language": "Smarty",
+      "languageColor": "#f0c040",
+      "stars": "393",
+      "forks": "478",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12352919?s=40&v=4",
+          "name": "TylerHelmuth",
+          "url": "https://github.com/TylerHelmuth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
+          "name": "dmitryax",
+          "url": "https://github.com/dmitryax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1296118?s=40&v=4",
+          "name": "puckpuck",
+          "url": "https://github.com/puckpuck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8087146?s=40&v=4",
+          "name": "Allex1",
+          "url": "https://github.com/Allex1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10070047?s=40&v=4",
+          "name": "jaronoff97",
+          "url": "https://github.com/jaronoff97"
         }
       ]
     },
@@ -240,33 +341,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/9399967?s=40&v=4",
           "name": "xstar97",
           "url": "https://github.com/xstar97"
-        }
-      ]
-    },
-    {
-      "title": "signalfx/splunk-otel-collector-chart",
-      "url": "https://github.com/signalfx/splunk-otel-collector-chart",
-      "description": "Splunk OpenTelemetry Collector for Kubernetes",
-      "language": "Smarty",
-      "languageColor": "#f0c040",
-      "stars": "119",
-      "forks": "148",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
-          "name": "dmitryax",
-          "url": "https://github.com/dmitryax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47871238?s=40&v=4",
-          "name": "jvoravong",
-          "url": "https://github.com/jvoravong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16758?s=40&v=4",
-          "name": "atoulme",
-          "url": "https://github.com/atoulme"
         }
       ]
     },
@@ -326,43 +400,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/574334?s=40&v=4",
           "name": "KalleDK",
           "url": "https://github.com/KalleDK"
-        }
-      ]
-    },
-    {
-      "title": "Alfresco/acs-deployment",
-      "url": "https://github.com/Alfresco/acs-deployment",
-      "description": "Alfresco Content Services containerized deployment (Helm and Docker Compose)",
-      "language": "Smarty",
-      "languageColor": "#f0c040",
-      "stars": "176",
-      "forks": "242",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71768?s=40&v=4",
-          "name": "gionn",
-          "url": "https://github.com/gionn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2311899?s=40&v=4",
-          "name": "alxgomz",
-          "url": "https://github.com/alxgomz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22835865?s=40&v=4",
-          "name": "amohammedalfresco",
-          "url": "https://github.com/amohammedalfresco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6233599?s=40&v=4",
-          "name": "alandavis",
-          "url": "https://github.com/alandavis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19487363?s=40&v=4",
-          "name": "DenisGabriela",
-          "url": "https://github.com/DenisGabriela"
         }
       ]
     },
@@ -431,80 +468,6 @@
       ]
     },
     {
-      "title": "open-telemetry/opentelemetry-helm-charts",
-      "url": "https://github.com/open-telemetry/opentelemetry-helm-charts",
-      "description": "OpenTelemetry Helm Charts",
-      "language": "Smarty",
-      "languageColor": "#f0c040",
-      "stars": "393",
-      "forks": "478",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12352919?s=40&v=4",
-          "name": "TylerHelmuth",
-          "url": "https://github.com/TylerHelmuth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
-          "name": "dmitryax",
-          "url": "https://github.com/dmitryax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1296118?s=40&v=4",
-          "name": "puckpuck",
-          "url": "https://github.com/puckpuck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8087146?s=40&v=4",
-          "name": "Allex1",
-          "url": "https://github.com/Allex1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10070047?s=40&v=4",
-          "name": "jaronoff97",
-          "url": "https://github.com/jaronoff97"
-        }
-      ]
-    },
-    {
-      "title": "open-metadata/openmetadata-helm-charts",
-      "url": "https://github.com/open-metadata/openmetadata-helm-charts",
-      "description": "",
-      "language": "Smarty",
-      "languageColor": "#f0c040",
-      "stars": "41",
-      "forks": "73",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15995028?s=40&v=4",
-          "name": "akash-jain-10",
-          "url": "https://github.com/akash-jain-10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28398174?s=40&v=4",
-          "name": "Anuj359",
-          "url": "https://github.com/Anuj359"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38649?s=40&v=4",
-          "name": "harshach",
-          "url": "https://github.com/harshach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26759904?s=40&v=4",
-          "name": "dhruvinmaniar123",
-          "url": "https://github.com/dhruvinmaniar123"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2269035?s=40&v=4",
-          "name": "tutte",
-          "url": "https://github.com/tutte"
-        }
-      ]
-    },
-    {
       "title": "rancher/charts",
       "url": "https://github.com/rancher/charts",
       "description": "Github based Helm Chart Index Repository providing charts crafted for Rancher Manager",
@@ -538,6 +501,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/6218999?s=40&v=4",
           "name": "jiaqiluo",
           "url": "https://github.com/jiaqiluo"
+        }
+      ]
+    },
+    {
+      "title": "opensearch-project/helm-charts",
+      "url": "https://github.com/opensearch-project/helm-charts",
+      "description": "☸️ A community repository for Helm Charts of OpenSearch Project.",
+      "language": "Smarty",
+      "languageColor": "#f0c040",
+      "stars": "171",
+      "forks": "228",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65193828?s=40&v=4",
+          "name": "peterzhuamazon",
+          "url": "https://github.com/peterzhuamazon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28733332?s=40&v=4",
+          "name": "prudhvigodithi",
+          "url": "https://github.com/prudhvigodithi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26045331?s=40&v=4",
+          "name": "TheAlgo",
+          "url": "https://github.com/TheAlgo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/861778?s=40&v=4",
+          "name": "smlx",
+          "url": "https://github.com/smlx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61760125?s=40&v=4",
+          "name": "gaiksaya",
+          "url": "https://github.com/gaiksaya"
         }
       ]
     }
