@@ -52,7 +52,7 @@ https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/monthly/java.xml
 
 ## Related links
 
-- [Rsstabs](rsstabs.com) Build Your Own AI News Assistant in RssTabs,Intelligent, personalized, and effortlessly efficient.
+- [Rsstabs](https://rsstabs.com) Build Your Own AI News Assistant in RssTabs,Intelligent, personalized, and effortlessly efficient.
 
 
 ## License
