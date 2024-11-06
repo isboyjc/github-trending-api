@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Monthly Trending",
   "description": "Monthly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 06 Nov 2024 07:14:06 GMT",
+  "pubDate": "Wed, 06 Nov 2024 13:25:52 GMT",
   "items": [
     {
       "title": "xmake-io/xmake",
@@ -10,7 +10,7 @@
       "description": "🔥 A cross-platform build utility based on Lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "10,078",
+      "stars": "10,080",
       "forks": "784",
       "addStars": "206",
       "contributors": [
@@ -42,12 +42,49 @@
       ]
     },
     {
+      "title": "Saghen/blink.cmp",
+      "url": "https://github.com/Saghen/blink.cmp",
+      "description": "Performant, batteries-included completion plugin for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "1,105",
+      "forks": "63",
+      "addStars": "1,088",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10467983?s=40&v=4",
+          "name": "Saghen",
+          "url": "https://github.com/Saghen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18155001?s=40&v=4",
+          "name": "redxtech",
+          "url": "https://github.com/redxtech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39483124?s=40&v=4",
+          "name": "scottmckendry",
+          "url": "https://github.com/scottmckendry"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70210066?s=40&v=4",
+          "name": "lopi-py",
+          "url": "https://github.com/lopi-py"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7075380?s=40&v=4",
+          "name": "Danielkonge",
+          "url": "https://github.com/Danielkonge"
+        }
+      ]
+    },
+    {
       "title": "neovim/nvim-lspconfig",
       "url": "https://github.com/neovim/nvim-lspconfig",
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "10,686",
+      "stars": "10,689",
       "forks": "2,080",
       "addStars": "247",
       "contributors": [
@@ -74,113 +111,12 @@
       ]
     },
     {
-      "title": "olimorris/codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "957",
-      "forks": "73",
-      "addStars": "235",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9512444?s=40&v=4",
-          "name": "olimorris",
-          "url": "https://github.com/olimorris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41188874?s=40&v=4",
-          "name": "SDGLBL",
-          "url": "https://github.com/SDGLBL"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105807570?s=40&v=4",
-          "name": "bassamsdata",
-          "url": "https://github.com/bassamsdata"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3330855?s=40&v=4",
-          "name": "GordianDziwis",
-          "url": "https://github.com/GordianDziwis"
-        }
-      ]
-    },
-    {
-      "title": "hrsh7th/nvim-cmp",
-      "url": "https://github.com/hrsh7th/nvim-cmp",
-      "description": "A completion plugin for neovim coded in Lua.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "8,051",
-      "forks": "399",
-      "addStars": "180",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
-          "name": "hrsh7th",
-          "url": "https://github.com/hrsh7th"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82267684?s=40&v=4",
-          "name": "uga-rosa",
-          "url": "https://github.com/uga-rosa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4946827?s=40&v=4",
-          "name": "tzachar",
-          "url": "https://github.com/tzachar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15367354?s=40&v=4",
-          "name": "dmitmel",
-          "url": "https://github.com/dmitmel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40792180?s=40&v=4",
-          "name": "smjonas",
-          "url": "https://github.com/smjonas"
-        }
-      ]
-    },
-    {
-      "title": "LazyVim/LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "17,239",
-      "forks": "1,219",
-      "addStars": "465",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
-          "name": "folke",
-          "url": "https://github.com/folke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&v=4",
-          "name": "dpetka2001",
-          "url": "https://github.com/dpetka2001"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
-          "name": "amaanq",
-          "url": "https://github.com/amaanq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8222059?s=40&v=4",
-          "name": "rubiin",
-          "url": "https://github.com/rubiin"
-        }
-      ]
-    },
-    {
       "title": "rafamadriz/friendly-snippets",
       "url": "https://github.com/rafamadriz/friendly-snippets",
       "description": "Set of preconfigured snippets for different languages.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,026",
+      "stars": "2,027",
       "forks": "457",
       "addStars": "59",
       "contributors": [
@@ -212,71 +148,66 @@
       ]
     },
     {
-      "title": "apache/apisix",
-      "url": "https://github.com/apache/apisix",
-      "description": "The Cloud-Native API Gateway",
+      "title": "LazyVim/LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "14,487",
-      "forks": "2,518",
-      "addStars": "156",
+      "stars": "17,241",
+      "forks": "1,220",
+      "addStars": "465",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4161644?s=40&v=4",
-          "name": "spacewander",
-          "url": "https://github.com/spacewander"
+          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+          "name": "folke",
+          "url": "https://github.com/folke"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6814606?s=40&v=4",
-          "name": "membphis",
-          "url": "https://github.com/membphis"
+          "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&v=4",
+          "name": "dpetka2001",
+          "url": "https://github.com/dpetka2001"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26448043?s=40&v=4",
-          "name": "moonming",
-          "url": "https://github.com/moonming"
+          "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
+          "name": "amaanq",
+          "url": "https://github.com/amaanq"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30819887?s=40&v=4",
-          "name": "tzssangglass",
-          "url": "https://github.com/tzssangglass"
+          "avatar": "https://avatars.githubusercontent.com/u/8222059?s=40&v=4",
+          "name": "rubiin",
+          "url": "https://github.com/rubiin"
         }
       ]
     },
     {
-      "title": "catppuccin/nvim",
-      "url": "https://github.com/catppuccin/nvim",
-      "description": "🍨 Soothing pastel theme for (Neo)vim",
+      "title": "olimorris/codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,581",
-      "forks": "252",
-      "addStars": "140",
+      "stars": "961",
+      "forks": "73",
+      "addStars": "235",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58336662?s=40&v=4",
-          "name": "pocco81",
-          "url": "https://github.com/pocco81"
+          "avatar": "https://avatars.githubusercontent.com/u/9512444?s=40&v=4",
+          "name": "olimorris",
+          "url": "https://github.com/olimorris"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56817415?s=40&v=4",
-          "name": "nullchilly",
-          "url": "https://github.com/nullchilly"
+          "avatar": "https://avatars.githubusercontent.com/u/41188874?s=40&v=4",
+          "name": "SDGLBL",
+          "url": "https://github.com/SDGLBL"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48406064?s=40&v=4",
-          "name": "mrtnvgr",
-          "url": "https://github.com/mrtnvgr"
+          "avatar": "https://avatars.githubusercontent.com/u/105807570?s=40&v=4",
+          "name": "bassamsdata",
+          "url": "https://github.com/bassamsdata"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54089360?s=40&v=4",
-          "name": "emxxjnm",
-          "url": "https://github.com/emxxjnm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79978224?s=40&v=4",
-          "name": "nekowinston",
-          "url": "https://github.com/nekowinston"
+          "avatar": "https://avatars.githubusercontent.com/u/3330855?s=40&v=4",
+          "name": "GordianDziwis",
+          "url": "https://github.com/GordianDziwis"
         }
       ]
     },
@@ -286,7 +217,7 @@
       "description": "💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "874",
+      "stars": "875",
       "forks": "11",
       "addStars": "133",
       "contributors": [
@@ -318,7 +249,7 @@
       "description": "True coop multiplayer mod for Noita.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "345",
+      "stars": "346",
       "forks": "15",
       "addStars": "116",
       "contributors": [
@@ -355,7 +286,7 @@
       "description": "G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,122",
+      "stars": "2,123",
       "forks": "123",
       "addStars": "71",
       "contributors": [
@@ -387,34 +318,39 @@
       ]
     },
     {
-      "title": "NvChad/ui",
-      "url": "https://github.com/NvChad/ui",
-      "description": "Lightweight & high performance UI plugin for nvchad",
+      "title": "catppuccin/nvim",
+      "url": "https://github.com/catppuccin/nvim",
+      "description": "🍨 Soothing pastel theme for (Neo)vim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "286",
-      "forks": "130",
-      "addStars": "57",
+      "stars": "5,585",
+      "forks": "252",
+      "addStars": "140",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/59060246?s=40&v=4",
-          "name": "siduck",
-          "url": "https://github.com/siduck"
+          "avatar": "https://avatars.githubusercontent.com/u/58336662?s=40&v=4",
+          "name": "pocco81",
+          "url": "https://github.com/pocco81"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29790821?s=40&v=4",
-          "name": "lucario387",
-          "url": "https://github.com/lucario387"
+          "avatar": "https://avatars.githubusercontent.com/u/56817415?s=40&v=4",
+          "name": "nullchilly",
+          "url": "https://github.com/nullchilly"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1411118?s=40&v=4",
-          "name": "tomasky",
-          "url": "https://github.com/tomasky"
+          "avatar": "https://avatars.githubusercontent.com/u/48406064?s=40&v=4",
+          "name": "mrtnvgr",
+          "url": "https://github.com/mrtnvgr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31726036?s=40&v=4",
-          "name": "kingavatar",
-          "url": "https://github.com/kingavatar"
+          "avatar": "https://avatars.githubusercontent.com/u/54089360?s=40&v=4",
+          "name": "emxxjnm",
+          "url": "https://github.com/emxxjnm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79978224?s=40&v=4",
+          "name": "nekowinston",
+          "url": "https://github.com/nekowinston"
         }
       ]
     },
@@ -456,71 +392,71 @@
       ]
     },
     {
-      "title": "williamboman/mason-lspconfig.nvim",
-      "url": "https://github.com/williamboman/mason-lspconfig.nvim",
-      "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+      "title": "zbirenbaum/copilot.lua",
+      "url": "https://github.com/zbirenbaum/copilot.lua",
+      "description": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,825",
-      "forks": "173",
-      "addStars": "100",
+      "stars": "2,736",
+      "forks": "78",
+      "addStars": "104",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6705160?s=40&v=4",
-          "name": "williamboman",
-          "url": "https://github.com/williamboman"
+          "avatar": "https://avatars.githubusercontent.com/u/8050659?s=40&v=4",
+          "name": "MunifTanjim",
+          "url": "https://github.com/MunifTanjim"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107473453?s=40&v=4",
-          "name": "williambotman",
-          "url": "https://github.com/williambotman"
+          "avatar": "https://avatars.githubusercontent.com/u/32016110?s=40&v=4",
+          "name": "zbirenbaum",
+          "url": "https://github.com/zbirenbaum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1591837?s=40&v=4",
-          "name": "mehalter",
-          "url": "https://github.com/mehalter"
+          "avatar": "https://avatars.githubusercontent.com/u/22371?s=40&v=4",
+          "name": "dsully",
+          "url": "https://github.com/dsully"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
-          "name": "chrisgrieser",
-          "url": "https://github.com/chrisgrieser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/392133?s=40&v=4",
-          "name": "errantepiphany",
-          "url": "https://github.com/errantepiphany"
+          "avatar": "https://avatars.githubusercontent.com/u/42590?s=40&v=4",
+          "name": "johnf",
+          "url": "https://github.com/johnf"
         }
       ]
     },
     {
-      "title": "stevearc/conform.nvim",
-      "url": "https://github.com/stevearc/conform.nvim",
-      "description": "Lightweight yet powerful formatter plugin for Neovim",
+      "title": "hrsh7th/nvim-cmp",
+      "url": "https://github.com/hrsh7th/nvim-cmp",
+      "description": "A completion plugin for neovim coded in Lua.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,160",
-      "forks": "162",
-      "addStars": "152",
+      "stars": "8,051",
+      "forks": "399",
+      "addStars": "180",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/506791?s=40&v=4",
-          "name": "stevearc",
-          "url": "https://github.com/stevearc"
+          "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
+          "name": "hrsh7th",
+          "url": "https://github.com/hrsh7th"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56034786?s=40&v=4",
-          "name": "hougesen",
-          "url": "https://github.com/hougesen"
+          "avatar": "https://avatars.githubusercontent.com/u/82267684?s=40&v=4",
+          "name": "uga-rosa",
+          "url": "https://github.com/uga-rosa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
-          "name": "chrisgrieser",
-          "url": "https://github.com/chrisgrieser"
+          "avatar": "https://avatars.githubusercontent.com/u/4946827?s=40&v=4",
+          "name": "tzachar",
+          "url": "https://github.com/tzachar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4702260?s=40&v=4",
-          "name": "WhoIsSethDaniel",
-          "url": "https://github.com/WhoIsSethDaniel"
+          "avatar": "https://avatars.githubusercontent.com/u/15367354?s=40&v=4",
+          "name": "dmitmel",
+          "url": "https://github.com/dmitmel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40792180?s=40&v=4",
+          "name": "smjonas",
+          "url": "https://github.com/smjonas"
         }
       ]
     },
@@ -531,7 +467,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "3,555",
-      "forks": "525",
+      "forks": "526",
       "addStars": "79",
       "contributors": [
         {
@@ -562,66 +498,34 @@
       ]
     },
     {
-      "title": "zbirenbaum/copilot.lua",
-      "url": "https://github.com/zbirenbaum/copilot.lua",
-      "description": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+      "title": "apache/apisix",
+      "url": "https://github.com/apache/apisix",
+      "description": "The Cloud-Native API Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,735",
-      "forks": "78",
-      "addStars": "104",
+      "stars": "14,488",
+      "forks": "2,518",
+      "addStars": "156",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8050659?s=40&v=4",
-          "name": "MunifTanjim",
-          "url": "https://github.com/MunifTanjim"
+          "avatar": "https://avatars.githubusercontent.com/u/4161644?s=40&v=4",
+          "name": "spacewander",
+          "url": "https://github.com/spacewander"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32016110?s=40&v=4",
-          "name": "zbirenbaum",
-          "url": "https://github.com/zbirenbaum"
+          "avatar": "https://avatars.githubusercontent.com/u/6814606?s=40&v=4",
+          "name": "membphis",
+          "url": "https://github.com/membphis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22371?s=40&v=4",
-          "name": "dsully",
-          "url": "https://github.com/dsully"
+          "avatar": "https://avatars.githubusercontent.com/u/26448043?s=40&v=4",
+          "name": "moonming",
+          "url": "https://github.com/moonming"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42590?s=40&v=4",
-          "name": "johnf",
-          "url": "https://github.com/johnf"
-        }
-      ]
-    },
-    {
-      "title": "folke/lazy.nvim",
-      "url": "https://github.com/folke/lazy.nvim",
-      "description": "💤 A modern plugin manager for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "14,746",
-      "forks": "359",
-      "addStars": "452",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
-          "name": "folke",
-          "url": "https://github.com/folke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81827001?s=40&v=4",
-          "name": "max397574",
-          "url": "https://github.com/max397574"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20475201?s=40&v=4",
-          "name": "tsakirist",
-          "url": "https://github.com/tsakirist"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55766287?s=40&v=4",
-          "name": "ribru17",
-          "url": "https://github.com/ribru17"
+          "avatar": "https://avatars.githubusercontent.com/u/30819887?s=40&v=4",
+          "name": "tzssangglass",
+          "url": "https://github.com/tzssangglass"
         }
       ]
     },
@@ -659,6 +563,107 @@
           "avatar": "https://avatars.githubusercontent.com/u/58627896?s=40&v=4",
           "name": "PriceHiller",
           "url": "https://github.com/PriceHiller"
+        }
+      ]
+    },
+    {
+      "title": "folke/lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "14,748",
+      "forks": "359",
+      "addStars": "452",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+          "name": "folke",
+          "url": "https://github.com/folke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81827001?s=40&v=4",
+          "name": "max397574",
+          "url": "https://github.com/max397574"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20475201?s=40&v=4",
+          "name": "tsakirist",
+          "url": "https://github.com/tsakirist"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55766287?s=40&v=4",
+          "name": "ribru17",
+          "url": "https://github.com/ribru17"
+        }
+      ]
+    },
+    {
+      "title": "williamboman/mason-lspconfig.nvim",
+      "url": "https://github.com/williamboman/mason-lspconfig.nvim",
+      "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "2,825",
+      "forks": "173",
+      "addStars": "100",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6705160?s=40&v=4",
+          "name": "williamboman",
+          "url": "https://github.com/williamboman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107473453?s=40&v=4",
+          "name": "williambotman",
+          "url": "https://github.com/williambotman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1591837?s=40&v=4",
+          "name": "mehalter",
+          "url": "https://github.com/mehalter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
+          "name": "chrisgrieser",
+          "url": "https://github.com/chrisgrieser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/392133?s=40&v=4",
+          "name": "errantepiphany",
+          "url": "https://github.com/errantepiphany"
+        }
+      ]
+    },
+    {
+      "title": "folke/trouble.nvim",
+      "url": "https://github.com/folke/trouble.nvim",
+      "description": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "5,571",
+      "forks": "178",
+      "addStars": "129",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+          "name": "folke",
+          "url": "https://github.com/folke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
+          "name": "echasnovski",
+          "url": "https://github.com/echasnovski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62502207?s=40&v=4",
+          "name": "MariaSolOs",
+          "url": "https://github.com/MariaSolOs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134025?s=40&v=4",
+          "name": "bellini666",
+          "url": "https://github.com/bellini666"
         }
       ]
     }
