@@ -2,7 +2,7 @@
   "title": "GitHub Nextflow Languages Weekly Trending",
   "description": "Weekly Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 13 Nov 2024 19:03:22 GMT",
+  "pubDate": "Thu, 14 Nov 2024 02:15:50 GMT",
   "items": [
     {
       "title": "nf-core/sarek",
@@ -12,7 +12,7 @@
       "languageColor": "#3ac486",
       "stars": "407",
       "forks": "414",
-      "addStars": "6",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "910",
+      "stars": "911",
       "forks": "705",
-      "addStars": "7",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
@@ -196,7 +196,7 @@
       "language": "Nextflow",
       "languageColor": "#3ac486",
       "stars": "283",
-      "forks": "717",
+      "forks": "718",
       "addStars": "3",
       "contributors": [
         {
@@ -234,7 +234,7 @@
       "languageColor": "#3ac486",
       "stars": "124",
       "forks": "111",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
@@ -260,43 +260,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
           "name": "maxulysse",
           "url": "https://github.com/maxulysse"
-        }
-      ]
-    },
-    {
-      "title": "nf-core/hic",
-      "url": "https://github.com/nf-core/hic",
-      "description": "Analysis of Chromosome Conformation Capture data (Hi-C)",
-      "language": "Nextflow",
-      "languageColor": "#3ac486",
-      "stars": "92",
-      "forks": "55",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10778219?s=40&v=4",
-          "name": "nservant",
-          "url": "https://github.com/nservant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
-          "name": "maxulysse",
-          "url": "https://github.com/maxulysse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
-          "name": "nf-core-bot",
-          "url": "https://github.com/nf-core-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465550?s=40&v=4",
-          "name": "ewels",
-          "url": "https://github.com/ewels"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12817534?s=40&v=4",
-          "name": "adamrtalbot",
-          "url": "https://github.com/adamrtalbot"
         }
       ]
     },
@@ -338,29 +301,24 @@
       ]
     },
     {
-      "title": "nf-core/spatialvi",
-      "url": "https://github.com/nf-core/spatialvi",
-      "description": "Pipeline for processing spatially-resolved gene counts with spatial coordinates and image data. Designed for 10x Genomics Visium transcriptomics.",
+      "title": "nf-core/hic",
+      "url": "https://github.com/nf-core/hic",
+      "description": "Analysis of Chromosome Conformation Capture data (Hi-C)",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "52",
-      "forks": "19",
-      "addStars": "1",
+      "stars": "92",
+      "forks": "55",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12528765?s=40&v=4",
-          "name": "fasterius",
-          "url": "https://github.com/fasterius"
+          "avatar": "https://avatars.githubusercontent.com/u/10778219?s=40&v=4",
+          "name": "nservant",
+          "url": "https://github.com/nservant"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7051479?s=40&v=4",
-          "name": "grst",
-          "url": "https://github.com/grst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6164758?s=40&v=4",
-          "name": "cavenel",
-          "url": "https://github.com/cavenel"
+          "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
+          "name": "maxulysse",
+          "url": "https://github.com/maxulysse"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
@@ -368,9 +326,51 @@
           "url": "https://github.com/nf-core-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45244781?s=40&v=4",
-          "name": "sdomanskyi",
-          "url": "https://github.com/sdomanskyi"
+          "avatar": "https://avatars.githubusercontent.com/u/465550?s=40&v=4",
+          "name": "ewels",
+          "url": "https://github.com/ewels"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12817534?s=40&v=4",
+          "name": "adamrtalbot",
+          "url": "https://github.com/adamrtalbot"
+        }
+      ]
+    },
+    {
+      "title": "nf-core/chipseq",
+      "url": "https://github.com/nf-core/chipseq",
+      "description": "ChIP-seq peak-calling, QC and differential analysis pipeline.",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": "194",
+      "forks": "149",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
+          "name": "drpatelh",
+          "url": "https://github.com/drpatelh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6224346?s=40&v=4",
+          "name": "JoseEspinosa",
+          "url": "https://github.com/JoseEspinosa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18303540?s=40&v=4",
+          "name": "chuan-wang",
+          "url": "https://github.com/chuan-wang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465550?s=40&v=4",
+          "name": "ewels",
+          "url": "https://github.com/ewels"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
+          "name": "nf-core-bot",
+          "url": "https://github.com/nf-core-bot"
         }
       ]
     },
@@ -486,34 +486,34 @@
       ]
     },
     {
-      "title": "nf-core/chipseq",
-      "url": "https://github.com/nf-core/chipseq",
-      "description": "ChIP-seq peak-calling, QC and differential analysis pipeline.",
+      "title": "nf-core/funcscan",
+      "url": "https://github.com/nf-core/funcscan",
+      "description": "(Meta-)genome screening for functional and natural product gene sequences",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "194",
-      "forks": "149",
-      "addStars": "1",
+      "stars": "74",
+      "forks": "20",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
-          "name": "drpatelh",
-          "url": "https://github.com/drpatelh"
+          "avatar": "https://avatars.githubusercontent.com/u/73216762?s=40&v=4",
+          "name": "jasmezz",
+          "url": "https://github.com/jasmezz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6224346?s=40&v=4",
-          "name": "JoseEspinosa",
-          "url": "https://github.com/JoseEspinosa"
+          "avatar": "https://avatars.githubusercontent.com/u/17950287?s=40&v=4",
+          "name": "jfy133",
+          "url": "https://github.com/jfy133"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18303540?s=40&v=4",
-          "name": "chuan-wang",
-          "url": "https://github.com/chuan-wang"
+          "avatar": "https://avatars.githubusercontent.com/u/81744003?s=40&v=4",
+          "name": "Darcy220606",
+          "url": "https://github.com/Darcy220606"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/465550?s=40&v=4",
-          "name": "ewels",
-          "url": "https://github.com/ewels"
+          "avatar": "https://avatars.githubusercontent.com/u/44900284?s=40&v=4",
+          "name": "louperelo",
+          "url": "https://github.com/louperelo"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
@@ -560,43 +560,6 @@
       ]
     },
     {
-      "title": "nf-core/funcscan",
-      "url": "https://github.com/nf-core/funcscan",
-      "description": "(Meta-)genome screening for functional and natural product gene sequences",
-      "language": "Nextflow",
-      "languageColor": "#3ac486",
-      "stars": "74",
-      "forks": "20",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73216762?s=40&v=4",
-          "name": "jasmezz",
-          "url": "https://github.com/jasmezz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17950287?s=40&v=4",
-          "name": "jfy133",
-          "url": "https://github.com/jfy133"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81744003?s=40&v=4",
-          "name": "Darcy220606",
-          "url": "https://github.com/Darcy220606"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44900284?s=40&v=4",
-          "name": "louperelo",
-          "url": "https://github.com/louperelo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
-          "name": "nf-core-bot",
-          "url": "https://github.com/nf-core-bot"
-        }
-      ]
-    },
-    {
       "title": "nf-core/raredisease",
       "url": "https://github.com/nf-core/raredisease",
       "description": "Call and score variants from WGS/WES of rare disease patients.",
@@ -630,6 +593,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/54620700?s=40&v=4",
           "name": "sima-r",
           "url": "https://github.com/sima-r"
+        }
+      ]
+    },
+    {
+      "title": "nf-core/spatialvi",
+      "url": "https://github.com/nf-core/spatialvi",
+      "description": "Pipeline for processing spatially-resolved gene counts with spatial coordinates and image data. Designed for 10x Genomics Visium transcriptomics.",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": "52",
+      "forks": "19",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12528765?s=40&v=4",
+          "name": "fasterius",
+          "url": "https://github.com/fasterius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7051479?s=40&v=4",
+          "name": "grst",
+          "url": "https://github.com/grst"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6164758?s=40&v=4",
+          "name": "cavenel",
+          "url": "https://github.com/cavenel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
+          "name": "nf-core-bot",
+          "url": "https://github.com/nf-core-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45244781?s=40&v=4",
+          "name": "sdomanskyi",
+          "url": "https://github.com/sdomanskyi"
         }
       ]
     },
