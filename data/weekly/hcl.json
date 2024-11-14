@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 14 Nov 2024 07:14:40 GMT",
+  "pubDate": "Thu, 14 Nov 2024 13:28:06 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -10,7 +10,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,464",
+      "stars": "4,465",
       "forks": "4,081",
       "addStars": "9",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,716",
-      "forks": "1,532",
+      "stars": "4,721",
+      "forks": "1,533",
       "addStars": "37",
       "contributors": [
         {
@@ -70,43 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/6594322?s=40&v=4",
           "name": "phpsystems",
           "url": "https://github.com/phpsystems"
-        }
-      ]
-    },
-    {
-      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,533",
-      "forks": "881",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
-          "name": "juliocc",
-          "url": "https://github.com/juliocc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
-          "name": "lcaggio",
-          "url": "https://github.com/lcaggio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
-          "name": "juliodiez",
-          "url": "https://github.com/juliodiez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
-          "name": "wiktorn",
-          "url": "https://github.com/wiktorn"
         }
       ]
     },
@@ -148,6 +111,75 @@
       ]
     },
     {
+      "title": "terraform-aws-modules/terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "789",
+      "forks": "1,005",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16338056?s=40&v=4",
+          "name": "vutny",
+          "url": "https://github.com/vutny"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-s3-bucket",
+      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
+      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "168",
+      "forks": "839",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10080107?s=40&v=4",
+          "name": "korenyoni",
+          "url": "https://github.com/korenyoni"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
+          "name": "actions-bot",
+          "url": "https://github.com/actions-bot"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-ecs",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
       "description": "Terraform module to create AWS ECS resources 🇺🇦",
@@ -185,12 +217,86 @@
       ]
     },
     {
+      "title": "Azure/terraform-azurerm-caf-enterprise-scale",
+      "url": "https://github.com/Azure/terraform-azurerm-caf-enterprise-scale",
+      "description": "Azure landing zones Terraform module",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "859",
+      "forks": "568",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12268562?s=40&v=4",
+          "name": "krowlandson",
+          "url": "https://github.com/krowlandson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40946247?s=40&v=4",
+          "name": "J0hn-B",
+          "url": "https://github.com/J0hn-B"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16320656?s=40&v=4",
+          "name": "matt-FFFFFF",
+          "url": "https://github.com/matt-FFFFFF"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41163455?s=40&v=4",
+          "name": "jtracey93",
+          "url": "https://github.com/jtracey93"
+        }
+      ]
+    },
+    {
+      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,533",
+      "forks": "881",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
+          "name": "ludoo",
+          "url": "https://github.com/ludoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
+          "name": "juliocc",
+          "url": "https://github.com/juliocc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
+          "name": "lcaggio",
+          "url": "https://github.com/lcaggio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
+          "name": "juliodiez",
+          "url": "https://github.com/juliodiez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
+          "name": "wiktorn",
+          "url": "https://github.com/wiktorn"
+        }
+      ]
+    },
+    {
       "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
       "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "2,369",
+      "stars": "2,370",
       "forks": "367",
       "addStars": "26",
       "contributors": [
@@ -213,139 +319,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
           "name": "valkenburg-prevue-ch",
           "url": "https://github.com/valkenburg-prevue-ch"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "420",
-      "forks": "1,232",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1406172?s=40&v=4",
-          "name": "taylorludwig",
-          "url": "https://github.com/taylorludwig"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "928",
-      "forks": "688",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
-          "name": "ahlinc",
-          "url": "https://github.com/ahlinc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
-          "name": "pdecat",
-          "url": "https://github.com/pdecat"
-        }
-      ]
-    },
-    {
-      "title": "btkrausen/hashicorp",
-      "url": "https://github.com/btkrausen/hashicorp",
-      "description": "Random code for HashiCorp related projects, training, etc.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,130",
-      "forks": "1,646",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13872436?s=40&v=4",
-          "name": "gmaentz",
-          "url": "https://github.com/gmaentz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30417793?s=40&v=4",
-          "name": "btkrausen",
-          "url": "https://github.com/btkrausen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59138092?s=40&v=4",
-          "name": "imVipul3000",
-          "url": "https://github.com/imVipul3000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/399056?s=40&v=4",
-          "name": "Liquidmantis",
-          "url": "https://github.com/Liquidmantis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3812162?s=40&v=4",
-          "name": "drewmullen",
-          "url": "https://github.com/drewmullen"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-s3-bucket",
-      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
-      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "168",
-      "forks": "839",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10080107?s=40&v=4",
-          "name": "korenyoni",
-          "url": "https://github.com/korenyoni"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
-          "name": "actions-bot",
-          "url": "https://github.com/actions-bot"
         }
       ]
     },
@@ -387,24 +360,24 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "789",
-      "forks": "1,005",
-      "addStars": "2",
+      "stars": "2,988",
+      "forks": "4,437",
+      "addStars": "11",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
           "name": "antonbabenko",
           "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
@@ -412,51 +385,14 @@
           "url": "https://github.com/bryantbiggs"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
+          "name": "DrFaust92",
+          "url": "https://github.com/DrFaust92"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
           "name": "betajobot",
           "url": "https://github.com/betajobot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16338056?s=40&v=4",
-          "name": "vutny",
-          "url": "https://github.com/vutny"
-        }
-      ]
-    },
-    {
-      "title": "Azure/terraform-azurerm-caf-enterprise-scale",
-      "url": "https://github.com/Azure/terraform-azurerm-caf-enterprise-scale",
-      "description": "Azure landing zones Terraform module",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "859",
-      "forks": "568",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12268562?s=40&v=4",
-          "name": "krowlandson",
-          "url": "https://github.com/krowlandson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40946247?s=40&v=4",
-          "name": "J0hn-B",
-          "url": "https://github.com/J0hn-B"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16320656?s=40&v=4",
-          "name": "matt-FFFFFF",
-          "url": "https://github.com/matt-FFFFFF"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41163455?s=40&v=4",
-          "name": "jtracey93",
-          "url": "https://github.com/jtracey93"
         }
       ]
     }
