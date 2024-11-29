@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 29 Nov 2024 07:15:13 GMT",
+  "pubDate": "Fri, 29 Nov 2024 13:30:09 GMT",
   "items": [
     {
       "title": "simplex-chat/simplex-chat",
@@ -47,7 +47,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "36,525",
+      "stars": "36,528",
       "forks": "1,781",
       "addStars": "62",
       "contributors": [
@@ -111,12 +111,49 @@
       ]
     },
     {
+      "title": "agda/agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,517",
+      "forks": "359",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
+          "name": "andreasabel",
+          "url": "https://github.com/andreasabel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/447950?s=40&v=4",
+          "name": "UlfNorell",
+          "url": "https://github.com/UlfNorell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/635804?s=40&v=4",
+          "name": "asr",
+          "url": "https://github.com/asr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/293222?s=40&v=4",
+          "name": "nad",
+          "url": "https://github.com/nad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
+          "name": "jespercockx",
+          "url": "https://github.com/jespercockx"
+        }
+      ]
+    },
+    {
       "title": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "34,848",
+      "stars": "34,855",
       "forks": "3,390",
       "addStars": "94",
       "contributors": [
@@ -144,6 +181,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/157497?s=40&v=4",
           "name": "mb21",
           "url": "https://github.com/mb21"
+        }
+      ]
+    },
+    {
+      "title": "PostgREST/postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "23,489",
+      "forks": "1,033",
+      "addStars": "30",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
+          "name": "steve-chavez",
+          "url": "https://github.com/steve-chavez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/911911?s=40&v=4",
+          "name": "begriffs",
+          "url": "https://github.com/begriffs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9132420?s=40&v=4",
+          "name": "wolfgangwalther",
+          "url": "https://github.com/wolfgangwalther"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
+          "name": "laurenceisla",
+          "url": "https://github.com/laurenceisla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132113?s=40&v=4",
+          "name": "robx",
+          "url": "https://github.com/robx"
+        }
+      ]
+    },
+    {
+      "title": "maralorn/nix-output-monitor",
+      "url": "https://github.com/maralorn/nix-output-monitor",
+      "description": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "938",
+      "forks": "29",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1651325?s=40&v=4",
+          "name": "maralorn",
+          "url": "https://github.com/maralorn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15312184?s=40&v=4",
+          "name": "9999years",
+          "url": "https://github.com/9999years"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58951?s=40&v=4",
+          "name": "NobbZ",
+          "url": "https://github.com/NobbZ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/857308?s=40&v=4",
+          "name": "expipiplus1",
+          "url": "https://github.com/expipiplus1"
         }
       ]
     },
@@ -217,76 +328,34 @@
       ]
     },
     {
-      "title": "PostgREST/postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "haskell/haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "23,488",
-      "forks": "1,033",
-      "addStars": "30",
+      "stars": "2,719",
+      "forks": "368",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
-          "name": "steve-chavez",
-          "url": "https://github.com/steve-chavez"
+          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
+          "name": "pepeiborra",
+          "url": "https://github.com/pepeiborra"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/911911?s=40&v=4",
-          "name": "begriffs",
-          "url": "https://github.com/begriffs"
+          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
+          "name": "jneira",
+          "url": "https://github.com/jneira"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9132420?s=40&v=4",
-          "name": "wolfgangwalther",
-          "url": "https://github.com/wolfgangwalther"
+          "avatar": "https://avatars.githubusercontent.com/u/1699466?s=40&v=4",
+          "name": "michaelpj",
+          "url": "https://github.com/michaelpj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
-          "name": "laurenceisla",
-          "url": "https://github.com/laurenceisla"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132113?s=40&v=4",
-          "name": "robx",
-          "url": "https://github.com/robx"
-        }
-      ]
-    },
-    {
-      "title": "maralorn/nix-output-monitor",
-      "url": "https://github.com/maralorn/nix-output-monitor",
-      "description": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "937",
-      "forks": "28",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1651325?s=40&v=4",
-          "name": "maralorn",
-          "url": "https://github.com/maralorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
-          "name": "SuperSandro2000",
-          "url": "https://github.com/SuperSandro2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15312184?s=40&v=4",
-          "name": "9999years",
-          "url": "https://github.com/9999years"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58951?s=40&v=4",
-          "name": "NobbZ",
-          "url": "https://github.com/NobbZ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/857308?s=40&v=4",
-          "name": "expipiplus1",
-          "url": "https://github.com/expipiplus1"
+          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
+          "name": "wz1000",
+          "url": "https://github.com/wz1000"
         }
       ]
     },
@@ -328,86 +397,12 @@
       ]
     },
     {
-      "title": "agda/agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,517",
-      "forks": "359",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
-          "name": "andreasabel",
-          "url": "https://github.com/andreasabel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/447950?s=40&v=4",
-          "name": "UlfNorell",
-          "url": "https://github.com/UlfNorell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/635804?s=40&v=4",
-          "name": "asr",
-          "url": "https://github.com/asr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/293222?s=40&v=4",
-          "name": "nad",
-          "url": "https://github.com/nad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2910371?s=40&v=4",
-          "name": "jespercockx",
-          "url": "https://github.com/jespercockx"
-        }
-      ]
-    },
-    {
-      "title": "olivierverdier/zsh-git-prompt",
-      "url": "https://github.com/olivierverdier/zsh-git-prompt",
-      "description": "Informative git prompt for zsh",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "1,720",
-      "forks": "395",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/198281?s=40&v=4",
-          "name": "olivierverdier",
-          "url": "https://github.com/olivierverdier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9973?s=40&v=4",
-          "name": "axelson",
-          "url": "https://github.com/axelson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/751587?s=40&v=4",
-          "name": "paulcollinsiii",
-          "url": "https://github.com/paulcollinsiii"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8086?s=40&v=4",
-          "name": "scelis",
-          "url": "https://github.com/scelis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241094?s=40&v=4",
-          "name": "xtaran",
-          "url": "https://github.com/xtaran"
-        }
-      ]
-    },
-    {
       "title": "github/semantic",
       "url": "https://github.com/github/semantic",
       "description": "Parsing, analyzing, and comparing source code across many languages",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "8,981",
+      "stars": "8,982",
       "forks": "452",
       "addStars": "2",
       "contributors": [
