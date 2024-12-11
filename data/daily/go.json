@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Dec 2024 02:26:10 GMT",
+  "pubDate": "Wed, 11 Dec 2024 07:15:28 GMT",
   "items": [
     {
       "title": "ollama/ollama",
@@ -10,8 +10,8 @@
       "description": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "102,127",
-      "forks": "8,148",
+      "stars": "102,183",
+      "forks": "8,151",
       "addStars": "335",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,809",
+      "stars": "12,812",
       "forks": "1,664",
       "addStars": "17",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Get JSON values quickly - JSON parser for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "14,476",
+      "stars": "14,480",
       "forks": "862",
       "addStars": "30",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "The Open Source Dev Environment Manager.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "13,144",
-      "forks": "1,014",
+      "stars": "13,154",
+      "forks": "1,015",
       "addStars": "151",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,569",
+      "stars": "22,572",
       "forks": "3,492",
       "addStars": "14",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "42,004",
+      "stars": "42,017",
       "forks": "1,968",
       "addStars": "198",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "Fast passive subdomain enumeration tool.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,405",
+      "stars": "10,409",
       "forks": "1,290",
       "addStars": "6",
       "contributors": [
@@ -259,8 +259,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "23,973",
-      "forks": "2,356",
+      "stars": "23,978",
+      "forks": "2,355",
       "addStars": "19",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Exporter for machine metrics",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,356",
-      "forks": "2,383",
+      "stars": "11,361",
+      "forks": "2,385",
       "addStars": "9",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,746",
-      "forks": "1,777",
+      "stars": "17,750",
+      "forks": "1,776",
       "addStars": "18",
       "contributors": [
         {
@@ -365,7 +365,7 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "56,200",
+      "stars": "56,204",
       "forks": "9,218",
       "addStars": "7",
       "contributors": [
@@ -397,13 +397,50 @@
       ]
     },
     {
+      "title": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "12,740",
+      "forks": "1,253",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283442?s=40&v=4",
+          "name": "valyala",
+          "url": "https://github.com/valyala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2902918?s=40&v=4",
+          "name": "hagen1778",
+          "url": "https://github.com/hagen1778"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1381404?s=40&v=4",
+          "name": "tenmozes",
+          "url": "https://github.com/tenmozes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18450869?s=40&v=4",
+          "name": "f41gh7",
+          "url": "https://github.com/f41gh7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29711459?s=40&v=4",
+          "name": "Loori-R",
+          "url": "https://github.com/Loori-R"
+        }
+      ]
+    },
+    {
       "title": "spf13/cobra",
       "url": "https://github.com/spf13/cobra",
       "description": "A Commander for modern Go CLI interactions",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,542",
-      "forks": "2,857",
+      "stars": "38,545",
+      "forks": "2,858",
       "addStars": "17",
       "contributors": [
         {
@@ -439,7 +476,7 @@
       "description": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,729",
+      "stars": "5,732",
       "forks": "309",
       "addStars": "4",
       "contributors": [
@@ -471,7 +508,7 @@
       "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,459",
+      "stars": "12,461",
       "forks": "608",
       "addStars": "9",
       "contributors": [
@@ -503,7 +540,7 @@
       "description": "Zero Allocation JSON Logger",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,730",
+      "stars": "10,733",
       "forks": "573",
       "addStars": "9",
       "contributors": [
@@ -535,7 +572,7 @@
       "description": "unclutter your .profile",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,724",
+      "stars": "12,727",
       "forks": "645",
       "addStars": "14",
       "contributors": [
@@ -567,7 +604,7 @@
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "20,972",
+      "stars": "20,976",
       "forks": "2,532",
       "addStars": "15",
       "contributors": [
@@ -599,7 +636,7 @@
       "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,602",
+      "stars": "12,606",
       "forks": "1,555",
       "addStars": "16",
       "contributors": [
@@ -626,8 +663,8 @@
       "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,829",
-      "forks": "6,448",
+      "stars": "21,837",
+      "forks": "6,447",
       "addStars": "18",
       "contributors": [
         {
@@ -695,7 +732,7 @@
       "description": "A highly extensible Git implementation in pure Go.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,054",
+      "stars": "6,056",
       "forks": "752",
       "addStars": "4",
       "contributors": [
@@ -732,7 +769,7 @@
       "description": "Go library for accessing the GitHub v3 API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,484",
+      "stars": "10,485",
       "forks": "2,071",
       "addStars": "1",
       "contributors": [
