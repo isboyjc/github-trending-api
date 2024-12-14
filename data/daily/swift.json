@@ -2,582 +2,116 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Dec 2024 07:13:32 GMT",
+  "pubDate": "Sat, 14 Dec 2024 13:25:52 GMT",
   "items": [
     {
-      "title": "Alamofire/Alamofire",
-      "url": "https://github.com/Alamofire/Alamofire",
-      "description": "Elegant HTTP Networking in Swift",
+      "title": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "41,446",
-      "forks": "7,570",
-      "addStars": "29",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/169110?s=40&v=4",
-          "name": "cnoon",
-          "url": "https://github.com/cnoon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51020?s=40&v=4",
-          "name": "jshier",
-          "url": "https://github.com/jshier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7659?s=40&v=4",
-          "name": "mattt",
-          "url": "https://github.com/mattt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44164?s=40&v=4",
-          "name": "kylef",
-          "url": "https://github.com/kylef"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/198768?s=40&v=4",
-          "name": "kcharwood",
-          "url": "https://github.com/kcharwood"
-        }
-      ]
-    },
-    {
-      "title": "airbnb/lottie-ios",
-      "url": "https://github.com/airbnb/lottie-ios",
-      "description": "An iOS library to natively render After Effects vector animations",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "25,841",
-      "forks": "3,754",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://private-avatars.githubusercontent.com/u/1163980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNDQxMjAsIm5iZiI6MTczNDE0MjkyMCwicGF0aCI6Ii91LzExNjM5ODAifQ.Web1DA8em6Y7A9UcgGiNZJjUm5p6laGLAoo6NaQ3lvM&s=40&v=4",
-          "name": "buba447",
-          "url": "https://github.com/buba447"
-        },
-        {
-          "avatar": "https://private-avatars.githubusercontent.com/u/1811727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNDQwNjAsIm5iZiI6MTczNDE0Mjg2MCwicGF0aCI6Ii91LzE4MTE3MjcifQ.ADhi1dUBEFr93LsrlODTgvtDoSa9EV3EqxOF5OJQoi0&s=40&v=4",
-          "name": "calda",
-          "url": "https://github.com/calda"
-        },
-        {
-          "avatar": "https://private-avatars.githubusercontent.com/u/796488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNDM3NjAsIm5iZiI6MTczNDE0MjU2MCwicGF0aCI6Ii91Lzc5NjQ4OCJ9.kLzKpeP9uxcxyDaEo_vduGoEX7_t43gc13XJRA0u-IU&s=40&v=4",
-          "name": "thedrick",
-          "url": "https://github.com/thedrick"
-        },
-        {
-          "avatar": "https://private-avatars.githubusercontent.com/u/839992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNDM1MjAsIm5iZiI6MTczNDE0MjMyMCwicGF0aCI6Ii91LzgzOTk5MiJ9.qHakjjm_FokTHqV_Wcs6Q8ncDD_2LfsxCMcfyg-wdBk&s=40&v=4",
-          "name": "Coeur",
-          "url": "https://github.com/Coeur"
-        },
-        {
-          "avatar": "https://private-avatars.githubusercontent.com/u/833072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNDQxMjAsIm5iZiI6MTczNDE0MjkyMCwicGF0aCI6Ii91LzgzMzA3MiJ9.CbQjTYS0oXbt8gHNc8v76xQhPo1IxIO3KtESmCYK41c&s=40&v=4",
-          "name": "marcelofabri",
-          "url": "https://github.com/marcelofabri"
-        }
-      ]
-    },
-    {
-      "title": "mrousavy/react-native-vision-camera",
-      "url": "https://github.com/mrousavy/react-native-vision-camera",
-      "description": "📸 A powerful, high-performance React Native Camera library.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "7,709",
-      "forks": "1,112",
+      "stars": "24,651",
+      "forks": "1,450",
       "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15199031?s=40&v=4",
-          "name": "mrousavy",
-          "url": "https://github.com/mrousavy"
+          "avatar": "https://avatars.githubusercontent.com/u/1342803?s=40&v=4",
+          "name": "tanner0101",
+          "url": "https://github.com/tanner0101"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/504909?s=40&v=4",
-          "name": "hirbod",
-          "url": "https://github.com/hirbod"
+          "avatar": "https://avatars.githubusercontent.com/u/5750489?s=40&v=4",
+          "name": "loganwright",
+          "url": "https://github.com/loganwright"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4893591?s=40&v=4",
-          "name": "rodgomesc",
-          "url": "https://github.com/rodgomesc"
+          "avatar": "https://avatars.githubusercontent.com/u/1951674?s=40&v=4",
+          "name": "Joannis",
+          "url": "https://github.com/Joannis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5462205?s=40&v=4",
-          "name": "xulihang",
-          "url": "https://github.com/xulihang"
+          "avatar": "https://avatars.githubusercontent.com/u/9938337?s=40&v=4",
+          "name": "0xTim",
+          "url": "https://github.com/0xTim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42901?s=40&v=4",
+          "name": "shnhrrsn",
+          "url": "https://github.com/shnhrrsn"
         }
       ]
     },
     {
-      "title": "pointfreeco/swift-composable-architecture",
-      "url": "https://github.com/pointfreeco/swift-composable-architecture",
-      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "title": "RevenueCat/purchases-ios",
+      "url": "https://github.com/RevenueCat/purchases-ios",
+      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "12,650",
-      "forks": "1,464",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4",
-          "name": "stephencelis",
-          "url": "https://github.com/stephencelis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4",
-          "name": "mbrandonw",
-          "url": "https://github.com/mbrandonw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4",
-          "name": "tgrapperon",
-          "url": "https://github.com/tgrapperon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4",
-          "name": "iampatbrown",
-          "url": "https://github.com/iampatbrown"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4",
-          "name": "Jager-yoo",
-          "url": "https://github.com/Jager-yoo"
-        }
-      ]
-    },
-    {
-      "title": "onevcat/Kingfisher",
-      "url": "https://github.com/onevcat/Kingfisher",
-      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "23,449",
-      "forks": "2,667",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1019875?s=40&v=4",
-          "name": "onevcat",
-          "url": "https://github.com/onevcat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13112992?s=40&v=4",
-          "name": "lixiang1994",
-          "url": "https://github.com/lixiang1994"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96502?s=40&v=4",
-          "name": "dstranz",
-          "url": "https://github.com/dstranz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5518285?s=40&v=4",
-          "name": "xspyhack",
-          "url": "https://github.com/xspyhack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13075269?s=40&v=4",
-          "name": "wangshuaiguo",
-          "url": "https://github.com/wangshuaiguo"
-        }
-      ]
-    },
-    {
-      "title": "DataDog/dd-sdk-ios",
-      "url": "https://github.com/DataDog/dd-sdk-ios",
-      "description": "Datadog SDK for iOS - Swift and Objective-C.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "223",
-      "forks": "133",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2358722?s=40&v=4",
-          "name": "ncreated",
-          "url": "https://github.com/ncreated"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6815992?s=40&v=4",
-          "name": "maxep",
-          "url": "https://github.com/maxep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6953112?s=40&v=4",
-          "name": "maciejburda",
-          "url": "https://github.com/maciejburda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8882380?s=40&v=4",
-          "name": "ganeshnj",
-          "url": "https://github.com/ganeshnj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1417500?s=40&v=4",
-          "name": "buranmert",
-          "url": "https://github.com/buranmert"
-        }
-      ]
-    },
-    {
-      "title": "pointfreeco/swift-dependencies",
-      "url": "https://github.com/pointfreeco/swift-dependencies",
-      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "1,635",
-      "forks": "132",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4",
-          "name": "mbrandonw",
-          "url": "https://github.com/mbrandonw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4",
-          "name": "stephencelis",
-          "url": "https://github.com/stephencelis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65520?s=40&v=4",
-          "name": "finestructure",
-          "url": "https://github.com/finestructure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288090?s=40&v=4",
-          "name": "oronbz",
-          "url": "https://github.com/oronbz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4",
-          "name": "tgrapperon",
-          "url": "https://github.com/tgrapperon"
-        }
-      ]
-    },
-    {
-      "title": "apple/swift-algorithms",
-      "url": "https://github.com/apple/swift-algorithms",
-      "description": "Commonly used sequence and collection algorithms for Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "6,025",
-      "forks": "441",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7053374?s=40&v=4",
-          "name": "natecook1000",
-          "url": "https://github.com/natecook1000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8292651?s=40&v=4",
-          "name": "LucianoPAlmeida",
-          "url": "https://github.com/LucianoPAlmeida"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/963948?s=40&v=4",
-          "name": "mdznr",
-          "url": "https://github.com/mdznr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1382565?s=40&v=4",
-          "name": "ollieatkinson",
-          "url": "https://github.com/ollieatkinson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2904179?s=40&v=4",
-          "name": "timvermeulen",
-          "url": "https://github.com/timvermeulen"
-        }
-      ]
-    },
-    {
-      "title": "swiftlang/swift-syntax",
-      "url": "https://github.com/swiftlang/swift-syntax",
-      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "3,281",
-      "forks": "414",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4062178?s=40&v=4",
-          "name": "ahoppen",
-          "url": "https://github.com/ahoppen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/989428?s=40&v=4",
-          "name": "DougGregor",
-          "url": "https://github.com/DougGregor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5477711?s=40&v=4",
-          "name": "kimdv",
-          "url": "https://github.com/kimdv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142081?s=40&v=4",
-          "name": "rintaro",
-          "url": "https://github.com/rintaro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1896383?s=40&v=4",
-          "name": "CodaFi",
-          "url": "https://github.com/CodaFi"
-        }
-      ]
-    },
-    {
-      "title": "siteline/swiftui-introspect",
-      "url": "https://github.com/siteline/swiftui-introspect",
-      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "5,737",
-      "forks": "353",
+      "stars": "2,391",
+      "forks": "325",
       "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2538074?s=40&v=4",
-          "name": "davdroman",
-          "url": "https://github.com/davdroman"
+          "avatar": "https://avatars.githubusercontent.com/u/685609?s=40&v=4",
+          "name": "NachoSoto",
+          "url": "https://github.com/NachoSoto"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/941453?s=40&v=4",
-          "name": "ldiqual",
-          "url": "https://github.com/ldiqual"
+          "avatar": "https://avatars.githubusercontent.com/u/3922667?s=40&v=4",
+          "name": "aboedo",
+          "url": "https://github.com/aboedo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31473326?s=40&v=4",
-          "name": "JannThomas",
-          "url": "https://github.com/JannThomas"
+          "avatar": "https://avatars.githubusercontent.com/u/138742?s=40&v=4",
+          "name": "jeiting",
+          "url": "https://github.com/jeiting"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/664544?s=40&v=4",
+          "name": "vegaro",
+          "url": "https://github.com/vegaro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72824662?s=40&v=4",
+          "name": "RCGitBot",
+          "url": "https://github.com/RCGitBot"
         }
       ]
     },
     {
-      "title": "signalapp/Signal-iOS",
-      "url": "https://github.com/signalapp/Signal-iOS",
-      "description": "A private messenger for iOS.",
+      "title": "SnapKit/SnapKit",
+      "url": "https://github.com/SnapKit/SnapKit",
+      "description": "A Swift Autolayout DSL for iOS & OS X",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,875",
-      "forks": "3,056",
+      "stars": "20,017",
+      "forks": "1,974",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36971147?s=40&v=4",
-          "name": "charlesmchen-signal",
-          "url": "https://github.com/charlesmchen-signal"
+          "avatar": "https://avatars.githubusercontent.com/u/214288?s=40&v=4",
+          "name": "robertjpayne",
+          "url": "https://github.com/robertjpayne"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/625803?s=40&v=4",
-          "name": "charlesmchen",
-          "url": "https://github.com/charlesmchen"
+          "avatar": "https://avatars.githubusercontent.com/u/598870?s=40&v=4",
+          "name": "cloudkite",
+          "url": "https://github.com/cloudkite"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36971200?s=40&v=4",
-          "name": "michaelkirk-signal",
-          "url": "https://github.com/michaelkirk-signal"
+          "avatar": "https://avatars.githubusercontent.com/u/114396?s=40&v=4",
+          "name": "aleffert",
+          "url": "https://github.com/aleffert"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/217057?s=40&v=4",
-          "name": "michaelkirk",
-          "url": "https://github.com/michaelkirk"
+          "avatar": "https://avatars.githubusercontent.com/u/118588?s=40&v=4",
+          "name": "sger",
+          "url": "https://github.com/sger"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/103334431?s=40&v=4",
-          "name": "max-signal",
-          "url": "https://github.com/max-signal"
-        }
-      ]
-    },
-    {
-      "title": "groue/GRDB.swift",
-      "url": "https://github.com/groue/GRDB.swift",
-      "description": "A toolkit for SQLite databases, with a focus on application development",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "6,989",
-      "forks": "721",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54219?s=40&v=4",
-          "name": "groue",
-          "url": "https://github.com/groue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27460?s=40&v=4",
-          "name": "pakko972",
-          "url": "https://github.com/pakko972"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18540905?s=40&v=4",
-          "name": "swiftlyfalling",
-          "url": "https://github.com/swiftlyfalling"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1203835?s=40&v=4",
-          "name": "sobri909",
-          "url": "https://github.com/sobri909"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4",
-          "name": "mallman",
-          "url": "https://github.com/mallman"
-        }
-      ]
-    },
-    {
-      "title": "XcodesOrg/xcodes",
-      "url": "https://github.com/XcodesOrg/xcodes",
-      "description": "The best command-line tool to install and switch between multiple versions of Xcode.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "3,878",
-      "forks": "133",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/594059?s=40&v=4",
-          "name": "interstateone",
-          "url": "https://github.com/interstateone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1119565?s=40&v=4",
-          "name": "MattKiazyk",
-          "url": "https://github.com/MattKiazyk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18363890?s=40&v=4",
-          "name": "StevenSorial",
-          "url": "https://github.com/StevenSorial"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12048108?s=40&v=4",
-          "name": "tahirmt",
-          "url": "https://github.com/tahirmt"
-        }
-      ]
-    },
-    {
-      "title": "apple/swift-protobuf",
-      "url": "https://github.com/apple/swift-protobuf",
-      "description": "Plugin and runtime library for using protobuf with Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "4,592",
-      "forks": "459",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
-          "name": "thomasvl",
-          "url": "https://github.com/thomasvl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21696764?s=40&v=4",
-          "name": "tbkka",
-          "url": "https://github.com/tbkka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5359423?s=40&v=4",
-          "name": "gjcairo",
-          "url": "https://github.com/gjcairo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1062427?s=40&v=4",
-          "name": "allevato",
-          "url": "https://github.com/allevato"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49742151?s=40&v=4",
-          "name": "lamtrinhdev",
-          "url": "https://github.com/lamtrinhdev"
-        }
-      ]
-    },
-    {
-      "title": "apollographql/apollo-ios",
-      "url": "https://github.com/apollographql/apollo-ios",
-      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "3,892",
-      "forks": "731",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1976498?s=40&v=4",
-          "name": "designatednerd",
-          "url": "https://github.com/designatednerd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54485?s=40&v=4",
-          "name": "martijnwalraven",
-          "url": "https://github.com/martijnwalraven"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/146856?s=40&v=4",
-          "name": "calvincestari",
-          "url": "https://github.com/calvincestari"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6243461?s=40&v=4",
-          "name": "AnthonyMDev",
-          "url": "https://github.com/AnthonyMDev"
-        }
-      ]
-    },
-    {
-      "title": "apple/swift-collections",
-      "url": "https://github.com/apple/swift-collections",
-      "description": "Commonly used data structures for Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "3,826",
-      "forks": "303",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/608696?s=40&v=4",
-          "name": "lorentey",
-          "url": "https://github.com/lorentey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1998004?s=40&v=4",
-          "name": "msteindorfer",
-          "url": "https://github.com/msteindorfer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7544575?s=40&v=4",
-          "name": "vanvoorden",
-          "url": "https://github.com/vanvoorden"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2727770?s=40&v=4",
-          "name": "shahmishal",
-          "url": "https://github.com/shahmishal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63311?s=40&v=4",
-          "name": "compnerd",
-          "url": "https://github.com/compnerd"
+          "avatar": "https://avatars.githubusercontent.com/u/184510?s=40&v=4",
+          "name": "bendjones",
+          "url": "https://github.com/bendjones"
         }
       ]
     },
@@ -619,76 +153,108 @@
       ]
     },
     {
-      "title": "SDWebImage/SDWebImageSwiftUI",
-      "url": "https://github.com/SDWebImage/SDWebImageSwiftUI",
-      "description": "SwiftUI Image loading and Animation framework powered by SDWebImage",
+      "title": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,254",
-      "forks": "232",
-      "addStars": "2",
+      "stars": "5,738",
+      "forks": "353",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6919743?s=40&v=4",
-          "name": "dreampiggy",
-          "url": "https://github.com/dreampiggy"
+          "avatar": "https://avatars.githubusercontent.com/u/2538074?s=40&v=4",
+          "name": "davdroman",
+          "url": "https://github.com/davdroman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/987706?s=40&v=4",
-          "name": "master-nevi",
-          "url": "https://github.com/master-nevi"
+          "avatar": "https://avatars.githubusercontent.com/u/941453?s=40&v=4",
+          "name": "ldiqual",
+          "url": "https://github.com/ldiqual"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14853350?s=40&v=4",
-          "name": "cci-rmirza",
-          "url": "https://github.com/cci-rmirza"
+          "avatar": "https://avatars.githubusercontent.com/u/31473326?s=40&v=4",
+          "name": "JannThomas",
+          "url": "https://github.com/JannThomas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5673994?s=40&v=4",
-          "name": "woxtu",
-          "url": "https://github.com/woxtu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11647461?s=40&v=4",
-          "name": "cozzin",
-          "url": "https://github.com/cozzin"
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
         }
       ]
     },
     {
-      "title": "RevenueCat/purchases-ios",
-      "url": "https://github.com/RevenueCat/purchases-ios",
-      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+      "title": "SwifterSwift/SwifterSwift",
+      "url": "https://github.com/SwifterSwift/SwifterSwift",
+      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,388",
-      "forks": "325",
-      "addStars": "3",
+      "stars": "14,162",
+      "forks": "1,634",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/685609?s=40&v=4",
-          "name": "NachoSoto",
-          "url": "https://github.com/NachoSoto"
+          "avatar": "https://avatars.githubusercontent.com/u/8127757?s=40&v=4",
+          "name": "omaralbeik",
+          "url": "https://github.com/omaralbeik"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3922667?s=40&v=4",
-          "name": "aboedo",
-          "url": "https://github.com/aboedo"
+          "avatar": "https://avatars.githubusercontent.com/u/8292651?s=40&v=4",
+          "name": "LucianoPAlmeida",
+          "url": "https://github.com/LucianoPAlmeida"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/138742?s=40&v=4",
-          "name": "jeiting",
-          "url": "https://github.com/jeiting"
+          "avatar": "https://avatars.githubusercontent.com/u/924764?s=40&v=4",
+          "name": "guykogus",
+          "url": "https://github.com/guykogus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/664544?s=40&v=4",
-          "name": "vegaro",
-          "url": "https://github.com/vegaro"
+          "avatar": "https://avatars.githubusercontent.com/u/7445580?s=40&v=4",
+          "name": "SD10",
+          "url": "https://github.com/SD10"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72824662?s=40&v=4",
-          "name": "RCGitBot",
-          "url": "https://github.com/RCGitBot"
+          "avatar": "https://avatars.githubusercontent.com/u/9899051?s=40&v=4",
+          "name": "MaxHaertwig",
+          "url": "https://github.com/MaxHaertwig"
+        }
+      ]
+    },
+    {
+      "title": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "12,651",
+      "forks": "1,464",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4",
+          "name": "stephencelis",
+          "url": "https://github.com/stephencelis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4",
+          "name": "mbrandonw",
+          "url": "https://github.com/mbrandonw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4",
+          "name": "tgrapperon",
+          "url": "https://github.com/tgrapperon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4",
+          "name": "iampatbrown",
+          "url": "https://github.com/iampatbrown"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4",
+          "name": "Jager-yoo",
+          "url": "https://github.com/Jager-yoo"
         }
       ]
     },
@@ -730,76 +296,150 @@
       ]
     },
     {
-      "title": "facebook/facebook-ios-sdk",
-      "url": "https://github.com/facebook/facebook-ios-sdk",
-      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "title": "whoeevee/EeveeSpotify",
+      "url": "https://github.com/whoeevee/EeveeSpotify",
+      "description": "A tweak to get Spotify Premium for free, just like Spotilife",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,806",
-      "forks": "3,566",
-      "addStars": "1",
+      "stars": "3,248",
+      "forks": "228",
+      "addStars": "12",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4922820?s=40&v=4",
-          "name": "joesus",
-          "url": "https://github.com/joesus"
+          "avatar": "https://avatars.githubusercontent.com/u/94960726?s=40&v=4",
+          "name": "whoeevee",
+          "url": "https://github.com/whoeevee"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/202240?s=40&v=4",
-          "name": "jawwad",
-          "url": "https://github.com/jawwad"
+          "avatar": "https://avatars.githubusercontent.com/u/109937991?s=40&v=4",
+          "name": "asdfzxcvbn",
+          "url": "https://github.com/asdfzxcvbn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3129948?s=40&v=4",
-          "name": "samodom",
-          "url": "https://github.com/samodom"
+          "avatar": "https://avatars.githubusercontent.com/u/109361374?s=40&v=4",
+          "name": "ElliotCHEN37",
+          "url": "https://github.com/ElliotCHEN37"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11663747?s=40&v=4",
-          "name": "KylinChang",
-          "url": "https://github.com/KylinChang"
+          "avatar": "https://avatars.githubusercontent.com/u/178366594?s=40&v=4",
+          "name": "Richard-NDC",
+          "url": "https://github.com/Richard-NDC"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48967250?s=40&v=4",
-          "name": "tianqibt",
-          "url": "https://github.com/tianqibt"
+          "avatar": "https://avatars.githubusercontent.com/u/54180773?s=40&v=4",
+          "name": "LIKVIDATOR1337",
+          "url": "https://github.com/LIKVIDATOR1337"
         }
       ]
     },
     {
-      "title": "intitni/CopilotForXcode",
-      "url": "https://github.com/intitni/CopilotForXcode",
-      "description": "The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension",
+      "title": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,877",
-      "forks": "390",
-      "addStars": "4",
+      "stars": "6,990",
+      "forks": "721",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/793147?s=40&v=4",
-          "name": "intitni",
-          "url": "https://github.com/intitni"
+          "avatar": "https://avatars.githubusercontent.com/u/54219?s=40&v=4",
+          "name": "groue",
+          "url": "https://github.com/groue"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84154073?s=40&v=4",
-          "name": "SNQ-2001",
-          "url": "https://github.com/SNQ-2001"
+          "avatar": "https://avatars.githubusercontent.com/u/27460?s=40&v=4",
+          "name": "pakko972",
+          "url": "https://github.com/pakko972"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/172327403?s=40&v=4",
-          "name": "RoshanNagaram-eng",
-          "url": "https://github.com/RoshanNagaram-eng"
+          "avatar": "https://avatars.githubusercontent.com/u/18540905?s=40&v=4",
+          "name": "swiftlyfalling",
+          "url": "https://github.com/swiftlyfalling"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12139611?s=40&v=4",
-          "name": "gewill",
-          "url": "https://github.com/gewill"
+          "avatar": "https://avatars.githubusercontent.com/u/1203835?s=40&v=4",
+          "name": "sobri909",
+          "url": "https://github.com/sobri909"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/88684372?s=40&v=4",
-          "name": "4nalog",
-          "url": "https://github.com/4nalog"
+          "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4",
+          "name": "mallman",
+          "url": "https://github.com/mallman"
+        }
+      ]
+    },
+    {
+      "title": "Swinject/Swinject",
+      "url": "https://github.com/Swinject/Swinject",
+      "description": "Dependency injection framework for Swift with iOS/macOS/Linux",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "6,381",
+      "forks": "519",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/965994?s=40&v=4",
+          "name": "yoichitgy",
+          "url": "https://github.com/yoichitgy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2094466?s=40&v=4",
+          "name": "jakubvano",
+          "url": "https://github.com/jakubvano"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95654268?s=40&v=4",
+          "name": "maxim-chipeev",
+          "url": "https://github.com/maxim-chipeev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19654286?s=40&v=4",
+          "name": "1ucas",
+          "url": "https://github.com/1ucas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1365987?s=40&v=4",
+          "name": "mpdifran",
+          "url": "https://github.com/mpdifran"
+        }
+      ]
+    },
+    {
+      "title": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "8,007",
+      "forks": "652",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/624238?s=40&v=4",
+          "name": "weissi",
+          "url": "https://github.com/weissi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1382556?s=40&v=4",
+          "name": "Lukasa",
+          "url": "https://github.com/Lukasa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/439362?s=40&v=4",
+          "name": "normanmaurer",
+          "url": "https://github.com/normanmaurer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3491887?s=40&v=4",
+          "name": "FranzBusch",
+          "url": "https://github.com/FranzBusch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5047671?s=40&v=4",
+          "name": "glbrntt",
+          "url": "https://github.com/glbrntt"
         }
       ]
     },
@@ -837,6 +477,376 @@
           "avatar": "https://avatars.githubusercontent.com/u/5402357?s=40&v=4",
           "name": "mathewa6",
           "url": "https://github.com/mathewa6"
+        }
+      ]
+    },
+    {
+      "title": "swiftlang/swift-testing",
+      "url": "https://github.com/swiftlang/swift-testing",
+      "description": "A modern, expressive testing package for Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "1,840",
+      "forks": "79",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4145863?s=40&v=4",
+          "name": "grynspan",
+          "url": "https://github.com/grynspan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14787?s=40&v=4",
+          "name": "stmontgomery",
+          "url": "https://github.com/stmontgomery"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8017512?s=40&v=4",
+          "name": "dennisweissmann",
+          "url": "https://github.com/dennisweissmann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11702759?s=40&v=4",
+          "name": "kateinoigakukun",
+          "url": "https://github.com/kateinoigakukun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1062518?s=40&v=4",
+          "name": "briancroom",
+          "url": "https://github.com/briancroom"
+        }
+      ]
+    },
+    {
+      "title": "SwiftUIX/SwiftUIX",
+      "url": "https://github.com/SwiftUIX/SwiftUIX",
+      "description": "An exhaustive expansion of the standard SwiftUI library.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "7,152",
+      "forks": "441",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5306992?s=40&v=4",
+          "name": "vmanot",
+          "url": "https://github.com/vmanot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6104381?s=40&v=4",
+          "name": "Brett-Best",
+          "url": "https://github.com/Brett-Best"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6719989?s=40&v=4",
+          "name": "Coledunsby",
+          "url": "https://github.com/Coledunsby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2950369?s=40&v=4",
+          "name": "siddarthgandhi",
+          "url": "https://github.com/siddarthgandhi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64660730?s=40&v=4",
+          "name": "jevonmao",
+          "url": "https://github.com/jevonmao"
+        }
+      ]
+    },
+    {
+      "title": "SwiftyJSON/SwiftyJSON",
+      "url": "https://github.com/SwiftyJSON/SwiftyJSON",
+      "description": "The better way to deal with JSON data in Swift.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "22,717",
+      "forks": "3,429",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/272929?s=40&v=4",
+          "name": "LukeTangPL",
+          "url": "https://github.com/LukeTangPL"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7384288?s=40&v=4",
+          "name": "wongzigii",
+          "url": "https://github.com/wongzigii"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1057756?s=40&v=4",
+          "name": "zhigang1992",
+          "url": "https://github.com/zhigang1992"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3095758?s=40&v=4",
+          "name": "aemaeth-me",
+          "url": "https://github.com/aemaeth-me"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/216363?s=40&v=4",
+          "name": "JeffGuKang",
+          "url": "https://github.com/JeffGuKang"
+        }
+      ]
+    },
+    {
+      "title": "apple/swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "4,592",
+      "forks": "459",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21696764?s=40&v=4",
+          "name": "tbkka",
+          "url": "https://github.com/tbkka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5359423?s=40&v=4",
+          "name": "gjcairo",
+          "url": "https://github.com/gjcairo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1062427?s=40&v=4",
+          "name": "allevato",
+          "url": "https://github.com/allevato"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49742151?s=40&v=4",
+          "name": "lamtrinhdev",
+          "url": "https://github.com/lamtrinhdev"
+        }
+      ]
+    },
+    {
+      "title": "Carthage/Carthage",
+      "url": "https://github.com/Carthage/Carthage",
+      "description": "A simple, decentralized dependency manager for Cocoa",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "14,957",
+      "forks": "1,549",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/909674?s=40&v=4",
+          "name": "ikesyo",
+          "url": "https://github.com/ikesyo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/432536?s=40&v=4",
+          "name": "jspahrsummers",
+          "url": "https://github.com/jspahrsummers"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1302?s=40&v=4",
+          "name": "mdiep",
+          "url": "https://github.com/mdiep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/782837?s=40&v=4",
+          "name": "jdhealy",
+          "url": "https://github.com/jdhealy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22635?s=40&v=4",
+          "name": "alanjrogers",
+          "url": "https://github.com/alanjrogers"
+        }
+      ]
+    },
+    {
+      "title": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "23,449",
+      "forks": "2,667",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019875?s=40&v=4",
+          "name": "onevcat",
+          "url": "https://github.com/onevcat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13112992?s=40&v=4",
+          "name": "lixiang1994",
+          "url": "https://github.com/lixiang1994"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96502?s=40&v=4",
+          "name": "dstranz",
+          "url": "https://github.com/dstranz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5518285?s=40&v=4",
+          "name": "xspyhack",
+          "url": "https://github.com/xspyhack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13075269?s=40&v=4",
+          "name": "wangshuaiguo",
+          "url": "https://github.com/wangshuaiguo"
+        }
+      ]
+    },
+    {
+      "title": "yonaskolb/XcodeGen",
+      "url": "https://github.com/yonaskolb/XcodeGen",
+      "description": "A Swift command line tool for generating your Xcode project",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "7,102",
+      "forks": "824",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2393781?s=40&v=4",
+          "name": "yonaskolb",
+          "url": "https://github.com/yonaskolb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11702759?s=40&v=4",
+          "name": "kateinoigakukun",
+          "url": "https://github.com/kateinoigakukun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13707872?s=40&v=4",
+          "name": "freddi-kit",
+          "url": "https://github.com/freddi-kit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/147051?s=40&v=4",
+          "name": "giginet",
+          "url": "https://github.com/giginet"
+        }
+      ]
+    },
+    {
+      "title": "apple/swift-async-algorithms",
+      "url": "https://github.com/apple/swift-async-algorithms",
+      "description": "Async Algorithms for Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "3,089",
+      "forks": "152",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/278470?s=40&v=4",
+          "name": "phausler",
+          "url": "https://github.com/phausler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3491887?s=40&v=4",
+          "name": "FranzBusch",
+          "url": "https://github.com/FranzBusch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15824561?s=40&v=4",
+          "name": "kperryua",
+          "url": "https://github.com/kperryua"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12281292?s=40&v=4",
+          "name": "twittemb",
+          "url": "https://github.com/twittemb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/144462?s=40&v=4",
+          "name": "parkera",
+          "url": "https://github.com/parkera"
+        }
+      ]
+    },
+    {
+      "title": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "18,714",
+      "forks": "2,230",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/474794?s=40&v=4",
+          "name": "jpsim",
+          "url": "https://github.com/jpsim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/833072?s=40&v=4",
+          "name": "marcelofabri",
+          "url": "https://github.com/marcelofabri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33430?s=40&v=4",
+          "name": "norio-nomura",
+          "url": "https://github.com/norio-nomura"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16365760?s=40&v=4",
+          "name": "SimplyDanny",
+          "url": "https://github.com/SimplyDanny"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4259250?s=40&v=4",
+          "name": "scottrhoyt",
+          "url": "https://github.com/scottrhoyt"
+        }
+      ]
+    },
+    {
+      "title": "apple/swift-collections",
+      "url": "https://github.com/apple/swift-collections",
+      "description": "Commonly used data structures for Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "3,826",
+      "forks": "303",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/608696?s=40&v=4",
+          "name": "lorentey",
+          "url": "https://github.com/lorentey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1998004?s=40&v=4",
+          "name": "msteindorfer",
+          "url": "https://github.com/msteindorfer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7544575?s=40&v=4",
+          "name": "vanvoorden",
+          "url": "https://github.com/vanvoorden"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2727770?s=40&v=4",
+          "name": "shahmishal",
+          "url": "https://github.com/shahmishal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63311?s=40&v=4",
+          "name": "compnerd",
+          "url": "https://github.com/compnerd"
         }
       ]
     }
