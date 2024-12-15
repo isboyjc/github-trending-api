@@ -1,6 +1,6 @@
 # github-trending-api
 
-[English](README.md) | [简体中文](README_zh-CN.md)
+[English](README.md)
 
 面向开发人员和 RSS 订阅者的 Github 趋势数据
 
