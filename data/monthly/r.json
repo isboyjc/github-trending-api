@@ -2,42 +2,79 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Dec 2024 07:12:28 GMT",
+  "pubDate": "Sun, 22 Dec 2024 13:21:41 GMT",
   "items": [
     {
-      "title": "stuart-lab/signac",
-      "url": "https://github.com/stuart-lab/signac",
-      "description": "R toolkit for the analysis of single-cell chromatin data",
+      "title": "tidyverse/ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "341",
-      "forks": "90",
-      "addStars": "12",
+      "stars": "6,566",
+      "forks": "2,036",
+      "addStars": "45",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4591688?s=40&v=4",
-          "name": "timoast",
-          "url": "https://github.com/timoast"
+          "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
+          "name": "hadley",
+          "url": "https://github.com/hadley"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/682153?s=40&v=4",
-          "name": "saketkc",
-          "url": "https://github.com/saketkc"
+          "avatar": "https://avatars.githubusercontent.com/u/49372158?s=40&v=4",
+          "name": "teunbrand",
+          "url": "https://github.com/teunbrand"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84190597?s=40&v=4",
-          "name": "JavenTyr",
-          "url": "https://github.com/JavenTyr"
+          "avatar": "https://avatars.githubusercontent.com/u/86978?s=40&v=4",
+          "name": "wch",
+          "url": "https://github.com/wch"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8772521?s=40&v=4",
-          "name": "k3yavi",
-          "url": "https://github.com/k3yavi"
+          "avatar": "https://avatars.githubusercontent.com/u/1775316?s=40&v=4",
+          "name": "thomasp85",
+          "url": "https://github.com/thomasp85"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1233372?s=40&v=4",
-          "name": "Puriney",
-          "url": "https://github.com/Puriney"
+          "avatar": "https://avatars.githubusercontent.com/u/227097?s=40&v=4",
+          "name": "kohske",
+          "url": "https://github.com/kohske"
+        }
+      ]
+    },
+    {
+      "title": "tidyverse/dplyr",
+      "url": "https://github.com/tidyverse/dplyr",
+      "description": "dplyr: A grammar of data manipulation",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "4,798",
+      "forks": "2,125",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2625526?s=40&v=4",
+          "name": "romainfrancois",
+          "url": "https://github.com/romainfrancois"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
+          "name": "hadley",
+          "url": "https://github.com/hadley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1741643?s=40&v=4",
+          "name": "krlmlr",
+          "url": "https://github.com/krlmlr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4465050?s=40&v=4",
+          "name": "lionel-",
+          "url": "https://github.com/lionel-"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19150088?s=40&v=4",
+          "name": "DavisVaughan",
+          "url": "https://github.com/DavisVaughan"
         }
       ]
     },
@@ -119,43 +156,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/37587081?s=40&v=4",
           "name": "heoly32",
           "url": "https://github.com/heoly32"
-        }
-      ]
-    },
-    {
-      "title": "tidyverse/ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": "6,565",
-      "forks": "2,036",
-      "addStars": "45",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
-          "name": "hadley",
-          "url": "https://github.com/hadley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49372158?s=40&v=4",
-          "name": "teunbrand",
-          "url": "https://github.com/teunbrand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86978?s=40&v=4",
-          "name": "wch",
-          "url": "https://github.com/wch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1775316?s=40&v=4",
-          "name": "thomasp85",
-          "url": "https://github.com/thomasp85"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/227097?s=40&v=4",
-          "name": "kohske",
-          "url": "https://github.com/kohske"
         }
       ]
     },
@@ -271,6 +271,43 @@
       ]
     },
     {
+      "title": "chris-mcginnis-ucsf/DoubletFinder",
+      "url": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+      "description": "R package for detecting doublets in single-cell RNA sequencing data",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "426",
+      "forks": "113",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40582930?s=40&v=4",
+          "name": "chris-mcginnis-ucsf",
+          "url": "https://github.com/chris-mcginnis-ucsf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5271803?s=40&v=4",
+          "name": "ekernf01",
+          "url": "https://github.com/ekernf01"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11639154?s=40&v=4",
+          "name": "FloWuenne",
+          "url": "https://github.com/FloWuenne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33265555?s=40&v=4",
+          "name": "NathanSkene",
+          "url": "https://github.com/NathanSkene"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7226376?s=40&v=4",
+          "name": "tkkanno",
+          "url": "https://github.com/tkkanno"
+        }
+      ]
+    },
+    {
       "title": "joey711/phyloseq",
       "url": "https://github.com/joey711/phyloseq",
       "description": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
@@ -304,6 +341,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3039619?s=40&v=4",
           "name": "jnpaulson",
           "url": "https://github.com/jnpaulson"
+        }
+      ]
+    },
+    {
+      "title": "briatte/awesome-network-analysis",
+      "url": "https://github.com/briatte/awesome-network-analysis",
+      "description": "A curated list of awesome network analysis resources.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "3,599",
+      "forks": "607",
+      "addStars": "36",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/322533?s=40&v=4",
+          "name": "briatte",
+          "url": "https://github.com/briatte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17380887?s=40&v=4",
+          "name": "benedekrozemberczki",
+          "url": "https://github.com/benedekrozemberczki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6043312?s=40&v=4",
+          "name": "hristog",
+          "url": "https://github.com/hristog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9054982?s=40&v=4",
+          "name": "mszell",
+          "url": "https://github.com/mszell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27315?s=40&v=4",
+          "name": "taniki",
+          "url": "https://github.com/taniki"
         }
       ]
     },
@@ -345,76 +419,39 @@
       ]
     },
     {
-      "title": "chris-mcginnis-ucsf/DoubletFinder",
-      "url": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
-      "description": "R package for detecting doublets in single-cell RNA sequencing data",
+      "title": "tidyverse/ellmer",
+      "url": "https://github.com/tidyverse/ellmer",
+      "description": "Call LLM APIs from R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "425",
-      "forks": "113",
-      "addStars": "9",
+      "stars": "246",
+      "forks": "37",
+      "addStars": "51",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40582930?s=40&v=4",
-          "name": "chris-mcginnis-ucsf",
-          "url": "https://github.com/chris-mcginnis-ucsf"
+          "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
+          "name": "hadley",
+          "url": "https://github.com/hadley"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5271803?s=40&v=4",
-          "name": "ekernf01",
-          "url": "https://github.com/ekernf01"
+          "avatar": "https://avatars.githubusercontent.com/u/129551?s=40&v=4",
+          "name": "jcheng5",
+          "url": "https://github.com/jcheng5"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11639154?s=40&v=4",
-          "name": "FloWuenne",
-          "url": "https://github.com/FloWuenne"
+          "avatar": "https://avatars.githubusercontent.com/u/1448326?s=40&v=4",
+          "name": "atheriel",
+          "url": "https://github.com/atheriel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33265555?s=40&v=4",
-          "name": "NathanSkene",
-          "url": "https://github.com/NathanSkene"
+          "avatar": "https://avatars.githubusercontent.com/u/6076793?s=40&v=4",
+          "name": "lindbrook",
+          "url": "https://github.com/lindbrook"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7226376?s=40&v=4",
-          "name": "tkkanno",
-          "url": "https://github.com/tkkanno"
-        }
-      ]
-    },
-    {
-      "title": "prisma-flowdiagram/PRISMA2020",
-      "url": "https://github.com/prisma-flowdiagram/PRISMA2020",
-      "description": "Produce PRISMA-2020 compliant flow diagrams",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": "150",
-      "forks": "73",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1839074?s=40&v=4",
-          "name": "chriscpritchard",
-          "url": "https://github.com/chriscpritchard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43783900?s=40&v=4",
-          "name": "nealhaddaway",
-          "url": "https://github.com/nealhaddaway"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41202585?s=40&v=4",
-          "name": "mcguinlu",
-          "url": "https://github.com/mcguinlu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/855847?s=40&v=4",
-          "name": "hammady",
-          "url": "https://github.com/hammady"
+          "avatar": "https://avatars.githubusercontent.com/u/53399081?s=40&v=4",
+          "name": "shikokuchuo",
+          "url": "https://github.com/shikokuchuo"
         }
       ]
     },
@@ -456,14 +493,14 @@
       ]
     },
     {
-      "title": "tidyverse/ellmer",
-      "url": "https://github.com/tidyverse/ellmer",
-      "description": "Call LLM APIs from R",
+      "title": "hadley/r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "246",
-      "forks": "37",
-      "addStars": "51",
+      "stars": "4,614",
+      "forks": "4,229",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
@@ -471,61 +508,61 @@
           "url": "https://github.com/hadley"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/129551?s=40&v=4",
-          "name": "jcheng5",
-          "url": "https://github.com/jcheng5"
+          "avatar": "https://avatars.githubusercontent.com/u/5965649?s=40&v=4",
+          "name": "mine-cetinkaya-rundel",
+          "url": "https://github.com/mine-cetinkaya-rundel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1448326?s=40&v=4",
-          "name": "atheriel",
-          "url": "https://github.com/atheriel"
+          "avatar": "https://avatars.githubusercontent.com/u/13338672?s=40&v=4",
+          "name": "sibusiso16",
+          "url": "https://github.com/sibusiso16"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6076793?s=40&v=4",
-          "name": "lindbrook",
-          "url": "https://github.com/lindbrook"
+          "avatar": "https://avatars.githubusercontent.com/u/85014?s=40&v=4",
+          "name": "garrettgman",
+          "url": "https://github.com/garrettgman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/53399081?s=40&v=4",
-          "name": "shikokuchuo",
-          "url": "https://github.com/shikokuchuo"
+          "avatar": "https://avatars.githubusercontent.com/u/15931497?s=40&v=4",
+          "name": "behrman",
+          "url": "https://github.com/behrman"
         }
       ]
     },
     {
-      "title": "r-lib/tree-sitter-r",
-      "url": "https://github.com/r-lib/tree-sitter-r",
-      "description": "",
+      "title": "prisma-flowdiagram/PRISMA2020",
+      "url": "https://github.com/prisma-flowdiagram/PRISMA2020",
+      "description": "Produce PRISMA-2020 compliant flow diagrams",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "115",
-      "forks": "33",
-      "addStars": "1",
+      "stars": "150",
+      "forks": "73",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19150088?s=40&v=4",
-          "name": "DavisVaughan",
-          "url": "https://github.com/DavisVaughan"
+          "avatar": "https://avatars.githubusercontent.com/u/1839074?s=40&v=4",
+          "name": "chriscpritchard",
+          "url": "https://github.com/chriscpritchard"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/205275?s=40&v=4",
-          "name": "jimhester",
-          "url": "https://github.com/jimhester"
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1976582?s=40&v=4",
-          "name": "kevinushey",
-          "url": "https://github.com/kevinushey"
+          "avatar": "https://avatars.githubusercontent.com/u/43783900?s=40&v=4",
+          "name": "nealhaddaway",
+          "url": "https://github.com/nealhaddaway"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16160544?s=40&v=4",
-          "name": "aspeddro",
-          "url": "https://github.com/aspeddro"
+          "avatar": "https://avatars.githubusercontent.com/u/41202585?s=40&v=4",
+          "name": "mcguinlu",
+          "url": "https://github.com/mcguinlu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
-          "name": "echasnovski",
-          "url": "https://github.com/echasnovski"
+          "avatar": "https://avatars.githubusercontent.com/u/855847?s=40&v=4",
+          "name": "hammady",
+          "url": "https://github.com/hammady"
         }
       ]
     },
