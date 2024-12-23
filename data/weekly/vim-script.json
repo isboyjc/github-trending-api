@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Weekly Trending",
   "description": "Weekly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Dec 2024 07:14:16 GMT",
+  "pubDate": "Mon, 23 Dec 2024 13:25:50 GMT",
   "items": [
     {
       "title": "neovim/neovim",
@@ -10,7 +10,7 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "84,462",
+      "stars": "84,472",
       "forks": "5,764",
       "addStars": "302",
       "contributors": [
@@ -42,13 +42,50 @@
       ]
     },
     {
+      "title": "tpope/vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "20,186",
+      "forks": "1,018",
+      "addStars": "33",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
+          "name": "tpope",
+          "url": "https://github.com/tpope"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/810650?s=40&v=4",
+          "name": "teoljungberg",
+          "url": "https://github.com/teoljungberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
+          "name": "blueyed",
+          "url": "https://github.com/blueyed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1752162?s=40&v=4",
+          "name": "odnoletkov",
+          "url": "https://github.com/odnoletkov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2235277?s=40&v=4",
+          "name": "qstrahl",
+          "url": "https://github.com/qstrahl"
+        }
+      ]
+    },
+    {
       "title": "vim/vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "36,973",
-      "forks": "5,498",
+      "stars": "36,981",
+      "forks": "5,500",
       "addStars": "77",
       "contributors": [
         {
@@ -84,7 +121,7 @@
       "description": "The ultimate Vim configuration (vimrc)",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "30,884",
+      "stars": "30,886",
       "forks": "7,309",
       "addStars": "39",
       "contributors": [
@@ -111,24 +148,29 @@
       ]
     },
     {
-      "title": "tpope/vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "title": "junegunn/vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "20,182",
-      "forks": "1,018",
-      "addStars": "33",
+      "stars": "34,341",
+      "forks": "1,929",
+      "addStars": "48",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
-          "name": "tpope",
-          "url": "https://github.com/tpope"
+          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
+          "name": "junegunn",
+          "url": "https://github.com/junegunn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/810650?s=40&v=4",
-          "name": "teoljungberg",
-          "url": "https://github.com/teoljungberg"
+          "avatar": "https://avatars.githubusercontent.com/u/470400?s=40&v=4",
+          "name": "starcraftman",
+          "url": "https://github.com/starcraftman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
+          "name": "janlazo",
+          "url": "https://github.com/janlazo"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
@@ -136,51 +178,9 @@
           "url": "https://github.com/blueyed"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1752162?s=40&v=4",
-          "name": "odnoletkov",
-          "url": "https://github.com/odnoletkov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2235277?s=40&v=4",
-          "name": "qstrahl",
-          "url": "https://github.com/qstrahl"
-        }
-      ]
-    },
-    {
-      "title": "preservim/nerdtree",
-      "url": "https://github.com/preservim/nerdtree",
-      "description": "A tree explorer plugin for vim.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "19,696",
-      "forks": "1,446",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1671?s=40&v=4",
-          "name": "scrooloose",
-          "url": "https://github.com/scrooloose"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5598066?s=40&v=4",
-          "name": "PhilRunninger",
-          "url": "https://github.com/PhilRunninger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15251574?s=40&v=4",
-          "name": "lifecrisis",
-          "url": "https://github.com/lifecrisis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3788964?s=40&v=4",
-          "name": "rzvxa",
-          "url": "https://github.com/rzvxa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173595?s=40&v=4",
-          "name": "alerque",
-          "url": "https://github.com/alerque"
+          "avatar": "https://avatars.githubusercontent.com/u/10111?s=40&v=4",
+          "name": "mattn",
+          "url": "https://github.com/mattn"
         }
       ]
     },
@@ -222,50 +222,13 @@
       ]
     },
     {
-      "title": "junegunn/vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "34,337",
-      "forks": "1,929",
-      "addStars": "48",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
-          "name": "junegunn",
-          "url": "https://github.com/junegunn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/470400?s=40&v=4",
-          "name": "starcraftman",
-          "url": "https://github.com/starcraftman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
-          "name": "janlazo",
-          "url": "https://github.com/janlazo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
-          "name": "blueyed",
-          "url": "https://github.com/blueyed"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10111?s=40&v=4",
-          "name": "mattn",
-          "url": "https://github.com/mattn"
-        }
-      ]
-    },
-    {
       "title": "SpaceVim/SpaceVim",
       "url": "https://github.com/SpaceVim/SpaceVim",
       "description": "A modular configuration of Vim and Neovim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "20,360",
-      "forks": "1,417",
+      "stars": "20,362",
+      "forks": "1,416",
       "addStars": "15",
       "contributors": [
         {
@@ -296,49 +259,12 @@
       ]
     },
     {
-      "title": "andymass/vim-matchup",
-      "url": "https://github.com/andymass/vim-matchup",
-      "description": "vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "1,726",
-      "forks": "73",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6655373?s=40&v=4",
-          "name": "andymass",
-          "url": "https://github.com/andymass"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
-          "name": "amaanq",
-          "url": "https://github.com/amaanq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32784713?s=40&v=4",
-          "name": "tlvu2697",
-          "url": "https://github.com/tlvu2697"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/719605?s=40&v=4",
-          "name": "ahdinosaur",
-          "url": "https://github.com/ahdinosaur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12857160?s=40&v=4",
-          "name": "mrcjkb",
-          "url": "https://github.com/mrcjkb"
-        }
-      ]
-    },
-    {
       "title": "morhetz/gruvbox",
       "url": "https://github.com/morhetz/gruvbox",
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "13,935",
+      "stars": "13,937",
       "forks": "1,106",
       "addStars": "37",
       "contributors": [
@@ -366,6 +292,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/7128551?s=40&v=4",
           "name": "gmoe",
           "url": "https://github.com/gmoe"
+        }
+      ]
+    },
+    {
+      "title": "preservim/nerdtree",
+      "url": "https://github.com/preservim/nerdtree",
+      "description": "A tree explorer plugin for vim.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "19,696",
+      "forks": "1,446",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1671?s=40&v=4",
+          "name": "scrooloose",
+          "url": "https://github.com/scrooloose"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5598066?s=40&v=4",
+          "name": "PhilRunninger",
+          "url": "https://github.com/PhilRunninger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15251574?s=40&v=4",
+          "name": "lifecrisis",
+          "url": "https://github.com/lifecrisis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3788964?s=40&v=4",
+          "name": "rzvxa",
+          "url": "https://github.com/rzvxa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173595?s=40&v=4",
+          "name": "alerque",
+          "url": "https://github.com/alerque"
+        }
+      ]
+    },
+    {
+      "title": "andymass/vim-matchup",
+      "url": "https://github.com/andymass/vim-matchup",
+      "description": "vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "1,727",
+      "forks": "73",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6655373?s=40&v=4",
+          "name": "andymass",
+          "url": "https://github.com/andymass"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
+          "name": "amaanq",
+          "url": "https://github.com/amaanq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32784713?s=40&v=4",
+          "name": "tlvu2697",
+          "url": "https://github.com/tlvu2697"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/719605?s=40&v=4",
+          "name": "ahdinosaur",
+          "url": "https://github.com/ahdinosaur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12857160?s=40&v=4",
+          "name": "mrcjkb",
+          "url": "https://github.com/mrcjkb"
         }
       ]
     },
@@ -398,154 +398,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/94425204?s=40&v=4",
           "name": "joncrangle",
           "url": "https://github.com/joncrangle"
-        }
-      ]
-    },
-    {
-      "title": "kristijanhusak/vim-dadbod-ui",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui",
-      "description": "Simple UI for https://github.com/tpope/vim-dadbod",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "1,565",
-      "forks": "97",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1782860?s=40&v=4",
-          "name": "kristijanhusak",
-          "url": "https://github.com/kristijanhusak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59935328?s=40&v=4",
-          "name": "jtw023",
-          "url": "https://github.com/jtw023"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36409591?s=40&v=4",
-          "name": "Iron-E",
-          "url": "https://github.com/Iron-E"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26745575?s=40&v=4",
-          "name": "harryvederci",
-          "url": "https://github.com/harryvederci"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41671631?s=40&v=4",
-          "name": "glepnir",
-          "url": "https://github.com/glepnir"
-        }
-      ]
-    },
-    {
-      "title": "sainnhe/gruvbox-material",
-      "url": "https://github.com/sainnhe/gruvbox-material",
-      "description": "Gruvbox with Material Palette",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "2,001",
-      "forks": "169",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37491630?s=40&v=4",
-          "name": "sainnhe",
-          "url": "https://github.com/sainnhe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3299086?s=40&v=4",
-          "name": "antoineco",
-          "url": "https://github.com/antoineco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33487417?s=40&v=4",
-          "name": "zxYin",
-          "url": "https://github.com/zxYin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76585?s=40&v=4",
-          "name": "xpac27",
-          "url": "https://github.com/xpac27"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50564448?s=40&v=4",
-          "name": "rsaihe",
-          "url": "https://github.com/rsaihe"
-        }
-      ]
-    },
-    {
-      "title": "jpalardy/vim-slime",
-      "url": "https://github.com/jpalardy/vim-slime",
-      "description": "A vim plugin to give you some slime. (Emacs)",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "1,907",
-      "forks": "228",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18142?s=40&v=4",
-          "name": "jpalardy",
-          "url": "https://github.com/jpalardy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2414185?s=40&v=4",
-          "name": "jam1015",
-          "url": "https://github.com/jam1015"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1250185?s=40&v=4",
-          "name": "romeovs",
-          "url": "https://github.com/romeovs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/906779?s=40&v=4",
-          "name": "PeterRincker",
-          "url": "https://github.com/PeterRincker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3112674?s=40&v=4",
-          "name": "albheim",
-          "url": "https://github.com/albheim"
-        }
-      ]
-    },
-    {
-      "title": "junegunn/fzf.vim",
-      "url": "https://github.com/junegunn/fzf.vim",
-      "description": "fzf ❤️ vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "9,707",
-      "forks": "587",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
-          "name": "junegunn",
-          "url": "https://github.com/junegunn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
-          "name": "janlazo",
-          "url": "https://github.com/janlazo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
-          "name": "blueyed",
-          "url": "https://github.com/blueyed"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/300342?s=40&v=4",
-          "name": "liskin",
-          "url": "https://github.com/liskin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4507647?s=40&v=4",
-          "name": "Frederick888",
-          "url": "https://github.com/Frederick888"
         }
       ]
     },
@@ -587,6 +439,80 @@
       ]
     },
     {
+      "title": "jpalardy/vim-slime",
+      "url": "https://github.com/jpalardy/vim-slime",
+      "description": "A vim plugin to give you some slime. (Emacs)",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "1,907",
+      "forks": "228",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18142?s=40&v=4",
+          "name": "jpalardy",
+          "url": "https://github.com/jpalardy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2414185?s=40&v=4",
+          "name": "jam1015",
+          "url": "https://github.com/jam1015"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1250185?s=40&v=4",
+          "name": "romeovs",
+          "url": "https://github.com/romeovs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/906779?s=40&v=4",
+          "name": "PeterRincker",
+          "url": "https://github.com/PeterRincker"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3112674?s=40&v=4",
+          "name": "albheim",
+          "url": "https://github.com/albheim"
+        }
+      ]
+    },
+    {
+      "title": "tpope/vim-surround",
+      "url": "https://github.com/tpope/vim-surround",
+      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "13,522",
+      "forks": "445",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
+          "name": "tpope",
+          "url": "https://github.com/tpope"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/717924?s=40&v=4",
+          "name": "apcomplete",
+          "url": "https://github.com/apcomplete"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44155?s=40&v=4",
+          "name": "jwhitley",
+          "url": "https://github.com/jwhitley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107071?s=40&v=4",
+          "name": "ChrisJohnsen",
+          "url": "https://github.com/ChrisJohnsen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9863?s=40&v=4",
+          "name": "sunaku",
+          "url": "https://github.com/sunaku"
+        }
+      ]
+    },
+    {
       "title": "vim-jp/vimdoc-ja",
       "url": "https://github.com/vim-jp/vimdoc-ja",
       "description": "A project which translate Vim documents into Japanese.",
@@ -619,113 +545,113 @@
       ]
     },
     {
-      "title": "tpope/vim-markdown",
-      "url": "https://github.com/tpope/vim-markdown",
-      "description": "Vim Markdown runtime files",
+      "title": "junegunn/fzf.vim",
+      "url": "https://github.com/junegunn/fzf.vim",
+      "description": "fzf ❤️ vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "1,229",
-      "forks": "192",
-      "addStars": "2",
+      "stars": "9,707",
+      "forks": "587",
+      "addStars": "10",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
-          "name": "tpope",
-          "url": "https://github.com/tpope"
+          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
+          "name": "junegunn",
+          "url": "https://github.com/junegunn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19489738?s=40&v=4",
-          "name": "tomtomjhj",
-          "url": "https://github.com/tomtomjhj"
+          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
+          "name": "janlazo",
+          "url": "https://github.com/janlazo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1369353?s=40&v=4",
-          "name": "sencer",
-          "url": "https://github.com/sencer"
+          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
+          "name": "blueyed",
+          "url": "https://github.com/blueyed"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
-          "name": "gpanders",
-          "url": "https://github.com/gpanders"
+          "avatar": "https://avatars.githubusercontent.com/u/300342?s=40&v=4",
+          "name": "liskin",
+          "url": "https://github.com/liskin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43533?s=40&v=4",
-          "name": "hinrik",
-          "url": "https://github.com/hinrik"
+          "avatar": "https://avatars.githubusercontent.com/u/4507647?s=40&v=4",
+          "name": "Frederick888",
+          "url": "https://github.com/Frederick888"
         }
       ]
     },
     {
-      "title": "hrsh7th/vim-vsnip",
-      "url": "https://github.com/hrsh7th/vim-vsnip",
-      "description": "Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.",
+      "title": "rhysd/vim-clang-format",
+      "url": "https://github.com/rhysd/vim-clang-format",
+      "description": "Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript, and so on.",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "890",
-      "forks": "36",
-      "addStars": "2",
+      "stars": "1,091",
+      "forks": "124",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
-          "name": "hrsh7th",
-          "url": "https://github.com/hrsh7th"
+          "avatar": "https://avatars.githubusercontent.com/u/823277?s=40&v=4",
+          "name": "rhysd",
+          "url": "https://github.com/rhysd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26169924?s=40&v=4",
-          "name": "mg979",
-          "url": "https://github.com/mg979"
+          "avatar": "https://avatars.githubusercontent.com/u/979386?s=40&v=4",
+          "name": "Dryvnt",
+          "url": "https://github.com/Dryvnt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5963139?s=40&v=4",
-          "name": "jandamm",
-          "url": "https://github.com/jandamm"
+          "avatar": "https://avatars.githubusercontent.com/u/662547?s=40&v=4",
+          "name": "beyondmarc",
+          "url": "https://github.com/beyondmarc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99910?s=40&v=4",
-          "name": "hokorobi",
-          "url": "https://github.com/hokorobi"
+          "avatar": "https://avatars.githubusercontent.com/u/48604946?s=40&v=4",
+          "name": "pl-energid",
+          "url": "https://github.com/pl-energid"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21323222?s=40&v=4",
-          "name": "kitagry",
-          "url": "https://github.com/kitagry"
+          "avatar": "https://avatars.githubusercontent.com/u/344972?s=40&v=4",
+          "name": "mgrundy",
+          "url": "https://github.com/mgrundy"
         }
       ]
     },
     {
-      "title": "jbranchaud/til",
-      "url": "https://github.com/jbranchaud/til",
-      "description": "📝 Today I Learned",
+      "title": "wsdjeg/vim-fetch",
+      "url": "https://github.com/wsdjeg/vim-fetch",
+      "description": "Make Vim handle line and column numbers in file names with a minimum of fuss",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "13,554",
-      "forks": "748",
-      "addStars": "19",
+      "stars": "318",
+      "forks": "16",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/694063?s=40&v=4",
-          "name": "jbranchaud",
-          "url": "https://github.com/jbranchaud"
+          "avatar": "https://avatars.githubusercontent.com/u/80906?s=40&v=4",
+          "name": "kopischke",
+          "url": "https://github.com/kopischke"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4399718?s=40&v=4",
-          "name": "thesoftwarephilosopher",
-          "url": "https://github.com/thesoftwarephilosopher"
+          "avatar": "https://avatars.githubusercontent.com/u/13142418?s=40&v=4",
+          "name": "wsdjeg",
+          "url": "https://github.com/wsdjeg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/328734?s=40&v=4",
-          "name": "tumdum",
-          "url": "https://github.com/tumdum"
+          "avatar": "https://avatars.githubusercontent.com/u/2833247?s=40&v=4",
+          "name": "UrsaDK",
+          "url": "https://github.com/UrsaDK"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/378917?s=40&v=4",
-          "name": "mcrapet",
-          "url": "https://github.com/mcrapet"
+          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
+          "name": "blueyed",
+          "url": "https://github.com/blueyed"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/549469?s=40&v=4",
-          "name": "patrickdavey",
-          "url": "https://github.com/patrickdavey"
+          "avatar": "https://avatars.githubusercontent.com/u/10111?s=40&v=4",
+          "name": "mattn",
+          "url": "https://github.com/mattn"
         }
       ]
     }
