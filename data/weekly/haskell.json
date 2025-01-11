@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 11 Jan 2025 07:12:32 GMT",
+  "pubDate": "Sat, 11 Jan 2025 13:21:44 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -47,7 +47,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "36,744",
+      "stars": "36,745",
       "forks": "1,787",
       "addStars": "54",
       "contributors": [
@@ -79,12 +79,44 @@
       ]
     },
     {
+      "title": "hadolint/hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "10,591",
+      "forks": "419",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
+          "name": "lorenzo",
+          "url": "https://github.com/lorenzo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
+          "name": "lukasmartinelli",
+          "url": "https://github.com/lukasmartinelli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
+          "name": "m-ildefons",
+          "url": "https://github.com/m-ildefons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
+          "name": "zemanlx",
+          "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
       "title": "IntersectMBO/cardano-node",
       "url": "https://github.com/IntersectMBO/cardano-node",
       "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "3,091",
+      "stars": "3,093",
       "forks": "719",
       "addStars": "3",
       "contributors": [
@@ -107,6 +139,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
           "name": "deepfire",
           "url": "https://github.com/deepfire"
+        }
+      ]
+    },
+    {
+      "title": "lamdera/compiler",
+      "url": "https://github.com/lamdera/compiler",
+      "description": "",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "45",
+      "forks": "2",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102781?s=40&v=4",
+          "name": "supermario",
+          "url": "https://github.com/supermario"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5068391?s=40&v=4",
+          "name": "MartinSStewart",
+          "url": "https://github.com/MartinSStewart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2142817?s=40&v=4",
+          "name": "lydell",
+          "url": "https://github.com/lydell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3869412?s=40&v=4",
+          "name": "jfmengels",
+          "url": "https://github.com/jfmengels"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/191825?s=40&v=4",
+          "name": "miniBill",
+          "url": "https://github.com/miniBill"
+        }
+      ]
+    },
+    {
+      "title": "koka-lang/koka",
+      "url": "https://github.com/koka-lang/koka",
+      "description": "Koka language compiler and interpreter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "3,368",
+      "forks": "167",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2171100?s=40&v=4",
+          "name": "daanx",
+          "url": "https://github.com/daanx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15617545?s=40&v=4",
+          "name": "TimWhiting",
+          "url": "https://github.com/TimWhiting"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/169273?s=40&v=4",
+          "name": "alexreinking",
+          "url": "https://github.com/alexreinking"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27091646?s=40&v=4",
+          "name": "stevenfontanella",
+          "url": "https://github.com/stevenfontanella"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16764214?s=40&v=4",
+          "name": "anfelor",
+          "url": "https://github.com/anfelor"
         }
       ]
     },
@@ -148,8 +254,8 @@
       "description": "Parsing, analyzing, and comparing source code across many languages",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "9,000",
-      "forks": "452",
+      "stars": "9,001",
+      "forks": "451",
       "addStars": "8",
       "contributors": [
         {
@@ -217,108 +323,34 @@
       ]
     },
     {
-      "title": "lamdera/compiler",
-      "url": "https://github.com/lamdera/compiler",
-      "description": "",
+      "title": "IntersectMBO/cardano-cli",
+      "url": "https://github.com/IntersectMBO/cardano-cli",
+      "description": "This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "45",
-      "forks": "2",
-      "addStars": "16",
+      "stars": "47",
+      "forks": "16",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/102781?s=40&v=4",
-          "name": "supermario",
-          "url": "https://github.com/supermario"
+          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
+          "name": "newhoggy",
+          "url": "https://github.com/newhoggy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5068391?s=40&v=4",
-          "name": "MartinSStewart",
-          "url": "https://github.com/MartinSStewart"
+          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
+          "name": "Jimbo4350",
+          "url": "https://github.com/Jimbo4350"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2142817?s=40&v=4",
-          "name": "lydell",
-          "url": "https://github.com/lydell"
+          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
+          "name": "deepfire",
+          "url": "https://github.com/deepfire"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3869412?s=40&v=4",
-          "name": "jfmengels",
-          "url": "https://github.com/jfmengels"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/191825?s=40&v=4",
-          "name": "miniBill",
-          "url": "https://github.com/miniBill"
-        }
-      ]
-    },
-    {
-      "title": "kmonad/kmonad",
-      "url": "https://github.com/kmonad/kmonad",
-      "description": "An advanced keyboard manager",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,200",
-      "forks": "324",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3296759?s=40&v=4",
-          "name": "david-janssen",
-          "url": "https://github.com/david-janssen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50166980?s=40&v=4",
-          "name": "slotThe",
-          "url": "https://github.com/slotThe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52346246?s=40&v=4",
-          "name": "jokesper",
-          "url": "https://github.com/jokesper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18474102?s=40&v=4",
-          "name": "thoelze1",
-          "url": "https://github.com/thoelze1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7275622?s=40&v=4",
-          "name": "lierdakil",
-          "url": "https://github.com/lierdakil"
-        }
-      ]
-    },
-    {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "10,591",
-      "forks": "419",
-      "addStars": "21",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
+          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
+          "name": "dcoutts",
+          "url": "https://github.com/dcoutts"
         }
       ]
     },
@@ -328,8 +360,8 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "24,190",
-      "forks": "1,046",
+      "stars": "24,191",
+      "forks": "1,047",
       "addStars": "28",
       "contributors": [
         {
@@ -360,34 +392,39 @@
       ]
     },
     {
-      "title": "IntersectMBO/cardano-cli",
-      "url": "https://github.com/IntersectMBO/cardano-cli",
-      "description": "This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.",
+      "title": "kmonad/kmonad",
+      "url": "https://github.com/kmonad/kmonad",
+      "description": "An advanced keyboard manager",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "47",
-      "forks": "16",
-      "addStars": "1",
+      "stars": "4,204",
+      "forks": "324",
+      "addStars": "18",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63014?s=40&v=4",
-          "name": "newhoggy",
-          "url": "https://github.com/newhoggy"
+          "avatar": "https://avatars.githubusercontent.com/u/3296759?s=40&v=4",
+          "name": "david-janssen",
+          "url": "https://github.com/david-janssen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9418537?s=40&v=4",
-          "name": "Jimbo4350",
-          "url": "https://github.com/Jimbo4350"
+          "avatar": "https://avatars.githubusercontent.com/u/50166980?s=40&v=4",
+          "name": "slotThe",
+          "url": "https://github.com/slotThe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
-          "name": "deepfire",
-          "url": "https://github.com/deepfire"
+          "avatar": "https://avatars.githubusercontent.com/u/52346246?s=40&v=4",
+          "name": "jokesper",
+          "url": "https://github.com/jokesper"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
-          "name": "dcoutts",
-          "url": "https://github.com/dcoutts"
+          "avatar": "https://avatars.githubusercontent.com/u/18474102?s=40&v=4",
+          "name": "thoelze1",
+          "url": "https://github.com/thoelze1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7275622?s=40&v=4",
+          "name": "lierdakil",
+          "url": "https://github.com/lierdakil"
         }
       ]
     },
