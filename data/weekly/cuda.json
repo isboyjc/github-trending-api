@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 20 Jan 2025 07:13:58 GMT",
+  "pubDate": "Mon, 20 Jan 2025 13:25:04 GMT",
   "items": [
     {
       "title": "thu-ml/SageAttention",
@@ -10,7 +10,7 @@
       "description": "Quantized Attention that achieves speedups of 2.1-3.1x and 2.7-5.1x compared to FlashAttention2 and xformers, respectively, without lossing end-to-end metrics across various models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "857",
+      "stars": "861",
       "forks": "50",
       "addStars": "50",
       "contributors": [
@@ -37,7 +37,7 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "16,201",
+      "stars": "16,202",
       "forks": "1,948",
       "addStars": "26",
       "contributors": [
@@ -65,6 +65,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3280839?s=40&v=4",
           "name": "JamesPerlman",
           "url": "https://github.com/JamesPerlman"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "971",
+      "forks": "254",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
+          "name": "AddyLaddy",
+          "url": "https://github.com/AddyLaddy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
+          "name": "sjeaugey",
+          "url": "https://github.com/sjeaugey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
+          "name": "jbachan",
+          "url": "https://github.com/jbachan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
+          "name": "lukeyeager",
+          "url": "https://github.com/lukeyeager"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6690627?s=40&v=4",
+          "name": "jithinjosepkl",
+          "url": "https://github.com/jithinjosepkl"
         }
       ]
     },
@@ -106,39 +143,113 @@
       ]
     },
     {
-      "title": "NVIDIA/nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
+      "title": "rapidsai/cuvs",
+      "url": "https://github.com/rapidsai/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "970",
-      "forks": "254",
-      "addStars": "9",
+      "stars": "275",
+      "forks": "74",
+      "addStars": "10",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
-          "name": "AddyLaddy",
-          "url": "https://github.com/AddyLaddy"
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
-          "name": "sjeaugey",
-          "url": "https://github.com/sjeaugey"
+          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
+          "name": "benfred",
+          "url": "https://github.com/benfred"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
-          "name": "jbachan",
-          "url": "https://github.com/jbachan"
+          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
+          "name": "cjnolet",
+          "url": "https://github.com/cjnolet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
-          "name": "lukeyeager",
-          "url": "https://github.com/lukeyeager"
+          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
+          "name": "achirkin",
+          "url": "https://github.com/achirkin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6690627?s=40&v=4",
-          "name": "jithinjosepkl",
-          "url": "https://github.com/jithinjosepkl"
+          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
+          "name": "bdice",
+          "url": "https://github.com/bdice"
+        }
+      ]
+    },
+    {
+      "title": "Dao-AILab/causal-conv1d",
+      "url": "https://github.com/Dao-AILab/causal-conv1d",
+      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "379",
+      "forks": "71",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5616128?s=40&v=4",
+          "name": "tridao",
+          "url": "https://github.com/tridao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/164261418?s=40&v=4",
+          "name": "ajassani",
+          "url": "https://github.com/ajassani"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22727137?s=40&v=4",
+          "name": "johnnynunez",
+          "url": "https://github.com/johnnynunez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158011354?s=40&v=4",
+          "name": "amoskvic",
+          "url": "https://github.com/amoskvic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1236979?s=40&v=4",
+          "name": "tlrmchlsmth",
+          "url": "https://github.com/tlrmchlsmth"
+        }
+      ]
+    },
+    {
+      "title": "rapidsai/raft",
+      "url": "https://github.com/rapidsai/raft",
+      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "818",
+      "forks": "197",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
+          "name": "cjnolet",
+          "url": "https://github.com/cjnolet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
+          "name": "GPUtester",
+          "url": "https://github.com/GPUtester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37386037?s=40&v=4",
+          "name": "aschaffer",
+          "url": "https://github.com/aschaffer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
+          "name": "achirkin",
+          "url": "https://github.com/achirkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14876585?s=40&v=4",
+          "name": "divyegala",
+          "url": "https://github.com/divyegala"
         }
       ]
     },
@@ -148,8 +259,8 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "25,082",
-      "forks": "2,863",
+      "stars": "25,086",
+      "forks": "2,865",
       "addStars": "85",
       "contributors": [
         {
@@ -222,8 +333,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,806",
-      "forks": "181",
+      "stars": "1,810",
+      "forks": "182",
       "addStars": "40",
       "contributors": [
         {
@@ -249,123 +360,12 @@
       ]
     },
     {
-      "title": "Dao-AILab/causal-conv1d",
-      "url": "https://github.com/Dao-AILab/causal-conv1d",
-      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "378",
-      "forks": "71",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5616128?s=40&v=4",
-          "name": "tridao",
-          "url": "https://github.com/tridao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/164261418?s=40&v=4",
-          "name": "ajassani",
-          "url": "https://github.com/ajassani"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22727137?s=40&v=4",
-          "name": "johnnynunez",
-          "url": "https://github.com/johnnynunez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/158011354?s=40&v=4",
-          "name": "amoskvic",
-          "url": "https://github.com/amoskvic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1236979?s=40&v=4",
-          "name": "tlrmchlsmth",
-          "url": "https://github.com/tlrmchlsmth"
-        }
-      ]
-    },
-    {
-      "title": "rapidsai/cuvs",
-      "url": "https://github.com/rapidsai/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "275",
-      "forks": "74",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
-          "name": "benfred",
-          "url": "https://github.com/benfred"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
-          "name": "cjnolet",
-          "url": "https://github.com/cjnolet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
-          "name": "achirkin",
-          "url": "https://github.com/achirkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
-          "name": "bdice",
-          "url": "https://github.com/bdice"
-        }
-      ]
-    },
-    {
-      "title": "rapidsai/raft",
-      "url": "https://github.com/rapidsai/raft",
-      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "818",
-      "forks": "197",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
-          "name": "cjnolet",
-          "url": "https://github.com/cjnolet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37386037?s=40&v=4",
-          "name": "aschaffer",
-          "url": "https://github.com/aschaffer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
-          "name": "achirkin",
-          "url": "https://github.com/achirkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14876585?s=40&v=4",
-          "name": "divyegala",
-          "url": "https://github.com/divyegala"
-        }
-      ]
-    },
-    {
       "title": "HazyResearch/ThunderKittens",
       "url": "https://github.com/HazyResearch/ThunderKittens",
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,943",
+      "stars": "1,945",
       "forks": "98",
       "addStars": "26",
       "contributors": [
