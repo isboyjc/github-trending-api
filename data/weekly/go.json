@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 25 Jan 2025 07:11:50 GMT",
+  "pubDate": "Sat, 25 Jan 2025 13:19:35 GMT",
   "items": [
     {
       "title": "yorukot/superfile",
@@ -10,8 +10,8 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,202",
-      "forks": "235",
+      "stars": "10,248",
+      "forks": "236",
       "addStars": "1,440",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "43,949",
+      "stars": "43,952",
       "forks": "9,641",
       "addStars": "380",
       "contributors": [
@@ -69,13 +69,40 @@
       ]
     },
     {
+      "title": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "29,719",
+      "forks": "2,236",
+      "addStars": "1,202",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&v=4",
+          "name": "mudler",
+          "url": "https://github.com/mudler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&v=4",
+          "name": "localai-bot",
+          "url": "https://github.com/localai-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105103991?s=40&v=4",
+          "name": "ci-robbot",
+          "url": "https://github.com/ci-robbot"
+        }
+      ]
+    },
+    {
       "title": "henrygd/beszel",
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,830",
-      "forks": "192",
+      "stars": "6,867",
+      "forks": "194",
       "addStars": "1,295",
       "contributors": [
         {
@@ -111,7 +138,7 @@
       "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "27,658",
+      "stars": "27,662",
       "forks": "2,915",
       "addStars": "749",
       "contributors": [
@@ -138,29 +165,39 @@
       ]
     },
     {
-      "title": "mudler/LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,713",
-      "forks": "2,235",
-      "addStars": "1,202",
+      "stars": "110,022",
+      "forks": "8,781",
+      "addStars": "1,781",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&v=4",
-          "name": "mudler",
-          "url": "https://github.com/mudler"
+          "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
+          "name": "mxyng",
+          "url": "https://github.com/mxyng"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&v=4",
-          "name": "localai-bot",
-          "url": "https://github.com/localai-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4",
+          "name": "jmorganca",
+          "url": "https://github.com/jmorganca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/105103991?s=40&v=4",
-          "name": "ci-robbot",
-          "url": "https://github.com/ci-robbot"
+          "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4",
+          "name": "dhiltgen",
+          "url": "https://github.com/dhiltgen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4",
+          "name": "BruceMacD",
+          "url": "https://github.com/BruceMacD"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75239?s=40&v=4",
+          "name": "pdevine",
+          "url": "https://github.com/pdevine"
         }
       ]
     },
@@ -202,12 +239,39 @@
       ]
     },
     {
+      "title": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,662",
+      "forks": "877",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1709030?s=40&v=4",
+          "name": "moolen",
+          "url": "https://github.com/moolen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/182850?s=40&v=4",
+          "name": "Skarlso",
+          "url": "https://github.com/Skarlso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17139678?s=40&v=4",
+          "name": "gusfcarvalho",
+          "url": "https://github.com/gusfcarvalho"
+        }
+      ]
+    },
+    {
       "title": "cert-manager/cert-manager",
       "url": "https://github.com/cert-manager/cert-manager",
       "description": "Automatically provision and manage TLS certificates in Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,381",
+      "stars": "12,385",
       "forks": "2,120",
       "addStars": "33",
       "contributors": [
@@ -239,29 +303,39 @@
       ]
     },
     {
-      "title": "external-secrets/external-secrets",
-      "url": "https://github.com/external-secrets/external-secrets",
-      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "title": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,659",
-      "forks": "877",
-      "addStars": "32",
+      "stars": "38,963",
+      "forks": "2,874",
+      "addStars": "74",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1709030?s=40&v=4",
-          "name": "moolen",
-          "url": "https://github.com/moolen"
+          "avatar": "https://avatars.githubusercontent.com/u/8093535?s=40&v=4",
+          "name": "eparis",
+          "url": "https://github.com/eparis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/182850?s=40&v=4",
-          "name": "Skarlso",
-          "url": "https://github.com/Skarlso"
+          "avatar": "https://avatars.githubusercontent.com/u/13235519?s=40&v=4",
+          "name": "n10v",
+          "url": "https://github.com/n10v"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17139678?s=40&v=4",
-          "name": "gusfcarvalho",
-          "url": "https://github.com/gusfcarvalho"
+          "avatar": "https://avatars.githubusercontent.com/u/173412?s=40&v=4",
+          "name": "spf13",
+          "url": "https://github.com/spf13"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38422348?s=40&v=4",
+          "name": "umarcor",
+          "url": "https://github.com/umarcor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/414402?s=40&v=4",
+          "name": "marckhouzam",
+          "url": "https://github.com/marckhouzam"
         }
       ]
     },
@@ -271,7 +345,7 @@
       "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,428",
+      "stars": "18,429",
       "forks": "2,260",
       "addStars": "33",
       "contributors": [
@@ -293,39 +367,39 @@
       ]
     },
     {
-      "title": "docker/compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
+      "title": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,545",
-      "forks": "5,292",
-      "addStars": "93",
+      "stars": "48,207",
+      "forks": "20,466",
+      "addStars": "89",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/132757?s=40&v=4",
-          "name": "ndeloof",
-          "url": "https://github.com/ndeloof"
+          "avatar": "https://avatars.githubusercontent.com/u/6264126?s=40&v=4",
+          "name": "obscuren",
+          "url": "https://github.com/obscuren"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/437958?s=40&v=4",
-          "name": "gtardif",
-          "url": "https://github.com/gtardif"
+          "avatar": "https://avatars.githubusercontent.com/u/129561?s=40&v=4",
+          "name": "karalabe",
+          "url": "https://github.com/karalabe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/705411?s=40&v=4",
-          "name": "glours",
-          "url": "https://github.com/glours"
+          "avatar": "https://avatars.githubusercontent.com/u/6915?s=40&v=4",
+          "name": "fjl",
+          "url": "https://github.com/fjl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99933?s=40&v=4",
-          "name": "rumpl",
-          "url": "https://github.com/rumpl"
+          "avatar": "https://avatars.githubusercontent.com/u/142290?s=40&v=4",
+          "name": "holiman",
+          "url": "https://github.com/holiman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70572044?s=40&v=4",
-          "name": "laurazard",
-          "url": "https://github.com/laurazard"
+          "avatar": "https://avatars.githubusercontent.com/u/731472?s=40&v=4",
+          "name": "tgerring",
+          "url": "https://github.com/tgerring"
         }
       ]
     },
@@ -336,7 +410,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "21,327",
-      "forks": "4,434",
+      "forks": "4,435",
       "addStars": "31",
       "contributors": [
         {
@@ -367,76 +441,12 @@
       ]
     },
     {
-      "title": "abiosoft/colima",
-      "url": "https://github.com/abiosoft/colima",
-      "description": "Container runtimes on macOS (and Linux) with minimal setup",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "20,757",
-      "forks": "416",
-      "addStars": "162",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/240448?s=40&v=4",
-          "name": "abiosoft",
-          "url": "https://github.com/abiosoft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/112444?s=40&v=4",
-          "name": "rfay",
-          "url": "https://github.com/rfay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1522773?s=40&v=4",
-          "name": "LaszloGombos",
-          "url": "https://github.com/LaszloGombos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4",
-          "name": "artygus",
-          "url": "https://github.com/artygus"
-        }
-      ]
-    },
-    {
-      "title": "redis/go-redis",
-      "url": "https://github.com/redis/go-redis",
-      "description": "Redis Go client",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "20,396",
-      "forks": "2,401",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/290976?s=40&v=4",
-          "name": "vmihailenco",
-          "url": "https://github.com/vmihailenco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23448594?s=40&v=4",
-          "name": "monkey92t",
-          "url": "https://github.com/monkey92t"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104765379?s=40&v=4",
-          "name": "ofekshenawa",
-          "url": "https://github.com/ofekshenawa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16614?s=40&v=4",
-          "name": "dim",
-          "url": "https://github.com/dim"
-        }
-      ]
-    },
-    {
       "title": "hashicorp/vault",
       "url": "https://github.com/hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,625",
+      "stars": "31,628",
       "forks": "4,267",
       "addStars": "65",
       "contributors": [
@@ -464,6 +474,218 @@
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
           "name": "mitchellh",
           "url": "https://github.com/mitchellh"
+        }
+      ]
+    },
+    {
+      "title": "hashicorp/nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "15,128",
+      "forks": "1,969",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1047914?s=40&v=4",
+          "name": "dadgar",
+          "url": "https://github.com/dadgar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113362?s=40&v=4",
+          "name": "schmichael",
+          "url": "https://github.com/schmichael"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/174740?s=40&v=4",
+          "name": "DingoEatingFuzz",
+          "url": "https://github.com/DingoEatingFuzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/136429?s=40&v=4",
+          "name": "notnoop",
+          "url": "https://github.com/notnoop"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1409219?s=40&v=4",
+          "name": "tgross",
+          "url": "https://github.com/tgross"
+        }
+      ]
+    },
+    {
+      "title": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,760",
+      "forks": "1,527",
+      "addStars": "30",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1373887?s=40&v=4",
+          "name": "bogdandrutu",
+          "url": "https://github.com/bogdandrutu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
+          "name": "dmitryax",
+          "url": "https://github.com/dmitryax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/223565?s=40&v=4",
+          "name": "codeboten",
+          "url": "https://github.com/codeboten"
+        }
+      ]
+    },
+    {
+      "title": "opentofu/opentofu",
+      "url": "https://github.com/opentofu/opentofu",
+      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "23,943",
+      "forks": "934",
+      "addStars": "104",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/892136?s=40&v=4",
+          "name": "cam72cam",
+          "url": "https://github.com/cam72cam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30493345?s=40&v=4",
+          "name": "RLRabinowitz",
+          "url": "https://github.com/RLRabinowitz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7013055?s=40&v=4",
+          "name": "cube2222",
+          "url": "https://github.com/cube2222"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35274215?s=40&v=4",
+          "name": "ollevche",
+          "url": "https://github.com/ollevche"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
+          "name": "apparentlymart",
+          "url": "https://github.com/apparentlymart"
+        }
+      ]
+    },
+    {
+      "title": "ffuf/ffuf",
+      "url": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "13,195",
+      "forks": "1,344",
+      "addStars": "157",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5235109?s=40&v=4",
+          "name": "joohoi",
+          "url": "https://github.com/joohoi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2979649?s=40&v=4",
+          "name": "delic",
+          "url": "https://github.com/delic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5291556?s=40&v=4",
+          "name": "denandz",
+          "url": "https://github.com/denandz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6826244?s=40&v=4",
+          "name": "jimen0",
+          "url": "https://github.com/jimen0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30053806?s=40&v=4",
+          "name": "bjhulst",
+          "url": "https://github.com/bjhulst"
+        }
+      ]
+    },
+    {
+      "title": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "112,597",
+      "forks": "40,091",
+      "addStars": "208",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
+          "name": "k8s-ci-robot",
+          "url": "https://github.com/k8s-ci-robot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/980082?s=40&v=4",
+          "name": "liggitt",
+          "url": "https://github.com/liggitt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
+          "name": "thockin",
+          "url": "https://github.com/thockin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10743879?s=40&v=4",
+          "name": "wojtek-t",
+          "url": "https://github.com/wojtek-t"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5751682?s=40&v=4",
+          "name": "brendandburns",
+          "url": "https://github.com/brendandburns"
+        }
+      ]
+    },
+    {
+      "title": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "15,942",
+      "forks": "1,440",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/896205?s=40&v=4",
+          "name": "dhui",
+          "url": "https://github.com/dhui"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1240531?s=40&v=4",
+          "name": "mattes",
+          "url": "https://github.com/mattes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20537227?s=40&v=4",
+          "name": "dimag-jfrog",
+          "url": "https://github.com/dimag-jfrog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12583215?s=40&v=4",
+          "name": "mknycha",
+          "url": "https://github.com/mknycha"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67471?s=40&v=4",
+          "name": "tsenart",
+          "url": "https://github.com/tsenart"
         }
       ]
     },
@@ -505,278 +727,34 @@
       ]
     },
     {
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+      "title": "abiosoft/colima",
+      "url": "https://github.com/abiosoft/colima",
+      "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "109,932",
-      "forks": "8,773",
-      "addStars": "1,781",
+      "stars": "20,760",
+      "forks": "416",
+      "addStars": "162",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
-          "name": "mxyng",
-          "url": "https://github.com/mxyng"
+          "avatar": "https://avatars.githubusercontent.com/u/240448?s=40&v=4",
+          "name": "abiosoft",
+          "url": "https://github.com/abiosoft"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4",
-          "name": "jmorganca",
-          "url": "https://github.com/jmorganca"
+          "avatar": "https://avatars.githubusercontent.com/u/112444?s=40&v=4",
+          "name": "rfay",
+          "url": "https://github.com/rfay"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4",
-          "name": "dhiltgen",
-          "url": "https://github.com/dhiltgen"
+          "avatar": "https://avatars.githubusercontent.com/u/1522773?s=40&v=4",
+          "name": "LaszloGombos",
+          "url": "https://github.com/LaszloGombos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4",
-          "name": "BruceMacD",
-          "url": "https://github.com/BruceMacD"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75239?s=40&v=4",
-          "name": "pdevine",
-          "url": "https://github.com/pdevine"
-        }
-      ]
-    },
-    {
-      "title": "spf13/cobra",
-      "url": "https://github.com/spf13/cobra",
-      "description": "A Commander for modern Go CLI interactions",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "38,959",
-      "forks": "2,874",
-      "addStars": "74",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8093535?s=40&v=4",
-          "name": "eparis",
-          "url": "https://github.com/eparis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13235519?s=40&v=4",
-          "name": "n10v",
-          "url": "https://github.com/n10v"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173412?s=40&v=4",
-          "name": "spf13",
-          "url": "https://github.com/spf13"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38422348?s=40&v=4",
-          "name": "umarcor",
-          "url": "https://github.com/umarcor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/414402?s=40&v=4",
-          "name": "marckhouzam",
-          "url": "https://github.com/marckhouzam"
-        }
-      ]
-    },
-    {
-      "title": "ethereum/go-ethereum",
-      "url": "https://github.com/ethereum/go-ethereum",
-      "description": "Go implementation of the Ethereum protocol",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "48,203",
-      "forks": "20,464",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6264126?s=40&v=4",
-          "name": "obscuren",
-          "url": "https://github.com/obscuren"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/129561?s=40&v=4",
-          "name": "karalabe",
-          "url": "https://github.com/karalabe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6915?s=40&v=4",
-          "name": "fjl",
-          "url": "https://github.com/fjl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142290?s=40&v=4",
-          "name": "holiman",
-          "url": "https://github.com/holiman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/731472?s=40&v=4",
-          "name": "tgerring",
-          "url": "https://github.com/tgerring"
-        }
-      ]
-    },
-    {
-      "title": "golang-migrate/migrate",
-      "url": "https://github.com/golang-migrate/migrate",
-      "description": "Database migrations. CLI and Golang library.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "15,941",
-      "forks": "1,440",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/896205?s=40&v=4",
-          "name": "dhui",
-          "url": "https://github.com/dhui"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1240531?s=40&v=4",
-          "name": "mattes",
-          "url": "https://github.com/mattes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20537227?s=40&v=4",
-          "name": "dimag-jfrog",
-          "url": "https://github.com/dimag-jfrog"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12583215?s=40&v=4",
-          "name": "mknycha",
-          "url": "https://github.com/mknycha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67471?s=40&v=4",
-          "name": "tsenart",
-          "url": "https://github.com/tsenart"
-        }
-      ]
-    },
-    {
-      "title": "open-telemetry/opentelemetry-collector",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector",
-      "description": "OpenTelemetry Collector",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "4,760",
-      "forks": "1,527",
-      "addStars": "30",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1373887?s=40&v=4",
-          "name": "bogdandrutu",
-          "url": "https://github.com/bogdandrutu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
-          "name": "dmitryax",
-          "url": "https://github.com/dmitryax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/223565?s=40&v=4",
-          "name": "codeboten",
-          "url": "https://github.com/codeboten"
-        }
-      ]
-    },
-    {
-      "title": "hashicorp/terraform-provider-aws",
-      "url": "https://github.com/hashicorp/terraform-provider-aws",
-      "description": "The AWS Provider enables Terraform to manage AWS resources.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "10,026",
-      "forks": "9,306",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2404182?s=40&v=4",
-          "name": "ewbankkit",
-          "url": "https://github.com/ewbankkit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31492422?s=40&v=4",
-          "name": "YakDriver",
-          "url": "https://github.com/YakDriver"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/189114?s=40&v=4",
-          "name": "bflad",
-          "url": "https://github.com/bflad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1148298?s=40&v=4",
-          "name": "gdavison",
-          "url": "https://github.com/gdavison"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4",
-          "name": "jar-b",
-          "url": "https://github.com/jar-b"
-        }
-      ]
-    },
-    {
-      "title": "minio/minio",
-      "url": "https://github.com/minio/minio",
-      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "49,698",
-      "forks": "5,636",
-      "addStars": "192",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/622699?s=40&v=4",
-          "name": "harshavardhana",
-          "url": "https://github.com/harshavardhana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/283197?s=40&v=4",
-          "name": "vadmeste",
-          "url": "https://github.com/vadmeste"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5663952?s=40&v=4",
-          "name": "klauspost",
-          "url": "https://github.com/klauspost"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21070888?s=40&v=4",
-          "name": "minio-trusted",
-          "url": "https://github.com/minio-trusted"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&v=4",
-          "name": "poornas",
-          "url": "https://github.com/poornas"
-        }
-      ]
-    },
-    {
-      "title": "moonD4rk/HackBrowserData",
-      "url": "https://github.com/moonD4rk/HackBrowserData",
-      "description": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "11,832",
-      "forks": "1,622",
-      "addStars": "157",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24284231?s=40&v=4",
-          "name": "moonD4rk",
-          "url": "https://github.com/moonD4rk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25531497?s=40&v=4",
-          "name": "Aquilao",
-          "url": "https://github.com/Aquilao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15964380?s=40&v=4",
-          "name": "stevenlele",
-          "url": "https://github.com/stevenlele"
+          "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4",
+          "name": "artygus",
+          "url": "https://github.com/artygus"
         }
       ]
     }
