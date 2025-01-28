@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Weekly Trending",
   "description": "Weekly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Jan 2025 07:13:22 GMT",
+  "pubDate": "Tue, 28 Jan 2025 13:23:55 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -10,8 +10,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "23,886",
-      "forks": "6,606",
+      "stars": "23,887",
+      "forks": "6,607",
       "addStars": "60",
       "contributors": [
         {
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/13567791?s=40&v=4",
           "name": "dg0yt",
           "url": "https://github.com/dg0yt"
+        }
+      ]
+    },
+    {
+      "title": "ecmwf/ecbuild",
+      "url": "https://github.com/ecmwf/ecbuild",
+      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "31",
+      "forks": "26",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/965734?s=40&v=4",
+          "name": "tlmquintino",
+          "url": "https://github.com/tlmquintino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/346079?s=40&v=4",
+          "name": "kynan",
+          "url": "https://github.com/kynan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/829513?s=40&v=4",
+          "name": "oiffrig",
+          "url": "https://github.com/oiffrig"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/222951?s=40&v=4",
+          "name": "wdeconinck",
+          "url": "https://github.com/wdeconinck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53792887?s=40&v=4",
+          "name": "b8raoult",
+          "url": "https://github.com/b8raoult"
         }
       ]
     },
@@ -79,108 +116,39 @@
       ]
     },
     {
-      "title": "friendlyanon/cmake-init",
-      "url": "https://github.com/friendlyanon/cmake-init",
-      "description": "The missing CMake project initializer",
+      "title": "JoakimSoderberg/coveralls-cmake",
+      "url": "https://github.com/JoakimSoderberg/coveralls-cmake",
+      "description": "Coveralls JSON coverage generator and uploader for CMake",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "2,196",
-      "forks": "84",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1736896?s=40&v=4",
-          "name": "friendlyanon",
-          "url": "https://github.com/friendlyanon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1743744?s=40&v=4",
-          "name": "nreinicke",
-          "url": "https://github.com/nreinicke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5990770?s=40&v=4",
-          "name": "anders-wind",
-          "url": "https://github.com/anders-wind"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9062746?s=40&v=4",
-          "name": "Phytolizer",
-          "url": "https://github.com/Phytolizer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14022447?s=40&v=4",
-          "name": "lkk7",
-          "url": "https://github.com/lkk7"
-        }
-      ]
-    },
-    {
-      "title": "libbpf/libbpf-bootstrap",
-      "url": "https://github.com/libbpf/libbpf-bootstrap",
-      "description": "Scaffolding for BPF application development with libbpf and BPF CO-RE",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "1,151",
-      "forks": "304",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/508075?s=40&v=4",
-          "name": "anakryiko",
-          "url": "https://github.com/anakryiko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6610056?s=40&v=4",
-          "name": "d-e-s-o",
-          "url": "https://github.com/d-e-s-o"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151335?s=40&v=4",
-          "name": "waruqi",
-          "url": "https://github.com/waruqi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
-          "name": "chenhengqi",
-          "url": "https://github.com/chenhengqi"
-        }
-      ]
-    },
-    {
-      "title": "bilke/cmake-modules",
-      "url": "https://github.com/bilke/cmake-modules",
-      "description": "Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "556",
-      "forks": "218",
+      "stars": "86",
+      "forks": "17",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/149656?s=40&v=4",
-          "name": "bilke",
-          "url": "https://github.com/bilke"
+          "avatar": "https://avatars.githubusercontent.com/u/1446626?s=40&v=4",
+          "name": "JoakimSoderberg",
+          "url": "https://github.com/JoakimSoderberg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/538020?s=40&v=4",
-          "name": "ferdnyc",
-          "url": "https://github.com/ferdnyc"
+          "avatar": "https://avatars.githubusercontent.com/u/3863897?s=40&v=4",
+          "name": "neiser",
+          "url": "https://github.com/neiser"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48475758?s=40&v=4",
-          "name": "FranzBranntvino",
-          "url": "https://github.com/FranzBranntvino"
+          "avatar": "https://avatars.githubusercontent.com/u/977973?s=40&v=4",
+          "name": "Snaipe",
+          "url": "https://github.com/Snaipe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2410564?s=40&v=4",
-          "name": "psalaberria002",
-          "url": "https://github.com/psalaberria002"
+          "avatar": "https://avatars.githubusercontent.com/u/105257?s=40&v=4",
+          "name": "urdh",
+          "url": "https://github.com/urdh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/64736?s=40&v=4",
-          "name": "tafryn",
-          "url": "https://github.com/tafryn"
+          "avatar": "https://avatars.githubusercontent.com/u/569162?s=40&v=4",
+          "name": "Godzil",
+          "url": "https://github.com/Godzil"
         }
       ]
     },
@@ -212,39 +180,66 @@
       ]
     },
     {
-      "title": "ttroy50/cmake-examples",
-      "url": "https://github.com/ttroy50/cmake-examples",
-      "description": "Useful CMake Examples",
+      "title": "steinbergmedia/vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "12,572",
-      "forks": "2,514",
-      "addStars": "24",
+      "stars": "1,677",
+      "forks": "170",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2407079?s=40&v=4",
-          "name": "ttroy50",
-          "url": "https://github.com/ttroy50"
+          "avatar": "https://avatars.githubusercontent.com/u/16340258?s=40&v=4",
+          "name": "ygrabit",
+          "url": "https://github.com/ygrabit"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3665590?s=40&v=4",
-          "name": "playgithub",
-          "url": "https://github.com/playgithub"
+          "avatar": "https://avatars.githubusercontent.com/u/5485512?s=40&v=4",
+          "name": "scheffle",
+          "url": "https://github.com/scheffle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7579804?s=40&v=4",
-          "name": "aaronang",
-          "url": "https://github.com/aaronang"
+          "avatar": "https://avatars.githubusercontent.com/u/22274925?s=40&v=4",
+          "name": "Msixty7",
+          "url": "https://github.com/Msixty7"
+        }
+      ]
+    },
+    {
+      "title": "corrosion-rs/corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "1,137",
+      "forks": "111",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55576758?s=40&v=4",
+          "name": "jschwe",
+          "url": "https://github.com/jschwe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7891852?s=40&v=4",
-          "name": "henrytien",
-          "url": "https://github.com/henrytien"
+          "avatar": "https://avatars.githubusercontent.com/u/2292643?s=40&v=4",
+          "name": "AndrewGaspar",
+          "url": "https://github.com/AndrewGaspar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/319796?s=40&v=4",
-          "name": "panovr",
-          "url": "https://github.com/panovr"
+          "avatar": "https://avatars.githubusercontent.com/u/1486?s=40&v=4",
+          "name": "tronical",
+          "url": "https://github.com/tronical"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/959326?s=40&v=4",
+          "name": "ogoffart",
+          "url": "https://github.com/ogoffart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84974957?s=40&v=4",
+          "name": "LeonMatthesKDAB",
+          "url": "https://github.com/LeonMatthesKDAB"
         }
       ]
     }
