@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 22 Feb 2025 07:12:29 GMT",
+  "pubDate": "Sat, 22 Feb 2025 13:20:54 GMT",
   "items": [
     {
       "title": "autowarefoundation/autoware",
@@ -10,7 +10,7 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "9,608",
+      "stars": "9,609",
       "forks": "3,142",
       "addStars": "274",
       "contributors": [
@@ -37,7 +37,7 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,334",
+      "stars": "12,336",
       "forks": "648",
       "addStars": "413",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "7,657",
+      "stars": "7,658",
       "forks": "1,384",
       "addStars": "134",
       "contributors": [
@@ -143,39 +143,39 @@
       ]
     },
     {
-      "title": "dunglas/symfony-docker",
-      "url": "https://github.com/dunglas/symfony-docker",
-      "description": "A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.",
+      "title": "YanWenKun/ComfyUI-Docker",
+      "url": "https://github.com/YanWenKun/ComfyUI-Docker",
+      "description": "🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,727",
-      "forks": "815",
-      "addStars": "43",
+      "stars": "633",
+      "forks": "110",
+      "addStars": "79",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57224?s=40&v=4",
-          "name": "dunglas",
-          "url": "https://github.com/dunglas"
+          "avatar": "https://avatars.githubusercontent.com/u/58008456?s=40&v=4",
+          "name": "YanWenKun",
+          "url": "https://github.com/YanWenKun"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12966574?s=40&v=4",
-          "name": "maxhelias",
-          "url": "https://github.com/maxhelias"
+          "avatar": "https://avatars.githubusercontent.com/u/2661819?s=40&v=4",
+          "name": "M1kep",
+          "url": "https://github.com/M1kep"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
-          "name": "fabpot",
-          "url": "https://github.com/fabpot"
+          "avatar": "https://avatars.githubusercontent.com/u/5275627?s=40&v=4",
+          "name": "nhtua",
+          "url": "https://github.com/nhtua"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16259603?s=40&v=4",
-          "name": "bkosun",
-          "url": "https://github.com/bkosun"
+          "avatar": "https://avatars.githubusercontent.com/u/627937?s=40&v=4",
+          "name": "petemyron",
+          "url": "https://github.com/petemyron"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/226021?s=40&v=4",
-          "name": "thePanz",
-          "url": "https://github.com/thePanz"
+          "avatar": "https://avatars.githubusercontent.com/u/1115625?s=40&v=4",
+          "name": "bashtoni",
+          "url": "https://github.com/bashtoni"
         }
       ]
     },
@@ -217,6 +217,43 @@
       ]
     },
     {
+      "title": "dunglas/symfony-docker",
+      "url": "https://github.com/dunglas/symfony-docker",
+      "description": "A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "2,727",
+      "forks": "815",
+      "addStars": "43",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57224?s=40&v=4",
+          "name": "dunglas",
+          "url": "https://github.com/dunglas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12966574?s=40&v=4",
+          "name": "maxhelias",
+          "url": "https://github.com/maxhelias"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
+          "name": "fabpot",
+          "url": "https://github.com/fabpot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16259603?s=40&v=4",
+          "name": "bkosun",
+          "url": "https://github.com/bkosun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/226021?s=40&v=4",
+          "name": "thePanz",
+          "url": "https://github.com/thePanz"
+        }
+      ]
+    },
+    {
       "title": "astral-sh/uv-docker-example",
       "url": "https://github.com/astral-sh/uv-docker-example",
       "description": "An example of using uv in Docker images",
@@ -254,39 +291,71 @@
       ]
     },
     {
-      "title": "AndreRH/hangover",
-      "url": "https://github.com/AndreRH/hangover",
-      "description": "Hangover runs simple Win64 and Win32 applications on arm64 Linux",
+      "title": "dotnet/dotnet-buildtools-prereqs-docker",
+      "url": "https://github.com/dotnet/dotnet-buildtools-prereqs-docker",
+      "description": "Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "1,555",
-      "forks": "105",
-      "addStars": "68",
+      "stars": "67",
+      "forks": "109",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/521262?s=40&v=4",
-          "name": "stefand",
-          "url": "https://github.com/stefand"
+          "avatar": "https://avatars.githubusercontent.com/u/60522487?s=40&v=4",
+          "name": "dotnet-docker-bot",
+          "url": "https://github.com/dotnet-docker-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/882484?s=40&v=4",
-          "name": "AndreRH",
-          "url": "https://github.com/AndreRH"
+          "avatar": "https://avatars.githubusercontent.com/u/14356188?s=40&v=4",
+          "name": "wfurt",
+          "url": "https://github.com/wfurt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1041564?s=40&v=4",
-          "name": "cwabbott0",
-          "url": "https://github.com/cwabbott0"
+          "avatar": "https://avatars.githubusercontent.com/u/7862010?s=40&v=4",
+          "name": "MattGal",
+          "url": "https://github.com/MattGal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44627326?s=40&v=4",
-          "name": "ziqingh",
-          "url": "https://github.com/ziqingh"
+          "avatar": "https://avatars.githubusercontent.com/u/15789599?s=40&v=4",
+          "name": "mthalman",
+          "url": "https://github.com/mthalman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17587250?s=40&v=4",
-          "name": "mpbagot",
-          "url": "https://github.com/mpbagot"
+          "avatar": "https://avatars.githubusercontent.com/u/8290530?s=40&v=4",
+          "name": "MichaelSimons",
+          "url": "https://github.com/MichaelSimons"
+        }
+      ]
+    },
+    {
+      "title": "mattcurf/ollama-intel-gpu",
+      "url": "https://github.com/mattcurf/ollama-intel-gpu",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "159",
+      "forks": "35",
+      "addStars": "87",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3911301?s=40&v=4",
+          "name": "mattcurf",
+          "url": "https://github.com/mattcurf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/168609?s=40&v=4",
+          "name": "pepijndevos",
+          "url": "https://github.com/pepijndevos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1188335?s=40&v=4",
+          "name": "eSlider",
+          "url": "https://github.com/eSlider"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
         }
       ]
     },
@@ -328,55 +397,6 @@
       ]
     },
     {
-      "title": "jaywcjlove/reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "为开发人员分享快速参考备忘清单(速查表)",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "12,927",
-      "forks": "1,969",
-      "addStars": "258",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
-          "name": "jaywcjlove",
-          "url": "https://github.com/jaywcjlove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82551626?s=40&v=4",
-          "name": "fwqaaq",
-          "url": "https://github.com/fwqaaq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40376181?s=40&v=4",
-          "name": "zhangymPerson",
-          "url": "https://github.com/zhangymPerson"
-        }
-      ]
-    },
-    {
-      "title": "jup-ag/jupiter-swap-api",
-      "url": "https://github.com/jup-ag/jupiter-swap-api",
-      "description": "The jupiter swap api binary",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "133",
-      "forks": "41",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32449414?s=40&v=4",
-          "name": "ZhengYuTay",
-          "url": "https://github.com/ZhengYuTay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8245419?s=40&v=4",
-          "name": "Arrowana",
-          "url": "https://github.com/Arrowana"
-        }
-      ]
-    },
-    {
       "title": "madMAx43v3r/chia-gigahorse",
       "url": "https://github.com/madMAx43v3r/chia-gigahorse",
       "description": "",
@@ -414,76 +434,88 @@
       ]
     },
     {
-      "title": "linuxserver/docker-swag",
-      "url": "https://github.com/linuxserver/docker-swag",
-      "description": "Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.",
+      "title": "jaywcjlove/reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "为开发人员分享快速参考备忘清单(速查表)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "3,119",
-      "forks": "254",
-      "addStars": "86",
+      "stars": "12,930",
+      "forks": "1,969",
+      "addStars": "258",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20182680?s=40&v=4",
-          "name": "LinuxServer-CI",
-          "url": "https://github.com/LinuxServer-CI"
+          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
+          "name": "jaywcjlove",
+          "url": "https://github.com/jaywcjlove"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/725456?s=40&v=4",
-          "name": "nemchik",
-          "url": "https://github.com/nemchik"
+          "avatar": "https://avatars.githubusercontent.com/u/82551626?s=40&v=4",
+          "name": "fwqaaq",
+          "url": "https://github.com/fwqaaq"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/541623?s=40&v=4",
-          "name": "aptalca",
-          "url": "https://github.com/aptalca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8425502?s=40&v=4",
-          "name": "thespad",
-          "url": "https://github.com/thespad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40674481?s=40&v=4",
-          "name": "drizuid",
-          "url": "https://github.com/drizuid"
+          "avatar": "https://avatars.githubusercontent.com/u/40376181?s=40&v=4",
+          "name": "zhangymPerson",
+          "url": "https://github.com/zhangymPerson"
         }
       ]
     },
     {
-      "title": "nodejs/docker-node",
-      "url": "https://github.com/nodejs/docker-node",
-      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "title": "AndreRH/hangover",
+      "url": "https://github.com/AndreRH/hangover",
+      "description": "Hangover runs simple Win64 and Win32 applications on arm64 Linux",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,357",
-      "forks": "1,973",
-      "addStars": "57",
+      "stars": "1,556",
+      "forks": "105",
+      "addStars": "68",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
-          "name": "PeterDaveHello",
-          "url": "https://github.com/PeterDaveHello"
+          "avatar": "https://avatars.githubusercontent.com/u/521262?s=40&v=4",
+          "name": "stefand",
+          "url": "https://github.com/stefand"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2781?s=40&v=4",
-          "name": "chorrell",
-          "url": "https://github.com/chorrell"
+          "avatar": "https://avatars.githubusercontent.com/u/882484?s=40&v=4",
+          "name": "AndreRH",
+          "url": "https://github.com/AndreRH"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1297909?s=40&v=4",
-          "name": "nschonni",
-          "url": "https://github.com/nschonni"
+          "avatar": "https://avatars.githubusercontent.com/u/1041564?s=40&v=4",
+          "name": "cwabbott0",
+          "url": "https://github.com/cwabbott0"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1404810?s=40&v=4",
-          "name": "SimenB",
-          "url": "https://github.com/SimenB"
+          "avatar": "https://avatars.githubusercontent.com/u/44627326?s=40&v=4",
+          "name": "ziqingh",
+          "url": "https://github.com/ziqingh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1090826?s=40&v=4",
-          "name": "LaurentGoderre",
-          "url": "https://github.com/LaurentGoderre"
+          "avatar": "https://avatars.githubusercontent.com/u/17587250?s=40&v=4",
+          "name": "mpbagot",
+          "url": "https://github.com/mpbagot"
+        }
+      ]
+    },
+    {
+      "title": "jup-ag/jupiter-swap-api",
+      "url": "https://github.com/jup-ag/jupiter-swap-api",
+      "description": "The jupiter swap api binary",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "134",
+      "forks": "41",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32449414?s=40&v=4",
+          "name": "ZhengYuTay",
+          "url": "https://github.com/ZhengYuTay"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8245419?s=40&v=4",
+          "name": "Arrowana",
+          "url": "https://github.com/Arrowana"
         }
       ]
     }
