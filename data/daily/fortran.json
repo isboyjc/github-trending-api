@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Feb 2025 07:15:03 GMT",
+  "pubDate": "Mon, 24 Feb 2025 13:27:51 GMT",
   "items": [
     {
       "title": "esmf-org/esmf",
@@ -42,12 +42,49 @@
       ]
     },
     {
+      "title": "Goddard-Fortran-Ecosystem/gFTL",
+      "url": "https://github.com/Goddard-Fortran-Ecosystem/gFTL",
+      "description": "Software containers for Fortran",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "45",
+      "forks": "10",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6225888?s=40&v=4",
+          "name": "tclune",
+          "url": "https://github.com/tclune"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2982494?s=40&v=4",
+          "name": "mathomp4",
+          "url": "https://github.com/mathomp4"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25363473?s=40&v=4",
+          "name": "EmilyBourne",
+          "url": "https://github.com/EmilyBourne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52509753?s=40&v=4",
+          "name": "weiyuan-jiang",
+          "url": "https://github.com/weiyuan-jiang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1486942?s=40&v=4",
+          "name": "ZedThree",
+          "url": "https://github.com/ZedThree"
+        }
+      ]
+    },
+    {
       "title": "earth-system-radiation/rte-rrtmgp",
       "url": "https://github.com/earth-system-radiation/rte-rrtmgp",
       "description": "RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "76",
+      "stars": "77",
       "forks": "71",
       "addStars": "0",
       "contributors": [
@@ -70,80 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/8059376?s=40&v=4",
           "name": "mrnorman",
           "url": "https://github.com/mrnorman"
-        }
-      ]
-    },
-    {
-      "title": "E3SM-Project/E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "363",
-      "forks": "381",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7292036?s=40&v=4",
-          "name": "jgfouca",
-          "url": "https://github.com/jgfouca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8136848?s=40&v=4",
-          "name": "singhbalwinder",
-          "url": "https://github.com/singhbalwinder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3226046?s=40&v=4",
-          "name": "bartgol",
-          "url": "https://github.com/bartgol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13684848?s=40&v=4",
-          "name": "jonbob",
-          "url": "https://github.com/jonbob"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4179064?s=40&v=4",
-          "name": "xylar",
-          "url": "https://github.com/xylar"
-        }
-      ]
-    },
-    {
-      "title": "firemodels/fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "714",
-      "forks": "639",
-      "addStars": "20",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
-          "name": "gforney",
-          "url": "https://github.com/gforney"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
-          "name": "mcgratta",
-          "url": "https://github.com/mcgratta"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
-          "name": "rmcdermo",
-          "url": "https://github.com/rmcdermo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
-          "name": "drjfloyd",
-          "url": "https://github.com/drjfloyd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
-          "name": "marcosvanella",
-          "url": "https://github.com/marcosvanella"
         }
       ]
     },
@@ -185,39 +148,150 @@
       ]
     },
     {
-      "title": "Goddard-Fortran-Ecosystem/gFTL",
-      "url": "https://github.com/Goddard-Fortran-Ecosystem/gFTL",
-      "description": "Software containers for Fortran",
+      "title": "geoschem/geos-chem",
+      "url": "https://github.com/geoschem/geos-chem",
+      "description": "GEOS-Chem \"Science Codebase\" repository. Contains GEOS-Chem science routines, run directory generation scripts, and interface code. This repository is used as a submodule within the GCClassic and GCHP wrappers, as well as in other modeling contexts (external ESMs).",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "45",
-      "forks": "10",
+      "stars": "191",
+      "forks": "174",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6225888?s=40&v=4",
-          "name": "tclune",
-          "url": "https://github.com/tclune"
+          "avatar": "https://avatars.githubusercontent.com/u/5880296?s=40&v=4",
+          "name": "yantosca",
+          "url": "https://github.com/yantosca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2982494?s=40&v=4",
-          "name": "mathomp4",
-          "url": "https://github.com/mathomp4"
+          "avatar": "https://avatars.githubusercontent.com/u/4805437?s=40&v=4",
+          "name": "msulprizio",
+          "url": "https://github.com/msulprizio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25363473?s=40&v=4",
-          "name": "EmilyBourne",
-          "url": "https://github.com/EmilyBourne"
+          "avatar": "https://avatars.githubusercontent.com/u/651947?s=40&v=4",
+          "name": "lizziel",
+          "url": "https://github.com/lizziel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52509753?s=40&v=4",
-          "name": "weiyuan-jiang",
-          "url": "https://github.com/weiyuan-jiang"
+          "avatar": "https://avatars.githubusercontent.com/u/6788764?s=40&v=4",
+          "name": "christophkeller",
+          "url": "https://github.com/christophkeller"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1486942?s=40&v=4",
-          "name": "ZedThree",
-          "url": "https://github.com/ZedThree"
+          "avatar": "https://avatars.githubusercontent.com/u/52680278?s=40&v=4",
+          "name": "kelvinhb",
+          "url": "https://github.com/kelvinhb"
+        }
+      ]
+    },
+    {
+      "title": "CICE-Consortium/Icepack",
+      "url": "https://github.com/CICE-Consortium/Icepack",
+      "description": "Development repository for sea-ice column physics",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "25",
+      "forks": "138",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8182814?s=40&v=4",
+          "name": "apcraig",
+          "url": "https://github.com/apcraig"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8173983?s=40&v=4",
+          "name": "eclare108213",
+          "url": "https://github.com/eclare108213"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16104390?s=40&v=4",
+          "name": "chrisknewman",
+          "url": "https://github.com/chrisknewman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23384844?s=40&v=4",
+          "name": "duvivier",
+          "url": "https://github.com/duvivier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12142035?s=40&v=4",
+          "name": "dabail10",
+          "url": "https://github.com/dabail10"
+        }
+      ]
+    },
+    {
+      "title": "E3SM-Project/E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "363",
+      "forks": "381",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7292036?s=40&v=4",
+          "name": "jgfouca",
+          "url": "https://github.com/jgfouca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8136848?s=40&v=4",
+          "name": "singhbalwinder",
+          "url": "https://github.com/singhbalwinder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3226046?s=40&v=4",
+          "name": "bartgol",
+          "url": "https://github.com/bartgol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13684848?s=40&v=4",
+          "name": "jonbob",
+          "url": "https://github.com/jonbob"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4179064?s=40&v=4",
+          "name": "xylar",
+          "url": "https://github.com/xylar"
+        }
+      ]
+    },
+    {
+      "title": "MPAS-Dev/MPAS-Model",
+      "url": "https://github.com/MPAS-Dev/MPAS-Model",
+      "description": "Repository for MPAS models and shared framework releases.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "250",
+      "forks": "338",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3979544?s=40&v=4",
+          "name": "mgduda",
+          "url": "https://github.com/mgduda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/334984?s=40&v=4",
+          "name": "douglasjacobsen",
+          "url": "https://github.com/douglasjacobsen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4036816?s=40&v=4",
+          "name": "mark-petersen",
+          "url": "https://github.com/mark-petersen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4182034?s=40&v=4",
+          "name": "matthewhoffman",
+          "url": "https://github.com/matthewhoffman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4108894?s=40&v=4",
+          "name": "ldfowler58",
+          "url": "https://github.com/ldfowler58"
         }
       ]
     },
@@ -292,154 +366,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/8231111?s=40&v=4",
           "name": "xuchongang",
           "url": "https://github.com/xuchongang"
-        }
-      ]
-    },
-    {
-      "title": "CICE-Consortium/Icepack",
-      "url": "https://github.com/CICE-Consortium/Icepack",
-      "description": "Development repository for sea-ice column physics",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "25",
-      "forks": "138",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8182814?s=40&v=4",
-          "name": "apcraig",
-          "url": "https://github.com/apcraig"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8173983?s=40&v=4",
-          "name": "eclare108213",
-          "url": "https://github.com/eclare108213"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16104390?s=40&v=4",
-          "name": "chrisknewman",
-          "url": "https://github.com/chrisknewman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23384844?s=40&v=4",
-          "name": "duvivier",
-          "url": "https://github.com/duvivier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12142035?s=40&v=4",
-          "name": "dabail10",
-          "url": "https://github.com/dabail10"
-        }
-      ]
-    },
-    {
-      "title": "MPAS-Dev/MPAS-Model",
-      "url": "https://github.com/MPAS-Dev/MPAS-Model",
-      "description": "Repository for MPAS models and shared framework releases.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "250",
-      "forks": "338",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3979544?s=40&v=4",
-          "name": "mgduda",
-          "url": "https://github.com/mgduda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/334984?s=40&v=4",
-          "name": "douglasjacobsen",
-          "url": "https://github.com/douglasjacobsen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4036816?s=40&v=4",
-          "name": "mark-petersen",
-          "url": "https://github.com/mark-petersen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4182034?s=40&v=4",
-          "name": "matthewhoffman",
-          "url": "https://github.com/matthewhoffman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4108894?s=40&v=4",
-          "name": "ldfowler58",
-          "url": "https://github.com/ldfowler58"
-        }
-      ]
-    },
-    {
-      "title": "ElmerCSC/elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,264",
-      "forks": "333",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
-          "name": "raback",
-          "url": "https://github.com/raback"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
-          "name": "mmalinen",
-          "url": "https://github.com/mmalinen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
-          "name": "ettaka",
-          "url": "https://github.com/ettaka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
-          "name": "juhanikataja",
-          "url": "https://github.com/juhanikataja"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6701631?s=40&v=4",
-          "name": "tzwinger",
-          "url": "https://github.com/tzwinger"
-        }
-      ]
-    },
-    {
-      "title": "Reference-LAPACK/lapack",
-      "url": "https://github.com/Reference-LAPACK/lapack",
-      "description": "LAPACK development repository",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,584",
-      "forks": "447",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1789628?s=40&v=4",
-          "name": "langou",
-          "url": "https://github.com/langou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16517625?s=40&v=4",
-          "name": "weslleyspereira",
-          "url": "https://github.com/weslleyspereira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16792376?s=40&v=4",
-          "name": "julielangou",
-          "url": "https://github.com/julielangou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6192365?s=40&v=4",
-          "name": "martin-frbg",
-          "url": "https://github.com/martin-frbg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1015908?s=40&v=4",
-          "name": "scr2016",
-          "url": "https://github.com/scr2016"
         }
       ]
     }
