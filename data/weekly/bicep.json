@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Weekly Trending",
   "description": "Weekly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 02 Mar 2025 07:13:05 GMT",
+  "pubDate": "Sun, 02 Mar 2025 13:21:44 GMT",
   "items": [
     {
       "title": "Azure/azure-quickstart-templates",
@@ -175,6 +175,38 @@
       ]
     },
     {
+      "title": "Azure/bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": "3,319",
+      "forks": "775",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38542602?s=40&v=4",
+          "name": "anthony-c-martin",
+          "url": "https://github.com/anthony-c-martin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6913354?s=40&v=4",
+          "name": "StephenWeatherford",
+          "url": "https://github.com/StephenWeatherford"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22460039?s=40&v=4",
+          "name": "majastrz",
+          "url": "https://github.com/majastrz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16367959?s=40&v=4",
+          "name": "shenglol",
+          "url": "https://github.com/shenglol"
+        }
+      ]
+    },
+    {
       "title": "microsoft/azure-container-apps",
       "url": "https://github.com/microsoft/azure-container-apps",
       "description": "Roadmap and issues for Azure Container Apps",
@@ -208,38 +240,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/22527892?s=40&v=4",
           "name": "microsoftopensource",
           "url": "https://github.com/microsoftopensource"
-        }
-      ]
-    },
-    {
-      "title": "Azure/bicep",
-      "url": "https://github.com/Azure/bicep",
-      "description": "Bicep is a declarative language for describing and deploying Azure resources",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": "3,319",
-      "forks": "775",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38542602?s=40&v=4",
-          "name": "anthony-c-martin",
-          "url": "https://github.com/anthony-c-martin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6913354?s=40&v=4",
-          "name": "StephenWeatherford",
-          "url": "https://github.com/StephenWeatherford"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22460039?s=40&v=4",
-          "name": "majastrz",
-          "url": "https://github.com/majastrz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16367959?s=40&v=4",
-          "name": "shenglol",
-          "url": "https://github.com/shenglol"
         }
       ]
     },
@@ -318,66 +318,24 @@
       ]
     },
     {
-      "title": "Azure-Samples/contoso-chat",
-      "url": "https://github.com/Azure-Samples/contoso-chat",
-      "description": "This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+      "title": "Azure-Samples/openai-chat-backend-fastapi",
+      "url": "https://github.com/Azure-Samples/openai-chat-backend-fastapi",
+      "description": "A backend for a chat application written in Python FastAPI framework",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "604",
-      "forks": "3,638",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46505951?s=40&v=4",
-          "name": "cassiebreviu",
-          "url": "https://github.com/cassiebreviu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/279083?s=40&v=4",
-          "name": "nitya",
-          "url": "https://github.com/nitya"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/115409?s=40&v=4",
-          "name": "sethjuarez",
-          "url": "https://github.com/sethjuarez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152948?s=40&v=4",
-          "name": "revodavid",
-          "url": "https://github.com/revodavid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23196828?s=40&v=4",
-          "name": "anderl80",
-          "url": "https://github.com/anderl80"
-        }
-      ]
-    },
-    {
-      "title": "Azure-Samples/container-apps-jobs",
-      "url": "https://github.com/Azure-Samples/container-apps-jobs",
-      "description": "This sample shows how to create Azure Container Apps Jobs via Azure CLI and Bicep and how to start and monitor these components.",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": "25",
-      "forks": "11",
+      "stars": "45",
+      "forks": "18",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22527892?s=40&v=4",
-          "name": "microsoftopensource",
-          "url": "https://github.com/microsoftopensource"
+          "avatar": "https://avatars.githubusercontent.com/u/297042?s=40&v=4",
+          "name": "pamelafox",
+          "url": "https://github.com/pamelafox"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1658419?s=40&v=4",
-          "name": "paolosalvatori",
-          "url": "https://github.com/paolosalvatori"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1532417?s=40&v=4",
-          "name": "tonybaloney",
-          "url": "https://github.com/tonybaloney"
+          "avatar": "https://avatars.githubusercontent.com/u/41597107?s=40&v=4",
+          "name": "diberry",
+          "url": "https://github.com/diberry"
         }
       ]
     },
@@ -405,28 +363,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/645740?s=40&v=4",
           "name": "ahmelsayed",
           "url": "https://github.com/ahmelsayed"
-        }
-      ]
-    },
-    {
-      "title": "Azure-Samples/PetSpotR",
-      "url": "https://github.com/Azure-Samples/PetSpotR",
-      "description": "Demo application that showcases a modern, cloud-native application",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": "69",
-      "forks": "32",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54363786?s=40&v=4",
-          "name": "AaronCrawfis",
-          "url": "https://github.com/AaronCrawfis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1887732?s=40&v=4",
-          "name": "Damovisa",
-          "url": "https://github.com/Damovisa"
         }
       ]
     }
