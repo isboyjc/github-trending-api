@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Weekly Trending",
   "description": "Weekly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 09 Mar 2025 07:11:34 GMT",
+  "pubDate": "Sun, 09 Mar 2025 13:18:20 GMT",
   "items": [
     {
       "title": "vulhub/vulhub",
@@ -10,7 +10,7 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "18,379",
+      "stars": "18,382",
       "forks": "4,546",
       "addStars": "48",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "为开发人员分享快速参考备忘清单(速查表)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "13,186",
+      "stars": "13,189",
       "forks": "1,999",
       "addStars": "154",
       "contributors": [
@@ -96,6 +96,38 @@
       ]
     },
     {
+      "title": "goldbergyoni/nodebestpractices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "description": "✅ The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "102,007",
+      "forks": "10,347",
+      "addStars": "115",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8571500?s=40&v=4",
+          "name": "goldbergyoni",
+          "url": "https://github.com/goldbergyoni"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17216937?s=40&v=4",
+          "name": "anediaz",
+          "url": "https://github.com/anediaz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9084421?s=40&v=4",
+          "name": "idori",
+          "url": "https://github.com/idori"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16746759?s=40&v=4",
+          "name": "rluvaton",
+          "url": "https://github.com/rluvaton"
+        }
+      ]
+    },
+    {
       "title": "astral-sh/uv-docker-example",
       "url": "https://github.com/astral-sh/uv-docker-example",
       "description": "An example of using uv in Docker images",
@@ -133,38 +165,6 @@
       ]
     },
     {
-      "title": "goldbergyoni/nodebestpractices",
-      "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (July 2024)",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "102,005",
-      "forks": "10,347",
-      "addStars": "115",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8571500?s=40&v=4",
-          "name": "goldbergyoni",
-          "url": "https://github.com/goldbergyoni"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17216937?s=40&v=4",
-          "name": "anediaz",
-          "url": "https://github.com/anediaz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9084421?s=40&v=4",
-          "name": "idori",
-          "url": "https://github.com/idori"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16746759?s=40&v=4",
-          "name": "rluvaton",
-          "url": "https://github.com/rluvaton"
-        }
-      ]
-    },
-    {
       "title": "microsoft/vscode-remote-release",
       "url": "https://github.com/microsoft/vscode-remote-release",
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
@@ -198,43 +198,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/8586769?s=40&v=4",
           "name": "JacksonKearl",
           "url": "https://github.com/JacksonKearl"
-        }
-      ]
-    },
-    {
-      "title": "odoo/docker",
-      "url": "https://github.com/odoo/docker",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "1,017",
-      "forks": "1,606",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/334923?s=40&v=4",
-          "name": "d-fence",
-          "url": "https://github.com/d-fence"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3018448?s=40&v=4",
-          "name": "cecton",
-          "url": "https://github.com/cecton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9432572?s=40&v=4",
-          "name": "aab-odoo",
-          "url": "https://github.com/aab-odoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7601090?s=40&v=4",
-          "name": "sle-odoo",
-          "url": "https://github.com/sle-odoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76367?s=40&v=4",
-          "name": "md5",
-          "url": "https://github.com/md5"
         }
       ]
     },
@@ -313,24 +276,39 @@
       ]
     },
     {
-      "title": "haxqer/jira",
-      "url": "https://github.com/haxqer/jira",
-      "description": "The simplest docker file of JIRA. Support v9.17.5(latest) v10.3.2(latest) and v9.12.18(lts)",
+      "title": "dunglas/symfony-docker",
+      "url": "https://github.com/dunglas/symfony-docker",
+      "description": "A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "559",
-      "forks": "310",
-      "addStars": "6",
+      "stars": "2,740",
+      "forks": "812",
+      "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25882796?s=40&v=4",
-          "name": "haxqer",
-          "url": "https://github.com/haxqer"
+          "avatar": "https://avatars.githubusercontent.com/u/57224?s=40&v=4",
+          "name": "dunglas",
+          "url": "https://github.com/dunglas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48691867?s=40&v=4",
-          "name": "d1m0nstr",
-          "url": "https://github.com/d1m0nstr"
+          "avatar": "https://avatars.githubusercontent.com/u/12966574?s=40&v=4",
+          "name": "maxhelias",
+          "url": "https://github.com/maxhelias"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
+          "name": "fabpot",
+          "url": "https://github.com/fabpot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16259603?s=40&v=4",
+          "name": "bkosun",
+          "url": "https://github.com/bkosun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/226021?s=40&v=4",
+          "name": "thePanz",
+          "url": "https://github.com/thePanz"
         }
       ]
     },
@@ -362,76 +340,135 @@
       ]
     },
     {
-      "title": "dotnet/dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
+      "title": "haxqer/jira",
+      "url": "https://github.com/haxqer/jira",
+      "description": "The simplest docker file of JIRA. Support v9.17.5(latest) v10.3.2(latest) and v9.12.18(lts)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,604",
-      "forks": "1,952",
-      "addStars": "7",
+      "stars": "559",
+      "forks": "310",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15789599?s=40&v=4",
-          "name": "mthalman",
-          "url": "https://github.com/mthalman"
+          "avatar": "https://avatars.githubusercontent.com/u/25882796?s=40&v=4",
+          "name": "haxqer",
+          "url": "https://github.com/haxqer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36081148?s=40&v=4",
-          "name": "lbussell",
-          "url": "https://github.com/lbussell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8290530?s=40&v=4",
-          "name": "MichaelSimons",
-          "url": "https://github.com/MichaelSimons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60522487?s=40&v=4",
-          "name": "dotnet-docker-bot",
-          "url": "https://github.com/dotnet-docker-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2608468?s=40&v=4",
-          "name": "richlander",
-          "url": "https://github.com/richlander"
+          "avatar": "https://avatars.githubusercontent.com/u/48691867?s=40&v=4",
+          "name": "d1m0nstr",
+          "url": "https://github.com/d1m0nstr"
         }
       ]
     },
     {
-      "title": "abarichello/godot-ci",
-      "url": "https://github.com/abarichello/godot-ci",
-      "description": "Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.",
+      "title": "cross-rs/cross-toolchains",
+      "url": "https://github.com/cross-rs/cross-toolchains",
+      "description": "Additional Dockerfiles and crosstool-ng config files to build additional toolchains.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "821",
-      "forks": "141",
-      "addStars": "8",
+      "stars": "109",
+      "forks": "18",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16687318?s=40&v=4",
-          "name": "abarichello",
-          "url": "https://github.com/abarichello"
+          "avatar": "https://avatars.githubusercontent.com/u/9440903?s=40&v=4",
+          "name": "Alexhuszagh",
+          "url": "https://github.com/Alexhuszagh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
+          "avatar": "https://avatars.githubusercontent.com/u/1502855?s=40&v=4",
+          "name": "Emilgardis",
+          "url": "https://github.com/Emilgardis"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43449832?s=40&v=4",
-          "name": "realkotob",
-          "url": "https://github.com/realkotob"
+          "avatar": "https://avatars.githubusercontent.com/u/32823131?s=40&v=4",
+          "name": "0xdeafbeef",
+          "url": "https://github.com/0xdeafbeef"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/192539?s=40&v=4",
-          "name": "xuv",
-          "url": "https://github.com/xuv"
+          "avatar": "https://avatars.githubusercontent.com/u/3268?s=40&v=4",
+          "name": "uhlenbrock",
+          "url": "https://github.com/uhlenbrock"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1824267?s=40&v=4",
-          "name": "lallmon",
-          "url": "https://github.com/lallmon"
+          "avatar": "https://avatars.githubusercontent.com/u/70800?s=40&v=4",
+          "name": "Wilfred",
+          "url": "https://github.com/Wilfred"
+        }
+      ]
+    },
+    {
+      "title": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "12,494",
+      "forks": "657",
+      "addStars": "88",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45159366?s=40&v=4",
+          "name": "mikeroyal",
+          "url": "https://github.com/mikeroyal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1090838?s=40&v=4",
+          "name": "bsamadi",
+          "url": "https://github.com/bsamadi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3526922?s=40&v=4",
+          "name": "cztomsik",
+          "url": "https://github.com/cztomsik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3581556?s=40&v=4",
+          "name": "wintersolutions",
+          "url": "https://github.com/wintersolutions"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3706505?s=40&v=4",
+          "name": "shotgunner",
+          "url": "https://github.com/shotgunner"
+        }
+      ]
+    },
+    {
+      "title": "YanWenKun/ComfyUI-Docker",
+      "url": "https://github.com/YanWenKun/ComfyUI-Docker",
+      "description": "🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "676",
+      "forks": "117",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58008456?s=40&v=4",
+          "name": "YanWenKun",
+          "url": "https://github.com/YanWenKun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2661819?s=40&v=4",
+          "name": "M1kep",
+          "url": "https://github.com/M1kep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5275627?s=40&v=4",
+          "name": "nhtua",
+          "url": "https://github.com/nhtua"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/627937?s=40&v=4",
+          "name": "petemyron",
+          "url": "https://github.com/petemyron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1115625?s=40&v=4",
+          "name": "bashtoni",
+          "url": "https://github.com/bashtoni"
         }
       ]
     },
@@ -473,76 +510,29 @@
       ]
     },
     {
-      "title": "postgis/docker-postgis",
-      "url": "https://github.com/postgis/docker-postgis",
-      "description": "Docker image for PostGIS",
+      "title": "P3TERX/Aria2-Pro-Docker",
+      "url": "https://github.com/P3TERX/Aria2-Pro-Docker",
+      "description": "Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "1,429",
-      "forks": "476",
-      "addStars": "2",
+      "stars": "3,436",
+      "forks": "398",
+      "addStars": "15",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/76367?s=40&v=4",
-          "name": "md5",
-          "url": "https://github.com/md5"
+          "avatar": "https://avatars.githubusercontent.com/u/25927179?s=40&v=4",
+          "name": "P3TERX",
+          "url": "https://github.com/P3TERX"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2217320?s=40&v=4",
-          "name": "ImreSamu",
-          "url": "https://github.com/ImreSamu"
+          "avatar": "https://avatars.githubusercontent.com/u/12995396?s=40&v=4",
+          "name": "gnattu",
+          "url": "https://github.com/gnattu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9845938?s=40&v=4",
-          "name": "phillipross",
-          "url": "https://github.com/phillipross"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2555532?s=40&v=4",
-          "name": "JacobHayes",
-          "url": "https://github.com/JacobHayes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/533564?s=40&v=4",
-          "name": "stepankuzmin",
-          "url": "https://github.com/stepankuzmin"
-        }
-      ]
-    },
-    {
-      "title": "OWASP/wstg",
-      "url": "https://github.com/OWASP/wstg",
-      "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "7,725",
-      "forks": "1,392",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7570458?s=40&v=4",
-          "name": "kingthorin",
-          "url": "https://github.com/kingthorin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32433575?s=40&v=4",
-          "name": "ThunderSon",
-          "url": "https://github.com/ThunderSon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4394746?s=40&v=4",
-          "name": "rejahrehim",
-          "url": "https://github.com/rejahrehim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24644237?s=40&v=4",
-          "name": "victoriadrake",
-          "url": "https://github.com/victoriadrake"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33680980?s=40&v=4",
-          "name": "jinsonvarghese",
-          "url": "https://github.com/jinsonvarghese"
+          "avatar": "https://avatars.githubusercontent.com/u/24411020?s=40&v=4",
+          "name": "okcy1016",
+          "url": "https://github.com/okcy1016"
         }
       ]
     }
