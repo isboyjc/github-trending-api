@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Mon, 17 Mar 2025 07:15:32 GMT</pubDate>
+    <pubDate>Mon, 17 Mar 2025 13:31:05 GMT</pubDate>
     <item>
       <title>bazelbuild/rules_rust</title>
       <link>https://github.com/bazelbuild/rules_rust</link>
@@ -44,7 +44,7 @@
       <guid>https://github.com/googleapis/googleapis</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>7,796</stars>
+      <stars>7,797</stars>
       <forks>2,374</forks>
       <addStars>54</addStars>
       <contributors>
@@ -77,7 +77,7 @@
       <guid>https://github.com/google/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>3,079</stars>
+      <stars>3,081</stars>
       <forks>240</forks>
       <addStars>46</addStars>
       <contributors>
@@ -115,7 +115,7 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>20,064</stars>
+      <stars>20,066</stars>
       <forks>1,241</forks>
       <addStars>229</addStars>
       <contributors>
@@ -181,7 +181,7 @@
       <guid>https://github.com/ethpandaops/ethereum-package</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>310</stars>
+      <stars>311</stars>
       <forks>204</forks>
       <addStars>12</addStars>
       <contributors>
@@ -327,6 +327,44 @@
       </contributors>
     </item>
     <item>
+      <title>bazelbuild/examples</title>
+      <link>https://github.com/bazelbuild/examples</link>
+      <description>Examples for Bazel</description>
+      <guid>https://github.com/bazelbuild/examples</guid>
+      <language>Starlark</language>
+      <languageColor>#76d275</languageColor>
+      <stars>866</stars>
+      <forks>529</forks>
+      <addStars>11</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17042?s=40&amp;v=4</avatar>
+          <name>kchodorow</name>
+          <url>https://github.com/kchodorow</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
+          <name>alexeagle</name>
+          <url>https://github.com/alexeagle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13687552?s=40&amp;v=4</avatar>
+          <name>c-parsons</name>
+          <url>https://github.com/c-parsons</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31547?s=40&amp;v=4</avatar>
+          <name>hanwen</name>
+          <url>https://github.com/hanwen</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>google/bazel-common</title>
       <link>https://github.com/google/bazel-common</link>
       <description>Common functionality for Google's open-source libraries that are built with bazel.</description>
@@ -398,44 +436,6 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/examples</title>
-      <link>https://github.com/bazelbuild/examples</link>
-      <description>Examples for Bazel</description>
-      <guid>https://github.com/bazelbuild/examples</guid>
-      <language>Starlark</language>
-      <languageColor>#76d275</languageColor>
-      <stars>866</stars>
-      <forks>529</forks>
-      <addStars>11</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17042?s=40&amp;v=4</avatar>
-          <name>kchodorow</name>
-          <url>https://github.com/kchodorow</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47395?s=40&amp;v=4</avatar>
-          <name>alexeagle</name>
-          <url>https://github.com/alexeagle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13687552?s=40&amp;v=4</avatar>
-          <name>c-parsons</name>
-          <url>https://github.com/c-parsons</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31547?s=40&amp;v=4</avatar>
-          <name>hanwen</name>
-          <url>https://github.com/hanwen</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>grpc/grpc-proto</title>
       <link>https://github.com/grpc/grpc-proto</link>
       <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
@@ -474,40 +474,40 @@
       </contributors>
     </item>
     <item>
-      <title>cncf/xds</title>
-      <link>https://github.com/cncf/xds</link>
-      <description>xDS API Working Group</description>
-      <guid>https://github.com/cncf/xds</guid>
+      <title>bazelbuild/bazel-skylib</title>
+      <link>https://github.com/bazelbuild/bazel-skylib</link>
+      <description>Common useful functions and rules for Bazel</description>
+      <guid>https://github.com/bazelbuild/bazel-skylib</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>220</stars>
-      <forks>75</forks>
-      <addStars>8</addStars>
+      <stars>400</stars>
+      <forks>183</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/672669?s=40&amp;v=4</avatar>
-          <name>sergiitk</name>
-          <url>https://github.com/sergiitk</url>
+          <avatar>https://avatars.githubusercontent.com/u/13687552?s=40&amp;v=4</avatar>
+          <name>c-parsons</name>
+          <url>https://github.com/c-parsons</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6032561?s=40&amp;v=4</avatar>
-          <name>mmorel-35</name>
-          <url>https://github.com/mmorel-35</url>
+          <avatar>https://avatars.githubusercontent.com/u/52517?s=40&amp;v=4</avatar>
+          <name>tetromino</name>
+          <url>https://github.com/tetromino</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9537734?s=40&amp;v=4</avatar>
-          <name>kyessenov</name>
-          <url>https://github.com/kyessenov</url>
+          <avatar>https://avatars.githubusercontent.com/u/5279928?s=40&amp;v=4</avatar>
+          <name>thomasvl</name>
+          <url>https://github.com/thomasvl</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
-          <name>keith</name>
-          <url>https://github.com/keith</url>
+          <avatar>https://avatars.githubusercontent.com/u/10532244?s=40&amp;v=4</avatar>
+          <name>laszlocsomor</name>
+          <url>https://github.com/laszlocsomor</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18664614?s=40&amp;v=4</avatar>
-          <name>markdroth</name>
-          <url>https://github.com/markdroth</url>
+          <avatar>https://avatars.githubusercontent.com/u/3044252?s=40&amp;v=4</avatar>
+          <name>aiuto</name>
+          <url>https://github.com/aiuto</url>
         </contributor>
       </contributors>
     </item>
@@ -545,40 +545,40 @@
       </contributors>
     </item>
     <item>
-      <title>bazelbuild/bazel-skylib</title>
-      <link>https://github.com/bazelbuild/bazel-skylib</link>
-      <description>Common useful functions and rules for Bazel</description>
-      <guid>https://github.com/bazelbuild/bazel-skylib</guid>
+      <title>0xPolygon/kurtosis-cdk</title>
+      <link>https://github.com/0xPolygon/kurtosis-cdk</link>
+      <description>A Kurtosis package that deploys a private, portable, and modular Polygon CDK devnet</description>
+      <guid>https://github.com/0xPolygon/kurtosis-cdk</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>400</stars>
-      <forks>183</forks>
-      <addStars>2</addStars>
+      <stars>59</stars>
+      <forks>108</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13687552?s=40&amp;v=4</avatar>
-          <name>c-parsons</name>
-          <url>https://github.com/c-parsons</url>
+          <avatar>https://avatars.githubusercontent.com/u/429588?s=40&amp;v=4</avatar>
+          <name>praetoriansentry</name>
+          <url>https://github.com/praetoriansentry</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52517?s=40&amp;v=4</avatar>
-          <name>tetromino</name>
-          <url>https://github.com/tetromino</url>
+          <avatar>https://avatars.githubusercontent.com/u/125336262?s=40&amp;v=4</avatar>
+          <name>jhkimqd</name>
+          <url>https://github.com/jhkimqd</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5279928?s=40&amp;v=4</avatar>
-          <name>thomasvl</name>
-          <url>https://github.com/thomasvl</url>
+          <avatar>https://avatars.githubusercontent.com/u/28714795?s=40&amp;v=4</avatar>
+          <name>leovct</name>
+          <url>https://github.com/leovct</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10532244?s=40&amp;v=4</avatar>
-          <name>laszlocsomor</name>
-          <url>https://github.com/laszlocsomor</url>
+          <avatar>https://avatars.githubusercontent.com/u/100106211?s=40&amp;v=4</avatar>
+          <name>rebelArtists</name>
+          <url>https://github.com/rebelArtists</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3044252?s=40&amp;v=4</avatar>
-          <name>aiuto</name>
-          <url>https://github.com/aiuto</url>
+          <avatar>https://avatars.githubusercontent.com/u/47888584?s=40&amp;v=4</avatar>
+          <name>xavier-romero</name>
+          <url>https://github.com/xavier-romero</url>
         </contributor>
       </contributors>
     </item>
