@@ -2,53 +2,16 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 25 Mar 2025 07:17:10 GMT",
+  "pubDate": "Tue, 25 Mar 2025 19:04:51 GMT",
   "items": [
-    {
-      "title": "intel/llvm",
-      "url": "https://github.com/intel/llvm",
-      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": "1,302",
-      "forks": "762",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16542?s=40&v=4",
-          "name": "d0k",
-          "url": "https://github.com/d0k"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2175834?s=40&v=4",
-          "name": "RKSimon",
-          "url": "https://github.com/RKSimon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22566570?s=40&v=4",
-          "name": "topperc",
-          "url": "https://github.com/topperc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/416322?s=40&v=4",
-          "name": "MaskRay",
-          "url": "https://github.com/MaskRay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
-          "name": "nikic",
-          "url": "https://github.com/nikic"
-        }
-      ]
-    },
     {
       "title": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": "31,583",
-      "forks": "13,037",
+      "stars": "31,597",
+      "forks": "13,039",
       "addStars": "16",
       "contributors": [
         {
@@ -79,19 +42,56 @@
       ]
     },
     {
-      "title": "arm/arm-toolchain",
-      "url": "https://github.com/arm/arm-toolchain",
-      "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
+      "title": "intel/llvm",
+      "url": "https://github.com/intel/llvm",
+      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": "23",
-      "forks": "22",
-      "addStars": "0",
+      "stars": "1,302",
+      "forks": "761",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57370056?s=40&v=4",
-          "name": "kazutakahirata",
-          "url": "https://github.com/kazutakahirata"
+          "avatar": "https://avatars.githubusercontent.com/u/16542?s=40&v=4",
+          "name": "d0k",
+          "url": "https://github.com/d0k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2175834?s=40&v=4",
+          "name": "RKSimon",
+          "url": "https://github.com/RKSimon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22566570?s=40&v=4",
+          "name": "topperc",
+          "url": "https://github.com/topperc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/416322?s=40&v=4",
+          "name": "MaskRay",
+          "url": "https://github.com/MaskRay"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
+          "name": "nikic",
+          "url": "https://github.com/nikic"
+        }
+      ]
+    },
+    {
+      "title": "KomiMoe/Arkari",
+      "url": "https://github.com/KomiMoe/Arkari",
+      "description": "Yet another llvm based obfuscator based on goron.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": "507",
+      "forks": "82",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
+          "name": "lattner",
+          "url": "https://github.com/lattner"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/22566570?s=40&v=4",
@@ -104,51 +104,14 @@
           "url": "https://github.com/RKSimon"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/42633?s=40&v=4",
+          "name": "espindola",
+          "url": "https://github.com/espindola"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/138339?s=40&v=4",
           "name": "arsenm",
           "url": "https://github.com/arsenm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3903045?s=40&v=4",
-          "name": "ostannard",
-          "url": "https://github.com/ostannard"
-        }
-      ]
-    },
-    {
-      "title": "GaloisInc/llvm-pretty-bc-parser",
-      "url": "https://github.com/GaloisInc/llvm-pretty-bc-parser",
-      "description": "Parser for the llvm bitcode format",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": "60",
-      "forks": "7",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/787421?s=40&v=4",
-          "name": "kquick",
-          "url": "https://github.com/kquick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4294323?s=40&v=4",
-          "name": "langston-barrett",
-          "url": "https://github.com/langston-barrett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2364661?s=40&v=4",
-          "name": "RyanGlScott",
-          "url": "https://github.com/RyanGlScott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22708?s=40&v=4",
-          "name": "elliottt",
-          "url": "https://github.com/elliottt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/137806?s=40&v=4",
-          "name": "TomMD",
-          "url": "https://github.com/TomMD"
         }
       ]
     }
