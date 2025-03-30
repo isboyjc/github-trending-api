@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Weekly Trending",
   "description": "Weekly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 30 Mar 2025 07:14:29 GMT",
+  "pubDate": "Sun, 30 Mar 2025 13:25:13 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -37,12 +37,76 @@
       ]
     },
     {
+      "title": "bazelbuild/rules_proto",
+      "url": "https://github.com/bazelbuild/rules_proto",
+      "description": "Protocol buffer rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "172",
+      "forks": "70",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1796240?s=40&v=4",
+          "name": "comius",
+          "url": "https://github.com/comius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7313747?s=40&v=4",
+          "name": "Yannic",
+          "url": "https://github.com/Yannic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20563340?s=40&v=4",
+          "name": "thesayyn",
+          "url": "https://github.com/thesayyn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        }
+      ]
+    },
+    {
+      "title": "bazel-contrib/rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "571",
+      "forks": "573",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
+          "name": "rickeylev",
+          "url": "https://github.com/rickeylev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/240938?s=40&v=4",
+          "name": "aignas",
+          "url": "https://github.com/aignas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
+          "name": "f0rmiga",
+          "url": "https://github.com/f0rmiga"
+        }
+      ]
+    },
+    {
       "title": "google/cel-spec",
       "url": "https://github.com/google/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,101",
+      "stars": "3,102",
       "forks": "243",
       "addStars": "9",
       "contributors": [
@@ -175,39 +239,39 @@
       ]
     },
     {
-      "title": "bazel-contrib/rules_foreign_cc",
-      "url": "https://github.com/bazel-contrib/rules_foreign_cc",
-      "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
+      "title": "tilt-dev/tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "697",
-      "forks": "248",
-      "addStars": "1",
+      "stars": "214",
+      "forks": "176",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6598461?s=40&v=4",
-          "name": "irengrig",
-          "url": "https://github.com/irengrig"
+          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
+          "name": "nicks",
+          "url": "https://github.com/nicks"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
-          "name": "UebelAndre",
-          "url": "https://github.com/UebelAndre"
+          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
+          "name": "milas",
+          "url": "https://github.com/milas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11253?s=40&v=4",
-          "name": "jsharpe",
-          "url": "https://github.com/jsharpe"
+          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
+          "name": "maiamcc",
+          "url": "https://github.com/maiamcc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
-          "name": "jheaff1",
-          "url": "https://github.com/jheaff1"
+          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
+          "name": "landism",
+          "url": "https://github.com/landism"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
+          "avatar": "https://avatars.githubusercontent.com/u/1231996?s=40&v=4",
+          "name": "bobjackman",
+          "url": "https://github.com/bobjackman"
         }
       ]
     },
@@ -245,38 +309,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/19435055?s=40&v=4",
           "name": "ejbrever",
           "url": "https://github.com/ejbrever"
-        }
-      ]
-    },
-    {
-      "title": "bazel-contrib/rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "571",
-      "forks": "573",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
-          "name": "rickeylev",
-          "url": "https://github.com/rickeylev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/240938?s=40&v=4",
-          "name": "aignas",
-          "url": "https://github.com/aignas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
-          "name": "f0rmiga",
-          "url": "https://github.com/f0rmiga"
         }
       ]
     },
@@ -323,7 +355,7 @@
       "description": "Common useful functions and rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "401",
+      "stars": "402",
       "forks": "183",
       "addStars": "0",
       "contributors": [
@@ -351,75 +383,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3044252?s=40&v=4",
           "name": "aiuto",
           "url": "https://github.com/aiuto"
-        }
-      ]
-    },
-    {
-      "title": "C2SP/wycheproof",
-      "url": "https://github.com/C2SP/wycheproof",
-      "description": "Project Wycheproof tests crypto libraries against known attacks.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "2,816",
-      "forks": "297",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25984990?s=40&v=4",
-          "name": "bleichen",
-          "url": "https://github.com/bleichen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/292650?s=40&v=4",
-          "name": "cpu",
-          "url": "https://github.com/cpu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7532?s=40&v=4",
-          "name": "thaidn",
-          "url": "https://github.com/thaidn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24443108?s=40&v=4",
-          "name": "kokoro-team",
-          "url": "https://github.com/kokoro-team"
-        }
-      ]
-    },
-    {
-      "title": "tilt-dev/tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "214",
-      "forks": "176",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/278641?s=40&v=4",
-          "name": "nicks",
-          "url": "https://github.com/nicks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
-          "name": "milas",
-          "url": "https://github.com/milas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6332648?s=40&v=4",
-          "name": "maiamcc",
-          "url": "https://github.com/maiamcc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7453991?s=40&v=4",
-          "name": "landism",
-          "url": "https://github.com/landism"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1231996?s=40&v=4",
-          "name": "bobjackman",
-          "url": "https://github.com/bobjackman"
         }
       ]
     },
@@ -457,6 +420,112 @@
           "avatar": "https://avatars.githubusercontent.com/u/59547942?s=40&v=4",
           "name": "thucngyyen",
           "url": "https://github.com/thucngyyen"
+        }
+      ]
+    },
+    {
+      "title": "C2SP/wycheproof",
+      "url": "https://github.com/C2SP/wycheproof",
+      "description": "Project Wycheproof tests crypto libraries against known attacks.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "2,816",
+      "forks": "297",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25984990?s=40&v=4",
+          "name": "bleichen",
+          "url": "https://github.com/bleichen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292650?s=40&v=4",
+          "name": "cpu",
+          "url": "https://github.com/cpu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7532?s=40&v=4",
+          "name": "thaidn",
+          "url": "https://github.com/thaidn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24443108?s=40&v=4",
+          "name": "kokoro-team",
+          "url": "https://github.com/kokoro-team"
+        }
+      ]
+    },
+    {
+      "title": "bazel-contrib/rules_foreign_cc",
+      "url": "https://github.com/bazel-contrib/rules_foreign_cc",
+      "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "697",
+      "forks": "248",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6598461?s=40&v=4",
+          "name": "irengrig",
+          "url": "https://github.com/irengrig"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11253?s=40&v=4",
+          "name": "jsharpe",
+          "url": "https://github.com/jsharpe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
+          "name": "jheaff1",
+          "url": "https://github.com/jheaff1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        }
+      ]
+    },
+    {
+      "title": "ethpandaops/ethereum-package",
+      "url": "https://github.com/ethpandaops/ethereum-package",
+      "description": "A Kurtosis package that deploys a private, portable, and modular Ethereum devnet",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "318",
+      "forks": "206",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6670312?s=40&v=4",
+          "name": "h4ck3rk3y",
+          "url": "https://github.com/h4ck3rk3y"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21987084?s=40&v=4",
+          "name": "barnabasbusa",
+          "url": "https://github.com/barnabasbusa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/491045?s=40&v=4",
+          "name": "pk910",
+          "url": "https://github.com/pk910"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17509050?s=40&v=4",
+          "name": "parithosh",
+          "url": "https://github.com/parithosh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1737857?s=40&v=4",
+          "name": "victorcolombo",
+          "url": "https://github.com/victorcolombo"
         }
       ]
     },
@@ -535,43 +604,6 @@
       ]
     },
     {
-      "title": "ethpandaops/ethereum-package",
-      "url": "https://github.com/ethpandaops/ethereum-package",
-      "description": "A Kurtosis package that deploys a private, portable, and modular Ethereum devnet",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "318",
-      "forks": "206",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6670312?s=40&v=4",
-          "name": "h4ck3rk3y",
-          "url": "https://github.com/h4ck3rk3y"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21987084?s=40&v=4",
-          "name": "barnabasbusa",
-          "url": "https://github.com/barnabasbusa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/491045?s=40&v=4",
-          "name": "pk910",
-          "url": "https://github.com/pk910"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17509050?s=40&v=4",
-          "name": "parithosh",
-          "url": "https://github.com/parithosh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1737857?s=40&v=4",
-          "name": "victorcolombo",
-          "url": "https://github.com/victorcolombo"
-        }
-      ]
-    },
-    {
       "title": "GoogleContainerTools/rules_distroless",
       "url": "https://github.com/GoogleContainerTools/rules_distroless",
       "description": "",
@@ -605,43 +637,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/95390105?s=40&v=4",
           "name": "lazcamus",
           "url": "https://github.com/lazcamus"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/rules_docker",
-      "url": "https://github.com/bazelbuild/rules_docker",
-      "description": "Rules for building and handling Docker images with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "1,083",
-      "forks": "696",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
-          "name": "mattmoor",
-          "url": "https://github.com/mattmoor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4062751?s=40&v=4",
-          "name": "nlopezgi",
-          "url": "https://github.com/nlopezgi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8533249?s=40&v=4",
-          "name": "smukherj1",
-          "url": "https://github.com/smukherj1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42874203?s=40&v=4",
-          "name": "alex1545",
-          "url": "https://github.com/alex1545"
         }
       ]
     }
