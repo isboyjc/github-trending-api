@@ -2,7 +2,7 @@
   "title": "GitHub Nextflow Languages Weekly Trending",
   "description": "Weekly Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 31 Mar 2025 07:16:07 GMT",
+  "pubDate": "Mon, 31 Mar 2025 13:31:04 GMT",
   "items": [
     {
       "title": "nf-core/modules",
@@ -48,7 +48,7 @@
       "language": "Nextflow",
       "languageColor": "#3ac486",
       "stars": "1,004",
-      "forks": "746",
+      "forks": "747",
       "addStars": "7",
       "contributors": [
         {
@@ -116,24 +116,24 @@
       ]
     },
     {
-      "title": "nf-core/differentialabundance",
-      "url": "https://github.com/nf-core/differentialabundance",
-      "description": "Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq",
+      "title": "nf-core/genomeassembler",
+      "url": "https://github.com/nf-core/genomeassembler",
+      "description": "Assembly and scaffolding of haploid / unphased genomes from long ONT or PacBio HiFi reads",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "75",
-      "forks": "45",
-      "addStars": "1",
+      "stars": "21",
+      "forks": "15",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43847497?s=40&v=4",
-          "name": "WackerO",
-          "url": "https://github.com/WackerO"
+          "avatar": "https://avatars.githubusercontent.com/u/26763006?s=40&v=4",
+          "name": "nschan",
+          "url": "https://github.com/nschan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5775915?s=40&v=4",
-          "name": "pinin4fjords",
-          "url": "https://github.com/pinin4fjords"
+          "avatar": "https://avatars.githubusercontent.com/u/15652539?s=40&v=4",
+          "name": "mahesh-panchal",
+          "url": "https://github.com/mahesh-panchal"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
@@ -141,14 +141,14 @@
           "url": "https://github.com/nf-core-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2359510?s=40&v=4",
-          "name": "apeltzer",
-          "url": "https://github.com/apeltzer"
+          "avatar": "https://avatars.githubusercontent.com/u/42973691?s=40&v=4",
+          "name": "d4straub",
+          "url": "https://github.com/d4straub"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/41290849?s=40&v=4",
-          "name": "azedinez",
-          "url": "https://github.com/azedinez"
+          "avatar": "https://avatars.githubusercontent.com/u/623458?s=40&v=4",
+          "name": "muffato",
+          "url": "https://github.com/muffato"
         }
       ]
     },
@@ -190,71 +190,145 @@
       ]
     },
     {
-      "title": "nf-core/nanoseq",
-      "url": "https://github.com/nf-core/nanoseq",
-      "description": "Nanopore demultiplexing, QC and alignment pipeline",
+      "title": "nf-core/differentialabundance",
+      "url": "https://github.com/nf-core/differentialabundance",
+      "description": "Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "195",
-      "forks": "91",
+      "stars": "75",
+      "forks": "45",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
-          "name": "drpatelh",
-          "url": "https://github.com/drpatelh"
+          "avatar": "https://avatars.githubusercontent.com/u/43847497?s=40&v=4",
+          "name": "WackerO",
+          "url": "https://github.com/WackerO"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/41866052?s=40&v=4",
-          "name": "yuukiiwa",
-          "url": "https://github.com/yuukiiwa"
+          "avatar": "https://avatars.githubusercontent.com/u/5775915?s=40&v=4",
+          "name": "pinin4fjords",
+          "url": "https://github.com/pinin4fjords"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37123979?s=40&v=4",
-          "name": "lwratten",
-          "url": "https://github.com/lwratten"
+          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
+          "name": "nf-core-bot",
+          "url": "https://github.com/nf-core-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26227626?s=40&v=4",
-          "name": "csawye01",
-          "url": "https://github.com/csawye01"
+          "avatar": "https://avatars.githubusercontent.com/u/2359510?s=40&v=4",
+          "name": "apeltzer",
+          "url": "https://github.com/apeltzer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25293260?s=40&v=4",
-          "name": "cying111",
-          "url": "https://github.com/cying111"
+          "avatar": "https://avatars.githubusercontent.com/u/41290849?s=40&v=4",
+          "name": "azedinez",
+          "url": "https://github.com/azedinez"
         }
       ]
     },
     {
-      "title": "nf-core/chipseq",
-      "url": "https://github.com/nf-core/chipseq",
-      "description": "ChIP-seq peak-calling, QC and differential analysis pipeline.",
+      "title": "nf-core/pathogensurveillance",
+      "url": "https://github.com/nf-core/pathogensurveillance",
+      "description": "Surveillance of pathogens using population genomics and sequencing",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "209",
-      "forks": "150",
-      "addStars": "2",
+      "stars": "20",
+      "forks": "6",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
-          "name": "drpatelh",
-          "url": "https://github.com/drpatelh"
+          "avatar": "https://avatars.githubusercontent.com/u/6090555?s=40&v=4",
+          "name": "zachary-foster",
+          "url": "https://github.com/zachary-foster"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6224346?s=40&v=4",
-          "name": "JoseEspinosa",
-          "url": "https://github.com/JoseEspinosa"
+          "avatar": "https://avatars.githubusercontent.com/u/3679546?s=40&v=4",
+          "name": "grunwald",
+          "url": "https://github.com/grunwald"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18303540?s=40&v=4",
-          "name": "chuan-wang",
-          "url": "https://github.com/chuan-wang"
+          "avatar": "https://avatars.githubusercontent.com/u/28018971?s=40&v=4",
+          "name": "cahuparo",
+          "url": "https://github.com/cahuparo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/465550?s=40&v=4",
-          "name": "ewels",
-          "url": "https://github.com/ewels"
+          "avatar": "https://avatars.githubusercontent.com/u/89535005?s=40&v=4",
+          "name": "masudermann",
+          "url": "https://github.com/masudermann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129619902?s=40&v=4",
+          "name": "logankblair",
+          "url": "https://github.com/logankblair"
+        }
+      ]
+    },
+    {
+      "title": "nf-core/pangenome",
+      "url": "https://github.com/nf-core/pangenome",
+      "description": "Renders a collection of sequences into a pangenome graph. https://doi.org/10.1093/bioinformatics/btae609.",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": "85",
+      "forks": "19",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10184961?s=40&v=4",
+          "name": "subwaystation",
+          "url": "https://github.com/subwaystation"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35293?s=40&v=4",
+          "name": "heuermh",
+          "url": "https://github.com/heuermh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
+          "name": "nf-core-bot",
+          "url": "https://github.com/nf-core-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21954664?s=40&v=4",
+          "name": "Zethson",
+          "url": "https://github.com/Zethson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
+          "name": "maxulysse",
+          "url": "https://github.com/maxulysse"
+        }
+      ]
+    },
+    {
+      "title": "nf-core/hlatyping",
+      "url": "https://github.com/nf-core/hlatyping",
+      "description": "Precision HLA typing from next-generation sequencing data",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": "64",
+      "forks": "31",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9976560?s=40&v=4",
+          "name": "sven1103",
+          "url": "https://github.com/sven1103"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6513088?s=40&v=4",
+          "name": "christopher-mohr",
+          "url": "https://github.com/christopher-mohr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2359510?s=40&v=4",
+          "name": "apeltzer",
+          "url": "https://github.com/apeltzer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3973503?s=40&v=4",
+          "name": "ggabernet",
+          "url": "https://github.com/ggabernet"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
@@ -301,140 +375,24 @@
       ]
     },
     {
-      "title": "nf-core/atacseq",
-      "url": "https://github.com/nf-core/atacseq",
-      "description": "ATAC-seq peak-calling and QC analysis pipeline",
+      "title": "nf-core/bamtofastq",
+      "url": "https://github.com/nf-core/bamtofastq",
+      "description": "Converts bam or cram files to fastq format and does quality control.",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": "199",
-      "forks": "125",
-      "addStars": "2",
+      "stars": "24",
+      "forks": "18",
+      "addStars": "0",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23529759?s=40&v=4",
-          "name": "drpatelh",
-          "url": "https://github.com/drpatelh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6224346?s=40&v=4",
-          "name": "JoseEspinosa",
-          "url": "https://github.com/JoseEspinosa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61791748?s=40&v=4",
-          "name": "bjlang",
-          "url": "https://github.com/bjlang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465550?s=40&v=4",
-          "name": "ewels",
-          "url": "https://github.com/ewels"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
-          "name": "nf-core-bot",
-          "url": "https://github.com/nf-core-bot"
-        }
-      ]
-    },
-    {
-      "title": "nf-core/deepmodeloptim",
-      "url": "https://github.com/nf-core/deepmodeloptim",
-      "description": "Stochastic Testing and Input Manipulation for Unbiased Learning Systems",
-      "language": "Nextflow",
-      "languageColor": "#3ac486",
-      "stars": "28",
-      "forks": "13",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45239231?s=40&v=4",
-          "name": "alessiovignoli",
-          "url": "https://github.com/alessiovignoli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43495634?s=40&v=4",
-          "name": "suzannejin",
-          "url": "https://github.com/suzannejin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35602761?s=40&v=4",
-          "name": "mathysgrapotte",
-          "url": "https://github.com/mathysgrapotte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23131457?s=40&v=4",
-          "name": "luisas",
-          "url": "https://github.com/luisas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6224346?s=40&v=4",
-          "name": "JoseEspinosa",
-          "url": "https://github.com/JoseEspinosa"
-        }
-      ]
-    },
-    {
-      "title": "nf-core/readsimulator",
-      "url": "https://github.com/nf-core/readsimulator",
-      "description": "A pipeline to simulate sequencing reads, such as Amplicon, Target Capture, Metagenome, and Whole genome data.",
-      "language": "Nextflow",
-      "languageColor": "#3ac486",
-      "stars": "29",
-      "forks": "8",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43841526?s=40&v=4",
-          "name": "a4000",
-          "url": "https://github.com/a4000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68351153?s=40&v=4",
-          "name": "CarsonJM",
-          "url": "https://github.com/CarsonJM"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/12273093?s=40&v=4",
           "name": "FriederikeHanssen",
           "url": "https://github.com/FriederikeHanssen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
-          "name": "nf-core-bot",
-          "url": "https://github.com/nf-core-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6169021?s=40&v=4",
-          "name": "mashehu",
-          "url": "https://github.com/mashehu"
-        }
-      ]
-    },
-    {
-      "title": "nf-core/proteomicslfq",
-      "url": "https://github.com/nf-core/proteomicslfq",
-      "description": "Proteomics label-free quantification (LFQ) analysis pipeline",
-      "language": "Nextflow",
-      "languageColor": "#3ac486",
-      "stars": "33",
-      "forks": "20",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8102638?s=40&v=4",
-          "name": "jpfeuffer",
-          "url": "https://github.com/jpfeuffer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52113?s=40&v=4",
-          "name": "ypriverol",
-          "url": "https://github.com/ypriverol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21954664?s=40&v=4",
-          "name": "Zethson",
-          "url": "https://github.com/Zethson"
+          "avatar": "https://avatars.githubusercontent.com/u/43847534?s=40&v=4",
+          "name": "SusiJo",
+          "url": "https://github.com/SusiJo"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/3973503?s=40&v=4",
@@ -442,9 +400,51 @@
           "url": "https://github.com/ggabernet"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/37172585?s=40&v=4",
+          "name": "asp8200",
+          "url": "https://github.com/asp8200"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
           "name": "maxulysse",
           "url": "https://github.com/maxulysse"
+        }
+      ]
+    },
+    {
+      "title": "nf-core/isoseq",
+      "url": "https://github.com/nf-core/isoseq",
+      "description": "Genome annotation with PacBio Iso-Seq. Takes raw subreads as input, generate Full Length Non Chemiric (FLNC) sequences and produce a bed annotation.",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": "38",
+      "forks": "18",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4322805?s=40&v=4",
+          "name": "sguizard",
+          "url": "https://github.com/sguizard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42236957?s=40&v=4",
+          "name": "nf-core-bot",
+          "url": "https://github.com/nf-core-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6224346?s=40&v=4",
+          "name": "JoseEspinosa",
+          "url": "https://github.com/JoseEspinosa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019628?s=40&v=4",
+          "name": "maxulysse",
+          "url": "https://github.com/maxulysse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3973503?s=40&v=4",
+          "name": "ggabernet",
+          "url": "https://github.com/ggabernet"
         }
       ]
     }
