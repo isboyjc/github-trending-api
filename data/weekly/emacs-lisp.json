@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 07 Apr 2025 07:16:44 GMT",
+  "pubDate": "Mon, 07 Apr 2025 13:31:36 GMT",
   "items": [
     {
       "title": "doomemacs/doomemacs",
@@ -10,8 +10,8 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "20,201",
-      "forks": "3,107",
+      "stars": "20,203",
+      "forks": "3,108",
       "addStars": "47",
       "contributors": [
         {
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2872862?s=40&v=4",
           "name": "elken",
           "url": "https://github.com/elken"
+        }
+      ]
+    },
+    {
+      "title": "karthink/gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,289",
+      "forks": "215",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8607532?s=40&v=4",
+          "name": "karthink",
+          "url": "https://github.com/karthink"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2339734?s=40&v=4",
+          "name": "pabl0",
+          "url": "https://github.com/pabl0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73710933?s=40&v=4",
+          "name": "psionic-k",
+          "url": "https://github.com/psionic-k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/387011?s=40&v=4",
+          "name": "joaotavora",
+          "url": "https://github.com/joaotavora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5490677?s=40&v=4",
+          "name": "benthamite",
+          "url": "https://github.com/benthamite"
         }
       ]
     },
@@ -70,43 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2631472?s=40&v=4",
           "name": "kiennq",
           "url": "https://github.com/kiennq"
-        }
-      ]
-    },
-    {
-      "title": "karthink/gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,288",
-      "forks": "215",
-      "addStars": "34",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8607532?s=40&v=4",
-          "name": "karthink",
-          "url": "https://github.com/karthink"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2339734?s=40&v=4",
-          "name": "pabl0",
-          "url": "https://github.com/pabl0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73710933?s=40&v=4",
-          "name": "psionic-k",
-          "url": "https://github.com/psionic-k"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/387011?s=40&v=4",
-          "name": "joaotavora",
-          "url": "https://github.com/joaotavora"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5490677?s=40&v=4",
-          "name": "benthamite",
-          "url": "https://github.com/benthamite"
         }
       ]
     },
@@ -222,6 +222,80 @@
       ]
     },
     {
+      "title": "mhayashi1120/Emacs-wgrep",
+      "url": "https://github.com/mhayashi1120/Emacs-wgrep",
+      "description": "Writable grep buffer and apply the changes to files",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "703",
+      "forks": "45",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/229283?s=40&v=4",
+          "name": "mhayashi1120",
+          "url": "https://github.com/mhayashi1120"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1533939?s=40&v=4",
+          "name": "thierryvolpiatto",
+          "url": "https://github.com/thierryvolpiatto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11372289?s=40&v=4",
+          "name": "sten0",
+          "url": "https://github.com/sten0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47980?s=40&v=4",
+          "name": "manphiz",
+          "url": "https://github.com/manphiz"
+        }
+      ]
+    },
+    {
+      "title": "emacs-evil/evil-collection",
+      "url": "https://github.com/emacs-evil/evil-collection",
+      "description": "A set of keybindings for evil-mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,253",
+      "forks": "276",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1227856?s=40&v=4",
+          "name": "jojojames",
+          "url": "https://github.com/jojojames"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1489143?s=40&v=4",
+          "name": "Ambrevar",
+          "url": "https://github.com/Ambrevar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4024656?s=40&v=4",
+          "name": "condy0919",
+          "url": "https://github.com/condy0919"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2208382?s=40&v=4",
+          "name": "justbur",
+          "url": "https://github.com/justbur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1211003?s=40&v=4",
+          "name": "fbergroth",
+          "url": "https://github.com/fbergroth"
+        }
+      ]
+    },
+    {
       "title": "purcell/emacs.d",
       "url": "https://github.com/purcell/emacs.d",
       "description": "An Emacs configuration bundle with batteries included",
@@ -264,7 +338,7 @@
       "description": "Awesome Typst Links",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,639",
+      "stars": "2,640",
       "forks": "131",
       "addStars": "20",
       "contributors": [
@@ -333,76 +407,76 @@
       ]
     },
     {
-      "title": "atomontage/xterm-color",
-      "url": "https://github.com/atomontage/xterm-color",
-      "description": "ANSI & xterm-256 color text property translator for Emacs",
+      "title": "dominikh/go-mode.el",
+      "url": "https://github.com/dominikh/go-mode.el",
+      "description": "Emacs mode for the Go programming language",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "227",
-      "forks": "21",
+      "stars": "1,404",
+      "forks": "212",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39825?s=40&v=4",
+          "name": "dominikh",
+          "url": "https://github.com/dominikh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11356572?s=40&v=4",
+          "name": "muirdm",
+          "url": "https://github.com/muirdm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8433140?s=40&v=4",
+          "name": "alandonovan",
+          "url": "https://github.com/alandonovan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33375?s=40&v=4",
+          "name": "psanford",
+          "url": "https://github.com/psanford"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5658175?s=40&v=4",
+          "name": "adonovan",
+          "url": "https://github.com/adonovan"
+        }
+      ]
+    },
+    {
+      "title": "auto-complete/popup-el",
+      "url": "https://github.com/auto-complete/popup-el",
+      "description": "Visual Popup Interface Library for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "454",
+      "forks": "95",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/453886?s=40&v=4",
-          "name": "atomontage",
-          "url": "https://github.com/atomontage"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52205?s=40&v=4",
-          "name": "dandavison",
-          "url": "https://github.com/dandavison"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/174330?s=40&v=4",
-          "name": "vapniks",
-          "url": "https://github.com/vapniks"
+          "avatar": "https://avatars.githubusercontent.com/u/8685505?s=40&v=4",
+          "name": "jcs090218",
+          "url": "https://github.com/jcs090218"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/554281?s=40&v=4",
           "name": "syohex",
           "url": "https://github.com/syohex"
-        }
-      ]
-    },
-    {
-      "title": "mhayashi1120/Emacs-wgrep",
-      "url": "https://github.com/mhayashi1120/Emacs-wgrep",
-      "description": "Writable grep buffer and apply the changes to files",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "703",
-      "forks": "45",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/229283?s=40&v=4",
-          "name": "mhayashi1120",
-          "url": "https://github.com/mhayashi1120"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1533939?s=40&v=4",
-          "name": "thierryvolpiatto",
-          "url": "https://github.com/thierryvolpiatto"
+          "avatar": "https://avatars.githubusercontent.com/u/235329?s=40&v=4",
+          "name": "uk-ar",
+          "url": "https://github.com/uk-ar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11372289?s=40&v=4",
-          "name": "sten0",
-          "url": "https://github.com/sten0"
+          "avatar": "https://avatars.githubusercontent.com/u/29282?s=40&v=4",
+          "name": "tkf",
+          "url": "https://github.com/tkf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47980?s=40&v=4",
-          "name": "manphiz",
-          "url": "https://github.com/manphiz"
+          "avatar": "https://avatars.githubusercontent.com/u/67725?s=40&v=4",
+          "name": "tumashu",
+          "url": "https://github.com/tumashu"
         }
       ]
     }
