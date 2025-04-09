@@ -2,15 +2,47 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 09 Apr 2025 07:15:51 GMT",
+  "pubDate": "Wed, 09 Apr 2025 13:32:44 GMT",
   "items": [
+    {
+      "title": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "8,123",
+      "forks": "621",
+      "addStars": "79",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
+          "name": "adam-maj",
+          "url": "https://github.com/adam-maj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
+          "name": "ashaltu",
+          "url": "https://github.com/ashaltu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
+          "name": "xianbaoqian",
+          "url": "https://github.com/xianbaoqian"
+        }
+      ]
+    },
     {
       "title": "lowRISC/ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "1,513",
+      "stars": "1,514",
       "forks": "593",
       "addStars": "7",
       "contributors": [
@@ -38,43 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2758621?s=40&v=4",
           "name": "atraber",
           "url": "https://github.com/atraber"
-        }
-      ]
-    },
-    {
-      "title": "openhwgroup/cvw",
-      "url": "https://github.com/openhwgroup/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "334",
-      "forks": "276",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
-          "name": "davidharrishmc",
-          "url": "https://github.com/davidharrishmc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/568353?s=40&v=4",
-          "name": "rosethompson",
-          "url": "https://github.com/rosethompson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25440394?s=40&v=4",
-          "name": "jordancarlin",
-          "url": "https://github.com/jordancarlin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51968757?s=40&v=4",
-          "name": "BBracker",
-          "url": "https://github.com/BBracker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76259960?s=40&v=4",
-          "name": "kparry4",
-          "url": "https://github.com/kparry4"
         }
       ]
     },
@@ -116,49 +111,12 @@
       ]
     },
     {
-      "title": "bespoke-silicon-group/basejump_stl",
-      "url": "https://github.com/bespoke-silicon-group/basejump_stl",
-      "description": "BaseJump STL: A Standard Template Library for SystemVerilog",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "565",
-      "forks": "105",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17460864?s=40&v=4",
-          "name": "taylor-bsg",
-          "url": "https://github.com/taylor-bsg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46542701?s=40&v=4",
-          "name": "tommydcjung",
-          "url": "https://github.com/tommydcjung"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2322266?s=40&v=4",
-          "name": "dpetrisko",
-          "url": "https://github.com/dpetrisko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2791860?s=40&v=4",
-          "name": "ShawnLess",
-          "url": "https://github.com/ShawnLess"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11407587?s=40&v=4",
-          "name": "gaozihou",
-          "url": "https://github.com/gaozihou"
-        }
-      ]
-    },
-    {
       "title": "lowRISC/opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "2,769",
+      "stars": "2,768",
       "forks": "833",
       "addStars": "9",
       "contributors": [
@@ -223,6 +181,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/692141?s=40&v=4",
           "name": "svenstucki",
           "url": "https://github.com/svenstucki"
+        }
+      ]
+    },
+    {
+      "title": "openhwgroup/cvfpu",
+      "url": "https://github.com/openhwgroup/cvfpu",
+      "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "472",
+      "forks": "127",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9446837?s=40&v=4",
+          "name": "michael-platzer",
+          "url": "https://github.com/michael-platzer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55843305?s=40&v=4",
+          "name": "lucabertaccini",
+          "url": "https://github.com/lucabertaccini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18549773?s=40&v=4",
+          "name": "davideschiavone",
+          "url": "https://github.com/davideschiavone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
+          "name": "stmach",
+          "url": "https://github.com/stmach"
+        }
+      ]
+    },
+    {
+      "title": "bespoke-silicon-group/basejump_stl",
+      "url": "https://github.com/bespoke-silicon-group/basejump_stl",
+      "description": "BaseJump STL: A Standard Template Library for SystemVerilog",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "565",
+      "forks": "105",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17460864?s=40&v=4",
+          "name": "taylor-bsg",
+          "url": "https://github.com/taylor-bsg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46542701?s=40&v=4",
+          "name": "tommydcjung",
+          "url": "https://github.com/tommydcjung"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2322266?s=40&v=4",
+          "name": "dpetrisko",
+          "url": "https://github.com/dpetrisko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2791860?s=40&v=4",
+          "name": "ShawnLess",
+          "url": "https://github.com/ShawnLess"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11407587?s=40&v=4",
+          "name": "gaozihou",
+          "url": "https://github.com/gaozihou"
         }
       ]
     }
