@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Apr 2025 07:16:18 GMT",
+  "pubDate": "Mon, 14 Apr 2025 13:32:15 GMT",
   "items": [
     {
       "title": "koalaman/shellcheck",
@@ -10,7 +10,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "37,221",
+      "stars": "37,222",
       "forks": "1,806",
       "addStars": "55",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "36,870",
+      "stars": "36,872",
       "forks": "3,482",
       "addStars": "126",
       "contributors": [
@@ -116,38 +116,6 @@
       ]
     },
     {
-      "title": "haskell/haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "2,785",
-      "forks": "388",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
-          "name": "pepeiborra",
-          "url": "https://github.com/pepeiborra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
-          "name": "jneira",
-          "url": "https://github.com/jneira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1699466?s=40&v=4",
-          "name": "michaelpj",
-          "url": "https://github.com/michaelpj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
-          "name": "wz1000",
-          "url": "https://github.com/wz1000"
-        }
-      ]
-    },
-    {
       "title": "haskell/cabal",
       "url": "https://github.com/haskell/cabal",
       "description": "Official upstream development repository for Cabal and cabal-install",
@@ -185,7 +153,7 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "10,850",
+      "stars": "10,852",
       "forks": "438",
       "addStars": "20",
       "contributors": [
@@ -208,6 +176,112 @@
           "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
           "name": "zemanlx",
           "url": "https://github.com/zemanlx"
+        }
+      ]
+    },
+    {
+      "title": "simonmichael/hledger",
+      "url": "https://github.com/simonmichael/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "3,241",
+      "forks": "325",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
+          "name": "simonmichael",
+          "url": "https://github.com/simonmichael"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
+          "name": "Xitian9",
+          "url": "https://github.com/Xitian9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
+          "name": "adept",
+          "url": "https://github.com/adept"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
+          "name": "thielema",
+          "url": "https://github.com/thielema"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14352645?s=40&v=4",
+          "name": "zhelezov",
+          "url": "https://github.com/zhelezov"
+        }
+      ]
+    },
+    {
+      "title": "haskell/haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,785",
+      "forks": "388",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
+          "name": "pepeiborra",
+          "url": "https://github.com/pepeiborra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
+          "name": "jneira",
+          "url": "https://github.com/jneira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1699466?s=40&v=4",
+          "name": "michaelpj",
+          "url": "https://github.com/michaelpj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
+          "name": "wz1000",
+          "url": "https://github.com/wz1000"
+        }
+      ]
+    },
+    {
+      "title": "goldfirere/th-desugar",
+      "url": "https://github.com/goldfirere/th-desugar",
+      "description": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "20",
+      "forks": "14",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2364661?s=40&v=4",
+          "name": "RyanGlScott",
+          "url": "https://github.com/RyanGlScott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93169?s=40&v=4",
+          "name": "christiaanb",
+          "url": "https://github.com/christiaanb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3985225?s=40&v=4",
+          "name": "ddssff",
+          "url": "https://github.com/ddssff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/933504?s=40&v=4",
+          "name": "DanielSchuessler",
+          "url": "https://github.com/DanielSchuessler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51356?s=40&v=4",
+          "name": "mboes",
+          "url": "https://github.com/mboes"
         }
       ]
     },
@@ -277,80 +351,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/452652?s=40&v=4",
           "name": "deepfire",
           "url": "https://github.com/deepfire"
-        }
-      ]
-    },
-    {
-      "title": "simonmichael/hledger",
-      "url": "https://github.com/simonmichael/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "3,239",
-      "forks": "325",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14352645?s=40&v=4",
-          "name": "zhelezov",
-          "url": "https://github.com/zhelezov"
-        }
-      ]
-    },
-    {
-      "title": "goldfirere/th-desugar",
-      "url": "https://github.com/goldfirere/th-desugar",
-      "description": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "20",
-      "forks": "14",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2364661?s=40&v=4",
-          "name": "RyanGlScott",
-          "url": "https://github.com/RyanGlScott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/93169?s=40&v=4",
-          "name": "christiaanb",
-          "url": "https://github.com/christiaanb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3985225?s=40&v=4",
-          "name": "ddssff",
-          "url": "https://github.com/ddssff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/933504?s=40&v=4",
-          "name": "DanielSchuessler",
-          "url": "https://github.com/DanielSchuessler"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51356?s=40&v=4",
-          "name": "mboes",
-          "url": "https://github.com/mboes"
         }
       ]
     }
