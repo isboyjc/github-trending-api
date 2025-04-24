@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Apr 2025 13:33:01 GMT",
+  "pubDate": "Thu, 24 Apr 2025 19:02:42 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -10,7 +10,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,644",
+      "stars": "4,645",
       "forks": "4,186",
       "addStars": "53",
       "contributors": [
@@ -222,80 +222,6 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,194",
-      "forks": "1,214",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16839?s=40&v=4",
-          "name": "Jberlinsky",
-          "url": "https://github.com/Jberlinsky"
-        }
-      ]
-    },
-    {
-      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,663",
-      "forks": "983",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
-          "name": "juliocc",
-          "url": "https://github.com/juliocc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
-          "name": "lcaggio",
-          "url": "https://github.com/lcaggio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
-          "name": "wiktorn",
-          "url": "https://github.com/wiktorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
-          "name": "juliodiez",
-          "url": "https://github.com/juliodiez"
-        }
-      ]
-    },
-    {
       "title": "tree-sitter-grammars/tree-sitter-hcl",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-hcl",
       "description": "HCL grammar for tree-sitter",
@@ -333,6 +259,43 @@
       ]
     },
     {
+      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,194",
+      "forks": "1,214",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16839?s=40&v=4",
+          "name": "Jberlinsky",
+          "url": "https://github.com/Jberlinsky"
+        }
+      ]
+    },
+    {
       "title": "cloudposse/terraform-aws-iam-system-user",
       "url": "https://github.com/cloudposse/terraform-aws-iam-system-user",
       "description": "Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems (E.g. TravisCI, CircleCI)",
@@ -366,38 +329,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1146619?s=40&v=4",
           "name": "maximmi",
           "url": "https://github.com/maximmi"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-s3-bucket",
-      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
-      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "173",
-      "forks": "853",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10080107?s=40&v=4",
-          "name": "korenyoni",
-          "url": "https://github.com/korenyoni"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
         }
       ]
     }
