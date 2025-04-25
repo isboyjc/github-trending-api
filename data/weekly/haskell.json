@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Apr 2025 07:15:41 GMT",
+  "pubDate": "Fri, 25 Apr 2025 13:30:57 GMT",
   "items": [
     {
       "title": "PostgREST/postgrest",
@@ -10,7 +10,7 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "25,182",
+      "stars": "25,189",
       "forks": "1,081",
       "addStars": "39",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "10,874",
+      "stars": "10,875",
       "forks": "442",
       "addStars": "16",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "An advanced keyboard manager",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "4,421",
+      "stars": "4,423",
       "forks": "329",
       "addStars": "19",
       "contributors": [
@@ -148,12 +148,49 @@
       ]
     },
     {
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "37,279",
+      "forks": "1,810",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12698563?s=40&v=4",
+          "name": "jabberabbe",
+          "url": "https://github.com/jabberabbe"
+        }
+      ]
+    },
+    {
       "title": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "37,048",
+      "stars": "37,054",
       "forks": "3,493",
       "addStars": "114",
       "contributors": [
@@ -217,39 +254,76 @@
       ]
     },
     {
-      "title": "koalaman/shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "GaloisInc/llvm-pretty",
+      "url": "https://github.com/GaloisInc/llvm-pretty",
+      "description": "An llvm pretty printer inspired by the haskell llvm binding",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "37,278",
-      "forks": "1,810",
-      "addStars": "44",
+      "stars": "30",
+      "forks": "16",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
-          "name": "koalaman",
-          "url": "https://github.com/koalaman"
+          "avatar": "https://avatars.githubusercontent.com/u/22708?s=40&v=4",
+          "name": "elliottt",
+          "url": "https://github.com/elliottt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
-          "name": "josephcsible",
-          "url": "https://github.com/josephcsible"
+          "avatar": "https://avatars.githubusercontent.com/u/4294323?s=40&v=4",
+          "name": "langston-barrett",
+          "url": "https://github.com/langston-barrett"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
-          "name": "ngzhian",
-          "url": "https://github.com/ngzhian"
+          "avatar": "https://avatars.githubusercontent.com/u/787421?s=40&v=4",
+          "name": "kquick",
+          "url": "https://github.com/kquick"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
-          "name": "contivero",
-          "url": "https://github.com/contivero"
+          "avatar": "https://avatars.githubusercontent.com/u/2364661?s=40&v=4",
+          "name": "RyanGlScott",
+          "url": "https://github.com/RyanGlScott"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12698563?s=40&v=4",
-          "name": "jabberabbe",
-          "url": "https://github.com/jabberabbe"
+          "avatar": "https://avatars.githubusercontent.com/u/12164?s=40&v=4",
+          "name": "glguy",
+          "url": "https://github.com/glguy"
+        }
+      ]
+    },
+    {
+      "title": "crytic/echidna",
+      "url": "https://github.com/crytic/echidna",
+      "description": "Ethereum smart contract fuzzer",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,872",
+      "forks": "396",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31542053?s=40&v=4",
+          "name": "gustavo-grieco",
+          "url": "https://github.com/gustavo-grieco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5386869?s=40&v=4",
+          "name": "japesinator",
+          "url": "https://github.com/japesinator"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4679721?s=40&v=4",
+          "name": "arcz",
+          "url": "https://github.com/arcz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1653966?s=40&v=4",
+          "name": "incertia",
+          "url": "https://github.com/incertia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2642849?s=40&v=4",
+          "name": "elopez",
+          "url": "https://github.com/elopez"
         }
       ]
     },
@@ -259,7 +333,7 @@
       "description": "The official (but not yet stable) formatter for Nix code",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,106",
+      "stars": "1,107",
       "forks": "50",
       "addStars": "10",
       "contributors": [
