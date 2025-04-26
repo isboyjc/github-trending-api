@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Monthly Trending",
   "description": "Monthly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Apr 2025 07:13:59 GMT",
+  "pubDate": "Sat, 26 Apr 2025 13:25:59 GMT",
   "items": [
     {
       "title": "erlang/otp",
@@ -116,43 +116,6 @@
       ]
     },
     {
-      "title": "blt/port_compiler",
-      "url": "https://github.com/blt/port_compiler",
-      "description": "A rebar3 port compiler",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": "65",
-      "forks": "39",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36227?s=40&v=4",
-          "name": "tsloughter",
-          "url": "https://github.com/tsloughter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3579?s=40&v=4",
-          "name": "blt",
-          "url": "https://github.com/blt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/596492?s=40&v=4",
-          "name": "cjkjellander",
-          "url": "https://github.com/cjkjellander"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/111141?s=40&v=4",
-          "name": "ferd",
-          "url": "https://github.com/ferd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
-          "name": "chrismccord",
-          "url": "https://github.com/chrismccord"
-        }
-      ]
-    },
-    {
       "title": "proper-testing/proper",
       "url": "https://github.com/proper-testing/proper",
       "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
@@ -227,39 +190,76 @@
       ]
     },
     {
-      "title": "erlang-lager/lager",
-      "url": "https://github.com/erlang-lager/lager",
-      "description": "A logging framework for Erlang/OTP",
+      "title": "ferd/recon",
+      "url": "https://github.com/ferd/recon",
+      "description": "Collection of functions and scripts to debug Erlang in production.",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "1,123",
-      "forks": "454",
-      "addStars": "2",
+      "stars": "1,378",
+      "forks": "282",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/86412?s=40&v=4",
-          "name": "Vagabond",
-          "url": "https://github.com/Vagabond"
+          "avatar": "https://avatars.githubusercontent.com/u/111141?s=40&v=4",
+          "name": "ferd",
+          "url": "https://github.com/ferd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2141278?s=40&v=4",
-          "name": "macintux",
-          "url": "https://github.com/macintux"
+          "avatar": "https://avatars.githubusercontent.com/u/70064?s=40&v=4",
+          "name": "bartekgorny",
+          "url": "https://github.com/bartekgorny"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/514926?s=40&v=4",
-          "name": "lukebakken",
-          "url": "https://github.com/lukebakken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6749250?s=40&v=4",
-          "name": "borshop",
-          "url": "https://github.com/borshop"
+          "avatar": "https://avatars.githubusercontent.com/u/111762?s=40&v=4",
+          "name": "garazdawi",
+          "url": "https://github.com/garazdawi"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/7303768?s=40&v=4",
           "name": "paulo-ferraz-oliveira",
           "url": "https://github.com/paulo-ferraz-oliveira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9804420?s=40&v=4",
+          "name": "iilyak",
+          "url": "https://github.com/iilyak"
+        }
+      ]
+    },
+    {
+      "title": "mochi/mochiweb",
+      "url": "https://github.com/mochi/mochiweb",
+      "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "1,879",
+      "forks": "474",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26596?s=40&v=4",
+          "name": "etrepum",
+          "url": "https://github.com/etrepum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/298166?s=40&v=4",
+          "name": "robertkowalski",
+          "url": "https://github.com/robertkowalski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1996726?s=40&v=4",
+          "name": "lhft",
+          "url": "https://github.com/lhft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170624?s=40&v=4",
+          "name": "fdmanana",
+          "url": "https://github.com/fdmanana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38349?s=40&v=4",
+          "name": "mdempsky",
+          "url": "https://github.com/mdempsky"
         }
       ]
     },
@@ -301,49 +301,12 @@
       ]
     },
     {
-      "title": "emqx/emqx",
-      "url": "https://github.com/emqx/emqx",
-      "description": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": "14,701",
-      "forks": "2,295",
-      "addStars": "125",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/164324?s=40&v=4",
-          "name": "zmstone",
-          "url": "https://github.com/zmstone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16166434?s=40&v=4",
-          "name": "thalesmg",
-          "url": "https://github.com/thalesmg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13825269?s=40&v=4",
-          "name": "HJianBo",
-          "url": "https://github.com/HJianBo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3116225?s=40&v=4",
-          "name": "zhongwencool",
-          "url": "https://github.com/zhongwencool"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1148366?s=40&v=4",
-          "name": "keynslug",
-          "url": "https://github.com/keynslug"
-        }
-      ]
-    },
-    {
       "title": "tomas-abrahamsson/gpb",
       "url": "https://github.com/tomas-abrahamsson/gpb",
       "description": "A Google Protobuf implementation for Erlang",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "564",
+      "stars": "565",
       "forks": "153",
       "addStars": "1",
       "contributors": [
@@ -375,76 +338,39 @@
       ]
     },
     {
-      "title": "ferd/recon",
-      "url": "https://github.com/ferd/recon",
-      "description": "Collection of functions and scripts to debug Erlang in production.",
+      "title": "erlang-lager/lager",
+      "url": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "1,378",
-      "forks": "282",
-      "addStars": "5",
+      "stars": "1,123",
+      "forks": "454",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/111141?s=40&v=4",
-          "name": "ferd",
-          "url": "https://github.com/ferd"
+          "avatar": "https://avatars.githubusercontent.com/u/86412?s=40&v=4",
+          "name": "Vagabond",
+          "url": "https://github.com/Vagabond"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70064?s=40&v=4",
-          "name": "bartekgorny",
-          "url": "https://github.com/bartekgorny"
+          "avatar": "https://avatars.githubusercontent.com/u/2141278?s=40&v=4",
+          "name": "macintux",
+          "url": "https://github.com/macintux"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/111762?s=40&v=4",
-          "name": "garazdawi",
-          "url": "https://github.com/garazdawi"
+          "avatar": "https://avatars.githubusercontent.com/u/514926?s=40&v=4",
+          "name": "lukebakken",
+          "url": "https://github.com/lukebakken"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6749250?s=40&v=4",
+          "name": "borshop",
+          "url": "https://github.com/borshop"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/7303768?s=40&v=4",
           "name": "paulo-ferraz-oliveira",
           "url": "https://github.com/paulo-ferraz-oliveira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9804420?s=40&v=4",
-          "name": "iilyak",
-          "url": "https://github.com/iilyak"
-        }
-      ]
-    },
-    {
-      "title": "rabbitmq/rabbitmq-delayed-message-exchange",
-      "url": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
-      "description": "Delayed Messaging for RabbitMQ",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": "2,159",
-      "forks": "154",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/159804?s=40&v=4",
-          "name": "dumbbell",
-          "url": "https://github.com/dumbbell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1090?s=40&v=4",
-          "name": "michaelklishin",
-          "url": "https://github.com/michaelklishin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30834?s=40&v=4",
-          "name": "videlalvaro",
-          "url": "https://github.com/videlalvaro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3342?s=40&v=4",
-          "name": "gerhard",
-          "url": "https://github.com/gerhard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/217064?s=40&v=4",
-          "name": "HoloRin",
-          "url": "https://github.com/HoloRin"
         }
       ]
     },
@@ -486,39 +412,113 @@
       ]
     },
     {
-      "title": "apache/couchdb",
-      "url": "https://github.com/apache/couchdb",
-      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "title": "emqx/emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "6,493",
-      "forks": "1,050",
-      "addStars": "56",
+      "stars": "14,701",
+      "forks": "2,295",
+      "addStars": "125",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47223?s=40&v=4",
-          "name": "rnewson",
-          "url": "https://github.com/rnewson"
+          "avatar": "https://avatars.githubusercontent.com/u/164324?s=40&v=4",
+          "name": "zmstone",
+          "url": "https://github.com/zmstone"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16679?s=40&v=4",
-          "name": "kocolosk",
-          "url": "https://github.com/kocolosk"
+          "avatar": "https://avatars.githubusercontent.com/u/16166434?s=40&v=4",
+          "name": "thalesmg",
+          "url": "https://github.com/thalesmg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19929?s=40&v=4",
-          "name": "davisp",
-          "url": "https://github.com/davisp"
+          "avatar": "https://avatars.githubusercontent.com/u/13825269?s=40&v=4",
+          "name": "HJianBo",
+          "url": "https://github.com/HJianBo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11321?s=40&v=4",
-          "name": "janl",
-          "url": "https://github.com/janl"
+          "avatar": "https://avatars.githubusercontent.com/u/3116225?s=40&v=4",
+          "name": "zhongwencool",
+          "url": "https://github.com/zhongwencool"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/211822?s=40&v=4",
-          "name": "nickva",
-          "url": "https://github.com/nickva"
+          "avatar": "https://avatars.githubusercontent.com/u/1148366?s=40&v=4",
+          "name": "keynslug",
+          "url": "https://github.com/keynslug"
+        }
+      ]
+    },
+    {
+      "title": "blt/port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "65",
+      "forks": "39",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36227?s=40&v=4",
+          "name": "tsloughter",
+          "url": "https://github.com/tsloughter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3579?s=40&v=4",
+          "name": "blt",
+          "url": "https://github.com/blt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/596492?s=40&v=4",
+          "name": "cjkjellander",
+          "url": "https://github.com/cjkjellander"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111141?s=40&v=4",
+          "name": "ferd",
+          "url": "https://github.com/ferd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
+          "name": "chrismccord",
+          "url": "https://github.com/chrismccord"
+        }
+      ]
+    },
+    {
+      "title": "rabbitmq/rabbitmq-delayed-message-exchange",
+      "url": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+      "description": "Delayed Messaging for RabbitMQ",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "2,159",
+      "forks": "154",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/159804?s=40&v=4",
+          "name": "dumbbell",
+          "url": "https://github.com/dumbbell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1090?s=40&v=4",
+          "name": "michaelklishin",
+          "url": "https://github.com/michaelklishin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30834?s=40&v=4",
+          "name": "videlalvaro",
+          "url": "https://github.com/videlalvaro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3342?s=40&v=4",
+          "name": "gerhard",
+          "url": "https://github.com/gerhard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/217064?s=40&v=4",
+          "name": "HoloRin",
+          "url": "https://github.com/HoloRin"
         }
       ]
     },
@@ -556,43 +556,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/93657?s=40&v=4",
           "name": "elbrujohalcon",
           "url": "https://github.com/elbrujohalcon"
-        }
-      ]
-    },
-    {
-      "title": "processone/ejabberd",
-      "url": "https://github.com/processone/ejabberd",
-      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": "6,257",
-      "forks": "1,524",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96807?s=40&v=4",
-          "name": "badlop",
-          "url": "https://github.com/badlop"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1095902?s=40&v=4",
-          "name": "zinid",
-          "url": "https://github.com/zinid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61998?s=40&v=4",
-          "name": "prefiks",
-          "url": "https://github.com/prefiks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71850?s=40&v=4",
-          "name": "weiss",
-          "url": "https://github.com/weiss"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1354311?s=40&v=4",
-          "name": "alexeyshch",
-          "url": "https://github.com/alexeyshch"
         }
       ]
     }
