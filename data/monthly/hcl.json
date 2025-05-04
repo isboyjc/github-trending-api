@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 May 2025 07:14:27 GMT",
+  "pubDate": "Sun, 04 May 2025 13:27:40 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -10,7 +10,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,658",
+      "stars": "4,659",
       "forks": "4,188",
       "addStars": "51",
       "contributors": [
@@ -106,13 +106,45 @@
       ]
     },
     {
+      "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
+      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
+      "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "2,914",
+      "forks": "428",
+      "addStars": "86",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/518555?s=40&v=4",
+          "name": "mysticaltech",
+          "url": "https://github.com/mysticaltech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31509435?s=40&v=4",
+          "name": "aleksasiriski",
+          "url": "https://github.com/aleksasiriski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
+          "name": "phaer",
+          "url": "https://github.com/phaer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
+          "name": "valkenburg-prevue-ch",
+          "url": "https://github.com/valkenburg-prevue-ch"
+        }
+      ]
+    },
+    {
       "title": "aws-ia/terraform-aws-control_tower_account_factory",
       "url": "https://github.com/aws-ia/terraform-aws-control_tower_account_factory",
       "description": "AWS Control Tower Account Factory",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "693",
-      "forks": "494",
+      "forks": "493",
       "addStars": "8",
       "contributors": [
         {
@@ -175,38 +207,6 @@
       ]
     },
     {
-      "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
-      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "2,913",
-      "forks": "427",
-      "addStars": "86",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/518555?s=40&v=4",
-          "name": "mysticaltech",
-          "url": "https://github.com/mysticaltech"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31509435?s=40&v=4",
-          "name": "aleksasiriski",
-          "url": "https://github.com/aleksasiriski"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
-          "name": "phaer",
-          "url": "https://github.com/phaer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
-          "name": "valkenburg-prevue-ch",
-          "url": "https://github.com/valkenburg-prevue-ch"
-        }
-      ]
-    },
-    {
       "title": "aws-ia/terraform-aws-eks-blueprints-addons",
       "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints-addons",
       "description": "Terraform module which provisions addons on Amazon EKS clusters",
@@ -240,43 +240,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1094878?s=40&v=4",
           "name": "csantanapr",
           "url": "https://github.com/csantanapr"
-        }
-      ]
-    },
-    {
-      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,667",
-      "forks": "987",
-      "addStars": "21",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
-          "name": "juliocc",
-          "url": "https://github.com/juliocc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
-          "name": "lcaggio",
-          "url": "https://github.com/lcaggio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
-          "name": "wiktorn",
-          "url": "https://github.com/wiktorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
-          "name": "juliodiez",
-          "url": "https://github.com/juliodiez"
         }
       ]
     },
@@ -318,12 +281,49 @@
       ]
     },
     {
+      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,667",
+      "forks": "988",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
+          "name": "ludoo",
+          "url": "https://github.com/ludoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
+          "name": "juliocc",
+          "url": "https://github.com/juliocc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
+          "name": "lcaggio",
+          "url": "https://github.com/lcaggio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
+          "name": "wiktorn",
+          "url": "https://github.com/wiktorn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
+          "name": "juliodiez",
+          "url": "https://github.com/juliodiez"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "970",
+      "stars": "971",
       "forks": "709",
       "addStars": "8",
       "contributors": [
