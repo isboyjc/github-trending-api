@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 May 2025 07:16:54 GMT",
+  "pubDate": "Tue, 13 May 2025 13:35:08 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,8 +10,8 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "37,344",
-      "forks": "3,510",
+      "stars": "37,349",
+      "forks": "3,511",
       "addStars": "128",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Pattern language",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "2,492",
+      "stars": "2,493",
       "forks": "265",
       "addStars": "39",
       "contributors": [
@@ -116,6 +116,80 @@
       ]
     },
     {
+      "title": "IntersectMBO/plutus",
+      "url": "https://github.com/IntersectMBO/plutus",
+      "description": "The Plutus language implementation and tools",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "1,593",
+      "forks": "486",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1699466?s=40&v=4",
+          "name": "michaelpj",
+          "url": "https://github.com/michaelpj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/652332?s=40&v=4",
+          "name": "jmchapman",
+          "url": "https://github.com/jmchapman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6342538?s=40&v=4",
+          "name": "zliu41",
+          "url": "https://github.com/zliu41"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15709674?s=40&v=4",
+          "name": "zeme-wana",
+          "url": "https://github.com/zeme-wana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1771361?s=40&v=4",
+          "name": "j-mueller",
+          "url": "https://github.com/j-mueller"
+        }
+      ]
+    },
+    {
+      "title": "koalaman/shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "37,364",
+      "forks": "1,815",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2818758?s=40&v=4",
+          "name": "koalaman",
+          "url": "https://github.com/koalaman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16061266?s=40&v=4",
+          "name": "josephcsible",
+          "url": "https://github.com/josephcsible"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1749303?s=40&v=4",
+          "name": "ngzhian",
+          "url": "https://github.com/ngzhian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1451663?s=40&v=4",
+          "name": "contivero",
+          "url": "https://github.com/contivero"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12698563?s=40&v=4",
+          "name": "jabberabbe",
+          "url": "https://github.com/jabberabbe"
+        }
+      ]
+    },
+    {
       "title": "kmonad/kmonad",
       "url": "https://github.com/kmonad/kmonad",
       "description": "An advanced keyboard manager",
@@ -153,43 +227,6 @@
       ]
     },
     {
-      "title": "simplex-chat/simplexmq",
-      "url": "https://github.com/simplex-chat/simplexmq",
-      "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "608",
-      "forks": "76",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
-          "name": "epoberezkin",
-          "url": "https://github.com/epoberezkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
-          "name": "spaced4ndy",
-          "url": "https://github.com/spaced4ndy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/486682?s=40&v=4",
-          "name": "dpwiz",
-          "url": "https://github.com/dpwiz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
-          "name": "shumvgolove",
-          "url": "https://github.com/shumvgolove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39944650?s=40&v=4",
-          "name": "space-d-n",
-          "url": "https://github.com/space-d-n"
-        }
-      ]
-    },
-    {
       "title": "b3nj5m1n/xdg-ninja",
       "url": "https://github.com/b3nj5m1n/xdg-ninja",
       "description": "A shell script which checks your $HOME for unwanted files and directories.",
@@ -223,6 +260,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2254105?s=40&v=4",
           "name": "FranzXaver",
           "url": "https://github.com/FranzXaver"
+        }
+      ]
+    },
+    {
+      "title": "simplex-chat/simplexmq",
+      "url": "https://github.com/simplex-chat/simplexmq",
+      "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "608",
+      "forks": "76",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+          "name": "epoberezkin",
+          "url": "https://github.com/epoberezkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+          "name": "spaced4ndy",
+          "url": "https://github.com/spaced4ndy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/486682?s=40&v=4",
+          "name": "dpwiz",
+          "url": "https://github.com/dpwiz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+          "name": "shumvgolove",
+          "url": "https://github.com/shumvgolove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39944650?s=40&v=4",
+          "name": "space-d-n",
+          "url": "https://github.com/space-d-n"
         }
       ]
     },
@@ -296,71 +370,34 @@
       ]
     },
     {
-      "title": "IntersectMBO/plutus",
-      "url": "https://github.com/IntersectMBO/plutus",
-      "description": "The Plutus language implementation and tools",
+      "title": "haskell/cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,593",
-      "forks": "486",
-      "addStars": "1",
+      "stars": "1,670",
+      "forks": "710",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1699466?s=40&v=4",
-          "name": "michaelpj",
-          "url": "https://github.com/michaelpj"
+          "avatar": "https://avatars.githubusercontent.com/u/47439?s=40&v=4",
+          "name": "23Skidoo",
+          "url": "https://github.com/23Skidoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/652332?s=40&v=4",
-          "name": "jmchapman",
-          "url": "https://github.com/jmchapman"
+          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
+          "name": "dcoutts",
+          "url": "https://github.com/dcoutts"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6342538?s=40&v=4",
-          "name": "zliu41",
-          "url": "https://github.com/zliu41"
+          "avatar": "https://avatars.githubusercontent.com/u/51087?s=40&v=4",
+          "name": "phadej",
+          "url": "https://github.com/phadej"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15709674?s=40&v=4",
-          "name": "zeme-wana",
-          "url": "https://github.com/zeme-wana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1771361?s=40&v=4",
-          "name": "j-mueller",
-          "url": "https://github.com/j-mueller"
-        }
-      ]
-    },
-    {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "10,919",
-      "forks": "442",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
+          "avatar": "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
+          "name": "ezyang",
+          "url": "https://github.com/ezyang"
         }
       ]
     }
