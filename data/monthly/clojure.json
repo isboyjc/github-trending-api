@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Monthly Trending",
   "description": "Monthly Trending of Clojure Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 May 2025 07:21:17 GMT",
+  "pubDate": "Mon, 26 May 2025 13:32:06 GMT",
   "items": [
     {
       "title": "logseq/logseq",
@@ -10,8 +10,8 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "36,655",
-      "forks": "2,166",
+      "stars": "36,659",
+      "forks": "2,167",
       "addStars": "566",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "42,094",
-      "forks": "5,582",
+      "stars": "42,099",
+      "forks": "5,581",
       "addStars": "402",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "38,330",
-      "forks": "1,980",
+      "stars": "38,336",
+      "forks": "1,981",
       "addStars": "613",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "79,058",
+      "stars": "79,063",
       "forks": "3,141",
       "addStars": "324",
       "contributors": [
@@ -149,6 +149,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/261579?s=40&v=4",
           "name": "davelab6",
           "url": "https://github.com/davelab6"
+        }
+      ]
+    },
+    {
+      "title": "elastic/es2unix",
+      "url": "https://github.com/elastic/es2unix",
+      "description": "Command-line ES",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "272",
+      "forks": "30",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6202?s=40&v=4",
+          "name": "drewr",
+          "url": "https://github.com/drewr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19060?s=40&v=4",
+          "name": "dakrone",
+          "url": "https://github.com/dakrone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/120545?s=40&v=4",
+          "name": "justfalter",
+          "url": "https://github.com/justfalter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/133793494?s=40&v=4",
+          "name": "bradtimmerman",
+          "url": "https://github.com/bradtimmerman"
         }
       ]
     },
@@ -222,39 +254,76 @@
       ]
     },
     {
-      "title": "nubank/state-flow",
-      "url": "https://github.com/nubank/state-flow",
-      "description": "Integration testing framework using a state monad in the backend for building and composing flows",
+      "title": "jepsen-io/jepsen",
+      "url": "https://github.com/jepsen-io/jepsen",
+      "description": "A framework for distributed systems verification, with fault injection",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "352",
-      "forks": "15",
-      "addStars": "6",
+      "stars": "7,048",
+      "forks": "728",
+      "addStars": "33",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1075?s=40&v=4",
-          "name": "dchelimsky",
-          "url": "https://github.com/dchelimsky"
+          "avatar": "https://avatars.githubusercontent.com/u/3748?s=40&v=4",
+          "name": "aphyr",
+          "url": "https://github.com/aphyr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1395990?s=40&v=4",
-          "name": "caioaao",
-          "url": "https://github.com/caioaao"
+          "avatar": "https://avatars.githubusercontent.com/u/938395?s=40&v=4",
+          "name": "mkcp",
+          "url": "https://github.com/mkcp"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/642886?s=40&v=4",
+          "name": "knz",
+          "url": "https://github.com/knz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/335?s=40&v=4",
+          "name": "bitbckt",
+          "url": "https://github.com/bitbckt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/206?s=40&v=4",
+          "name": "sprsquish",
+          "url": "https://github.com/sprsquish"
+        }
+      ]
+    },
+    {
+      "title": "nubank/matcher-combinators",
+      "url": "https://github.com/nubank/matcher-combinators",
+      "description": "Library for creating matcher combinator to compare nested data structures",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "493",
+      "forks": "25",
+      "addStars": "8",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/94817?s=40&v=4",
           "name": "philomates",
           "url": "https://github.com/philomates"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7015038?s=40&v=4",
-          "name": "nu-go",
-          "url": "https://github.com/nu-go"
+          "avatar": "https://avatars.githubusercontent.com/u/1075?s=40&v=4",
+          "name": "dchelimsky",
+          "url": "https://github.com/dchelimsky"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7820865?s=40&v=4",
-          "name": "ericdallo",
-          "url": "https://github.com/ericdallo"
+          "avatar": "https://avatars.githubusercontent.com/u/99284?s=40&v=4",
+          "name": "rafaeldff",
+          "url": "https://github.com/rafaeldff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34248754?s=40&v=4",
+          "name": "gilvan-reis",
+          "url": "https://github.com/gilvan-reis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38081789?s=40&v=4",
+          "name": "fernando-nubank",
+          "url": "https://github.com/fernando-nubank"
         }
       ]
     },
@@ -287,6 +356,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2136497?s=40&v=4",
           "name": "alan-ghelardi",
           "url": "https://github.com/alan-ghelardi"
+        }
+      ]
+    },
+    {
+      "title": "nubank/clj-github",
+      "url": "https://github.com/nubank/clj-github",
+      "description": "A Clojure library for interacting with the github developer API",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "72",
+      "forks": "4",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94817?s=40&v=4",
+          "name": "philomates",
+          "url": "https://github.com/philomates"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52660?s=40&v=4",
+          "name": "hlship",
+          "url": "https://github.com/hlship"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/458881?s=40&v=4",
+          "name": "rfhayashi",
+          "url": "https://github.com/rfhayashi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10342519?s=40&v=4",
+          "name": "franpilot",
+          "url": "https://github.com/franpilot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1164892?s=40&v=4",
+          "name": "andrepoleza",
+          "url": "https://github.com/andrepoleza"
         }
       ]
     }
