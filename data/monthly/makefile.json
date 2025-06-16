@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Jun 2025 13:36:54 GMT",
+  "pubDate": "Mon, 16 Jun 2025 19:07:15 GMT",
   "items": [
     {
       "title": "openwrt/packages",
@@ -10,7 +10,7 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "4,242",
+      "stars": "4,243",
       "forks": "3,667",
       "addStars": "58",
       "contributors": [
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3441407?s=40&v=4",
           "name": "thess",
           "url": "https://github.com/thess"
+        }
+      ]
+    },
+    {
+      "title": "freebsd/freebsd-ports",
+      "url": "https://github.com/freebsd/freebsd-ports",
+      "description": "FreeBSD ports tree (read-only mirror)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": "1,052",
+      "forks": "792",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/688777?s=40&v=4",
+          "name": "sunpoet",
+          "url": "https://github.com/sunpoet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/271906?s=40&v=4",
+          "name": "yurivict",
+          "url": "https://github.com/yurivict"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6657176?s=40&v=4",
+          "name": "miwi-fbsd",
+          "url": "https://github.com/miwi-fbsd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/474217?s=40&v=4",
+          "name": "AMDmi3",
+          "url": "https://github.com/AMDmi3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11153579?s=40&v=4",
+          "name": "jbeich",
+          "url": "https://github.com/jbeich"
         }
       ]
     },
@@ -79,43 +116,6 @@
       ]
     },
     {
-      "title": "ROCKNIX/distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": "734",
-      "forks": "128",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88717793?s=40&v=4",
-          "name": "fewtarius",
-          "url": "https://github.com/fewtarius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1673861?s=40&v=4",
-          "name": "r3claimer",
-          "url": "https://github.com/r3claimer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/342907?s=40&v=4",
-          "name": "spycat88",
-          "url": "https://github.com/spycat88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151048164?s=40&v=4",
-          "name": "sydarn",
-          "url": "https://github.com/sydarn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/400014?s=40&v=4",
-          "name": "loki666",
-          "url": "https://github.com/loki666"
-        }
-      ]
-    },
-    {
       "title": "open-telemetry/opentelemetry-proto",
       "url": "https://github.com/open-telemetry/opentelemetry-proto",
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
@@ -153,103 +153,76 @@
       ]
     },
     {
-      "title": "raspberrypi/noobs",
-      "url": "https://github.com/raspberrypi/noobs",
-      "description": "NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi",
+      "title": "ROCKNIX/distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,218",
-      "forks": "435",
-      "addStars": "4",
+      "stars": "736",
+      "forks": "128",
+      "addStars": "60",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/476186?s=40&v=4",
-          "name": "lurch",
-          "url": "https://github.com/lurch"
+          "avatar": "https://avatars.githubusercontent.com/u/88717793?s=40&v=4",
+          "name": "fewtarius",
+          "url": "https://github.com/fewtarius"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1716509?s=40&v=4",
-          "name": "XECDesign",
-          "url": "https://github.com/XECDesign"
+          "avatar": "https://avatars.githubusercontent.com/u/1673861?s=40&v=4",
+          "name": "r3claimer",
+          "url": "https://github.com/r3claimer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1120072?s=40&v=4",
-          "name": "Rob-Bishop",
-          "url": "https://github.com/Rob-Bishop"
+          "avatar": "https://avatars.githubusercontent.com/u/342907?s=40&v=4",
+          "name": "spycat88",
+          "url": "https://github.com/spycat88"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1123701?s=40&v=4",
-          "name": "maxnet",
-          "url": "https://github.com/maxnet"
+          "avatar": "https://avatars.githubusercontent.com/u/151048164?s=40&v=4",
+          "name": "sydarn",
+          "url": "https://github.com/sydarn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1262554?s=40&v=4",
-          "name": "bovirus",
-          "url": "https://github.com/bovirus"
+          "avatar": "https://avatars.githubusercontent.com/u/400014?s=40&v=4",
+          "name": "loki666",
+          "url": "https://github.com/loki666"
         }
       ]
     },
     {
-      "title": "manna-harbour/miryoku",
-      "url": "https://github.com/manna-harbour/miryoku",
-      "description": "Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.",
+      "title": "HaveAGitGat/Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "3,201",
-      "forks": "162",
-      "addStars": "89",
+      "stars": "3,468",
+      "forks": "104",
+      "addStars": "95",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51143715?s=40&v=4",
-          "name": "manna-harbour",
-          "url": "https://github.com/manna-harbour"
+          "avatar": "https://avatars.githubusercontent.com/u/43864057?s=40&v=4",
+          "name": "HaveAGitGat",
+          "url": "https://github.com/HaveAGitGat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1548?s=40&v=4",
-          "name": "babo",
-          "url": "https://github.com/babo"
+          "avatar": "https://avatars.githubusercontent.com/u/182836?s=40&v=4",
+          "name": "jonocairns",
+          "url": "https://github.com/jonocairns"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/206357?s=40&v=4",
-          "name": "honza",
-          "url": "https://github.com/honza"
-        }
-      ]
-    },
-    {
-      "title": "WebAssembly/wasi-crypto",
-      "url": "https://github.com/WebAssembly/wasi-crypto",
-      "description": "WASI Cryptography API Proposal",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": "170",
-      "forks": "23",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124872?s=40&v=4",
-          "name": "jedisct1",
-          "url": "https://github.com/jedisct1"
+          "avatar": "https://avatars.githubusercontent.com/u/7110194?s=40&v=4",
+          "name": "Roxedus",
+          "url": "https://github.com/Roxedus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56215747?s=40&v=4",
-          "name": "sonder-joker",
-          "url": "https://github.com/sonder-joker"
+          "avatar": "https://avatars.githubusercontent.com/u/32561343?s=40&v=4",
+          "name": "davidry",
+          "url": "https://github.com/davidry"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1133882?s=40&v=4",
-          "name": "rjzak",
-          "url": "https://github.com/rjzak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47549?s=40&v=4",
-          "name": "ueno",
-          "url": "https://github.com/ueno"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4503403?s=40&v=4",
-          "name": "sunfishcode",
-          "url": "https://github.com/sunfishcode"
+          "avatar": "https://avatars.githubusercontent.com/u/6439218?s=40&v=4",
+          "name": "YouKnowBlom",
+          "url": "https://github.com/YouKnowBlom"
         }
       ]
     },
@@ -291,39 +264,29 @@
       ]
     },
     {
-      "title": "PartialVolume/shredos.x86_64",
-      "url": "https://github.com/PartialVolume/shredos.x86_64",
-      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "title": "manna-harbour/miryoku",
+      "url": "https://github.com/manna-harbour/miryoku",
+      "description": "Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,332",
-      "forks": "92",
-      "addStars": "65",
+      "stars": "3,201",
+      "forks": "162",
+      "addStars": "89",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22084881?s=40&v=4",
-          "name": "PartialVolume",
-          "url": "https://github.com/PartialVolume"
+          "avatar": "https://avatars.githubusercontent.com/u/51143715?s=40&v=4",
+          "name": "manna-harbour",
+          "url": "https://github.com/manna-harbour"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/116610?s=40&v=4",
-          "name": "petski",
-          "url": "https://github.com/petski"
+          "avatar": "https://avatars.githubusercontent.com/u/1548?s=40&v=4",
+          "name": "babo",
+          "url": "https://github.com/babo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/579379?s=40&v=4",
-          "name": "fthobe",
-          "url": "https://github.com/fthobe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1893924?s=40&v=4",
-          "name": "brazier",
-          "url": "https://github.com/brazier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10724809?s=40&v=4",
-          "name": "wikijm",
-          "url": "https://github.com/wikijm"
+          "avatar": "https://avatars.githubusercontent.com/u/206357?s=40&v=4",
+          "name": "honza",
+          "url": "https://github.com/honza"
         }
       ]
     },
@@ -360,29 +323,39 @@
       ]
     },
     {
-      "title": "open-telemetry/opentelemetry-proto-go",
-      "url": "https://github.com/open-telemetry/opentelemetry-proto-go",
-      "description": "Generated code for OpenTelemetry protobuf data model",
+      "title": "cncf/people",
+      "url": "https://github.com/cncf/people",
+      "description": "Stores the data that will populate the various people listings on cncf.io",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "35",
-      "forks": "38",
-      "addStars": "1",
+      "stars": "112",
+      "forks": "403",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5543599?s=40&v=4",
-          "name": "MrAlias",
-          "url": "https://github.com/MrAlias"
+          "avatar": "https://avatars.githubusercontent.com/u/463160?s=40&v=4",
+          "name": "cjyabraham",
+          "url": "https://github.com/cjyabraham"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3766680?s=40&v=4",
-          "name": "MadVikingGod",
-          "url": "https://github.com/MadVikingGod"
+          "avatar": "https://avatars.githubusercontent.com/u/3296287?s=40&v=4",
+          "name": "huats",
+          "url": "https://github.com/huats"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5067549?s=40&v=4",
-          "name": "pellared",
-          "url": "https://github.com/pellared"
+          "avatar": "https://avatars.githubusercontent.com/u/34756611?s=40&v=4",
+          "name": "taylorwaggoner",
+          "url": "https://github.com/taylorwaggoner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1394552?s=40&v=4",
+          "name": "jeefy",
+          "url": "https://github.com/jeefy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208059?s=40&v=4",
+          "name": "RobertKielty",
+          "url": "https://github.com/RobertKielty"
         }
       ]
     }
