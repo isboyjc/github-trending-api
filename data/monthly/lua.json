@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Monthly Trending",
   "description": "Monthly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Jun 2025 07:18:35 GMT",
+  "pubDate": "Mon, 30 Jun 2025 13:35:59 GMT",
   "items": [
     {
       "title": "olimorris/codecompanion.nvim",
@@ -42,8 +42,8 @@
       "description": "Use your Neovim like using Cursor AI IDE!",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "14,780",
-      "forks": "644",
+      "stars": "14,788",
+      "forks": "646",
       "addStars": "815",
       "contributors": [
         {
@@ -111,13 +111,45 @@
       ]
     },
     {
+      "title": "stevearc/conform.nvim",
+      "url": "https://github.com/stevearc/conform.nvim",
+      "description": "Lightweight yet powerful formatter plugin for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "4,211",
+      "forks": "232",
+      "addStars": "119",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/506791?s=40&v=4",
+          "name": "stevearc",
+          "url": "https://github.com/stevearc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56034786?s=40&v=4",
+          "name": "hougesen",
+          "url": "https://github.com/hougesen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
+          "name": "chrisgrieser",
+          "url": "https://github.com/chrisgrieser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4702260?s=40&v=4",
+          "name": "WhoIsSethDaniel",
+          "url": "https://github.com/WhoIsSethDaniel"
+        }
+      ]
+    },
+    {
       "title": "greggh/claude-code.nvim",
       "url": "https://github.com/greggh/claude-code.nvim",
       "description": "Seamless integration between Claude Code AI assistant and Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "607",
-      "forks": "20",
+      "stars": "610",
+      "forks": "21",
       "addStars": "370",
       "contributors": [
         {
@@ -217,49 +249,12 @@
       ]
     },
     {
-      "title": "xiaorouji/openwrt-passwall2",
-      "url": "https://github.com/xiaorouji/openwrt-passwall2",
-      "description": "",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "1,855",
-      "forks": "510",
-      "addStars": "67",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60100640?s=40&v=4",
-          "name": "xiaorouji",
-          "url": "https://github.com/xiaorouji"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86697442?s=40&v=4",
-          "name": "lwb1978",
-          "url": "https://github.com/lwb1978"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6050360?s=40&v=4",
-          "name": "smallprogram",
-          "url": "https://github.com/smallprogram"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10704839?s=40&v=4",
-          "name": "nftbty",
-          "url": "https://github.com/nftbty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8738520?s=40&v=4",
-          "name": "Gzxhwq",
-          "url": "https://github.com/Gzxhwq"
-        }
-      ]
-    },
-    {
       "title": "supermaven-inc/supermaven-nvim",
       "url": "https://github.com/supermaven-inc/supermaven-nvim",
       "description": "The official Neovim plugin for Supermaven",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,111",
+      "stars": "1,112",
       "forks": "57",
       "addStars": "78",
       "contributors": [
@@ -291,12 +286,49 @@
       ]
     },
     {
+      "title": "xiaorouji/openwrt-passwall2",
+      "url": "https://github.com/xiaorouji/openwrt-passwall2",
+      "description": "",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": "1,858",
+      "forks": "510",
+      "addStars": "67",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60100640?s=40&v=4",
+          "name": "xiaorouji",
+          "url": "https://github.com/xiaorouji"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86697442?s=40&v=4",
+          "name": "lwb1978",
+          "url": "https://github.com/lwb1978"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6050360?s=40&v=4",
+          "name": "smallprogram",
+          "url": "https://github.com/smallprogram"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10704839?s=40&v=4",
+          "name": "nftbty",
+          "url": "https://github.com/nftbty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8738520?s=40&v=4",
+          "name": "Gzxhwq",
+          "url": "https://github.com/Gzxhwq"
+        }
+      ]
+    },
+    {
       "title": "sphamba/smear-cursor.nvim",
       "url": "https://github.com/sphamba/smear-cursor.nvim",
       "description": "🌠 Neovim plugin to animate the cursor with a smear effect in all terminals",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,103",
+      "stars": "1,104",
       "forks": "21",
       "addStars": "98",
       "contributors": [
@@ -319,43 +351,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/39483124?s=40&v=4",
           "name": "scottmckendry",
           "url": "https://github.com/scottmckendry"
-        }
-      ]
-    },
-    {
-      "title": "amzxyz/rime_wanxiang",
-      "url": "https://github.com/amzxyz/rime_wanxiang",
-      "description": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持8种双拼，7种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "775",
-      "forks": "43",
-      "addStars": "247",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/129564993?s=40&v=4",
-          "name": "amzxyz",
-          "url": "https://github.com/amzxyz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1665522?s=40&v=4",
-          "name": "everyx",
-          "url": "https://github.com/everyx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62530172?s=40&v=4",
-          "name": "htyxyt",
-          "url": "https://github.com/htyxyt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96098265?s=40&v=4",
-          "name": "XiHanQWQ",
-          "url": "https://github.com/XiHanQWQ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63829496?s=40&v=4",
-          "name": "Mikachu2333",
-          "url": "https://github.com/Mikachu2333"
         }
       ]
     },
@@ -397,34 +392,39 @@
       ]
     },
     {
-      "title": "stevearc/conform.nvim",
-      "url": "https://github.com/stevearc/conform.nvim",
-      "description": "Lightweight yet powerful formatter plugin for Neovim",
+      "title": "ibhagwan/fzf-lua",
+      "url": "https://github.com/ibhagwan/fzf-lua",
+      "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,209",
-      "forks": "232",
-      "addStars": "119",
+      "stars": "3,478",
+      "forks": "197",
+      "addStars": "113",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/506791?s=40&v=4",
-          "name": "stevearc",
-          "url": "https://github.com/stevearc"
+          "avatar": "https://avatars.githubusercontent.com/u/59988195?s=40&v=4",
+          "name": "ibhagwan",
+          "url": "https://github.com/ibhagwan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56034786?s=40&v=4",
-          "name": "hougesen",
-          "url": "https://github.com/hougesen"
+          "avatar": "https://avatars.githubusercontent.com/u/91544758?s=40&v=4",
+          "name": "phanen",
+          "url": "https://github.com/phanen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
-          "name": "chrisgrieser",
-          "url": "https://github.com/chrisgrieser"
+          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+          "name": "folke",
+          "url": "https://github.com/folke"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4702260?s=40&v=4",
-          "name": "WhoIsSethDaniel",
-          "url": "https://github.com/WhoIsSethDaniel"
+          "avatar": "https://avatars.githubusercontent.com/u/394891?s=40&v=4",
+          "name": "jdrouhard",
+          "url": "https://github.com/jdrouhard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1009873?s=40&v=4",
+          "name": "wookayin",
+          "url": "https://github.com/wookayin"
         }
       ]
     },
@@ -434,8 +434,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "25,652",
-      "forks": "36,046",
+      "stars": "25,655",
+      "forks": "36,057",
       "addStars": "706",
       "contributors": [
         {
@@ -471,7 +471,7 @@
       "description": "Debug Adapter Protocol client implementation for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,444",
+      "stars": "6,445",
       "forks": "236",
       "addStars": "115",
       "contributors": [
@@ -503,39 +503,39 @@
       ]
     },
     {
-      "title": "ibhagwan/fzf-lua",
-      "url": "https://github.com/ibhagwan/fzf-lua",
-      "description": "Improved fzf.vim written in lua",
+      "title": "Saghen/blink.cmp",
+      "url": "https://github.com/Saghen/blink.cmp",
+      "description": "Performant, batteries-included completion plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,477",
-      "forks": "197",
-      "addStars": "113",
+      "stars": "4,809",
+      "forks": "279",
+      "addStars": "215",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/59988195?s=40&v=4",
-          "name": "ibhagwan",
-          "url": "https://github.com/ibhagwan"
+          "avatar": "https://avatars.githubusercontent.com/u/10467983?s=40&v=4",
+          "name": "Saghen",
+          "url": "https://github.com/Saghen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91544758?s=40&v=4",
-          "name": "phanen",
-          "url": "https://github.com/phanen"
+          "avatar": "https://avatars.githubusercontent.com/u/7377369?s=40&v=4",
+          "name": "soifou",
+          "url": "https://github.com/soifou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
-          "name": "folke",
-          "url": "https://github.com/folke"
+          "avatar": "https://avatars.githubusercontent.com/u/45266795?s=40&v=4",
+          "name": "stefanboca",
+          "url": "https://github.com/stefanboca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/394891?s=40&v=4",
-          "name": "jdrouhard",
-          "url": "https://github.com/jdrouhard"
+          "avatar": "https://avatars.githubusercontent.com/u/70210066?s=40&v=4",
+          "name": "lopi-py",
+          "url": "https://github.com/lopi-py"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1009873?s=40&v=4",
-          "name": "wookayin",
-          "url": "https://github.com/wookayin"
+          "avatar": "https://avatars.githubusercontent.com/u/18155001?s=40&v=4",
+          "name": "redxtech",
+          "url": "https://github.com/redxtech"
         }
       ]
     },
@@ -545,7 +545,7 @@
       "description": "Find, Filter, Preview, Pick. All lua, all the time.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "17,839",
+      "stars": "17,842",
       "forks": "898",
       "addStars": "271",
       "contributors": [
@@ -582,8 +582,8 @@
       "description": "Web-based Traffic and Security Network Traffic Monitoring",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,795",
-      "forks": "692",
+      "stars": "6,797",
+      "forks": "693",
       "addStars": "95",
       "contributors": [
         {
