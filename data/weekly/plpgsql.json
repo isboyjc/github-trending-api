@@ -2,42 +2,79 @@
   "title": "GitHub Plpgsql Languages Weekly Trending",
   "description": "Weekly Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 06 Jul 2025 07:15:09 GMT",
+  "pubDate": "Sun, 06 Jul 2025 13:30:43 GMT",
   "items": [
     {
-      "title": "supabase/postgres",
-      "url": "https://github.com/supabase/postgres",
-      "description": "Unmodified Postgres with some useful plugins",
+      "title": "timescale/pgai",
+      "url": "https://github.com/timescale/pgai",
+      "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "1,570",
-      "forks": "191",
-      "addStars": "7",
+      "stars": "5,021",
+      "forks": "261",
+      "addStars": "18",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26374889?s=40&v=4",
-          "name": "dragarcia",
-          "url": "https://github.com/dragarcia"
+          "avatar": "https://avatars.githubusercontent.com/u/4974668?s=40&v=4",
+          "name": "jgpruitt",
+          "url": "https://github.com/jgpruitt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/397622?s=40&v=4",
-          "name": "darora",
-          "url": "https://github.com/darora"
+          "avatar": "https://avatars.githubusercontent.com/u/1117749?s=40&v=4",
+          "name": "JamesGuthrie",
+          "url": "https://github.com/JamesGuthrie"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30039543?s=40&v=4",
-          "name": "pcnc",
-          "url": "https://github.com/pcnc"
+          "avatar": "https://avatars.githubusercontent.com/u/112245?s=40&v=4",
+          "name": "cevian",
+          "url": "https://github.com/cevian"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/115821?s=40&v=4",
-          "name": "samrose",
-          "url": "https://github.com/samrose"
+          "avatar": "https://avatars.githubusercontent.com/u/10251955?s=40&v=4",
+          "name": "Askir",
+          "url": "https://github.com/Askir"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31685197?s=40&v=4",
-          "name": "soedirgo",
-          "url": "https://github.com/soedirgo"
+          "avatar": "https://avatars.githubusercontent.com/u/1083296?s=40&v=4",
+          "name": "smoya",
+          "url": "https://github.com/smoya"
+        }
+      ]
+    },
+    {
+      "title": "pgpartman/pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "2,357",
+      "forks": "295",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/825402?s=40&v=4",
+          "name": "keithf4",
+          "url": "https://github.com/keithf4"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125331?s=40&v=4",
+          "name": "jcoleman",
+          "url": "https://github.com/jcoleman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4621?s=40&v=4",
+          "name": "bradediger",
+          "url": "https://github.com/bradediger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46604?s=40&v=4",
+          "name": "theory",
+          "url": "https://github.com/theory"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24803131?s=40&v=4",
+          "name": "vitaly-burovoy",
+          "url": "https://github.com/vitaly-burovoy"
         }
       ]
     },
@@ -116,12 +153,49 @@
       ]
     },
     {
+      "title": "supabase/postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful plugins",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "1,570",
+      "forks": "191",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26374889?s=40&v=4",
+          "name": "dragarcia",
+          "url": "https://github.com/dragarcia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/397622?s=40&v=4",
+          "name": "darora",
+          "url": "https://github.com/darora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30039543?s=40&v=4",
+          "name": "pcnc",
+          "url": "https://github.com/pcnc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115821?s=40&v=4",
+          "name": "samrose",
+          "url": "https://github.com/samrose"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31685197?s=40&v=4",
+          "name": "soedirgo",
+          "url": "https://github.com/soedirgo"
+        }
+      ]
+    },
+    {
       "title": "pgmq/pgmq",
       "url": "https://github.com/pgmq/pgmq",
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "3,355",
+      "stars": "3,358",
       "forks": "95",
       "addStars": "20",
       "contributors": [
@@ -149,6 +223,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/8935584?s=40&v=4",
           "name": "ianstanton",
           "url": "https://github.com/ianstanton"
+        }
+      ]
+    },
+    {
+      "title": "digoal/blog",
+      "url": "https://github.com/digoal/blog",
+      "description": "Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": "8,282",
+      "forks": "1,902",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1920239?s=40&v=4",
+          "name": "digoal",
+          "url": "https://github.com/digoal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8612228?s=40&v=4",
+          "name": "EamonZhang",
+          "url": "https://github.com/EamonZhang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21381?s=40&v=4",
+          "name": "andrelaszlo",
+          "url": "https://github.com/andrelaszlo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17854123?s=40&v=4",
+          "name": "lonecloud",
+          "url": "https://github.com/lonecloud"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19792739?s=40&v=4",
+          "name": "DarkForcesX",
+          "url": "https://github.com/DarkForcesX"
         }
       ]
     },
@@ -186,117 +297,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2155545?s=40&v=4",
           "name": "inian",
           "url": "https://github.com/inian"
-        }
-      ]
-    },
-    {
-      "title": "digoal/blog",
-      "url": "https://github.com/digoal/blog",
-      "description": "Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": "8,281",
-      "forks": "1,902",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1920239?s=40&v=4",
-          "name": "digoal",
-          "url": "https://github.com/digoal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8612228?s=40&v=4",
-          "name": "EamonZhang",
-          "url": "https://github.com/EamonZhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21381?s=40&v=4",
-          "name": "andrelaszlo",
-          "url": "https://github.com/andrelaszlo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17854123?s=40&v=4",
-          "name": "lonecloud",
-          "url": "https://github.com/lonecloud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19792739?s=40&v=4",
-          "name": "DarkForcesX",
-          "url": "https://github.com/DarkForcesX"
-        }
-      ]
-    },
-    {
-      "title": "timescale/pgai",
-      "url": "https://github.com/timescale/pgai",
-      "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": "5,020",
-      "forks": "261",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4974668?s=40&v=4",
-          "name": "jgpruitt",
-          "url": "https://github.com/jgpruitt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1117749?s=40&v=4",
-          "name": "JamesGuthrie",
-          "url": "https://github.com/JamesGuthrie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/112245?s=40&v=4",
-          "name": "cevian",
-          "url": "https://github.com/cevian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10251955?s=40&v=4",
-          "name": "Askir",
-          "url": "https://github.com/Askir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1083296?s=40&v=4",
-          "name": "smoya",
-          "url": "https://github.com/smoya"
-        }
-      ]
-    },
-    {
-      "title": "pgpartman/pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": "2,356",
-      "forks": "295",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/825402?s=40&v=4",
-          "name": "keithf4",
-          "url": "https://github.com/keithf4"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/125331?s=40&v=4",
-          "name": "jcoleman",
-          "url": "https://github.com/jcoleman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4621?s=40&v=4",
-          "name": "bradediger",
-          "url": "https://github.com/bradediger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46604?s=40&v=4",
-          "name": "theory",
-          "url": "https://github.com/theory"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24803131?s=40&v=4",
-          "name": "vitaly-burovoy",
-          "url": "https://github.com/vitaly-burovoy"
         }
       ]
     }
