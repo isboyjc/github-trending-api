@@ -2,17 +2,44 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 12 Jul 2025 07:16:13 GMT",
+  "pubDate": "Sat, 12 Jul 2025 13:31:38 GMT",
   "items": [
+    {
+      "title": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "5,881",
+      "forks": "1,196",
+      "addStars": "60",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5543599?s=40&v=4",
+          "name": "MrAlias",
+          "url": "https://github.com/MrAlias"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5067549?s=40&v=4",
+          "name": "pellared",
+          "url": "https://github.com/pellared"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9347?s=40&v=4",
+          "name": "dmathieu",
+          "url": "https://github.com/dmathieu"
+        }
+      ]
+    },
     {
       "title": "googleapis/genai-toolbox",
       "url": "https://github.com/googleapis/genai-toolbox",
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,679",
-      "forks": "431",
-      "addStars": "818",
+      "stars": "5,781",
+      "forks": "438",
+      "addStars": "456",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45984206?s=40&v=4",
@@ -37,14 +64,78 @@
       ]
     },
     {
+      "title": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "25,971",
+      "forks": "3,717",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1053421?s=40&v=4",
+          "name": "cyriltovena",
+          "url": "https://github.com/cyriltovena"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8173478?s=40&v=4",
+          "name": "owen-d",
+          "url": "https://github.com/owen-d"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/281260?s=40&v=4",
+          "name": "chaudum",
+          "url": "https://github.com/chaudum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10332331?s=40&v=4",
+          "name": "slim-bean",
+          "url": "https://github.com/slim-bean"
+        }
+      ]
+    },
+    {
+      "title": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "59,428",
+      "forks": "9,654",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
+          "name": "fabxc",
+          "url": "https://github.com/fabxc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
+          "name": "juliusv",
+          "url": "https://github.com/juliusv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
+          "name": "beorn7",
+          "url": "https://github.com/beorn7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
+          "name": "bboreham",
+          "url": "https://github.com/bboreham"
+        }
+      ]
+    },
+    {
       "title": "hashicorp/terraform",
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "45,806",
+      "stars": "45,834",
       "forks": "9,937",
-      "addStars": "145",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
@@ -74,29 +165,76 @@
       ]
     },
     {
-      "title": "open-telemetry/opentelemetry-go",
-      "url": "https://github.com/open-telemetry/opentelemetry-go",
-      "description": "OpenTelemetry Go API and SDK",
+      "title": "kubernetes/client-go",
+      "url": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,868",
-      "forks": "1,195",
+      "stars": "9,506",
+      "forks": "3,006",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34088196?s=40&v=4",
+          "name": "k8s-publishing-bot",
+          "url": "https://github.com/k8s-publishing-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/980082?s=40&v=4",
+          "name": "liggitt",
+          "url": "https://github.com/liggitt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26662517?s=40&v=4",
+          "name": "k8s-publish-robot",
+          "url": "https://github.com/k8s-publish-robot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
+          "name": "dims",
+          "url": "https://github.com/dims"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22076?s=40&v=4",
+          "name": "pohly",
+          "url": "https://github.com/pohly"
+        }
+      ]
+    },
+    {
+      "title": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "32,750",
+      "forks": "4,402",
       "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5543599?s=40&v=4",
-          "name": "MrAlias",
-          "url": "https://github.com/MrAlias"
+          "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&v=4",
+          "name": "jefferai",
+          "url": "https://github.com/jefferai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5067549?s=40&v=4",
-          "name": "pellared",
-          "url": "https://github.com/pellared"
+          "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&v=4",
+          "name": "vishalnayak",
+          "url": "https://github.com/vishalnayak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9347?s=40&v=4",
-          "name": "dmathieu",
-          "url": "https://github.com/dmathieu"
+          "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&v=4",
+          "name": "armon",
+          "url": "https://github.com/armon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5587236?s=40&v=4",
+          "name": "ncabatoff",
+          "url": "https://github.com/ncabatoff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
+          "name": "mitchellh",
+          "url": "https://github.com/mitchellh"
         }
       ]
     },
@@ -133,561 +271,39 @@
       ]
     },
     {
-      "title": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
+      "title": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "20,040",
-      "forks": "6,167",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
-          "name": "alexmt",
-          "url": "https://github.com/alexmt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/350466?s=40&v=4",
-          "name": "crenshaw-dev",
-          "url": "https://github.com/crenshaw-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3942683?s=40&v=4",
-          "name": "jannfis",
-          "url": "https://github.com/jannfis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12677113?s=40&v=4",
-          "name": "jessesuen",
-          "url": "https://github.com/jessesuen"
-        }
-      ]
-    },
-    {
-      "title": "grafana/loki",
-      "url": "https://github.com/grafana/loki",
-      "description": "Like Prometheus, but for logs.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "25,969",
-      "forks": "3,717",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1053421?s=40&v=4",
-          "name": "cyriltovena",
-          "url": "https://github.com/cyriltovena"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8173478?s=40&v=4",
-          "name": "owen-d",
-          "url": "https://github.com/owen-d"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/281260?s=40&v=4",
-          "name": "chaudum",
-          "url": "https://github.com/chaudum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10332331?s=40&v=4",
-          "name": "slim-bean",
-          "url": "https://github.com/slim-bean"
-        }
-      ]
-    },
-    {
-      "title": "putyy/res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "8,711",
-      "forks": "1,042",
-      "addStars": "99",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",
-          "name": "putyy",
-          "url": "https://github.com/putyy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13965460?s=40&v=4",
-          "name": "taotieren",
-          "url": "https://github.com/taotieren"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16227832?s=40&v=4",
-          "name": "claviering",
-          "url": "https://github.com/claviering"
-        }
-      ]
-    },
-    {
-      "title": "cert-manager/cert-manager",
-      "url": "https://github.com/cert-manager/cert-manager",
-      "description": "Automatically provision and manage TLS certificates in Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "12,959",
-      "forks": "2,225",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32282838?s=40&v=4",
-          "name": "jetstack-bot",
-          "url": "https://github.com/jetstack-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/203583?s=40&v=4",
-          "name": "munnerz",
-          "url": "https://github.com/munnerz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15893072?s=40&v=4",
-          "name": "JoshVanL",
-          "url": "https://github.com/JoshVanL"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42113979?s=40&v=4",
-          "name": "inteon",
-          "url": "https://github.com/inteon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/978965?s=40&v=4",
-          "name": "wallrj",
-          "url": "https://github.com/wallrj"
-        }
-      ]
-    },
-    {
-      "title": "hashicorp/terraform-provider-azurerm",
-      "url": "https://github.com/hashicorp/terraform-provider-azurerm",
-      "description": "Terraform provider for Azure Resource Manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "4,782",
-      "forks": "4,815",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/666005?s=40&v=4",
-          "name": "tombuildsstuff",
-          "url": "https://github.com/tombuildsstuff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1638467?s=40&v=4",
-          "name": "katbyte",
-          "url": "https://github.com/katbyte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6515518?s=40&v=4",
-          "name": "mbfrahry",
-          "url": "https://github.com/mbfrahry"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11830746?s=40&v=4",
-          "name": "jackofallops",
-          "url": "https://github.com/jackofallops"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25562180?s=40&v=4",
-          "name": "stephybun",
-          "url": "https://github.com/stephybun"
-        }
-      ]
-    },
-    {
-      "title": "google/pprof",
-      "url": "https://github.com/google/pprof",
-      "description": "pprof is a tool for visualization and analysis of profiling data",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "8,597",
-      "forks": "627",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11181042?s=40&v=4",
-          "name": "rauls5382",
-          "url": "https://github.com/rauls5382"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1519040?s=40&v=4",
-          "name": "aalexand",
-          "url": "https://github.com/aalexand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14046562?s=40&v=4",
-          "name": "nolanmar511",
-          "url": "https://github.com/nolanmar511"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13107301?s=40&v=4",
-          "name": "wade-k",
-          "url": "https://github.com/wade-k"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8096977?s=40&v=4",
-          "name": "ghemawat",
-          "url": "https://github.com/ghemawat"
-        }
-      ]
-    },
-    {
-      "title": "junegunn/fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "71,949",
-      "forks": "2,546",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700826?s=40&v=4",
-          "name": "junegunn",
-          "url": "https://github.com/junegunn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4866740?s=40&v=4",
-          "name": "bitraid",
-          "url": "https://github.com/bitraid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&v=4",
-          "name": "janlazo",
-          "url": "https://github.com/janlazo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92653266?s=40&v=4",
-          "name": "LangLangBart",
-          "url": "https://github.com/LangLangBart"
-        }
-      ]
-    },
-    {
-      "title": "sqlc-dev/sqlc",
-      "url": "https://github.com/sqlc-dev/sqlc",
-      "description": "Generate type-safe code from SQL",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "15,502",
-      "forks": "897",
-      "addStars": "25",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34893?s=40&v=4",
-          "name": "kyleconroy",
-          "url": "https://github.com/kyleconroy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100479?s=40&v=4",
-          "name": "andrewmbenton",
-          "url": "https://github.com/andrewmbenton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7843637?s=40&v=4",
-          "name": "victoraugustolls",
-          "url": "https://github.com/victoraugustolls"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2769275?s=40&v=4",
-          "name": "mightyguava",
-          "url": "https://github.com/mightyguava"
-        }
-      ]
-    },
-    {
-      "title": "steveiliop56/tinyauth",
-      "url": "https://github.com/steveiliop56/tinyauth",
-      "description": "The simplest way to protect your apps with a login screen.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "3,215",
-      "forks": "85",
-      "addStars": "68",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106091011?s=40&v=4",
-          "name": "steveiliop56",
-          "url": "https://github.com/steveiliop56"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
-          "name": "web-flow",
-          "url": "https://github.com/web-flow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51529268?s=40&v=4",
-          "name": "robotman4",
-          "url": "https://github.com/robotman4"
-        }
-      ]
-    },
-    {
-      "title": "hashicorp/nomad",
-      "url": "https://github.com/hashicorp/nomad",
-      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "15,616",
-      "forks": "1,997",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1047914?s=40&v=4",
-          "name": "dadgar",
-          "url": "https://github.com/dadgar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113362?s=40&v=4",
-          "name": "schmichael",
-          "url": "https://github.com/schmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/174740?s=40&v=4",
-          "name": "DingoEatingFuzz",
-          "url": "https://github.com/DingoEatingFuzz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/136429?s=40&v=4",
-          "name": "notnoop",
-          "url": "https://github.com/notnoop"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1409219?s=40&v=4",
-          "name": "tgross",
-          "url": "https://github.com/tgross"
-        }
-      ]
-    },
-    {
-      "title": "RezaSi/go-interview-practice",
-      "url": "https://github.com/RezaSi/go-interview-practice",
-      "description": "Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "265",
-      "forks": "101",
-      "addStars": "39",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6655338?s=40&v=4",
-          "name": "RezaSi",
-          "url": "https://github.com/RezaSi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/784840?s=40&v=4",
-          "name": "odelbos",
-          "url": "https://github.com/odelbos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15047393?s=40&v=4",
-          "name": "mick4711",
-          "url": "https://github.com/mick4711"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35005046?s=40&v=4",
-          "name": "AliNazariii",
-          "url": "https://github.com/AliNazariii"
-        }
-      ]
-    },
-    {
-      "title": "ltaoo/wx_channels_download",
-      "url": "https://github.com/ltaoo/wx_channels_download",
-      "description": "微信视频号下载器",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "2,427",
-      "forks": "348",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15319872?s=40&v=4",
-          "name": "ltaoo",
-          "url": "https://github.com/ltaoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/736415?s=40&v=4",
-          "name": "Emck",
-          "url": "https://github.com/Emck"
-        }
-      ]
-    },
-    {
-      "title": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "27,480",
-      "forks": "2,621",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
-          "name": "knqyf263",
-          "url": "https://github.com/knqyf263"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&v=4",
-          "name": "DmitriyLewen",
-          "url": "https://github.com/DmitriyLewen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&v=4",
-          "name": "nikpivkin",
-          "url": "https://github.com/nikpivkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4",
-          "name": "simar7",
-          "url": "https://github.com/simar7"
-        }
-      ]
-    },
-    {
-      "title": "github/github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "17,240",
-      "forks": "1,322",
-      "addStars": "80",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4811358?s=40&v=4",
-          "name": "SamMorrowDrums",
-          "url": "https://github.com/SamMorrowDrums"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1611510?s=40&v=4",
-          "name": "williammartin",
-          "url": "https://github.com/williammartin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11424?s=40&v=4",
-          "name": "juruen",
-          "url": "https://github.com/juruen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67866556?s=40&v=4",
-          "name": "JoannaaKL",
-          "url": "https://github.com/JoannaaKL"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40869903?s=40&v=4",
-          "name": "tonytrg",
-          "url": "https://github.com/tonytrg"
-        }
-      ]
-    },
-    {
-      "title": "grpc/grpc-go",
-      "url": "https://github.com/grpc/grpc-go",
-      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "22,009",
-      "forks": "4,526",
+      "stars": "17,476",
+      "forks": "1,588",
       "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10121772?s=40&v=4",
-          "name": "iamqizhao",
-          "url": "https://github.com/iamqizhao"
+          "avatar": "https://avatars.githubusercontent.com/u/90097?s=40&v=4",
+          "name": "derekcollison",
+          "url": "https://github.com/derekcollison"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/960845?s=40&v=4",
-          "name": "menghanl",
-          "url": "https://github.com/menghanl"
+          "avatar": "https://avatars.githubusercontent.com/u/13736691?s=40&v=4",
+          "name": "kozlovic",
+          "url": "https://github.com/kozlovic"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26072277?s=40&v=4",
-          "name": "dfawley",
-          "url": "https://github.com/dfawley"
+          "avatar": "https://avatars.githubusercontent.com/u/310854?s=40&v=4",
+          "name": "neilalexander",
+          "url": "https://github.com/neilalexander"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1638487?s=40&v=4",
-          "name": "easwars",
-          "url": "https://github.com/easwars"
+          "avatar": "https://avatars.githubusercontent.com/u/19881388?s=40&v=4",
+          "name": "matthiashanel",
+          "url": "https://github.com/matthiashanel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39203661?s=40&v=4",
-          "name": "zasweq",
-          "url": "https://github.com/zasweq"
-        }
-      ]
-    },
-    {
-      "title": "kubernetes-sigs/kustomize",
-      "url": "https://github.com/kubernetes-sigs/kustomize",
-      "description": "Customization of kubernetes YAML configurations",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "11,563",
-      "forks": "2,319",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2928188?s=40&v=4",
-          "name": "monopole",
-          "url": "https://github.com/monopole"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
-          "name": "k8s-ci-robot",
-          "url": "https://github.com/k8s-ci-robot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16629434?s=40&v=4",
-          "name": "natasha41575",
-          "url": "https://github.com/natasha41575"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8498608?s=40&v=4",
-          "name": "Liujingfang1",
-          "url": "https://github.com/Liujingfang1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5417586?s=40&v=4",
-          "name": "Shell32-Natsu",
-          "url": "https://github.com/Shell32-Natsu"
-        }
-      ]
-    },
-    {
-      "title": "grpc-ecosystem/grpc-gateway",
-      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
-      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "19,380",
-      "forks": "2,322",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6604151?s=40&v=4",
-          "name": "johanbrandhorst",
-          "url": "https://github.com/johanbrandhorst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8161?s=40&v=4",
-          "name": "yugui",
-          "url": "https://github.com/yugui"
+          "avatar": "https://avatars.githubusercontent.com/u/26195?s=40&v=4",
+          "name": "wallyqs",
+          "url": "https://github.com/wallyqs"
         }
       ]
     },
@@ -724,34 +340,517 @@
       ]
     },
     {
-      "title": "kubernetes-sigs/external-dns",
-      "url": "https://github.com/kubernetes-sigs/external-dns",
-      "description": "Configure external DNS servers dynamically from Kubernetes resources",
+      "title": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,326",
-      "forks": "2,720",
+      "stars": "70,077",
+      "forks": "18,778",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1804568?s=40&v=4",
+          "name": "thaJeztah",
+          "url": "https://github.com/thaJeztah"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/799078?s=40&v=4",
+          "name": "cpuguy83",
+          "url": "https://github.com/cpuguy83"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/749551?s=40&v=4",
+          "name": "crosbymichael",
+          "url": "https://github.com/crosbymichael"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6508?s=40&v=4",
+          "name": "vdemeester",
+          "url": "https://github.com/vdemeester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1032519?s=40&v=4",
+          "name": "vieux",
+          "url": "https://github.com/vieux"
+        }
+      ]
+    },
+    {
+      "title": "Ullaakut/cameradar",
+      "url": "https://github.com/Ullaakut/cameradar",
+      "description": "Cameradar hacks its way into RTSP videosurveillance cameras",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,483",
+      "forks": "557",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6976628?s=40&v=4",
+          "name": "Ullaakut",
+          "url": "https://github.com/Ullaakut"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2292908?s=40&v=4",
+          "name": "gaelollivier",
+          "url": "https://github.com/gaelollivier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7921368?s=40&v=4",
+          "name": "ishanjain28",
+          "url": "https://github.com/ishanjain28"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115131?s=40&v=4",
+          "name": "justbuchanan",
+          "url": "https://github.com/justbuchanan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4346460?s=40&v=4",
+          "name": "jeremyletang",
+          "url": "https://github.com/jeremyletang"
+        }
+      ]
+    },
+    {
+      "title": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,419",
+      "forks": "639",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22766134?s=40&v=4",
+          "name": "lharries",
+          "url": "https://github.com/lharries"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5079117?s=40&v=4",
+          "name": "yaniv-golan",
+          "url": "https://github.com/yaniv-golan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8590877?s=40&v=4",
+          "name": "aastroza",
+          "url": "https://github.com/aastroza"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26744246?s=40&v=4",
+          "name": "cs4alhaider",
+          "url": "https://github.com/cs4alhaider"
+        }
+      ]
+    },
+    {
+      "title": "wavetermdev/waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "10,664",
+      "forks": "386",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16651283?s=40&v=4",
+          "name": "esimkowitz",
+          "url": "https://github.com/esimkowitz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2722291?s=40&v=4",
+          "name": "sawka",
+          "url": "https://github.com/sawka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107814465?s=40&v=4",
+          "name": "oneirocosm",
+          "url": "https://github.com/oneirocosm"
+        }
+      ]
+    },
+    {
+      "title": "sqlc-dev/sqlc",
+      "url": "https://github.com/sqlc-dev/sqlc",
+      "description": "Generate type-safe code from SQL",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "15,506",
+      "forks": "897",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34893?s=40&v=4",
+          "name": "kyleconroy",
+          "url": "https://github.com/kyleconroy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100479?s=40&v=4",
+          "name": "andrewmbenton",
+          "url": "https://github.com/andrewmbenton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7843637?s=40&v=4",
+          "name": "victoraugustolls",
+          "url": "https://github.com/victoraugustolls"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2769275?s=40&v=4",
+          "name": "mightyguava",
+          "url": "https://github.com/mightyguava"
+        }
+      ]
+    },
+    {
+      "title": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "6,358",
+      "forks": "632",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5308871?s=40&v=4",
+          "name": "ezynda3",
+          "url": "https://github.com/ezynda3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49474499?s=40&v=4",
+          "name": "pottekkat",
+          "url": "https://github.com/pottekkat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129663775?s=40&v=4",
+          "name": "cryo-zd",
+          "url": "https://github.com/cryo-zd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18216266?s=40&v=4",
+          "name": "dugenkui03",
+          "url": "https://github.com/dugenkui03"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/205674904?s=40&v=4",
+          "name": "rwjblue-glean",
+          "url": "https://github.com/rwjblue-glean"
+        }
+      ]
+    },
+    {
+      "title": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "22,010",
+      "forks": "4,526",
       "addStars": "5",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10121772?s=40&v=4",
+          "name": "iamqizhao",
+          "url": "https://github.com/iamqizhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/960845?s=40&v=4",
+          "name": "menghanl",
+          "url": "https://github.com/menghanl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26072277?s=40&v=4",
+          "name": "dfawley",
+          "url": "https://github.com/dfawley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1638487?s=40&v=4",
+          "name": "easwars",
+          "url": "https://github.com/easwars"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39203661?s=40&v=4",
+          "name": "zasweq",
+          "url": "https://github.com/zasweq"
+        }
+      ]
+    },
+    {
+      "title": "googleapis/google-api-go-client",
+      "url": "https://github.com/googleapis/google-api-go-client",
+      "description": "Auto-generated Google APIs for Go.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,286",
+      "forks": "1,173",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44816363?s=40&v=4",
+          "name": "yoshi-automation",
+          "url": "https://github.com/yoshi-automation"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
+          "name": "googleapis-publisher",
+          "url": "https://github.com/googleapis-publisher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6331106?s=40&v=4",
+          "name": "codyoss",
+          "url": "https://github.com/codyoss"
+        }
+      ]
+    },
+    {
+      "title": "google/pprof",
+      "url": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "8,598",
+      "forks": "626",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11181042?s=40&v=4",
+          "name": "rauls5382",
+          "url": "https://github.com/rauls5382"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1519040?s=40&v=4",
+          "name": "aalexand",
+          "url": "https://github.com/aalexand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14046562?s=40&v=4",
+          "name": "nolanmar511",
+          "url": "https://github.com/nolanmar511"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13107301?s=40&v=4",
+          "name": "wade-k",
+          "url": "https://github.com/wade-k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8096977?s=40&v=4",
+          "name": "ghemawat",
+          "url": "https://github.com/ghemawat"
+        }
+      ]
+    },
+    {
+      "title": "cert-manager/cert-manager",
+      "url": "https://github.com/cert-manager/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "12,960",
+      "forks": "2,225",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32282838?s=40&v=4",
+          "name": "jetstack-bot",
+          "url": "https://github.com/jetstack-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/203583?s=40&v=4",
+          "name": "munnerz",
+          "url": "https://github.com/munnerz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15893072?s=40&v=4",
+          "name": "JoshVanL",
+          "url": "https://github.com/JoshVanL"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42113979?s=40&v=4",
+          "name": "inteon",
+          "url": "https://github.com/inteon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/978965?s=40&v=4",
+          "name": "wallrj",
+          "url": "https://github.com/wallrj"
+        }
+      ]
+    },
+    {
+      "title": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "18,750",
+      "forks": "8,406",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161571?s=40&v=4",
+          "name": "aledbf",
+          "url": "https://github.com/aledbf"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
           "name": "k8s-ci-robot",
           "url": "https://github.com/k8s-ci-robot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1936982?s=40&v=4",
-          "name": "njuettner",
-          "url": "https://github.com/njuettner"
+          "avatar": "https://avatars.githubusercontent.com/u/935479?s=40&v=4",
+          "name": "Gacko",
+          "url": "https://github.com/Gacko"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/683988?s=40&v=4",
-          "name": "Raffo",
-          "url": "https://github.com/Raffo"
+          "avatar": "https://avatars.githubusercontent.com/u/2372917?s=40&v=4",
+          "name": "strongjz",
+          "url": "https://github.com/strongjz"
+        }
+      ]
+    },
+    {
+      "title": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "37,107",
+      "forks": "1,822",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25108519?s=40&v=4",
+          "name": "Fenny",
+          "url": "https://github.com/Fenny"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36162?s=40&v=4",
-          "name": "linki",
-          "url": "https://github.com/linki"
+          "avatar": "https://avatars.githubusercontent.com/u/7063188?s=40&v=4",
+          "name": "ReneWerner87",
+          "url": "https://github.com/ReneWerner87"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1214670?s=40&v=4",
+          "name": "kiyonlin",
+          "url": "https://github.com/kiyonlin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/835733?s=40&v=4",
+          "name": "gaby",
+          "url": "https://github.com/gaby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45270788?s=40&v=4",
+          "name": "efectn",
+          "url": "https://github.com/efectn"
+        }
+      ]
+    },
+    {
+      "title": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "17,298",
+      "forks": "1,476",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5674651?s=40&v=4",
+          "name": "ldez",
+          "url": "https://github.com/ldez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4648736?s=40&v=4",
+          "name": "jirfag",
+          "url": "https://github.com/jirfag"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3228886?s=40&v=4",
+          "name": "alexandear",
+          "url": "https://github.com/alexandear"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65486276?s=40&v=4",
+          "name": "golangci-releaser",
+          "url": "https://github.com/golangci-releaser"
+        }
+      ]
+    },
+    {
+      "title": "joho/godotenv",
+      "url": "https://github.com/joho/godotenv",
+      "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "9,503",
+      "forks": "428",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4092?s=40&v=4",
+          "name": "joho",
+          "url": "https://github.com/joho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57376?s=40&v=4",
+          "name": "alexquick",
+          "url": "https://github.com/alexquick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1469412?s=40&v=4",
+          "name": "mniak",
+          "url": "https://github.com/mniak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/330886?s=40&v=4",
+          "name": "Bochenski",
+          "url": "https://github.com/Bochenski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15759?s=40&v=4",
+          "name": "pda",
+          "url": "https://github.com/pda"
+        }
+      ]
+    },
+    {
+      "title": "kgateway-dev/kgateway",
+      "url": "https://github.com/kgateway-dev/kgateway",
+      "description": "The Cloud-Native API Gateway and AI Gateway",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "4,628",
+      "forks": "538",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11008283?s=40&v=4",
+          "name": "kdorosh",
+          "url": "https://github.com/kdorosh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279627?s=40&v=4",
+          "name": "sam-heilbron",
+          "url": "https://github.com/sam-heilbron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28537278?s=40&v=4",
+          "name": "jenshu",
+          "url": "https://github.com/jenshu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/325621?s=40&v=4",
+          "name": "yuval-k",
+          "url": "https://github.com/yuval-k"
         }
       ]
     }
