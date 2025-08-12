@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 12 Aug 2025 07:17:43 GMT",
+  "pubDate": "Tue, 12 Aug 2025 13:36:59 GMT",
   "items": [
     {
       "title": "nerfstudio-project/gsplat",
@@ -10,7 +10,7 @@
       "description": "CUDA accelerated rasterization of gaussian splatting",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,422",
+      "stars": "3,424",
       "forks": "508",
       "addStars": "33",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Quantized Attention achieves speedup of 2-5x and 3-11x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,190",
+      "stars": "2,191",
       "forks": "184",
       "addStars": "50",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "27,353",
+      "stars": "27,352",
       "forks": "3,148",
       "addStars": "66",
       "contributors": [
@@ -153,39 +153,39 @@
       ]
     },
     {
-      "title": "NVIDIA/cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "NVIDIA cuOpt is an open-source GPU-accelerated optimization engine delivering near real-time solutions for complex decision-making challenges.",
+      "title": "NVIDIA/nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "356",
-      "forks": "57",
-      "addStars": "17",
+      "stars": "1,215",
+      "forks": "302",
+      "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
-          "name": "rgsl888prabhu",
-          "url": "https://github.com/rgsl888prabhu"
+          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
+          "name": "AddyLaddy",
+          "url": "https://github.com/AddyLaddy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/184431765?s=40&v=4",
-          "name": "chris-maes",
-          "url": "https://github.com/chris-maes"
+          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
+          "name": "sjeaugey",
+          "url": "https://github.com/sjeaugey"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6844564?s=40&v=4",
-          "name": "rg20",
-          "url": "https://github.com/rg20"
+          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
+          "name": "jbachan",
+          "url": "https://github.com/jbachan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
-          "name": "aliceb-nv",
-          "url": "https://github.com/aliceb-nv"
+          "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
+          "name": "lukeyeager",
+          "url": "https://github.com/lukeyeager"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12140289?s=40&v=4",
-          "name": "akifcorduk",
-          "url": "https://github.com/akifcorduk"
+          "avatar": "https://avatars.githubusercontent.com/u/6690627?s=40&v=4",
+          "name": "jithinjosepkl",
+          "url": "https://github.com/jithinjosepkl"
         }
       ]
     },
@@ -227,43 +227,6 @@
       ]
     },
     {
-      "title": "NVIDIA/nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "1,214",
-      "forks": "302",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
-          "name": "AddyLaddy",
-          "url": "https://github.com/AddyLaddy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
-          "name": "sjeaugey",
-          "url": "https://github.com/sjeaugey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
-          "name": "jbachan",
-          "url": "https://github.com/jbachan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
-          "name": "lukeyeager",
-          "url": "https://github.com/lukeyeager"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6690627?s=40&v=4",
-          "name": "jithinjosepkl",
-          "url": "https://github.com/jithinjosepkl"
-        }
-      ]
-    },
-    {
       "title": "Dao-AILab/causal-conv1d",
       "url": "https://github.com/Dao-AILab/causal-conv1d",
       "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
@@ -301,12 +264,71 @@
       ]
     },
     {
+      "title": "NVIDIA/cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "NVIDIA cuOpt is an open-source GPU-accelerated optimization engine delivering near real-time solutions for complex decision-making challenges.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "356",
+      "forks": "57",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
+          "name": "rgsl888prabhu",
+          "url": "https://github.com/rgsl888prabhu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184431765?s=40&v=4",
+          "name": "chris-maes",
+          "url": "https://github.com/chris-maes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6844564?s=40&v=4",
+          "name": "rg20",
+          "url": "https://github.com/rg20"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
+          "name": "aliceb-nv",
+          "url": "https://github.com/aliceb-nv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12140289?s=40&v=4",
+          "name": "akifcorduk",
+          "url": "https://github.com/akifcorduk"
+        }
+      ]
+    },
+    {
+      "title": "Tony-Tan/CUDA_Freshman",
+      "url": "https://github.com/Tony-Tan/CUDA_Freshman",
+      "description": "",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "2,523",
+      "forks": "482",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9390153?s=40&v=4",
+          "name": "Tony-Tan",
+          "url": "https://github.com/Tony-Tan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60910989?s=40&v=4",
+          "name": "l1nkr",
+          "url": "https://github.com/l1nkr"
+        }
+      ]
+    },
+    {
       "title": "HazyResearch/ThunderKittens",
       "url": "https://github.com/HazyResearch/ThunderKittens",
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,565",
+      "stars": "2,566",
       "forks": "165",
       "addStars": "15",
       "contributors": [
@@ -338,34 +360,12 @@
       ]
     },
     {
-      "title": "Tony-Tan/CUDA_Freshman",
-      "url": "https://github.com/Tony-Tan/CUDA_Freshman",
-      "description": "",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "2,522",
-      "forks": "482",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9390153?s=40&v=4",
-          "name": "Tony-Tan",
-          "url": "https://github.com/Tony-Tan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60910989?s=40&v=4",
-          "name": "l1nkr",
-          "url": "https://github.com/l1nkr"
-        }
-      ]
-    },
-    {
       "title": "HenryHuYu/DiffPhysDrone",
       "url": "https://github.com/HenryHuYu/DiffPhysDrone",
       "description": "",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "190",
+      "stars": "192",
       "forks": "23",
       "addStars": "11",
       "contributors": [
