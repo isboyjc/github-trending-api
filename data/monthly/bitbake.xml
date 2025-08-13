@@ -3,7 +3,7 @@
     <title>GitHub Bitbake Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Bitbake Languages in GitHub</description>
-    <pubDate>Wed, 13 Aug 2025 07:18:18 GMT</pubDate>
+    <pubDate>Wed, 13 Aug 2025 13:38:15 GMT</pubDate>
     <item>
       <title>openbmc/openbmc</title>
       <link>https://github.com/openbmc/openbmc</link>
@@ -88,7 +88,7 @@
       <language>BitBake</language>
       <languageColor>#00bce4</languageColor>
       <stars>452</stars>
-      <forks>783</forks>
+      <forks>784</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -157,6 +157,44 @@
       </contributors>
     </item>
     <item>
+      <title>OE4T/meta-tegra</title>
+      <link>https://github.com/OE4T/meta-tegra</link>
+      <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
+      <guid>https://github.com/OE4T/meta-tegra</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>485</stars>
+      <forks>259</forks>
+      <addStars>11</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3137284?s=40&amp;v=4</avatar>
+          <name>madisongh</name>
+          <url>https://github.com/madisongh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48104?s=40&amp;v=4</avatar>
+          <name>kekiefer</name>
+          <url>https://github.com/kekiefer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15719516?s=40&amp;v=4</avatar>
+          <name>ichergui</name>
+          <url>https://github.com/ichergui</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
+          <name>kraj</name>
+          <url>https://github.com/kraj</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/227565?s=40&amp;v=4</avatar>
+          <name>dwalkes</name>
+          <url>https://github.com/dwalkes</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>openembedded/openembedded-core</title>
       <link>https://github.com/openembedded/openembedded-core</link>
       <description>The official Git repository is at https://git.openembedded.org/openembedded-core/.</description>
@@ -195,44 +233,6 @@
       </contributors>
     </item>
     <item>
-      <title>kraj/meta-clang</title>
-      <link>https://github.com/kraj/meta-clang</link>
-      <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
-      <guid>https://github.com/kraj/meta-clang</guid>
-      <language>BitBake</language>
-      <languageColor>#00bce4</languageColor>
-      <stars>185</stars>
-      <forks>230</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
-          <name>kraj</name>
-          <url>https://github.com/kraj</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1234642?s=40&amp;v=4</avatar>
-          <name>shr-project</name>
-          <url>https://github.com/shr-project</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32394?s=40&amp;v=4</avatar>
-          <name>rossburton</name>
-          <url>https://github.com/rossburton</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/179131?s=40&amp;v=4</avatar>
-          <name>dankm</name>
-          <url>https://github.com/dankm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9674237?s=40&amp;v=4</avatar>
-          <name>Ecordonnier</name>
-          <url>https://github.com/Ecordonnier</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>rauc/meta-rauc</title>
       <link>https://github.com/rauc/meta-rauc</link>
       <description>Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</description>
@@ -267,6 +267,44 @@
           <avatar>https://avatars.githubusercontent.com/u/1273320?s=40&amp;v=4</avatar>
           <name>hnez</name>
           <url>https://github.com/hnez</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>kraj/meta-clang</title>
+      <link>https://github.com/kraj/meta-clang</link>
+      <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
+      <guid>https://github.com/kraj/meta-clang</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>185</stars>
+      <forks>230</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
+          <name>kraj</name>
+          <url>https://github.com/kraj</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1234642?s=40&amp;v=4</avatar>
+          <name>shr-project</name>
+          <url>https://github.com/shr-project</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32394?s=40&amp;v=4</avatar>
+          <name>rossburton</name>
+          <url>https://github.com/rossburton</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/179131?s=40&amp;v=4</avatar>
+          <name>dankm</name>
+          <url>https://github.com/dankm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9674237?s=40&amp;v=4</avatar>
+          <name>Ecordonnier</name>
+          <url>https://github.com/Ecordonnier</url>
         </contributor>
       </contributors>
     </item>
@@ -338,44 +376,6 @@
           <avatar>https://avatars.githubusercontent.com/u/5306904?s=40&amp;v=4</avatar>
           <name>msisov</name>
           <url>https://github.com/msisov</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OE4T/meta-tegra</title>
-      <link>https://github.com/OE4T/meta-tegra</link>
-      <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
-      <guid>https://github.com/OE4T/meta-tegra</guid>
-      <language>BitBake</language>
-      <languageColor>#00bce4</languageColor>
-      <stars>485</stars>
-      <forks>259</forks>
-      <addStars>11</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3137284?s=40&amp;v=4</avatar>
-          <name>madisongh</name>
-          <url>https://github.com/madisongh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48104?s=40&amp;v=4</avatar>
-          <name>kekiefer</name>
-          <url>https://github.com/kekiefer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15719516?s=40&amp;v=4</avatar>
-          <name>ichergui</name>
-          <url>https://github.com/ichergui</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/465279?s=40&amp;v=4</avatar>
-          <name>kraj</name>
-          <url>https://github.com/kraj</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/227565?s=40&amp;v=4</avatar>
-          <name>dwalkes</name>
-          <url>https://github.com/dwalkes</url>
         </contributor>
       </contributors>
     </item>
@@ -456,44 +456,6 @@
       </contributors>
     </item>
     <item>
-      <title>Freescale/meta-freescale-3rdparty</title>
-      <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
-      <description>OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</description>
-      <guid>https://github.com/Freescale/meta-freescale-3rdparty</guid>
-      <language>BitBake</language>
-      <languageColor>#00bce4</languageColor>
-      <stars>118</stars>
-      <forks>531</forks>
-      <addStars>28</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25278?s=40&amp;v=4</avatar>
-          <name>otavio</name>
-          <url>https://github.com/otavio</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2940537?s=40&amp;v=4</avatar>
-          <name>fbertux</name>
-          <url>https://github.com/fbertux</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9402633?s=40&amp;v=4</avatar>
-          <name>MaxKrummenacher</name>
-          <url>https://github.com/MaxKrummenacher</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1485212?s=40&amp;v=4</avatar>
-          <name>ericnelsonaz</name>
-          <url>https://github.com/ericnelsonaz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8184161?s=40&amp;v=4</avatar>
-          <name>iancoolidge89</name>
-          <url>https://github.com/iancoolidge89</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>mendersoftware/meta-mender-community</title>
       <link>https://github.com/mendersoftware/meta-mender-community</link>
       <description>Community supported Yocto Project layers (Board integrations) for Mender for different boards</description>
@@ -566,6 +528,44 @@
           <avatar>https://avatars.githubusercontent.com/u/1528839?s=40&amp;v=4</avatar>
           <name>janderholm</name>
           <url>https://github.com/janderholm</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Freescale/meta-freescale-3rdparty</title>
+      <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
+      <description>OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</description>
+      <guid>https://github.com/Freescale/meta-freescale-3rdparty</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>118</stars>
+      <forks>531</forks>
+      <addStars>28</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25278?s=40&amp;v=4</avatar>
+          <name>otavio</name>
+          <url>https://github.com/otavio</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2940537?s=40&amp;v=4</avatar>
+          <name>fbertux</name>
+          <url>https://github.com/fbertux</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9402633?s=40&amp;v=4</avatar>
+          <name>MaxKrummenacher</name>
+          <url>https://github.com/MaxKrummenacher</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1485212?s=40&amp;v=4</avatar>
+          <name>ericnelsonaz</name>
+          <url>https://github.com/ericnelsonaz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8184161?s=40&amp;v=4</avatar>
+          <name>iancoolidge89</name>
+          <url>https://github.com/iancoolidge89</url>
         </contributor>
       </contributors>
     </item>
