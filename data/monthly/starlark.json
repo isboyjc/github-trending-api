@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 14 Aug 2025 07:18:25 GMT",
+  "pubDate": "Thu, 14 Aug 2025 13:38:27 GMT",
   "items": [
     {
       "title": "GoogleContainerTools/distroless",
@@ -10,8 +10,8 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "20,993",
-      "forks": "1,283",
+      "stars": "20,994",
+      "forks": "1,284",
       "addStars": "158",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,342",
+      "stars": "3,343",
       "forks": "254",
       "addStars": "47",
       "contributors": [
@@ -175,38 +175,6 @@
       ]
     },
     {
-      "title": "aspect-build/rules_lint",
-      "url": "https://github.com/aspect-build/rules_lint",
-      "description": "Run static analysis tools with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "115",
-      "forks": "72",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
-          "name": "gregmagolan",
-          "url": "https://github.com/gregmagolan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11253?s=40&v=4",
-          "name": "jsharpe",
-          "url": "https://github.com/jsharpe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1798307?s=40&v=4",
-          "name": "calliecameron",
-          "url": "https://github.com/calliecameron"
-        }
-      ]
-    },
-    {
       "title": "grpc/grpc-proto",
       "url": "https://github.com/grpc/grpc-proto",
       "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
@@ -240,6 +208,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/44212643?s=40&v=4",
           "name": "cdmetcalf",
           "url": "https://github.com/cdmetcalf"
+        }
+      ]
+    },
+    {
+      "title": "aspect-build/rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "115",
+      "forks": "72",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
+          "name": "gregmagolan",
+          "url": "https://github.com/gregmagolan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11253?s=40&v=4",
+          "name": "jsharpe",
+          "url": "https://github.com/jsharpe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1798307?s=40&v=4",
+          "name": "calliecameron",
+          "url": "https://github.com/calliecameron"
         }
       ]
     },
@@ -392,75 +392,6 @@
       ]
     },
     {
-      "title": "bazelbuild/bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "315",
-      "forks": "519",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
-          "name": "Vertexwahn",
-          "url": "https://github.com/Vertexwahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
-        }
-      ]
-    },
-    {
-      "title": "GoogleContainerTools/rules_distroless",
-      "url": "https://github.com/GoogleContainerTools/rules_distroless",
-      "description": "",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "80",
-      "forks": "53",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20563340?s=40&v=4",
-          "name": "thesayyn",
-          "url": "https://github.com/thesayyn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/425680?s=40&v=4",
-          "name": "jjmaestro",
-          "url": "https://github.com/jjmaestro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
-          "name": "loosebazooka",
-          "url": "https://github.com/loosebazooka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95390105?s=40&v=4",
-          "name": "lazcamus",
-          "url": "https://github.com/lazcamus"
-        }
-      ]
-    },
-    {
       "title": "tilt-dev/tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
@@ -498,6 +429,38 @@
       ]
     },
     {
+      "title": "bazelbuild/bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "315",
+      "forks": "519",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
+          "name": "Vertexwahn",
+          "url": "https://github.com/Vertexwahn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
+          "name": "meteorcloudy",
+          "url": "https://github.com/meteorcloudy"
+        }
+      ]
+    },
+    {
       "title": "ash2k/bazel-tools",
       "url": "https://github.com/ash2k/bazel-tools",
       "description": "Reusable bits for Bazel",
@@ -531,6 +494,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1451079?s=40&v=4",
           "name": "mennanov",
           "url": "https://github.com/mennanov"
+        }
+      ]
+    },
+    {
+      "title": "GoogleContainerTools/rules_distroless",
+      "url": "https://github.com/GoogleContainerTools/rules_distroless",
+      "description": "",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "80",
+      "forks": "53",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20563340?s=40&v=4",
+          "name": "thesayyn",
+          "url": "https://github.com/thesayyn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/425680?s=40&v=4",
+          "name": "jjmaestro",
+          "url": "https://github.com/jjmaestro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
+          "name": "loosebazooka",
+          "url": "https://github.com/loosebazooka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95390105?s=40&v=4",
+          "name": "lazcamus",
+          "url": "https://github.com/lazcamus"
         }
       ]
     },
@@ -595,43 +595,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
           "name": "alexeagle",
           "url": "https://github.com/alexeagle"
-        }
-      ]
-    },
-    {
-      "title": "0xPolygon/kurtosis-cdk",
-      "url": "https://github.com/0xPolygon/kurtosis-cdk",
-      "description": "A Kurtosis package that deploys a private, portable, and modular Polygon CDK devnet",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "66",
-      "forks": "128",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/125336262?s=40&v=4",
-          "name": "jhkimqd",
-          "url": "https://github.com/jhkimqd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/429588?s=40&v=4",
-          "name": "praetoriansentry",
-          "url": "https://github.com/praetoriansentry"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28714795?s=40&v=4",
-          "name": "leovct",
-          "url": "https://github.com/leovct"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100106211?s=40&v=4",
-          "name": "rebelArtists",
-          "url": "https://github.com/rebelArtists"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47888584?s=40&v=4",
-          "name": "xavier-romero",
-          "url": "https://github.com/xavier-romero"
         }
       ]
     },
