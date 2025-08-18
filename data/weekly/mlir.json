@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Weekly Trending",
   "description": "Weekly Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 18 Aug 2025 07:20:31 GMT",
+  "pubDate": "Mon, 18 Aug 2025 13:38:56 GMT",
   "items": [
     {
       "title": "triton-lang/triton",
@@ -10,8 +10,8 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "16,581",
-      "forks": "2,188",
+      "stars": "16,585",
+      "forks": "2,190",
       "addStars": "98",
       "contributors": [
         {
@@ -38,43 +38,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/15016832?s=40&v=4",
           "name": "Mogball",
           "url": "https://github.com/Mogball"
-        }
-      ]
-    },
-    {
-      "title": "tenstorrent/tt-mlir",
-      "url": "https://github.com/tenstorrent/tt-mlir",
-      "description": "Tenstorrent MLIR compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": "173",
-      "forks": "44",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/127986401?s=40&v=4",
-          "name": "nsmithtt",
-          "url": "https://github.com/nsmithtt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/157983820?s=40&v=4",
-          "name": "vmilosevic",
-          "url": "https://github.com/vmilosevic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118925087?s=40&v=4",
-          "name": "kmabeeTT",
-          "url": "https://github.com/kmabeeTT"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/165825301?s=40&v=4",
-          "name": "jnie-TT",
-          "url": "https://github.com/jnie-TT"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/133996364?s=40&v=4",
-          "name": "tapspatel",
-          "url": "https://github.com/tapspatel"
         }
       ]
     },
@@ -116,39 +79,76 @@
       ]
     },
     {
-      "title": "intel/intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
+      "title": "tenstorrent/tt-mlir",
+      "url": "https://github.com/tenstorrent/tt-mlir",
+      "description": "Tenstorrent MLIR compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "200",
-      "forks": "68",
-      "addStars": "2",
+      "stars": "173",
+      "forks": "44",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54643204?s=40&v=4",
-          "name": "whitneywhtsang",
-          "url": "https://github.com/whitneywhtsang"
+          "avatar": "https://avatars.githubusercontent.com/u/127986401?s=40&v=4",
+          "name": "nsmithtt",
+          "url": "https://github.com/nsmithtt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/614788?s=40&v=4",
-          "name": "ptillet",
-          "url": "https://github.com/ptillet"
+          "avatar": "https://avatars.githubusercontent.com/u/157983820?s=40&v=4",
+          "name": "vmilosevic",
+          "url": "https://github.com/vmilosevic"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45976948?s=40&v=4",
-          "name": "anmyachev",
-          "url": "https://github.com/anmyachev"
+          "avatar": "https://avatars.githubusercontent.com/u/118925087?s=40&v=4",
+          "name": "kmabeeTT",
+          "url": "https://github.com/kmabeeTT"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2306281?s=40&v=4",
-          "name": "Jokeren",
-          "url": "https://github.com/Jokeren"
+          "avatar": "https://avatars.githubusercontent.com/u/165825301?s=40&v=4",
+          "name": "jnie-TT",
+          "url": "https://github.com/jnie-TT"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24322263?s=40&v=4",
-          "name": "ThomasRaoux",
-          "url": "https://github.com/ThomasRaoux"
+          "avatar": "https://avatars.githubusercontent.com/u/133996364?s=40&v=4",
+          "name": "tapspatel",
+          "url": "https://github.com/tapspatel"
+        }
+      ]
+    },
+    {
+      "title": "openxla/stablehlo",
+      "url": "https://github.com/openxla/stablehlo",
+      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": "522",
+      "forks": "148",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31293323?s=40&v=4",
+          "name": "ghpvnist",
+          "url": "https://github.com/ghpvnist"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3036970?s=40&v=4",
+          "name": "GleasonK",
+          "url": "https://github.com/GleasonK"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1248216?s=40&v=4",
+          "name": "burmako",
+          "url": "https://github.com/burmako"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5316885?s=40&v=4",
+          "name": "sdasgup3",
+          "url": "https://github.com/sdasgup3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28677454?s=40&v=4",
+          "name": "mlevesquedion",
+          "url": "https://github.com/mlevesquedion"
         }
       ]
     }
