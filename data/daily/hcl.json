@@ -2,165 +2,64 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 08 Sep 2025 07:16:30 GMT",
+  "pubDate": "Mon, 08 Sep 2025 13:32:27 GMT",
   "items": [
     {
-      "title": "iam-veeramalla/ultimate-devops-project-aws",
-      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
-      "description": "End to End DevOps project",
+      "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
+      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
+      "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "554",
-      "forks": "1,571",
+      "stars": "3,239",
+      "forks": "475",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/518555?s=40&v=4",
+          "name": "mysticaltech",
+          "url": "https://github.com/mysticaltech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31509435?s=40&v=4",
+          "name": "aleksasiriski",
+          "url": "https://github.com/aleksasiriski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101753?s=40&v=4",
+          "name": "phaer",
+          "url": "https://github.com/phaer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
+          "name": "valkenburg-prevue-ch",
+          "url": "https://github.com/valkenburg-prevue-ch"
+        }
+      ]
+    },
+    {
+      "title": "coder/registry",
+      "url": "https://github.com/coder/registry",
+      "description": "Publish Coder modules and templates for other developers to use.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "28",
+      "forks": "58",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43399466?s=40&v=4",
-          "name": "iam-veeramalla",
-          "url": "https://github.com/iam-veeramalla"
+          "avatar": "https://avatars.githubusercontent.com/u/10648092?s=40&v=4",
+          "name": "matifali",
+          "url": "https://github.com/matifali"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67604177?s=40&v=4",
-          "name": "sai0718",
-          "url": "https://github.com/sai0718"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-s3-bucket",
-      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
-      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "177",
-      "forks": "877",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
+          "avatar": "https://avatars.githubusercontent.com/u/28937484?s=40&v=4",
+          "name": "Parkreiner",
+          "url": "https://github.com/Parkreiner"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10080107?s=40&v=4",
-          "name": "korenyoni",
-          "url": "https://github.com/korenyoni"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-datadog-platform",
-      "url": "https://github.com/cloudposse/terraform-datadog-platform",
-      "description": "Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configuration, complete with automated tests.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "117",
-      "forks": "61",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
-          "name": "aknysh",
-          "url": "https://github.com/aknysh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14911525?s=40&v=4",
-          "name": "Benbentwo",
-          "url": "https://github.com/Benbentwo"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-ec2-client-vpn",
-      "url": "https://github.com/cloudposse/terraform-aws-ec2-client-vpn",
-      "description": "",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "50",
-      "forks": "35",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/192696?s=40&v=4",
-          "name": "r351574nc3",
-          "url": "https://github.com/r351574nc3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-sso",
-      "url": "https://github.com/cloudposse/terraform-aws-sso",
-      "description": "Terraform module to configure AWS Single Sign-On (SSO)",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "99",
-      "forks": "66",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2317562?s=40&v=4",
-          "name": "simonweil",
-          "url": "https://github.com/simonweil"
+          "avatar": "https://avatars.githubusercontent.com/u/176868952?s=40&v=4",
+          "name": "DevelopmentCats",
+          "url": "https://github.com/DevelopmentCats"
         }
       ]
     },
@@ -202,29 +101,29 @@
       ]
     },
     {
-      "title": "cloudposse/terraform-aws-elastic-beanstalk-environment",
-      "url": "https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment",
-      "description": "Terraform module to provision an AWS Elastic Beanstalk Environment",
+      "title": "cloudposse/terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "310",
-      "forks": "325",
+      "stars": "346",
+      "forks": "243",
       "addStars": "0",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
+          "name": "nitrocode",
+          "url": "https://github.com/nitrocode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
+          "name": "actions-bot",
+          "url": "https://github.com/actions-bot"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
           "name": "cloudpossebot",
           "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
-          "name": "aknysh",
-          "url": "https://github.com/aknysh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
@@ -232,381 +131,73 @@
           "url": "https://github.com/osterman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/496956?s=40&v=4",
-          "name": "goruha",
-          "url": "https://github.com/goruha"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-ecs-cluster",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-cluster",
-      "description": "Terraform module for provisioning an ECS cluster",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "25",
-      "forks": "35",
-      "addStars": "0",
-      "contributors": [
-        {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
           "name": "actions-user",
           "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5246026?s=40&v=4",
-          "name": "max-lobur",
-          "url": "https://github.com/max-lobur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/496956?s=40&v=4",
-          "name": "goruha",
-          "url": "https://github.com/goruha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
         }
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-composer",
-      "url": "https://github.com/terraform-google-modules/terraform-google-composer",
-      "description": "Manages Cloud Composer v1 and v2 along with option to manage networking",
+      "title": "semgrep/semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "54",
-      "forks": "72",
+      "stars": "974",
+      "forks": "462",
       "addStars": "0",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2419690?s=40&v=4",
+          "name": "LewisArdern",
+          "url": "https://github.com/LewisArdern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2299241?s=40&v=4",
+          "name": "inkz",
+          "url": "https://github.com/inkz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23181670?s=40&v=4",
+          "name": "colleend",
+          "url": "https://github.com/colleend"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98792107?s=40&v=4",
+          "name": "kurt-r2c",
+          "url": "https://github.com/kurt-r2c"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3809983?s=40&v=4",
+          "name": "0xDC0DE",
+          "url": "https://github.com/0xDC0DE"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-kms",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
+      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "56",
+      "forks": "100",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
           "name": "cloud-foundation-bot",
           "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29933900?s=40&v=4",
-          "name": "imrannayer",
-          "url": "https://github.com/imrannayer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-codebuild",
-      "url": "https://github.com/cloudposse/terraform-aws-codebuild",
-      "description": "Terraform Module to easily leverage AWS CodeBuild for Continuous Integration",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "119",
-      "forks": "131",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1146619?s=40&v=4",
-          "name": "maximmi",
-          "url": "https://github.com/maximmi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
-          "name": "aknysh",
-          "url": "https://github.com/aknysh"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-eks-node-group",
-      "url": "https://github.com/cloudposse/terraform-aws-eks-node-group",
-      "description": "Terraform module to provision a fully managed AWS EKS Node Group",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "99",
-      "forks": "135",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
-          "name": "Nuru",
-          "url": "https://github.com/Nuru"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-lambda-function",
-      "url": "https://github.com/cloudposse/terraform-aws-lambda-function",
-      "description": "A module for launching Lambda Fuctions",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "37",
-      "forks": "46",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2208324?s=40&v=4",
-          "name": "jamengual",
-          "url": "https://github.com/jamengual"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-sns-lambda-notify-slack",
-      "url": "https://github.com/cloudposse/terraform-aws-sns-lambda-notify-slack",
-      "description": "Terraform module to provision a lambda function that subscribes to SNS and notifies to Slack.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "50",
-      "forks": "44",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-ec2-autoscale-group",
-      "url": "https://github.com/cloudposse/terraform-aws-ec2-autoscale-group",
-      "description": "Terraform module to provision Auto Scaling Group and Launch Template on AWS",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "144",
-      "forks": "145",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5246026?s=40&v=4",
-          "name": "max-lobur",
-          "url": "https://github.com/max-lobur"
-        }
-      ]
-    },
-    {
-      "title": "aws-samples/eks-workshop-v2",
-      "url": "https://github.com/aws-samples/eks-workshop-v2",
-      "description": "Hands-on labs for Amazon EKS",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "550",
-      "forks": "534",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/808369?s=40&v=4",
-          "name": "niallthomson",
-          "url": "https://github.com/niallthomson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3959052?s=40&v=4",
-          "name": "svennam92",
-          "url": "https://github.com/svennam92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1094878?s=40&v=4",
-          "name": "csantanapr",
-          "url": "https://github.com/csantanapr"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-backup",
-      "url": "https://github.com/cloudposse/terraform-aws-backup",
-      "description": "Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, DynamoDB tables, EFS file systems, and AWS Storage Gateway volumes.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "110",
-      "forks": "62",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-cloudwatch-logs",
-      "url": "https://github.com/cloudposse/terraform-aws-cloudwatch-logs",
-      "description": "Terraform Module to Provide a CloudWatch Logs Endpoint",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "73",
-      "forks": "23",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-eks-cluster",
-      "url": "https://github.com/cloudposse/terraform-aws-eks-cluster",
-      "description": "Terraform module for provisioning an EKS cluster",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "541",
-      "forks": "362",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
-          "name": "Nuru",
-          "url": "https://github.com/Nuru"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
-          "name": "aknysh",
-          "url": "https://github.com/aknysh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
         }
       ]
     }

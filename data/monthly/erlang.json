@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Monthly Trending",
   "description": "Monthly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 08 Sep 2025 07:16:30 GMT",
+  "pubDate": "Mon, 08 Sep 2025 13:32:27 GMT",
   "items": [
     {
       "title": "emqx/emqx",
@@ -10,8 +10,8 @@
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "15,205",
-      "forks": "2,371",
+      "stars": "15,208",
+      "forks": "2,372",
       "addStars": "123",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "11,848",
+      "stars": "11,849",
       "forks": "3,027",
       "addStars": "50",
       "contributors": [
@@ -153,6 +153,43 @@
       ]
     },
     {
+      "title": "atomvm/AtomVM",
+      "url": "https://github.com/atomvm/AtomVM",
+      "description": "Tiny Erlang VM",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "1,881",
+      "forks": "124",
+      "addStars": "56",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24700?s=40&v=4",
+          "name": "bettio",
+          "url": "https://github.com/bettio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/168407?s=40&v=4",
+          "name": "pguyot",
+          "url": "https://github.com/pguyot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/351578?s=40&v=4",
+          "name": "fadushin",
+          "url": "https://github.com/fadushin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69995513?s=40&v=4",
+          "name": "UncleGrumpy",
+          "url": "https://github.com/UncleGrumpy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1033636?s=40&v=4",
+          "name": "petermm",
+          "url": "https://github.com/petermm"
+        }
+      ]
+    },
+    {
       "title": "erlang-lager/lager",
       "url": "https://github.com/erlang-lager/lager",
       "description": "A logging framework for Erlang/OTP",
@@ -186,43 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/7303768?s=40&v=4",
           "name": "paulo-ferraz-oliveira",
           "url": "https://github.com/paulo-ferraz-oliveira"
-        }
-      ]
-    },
-    {
-      "title": "proper-testing/proper",
-      "url": "https://github.com/proper-testing/proper",
-      "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": "899",
-      "forks": "169",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/165033?s=40&v=4",
-          "name": "kostis",
-          "url": "https://github.com/kostis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/215728?s=40&v=4",
-          "name": "manopapad",
-          "url": "https://github.com/manopapad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/422347?s=40&v=4",
-          "name": "eiriniar",
-          "url": "https://github.com/eiriniar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34399797?s=40&v=4",
-          "name": "xspirus",
-          "url": "https://github.com/xspirus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/292239?s=40&v=4",
-          "name": "TheGeorge",
-          "url": "https://github.com/TheGeorge"
         }
       ]
     },
@@ -264,6 +264,43 @@
       ]
     },
     {
+      "title": "proper-testing/proper",
+      "url": "https://github.com/proper-testing/proper",
+      "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "899",
+      "forks": "169",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165033?s=40&v=4",
+          "name": "kostis",
+          "url": "https://github.com/kostis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/215728?s=40&v=4",
+          "name": "manopapad",
+          "url": "https://github.com/manopapad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/422347?s=40&v=4",
+          "name": "eiriniar",
+          "url": "https://github.com/eiriniar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34399797?s=40&v=4",
+          "name": "xspirus",
+          "url": "https://github.com/xspirus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/292239?s=40&v=4",
+          "name": "TheGeorge",
+          "url": "https://github.com/TheGeorge"
+        }
+      ]
+    },
+    {
       "title": "apache/couchdb",
       "url": "https://github.com/apache/couchdb",
       "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
@@ -301,43 +338,6 @@
       ]
     },
     {
-      "title": "WhatsApp/erlfmt",
-      "url": "https://github.com/WhatsApp/erlfmt",
-      "description": "An automated code formatter for Erlang",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": "429",
-      "forks": "63",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477062?s=40&v=4",
-          "name": "michalmuskala",
-          "url": "https://github.com/michalmuskala"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1829933?s=40&v=4",
-          "name": "awalterschulze",
-          "url": "https://github.com/awalterschulze"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53991702?s=40&v=4",
-          "name": "slaykachu",
-          "url": "https://github.com/slaykachu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167957?s=40&v=4",
-          "name": "pergu",
-          "url": "https://github.com/pergu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/93657?s=40&v=4",
-          "name": "elbrujohalcon",
-          "url": "https://github.com/elbrujohalcon"
-        }
-      ]
-    },
-    {
       "title": "ninenines/cowlib",
       "url": "https://github.com/ninenines/cowlib",
       "description": "Support library for manipulating Web protocols.",
@@ -371,6 +371,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1253659?s=40&v=4",
           "name": "tony612",
           "url": "https://github.com/tony612"
+        }
+      ]
+    },
+    {
+      "title": "WhatsApp/erlfmt",
+      "url": "https://github.com/WhatsApp/erlfmt",
+      "description": "An automated code formatter for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "429",
+      "forks": "63",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477062?s=40&v=4",
+          "name": "michalmuskala",
+          "url": "https://github.com/michalmuskala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1829933?s=40&v=4",
+          "name": "awalterschulze",
+          "url": "https://github.com/awalterschulze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53991702?s=40&v=4",
+          "name": "slaykachu",
+          "url": "https://github.com/slaykachu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/167957?s=40&v=4",
+          "name": "pergu",
+          "url": "https://github.com/pergu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93657?s=40&v=4",
+          "name": "elbrujohalcon",
+          "url": "https://github.com/elbrujohalcon"
         }
       ]
     },
@@ -519,6 +556,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
           "name": "chrismccord",
           "url": "https://github.com/chrismccord"
+        }
+      ]
+    },
+    {
+      "title": "ferd/recon",
+      "url": "https://github.com/ferd/recon",
+      "description": "Collection of functions and scripts to debug Erlang in production.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": "1,398",
+      "forks": "282",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111141?s=40&v=4",
+          "name": "ferd",
+          "url": "https://github.com/ferd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70064?s=40&v=4",
+          "name": "bartekgorny",
+          "url": "https://github.com/bartekgorny"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111762?s=40&v=4",
+          "name": "garazdawi",
+          "url": "https://github.com/garazdawi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7303768?s=40&v=4",
+          "name": "paulo-ferraz-oliveira",
+          "url": "https://github.com/paulo-ferraz-oliveira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1344255?s=40&v=4",
+          "name": "lucafavatella",
+          "url": "https://github.com/lucafavatella"
         }
       ]
     },
