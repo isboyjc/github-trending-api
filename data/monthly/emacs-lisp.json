@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 14 Sep 2025 07:13:39 GMT",
+  "pubDate": "Sun, 14 Sep 2025 13:21:22 GMT",
   "items": [
     {
       "title": "doomemacs/doomemacs",
@@ -10,7 +10,7 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "20,939",
+      "stars": "20,942",
       "forks": "3,123",
       "addStars": "194",
       "contributors": [
@@ -227,6 +227,43 @@
       ]
     },
     {
+      "title": "magit/magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "6,863",
+      "forks": "830",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
+          "name": "kyleam",
+          "url": "https://github.com/kyleam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16090?s=40&v=4",
+          "name": "sigma",
+          "url": "https://github.com/sigma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43794?s=40&v=4",
+          "name": "philjackson",
+          "url": "https://github.com/philjackson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/637127?s=40&v=4",
+          "name": "pjweisberg",
+          "url": "https://github.com/pjweisberg"
+        }
+      ]
+    },
+    {
       "title": "iqbalansari/emacs-emojify",
       "url": "https://github.com/iqbalansari/emacs-emojify",
       "description": "Display emojis in Emacs",
@@ -260,43 +297,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/4820197?s=40&v=4",
           "name": "seblemaguer",
           "url": "https://github.com/seblemaguer"
-        }
-      ]
-    },
-    {
-      "title": "magit/magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "6,862",
-      "forks": "830",
-      "addStars": "29",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
-          "name": "kyleam",
-          "url": "https://github.com/kyleam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16090?s=40&v=4",
-          "name": "sigma",
-          "url": "https://github.com/sigma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43794?s=40&v=4",
-          "name": "philjackson",
-          "url": "https://github.com/philjackson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/637127?s=40&v=4",
-          "name": "pjweisberg",
-          "url": "https://github.com/pjweisberg"
         }
       ]
     },
@@ -412,43 +412,6 @@
       ]
     },
     {
-      "title": "company-mode/company-mode",
-      "url": "https://github.com/company-mode/company-mode",
-      "description": "Modular in-buffer completion framework for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,245",
-      "forks": "232",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/271877?s=40&v=4",
-          "name": "dgutov",
-          "url": "https://github.com/dgutov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81999?s=40&v=4",
-          "name": "nschum",
-          "url": "https://github.com/nschum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/296460?s=40&v=4",
-          "name": "yugaego",
-          "url": "https://github.com/yugaego"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/321194?s=40&v=4",
-          "name": "nikital",
-          "url": "https://github.com/nikital"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
-          "name": "monnier",
-          "url": "https://github.com/monnier"
-        }
-      ]
-    },
-    {
       "title": "purcell/exec-path-from-shell",
       "url": "https://github.com/purcell/exec-path-from-shell",
       "description": "Make Emacs use the $PATH set up by the user's shell",
@@ -482,6 +445,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/118033?s=40&v=4",
           "name": "jlandahl",
           "url": "https://github.com/jlandahl"
+        }
+      ]
+    },
+    {
+      "title": "abo-abo/hydra",
+      "url": "https://github.com/abo-abo/hydra",
+      "description": "make Emacs bindings that stick around",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,899",
+      "forks": "112",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2937359?s=40&v=4",
+          "name": "abo-abo",
+          "url": "https://github.com/abo-abo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11213588?s=40&v=4",
+          "name": "Mugu-Mugu",
+          "url": "https://github.com/Mugu-Mugu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/671872?s=40&v=4",
+          "name": "hura",
+          "url": "https://github.com/hura"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2208382?s=40&v=4",
+          "name": "justbur",
+          "url": "https://github.com/justbur"
+        }
+      ]
+    },
+    {
+      "title": "joaotavora/yasnippet",
+      "url": "https://github.com/joaotavora/yasnippet",
+      "description": "A template system for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,883",
+      "forks": "312",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/387011?s=40&v=4",
+          "name": "joaotavora",
+          "url": "https://github.com/joaotavora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/287742?s=40&v=4",
+          "name": "npostavs",
+          "url": "https://github.com/npostavs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3542?s=40&v=4",
+          "name": "pluskid",
+          "url": "https://github.com/pluskid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
+          "name": "monnier",
+          "url": "https://github.com/monnier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39563?s=40&v=4",
+          "name": "jimeh",
+          "url": "https://github.com/jimeh"
         }
       ]
     }
