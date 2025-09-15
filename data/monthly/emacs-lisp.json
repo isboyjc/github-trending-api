@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 15 Sep 2025 07:16:15 GMT",
+  "pubDate": "Mon, 15 Sep 2025 13:29:31 GMT",
   "items": [
     {
       "title": "doomemacs/doomemacs",
@@ -10,8 +10,8 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "20,946",
-      "forks": "3,123",
+      "stars": "20,944",
+      "forks": "3,124",
       "addStars": "193",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "24,365",
+      "stars": "24,369",
       "forks": "4,880",
       "addStars": "143",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "2,868",
-      "forks": "2,609",
+      "forks": "2,610",
       "addStars": "14",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "The extensible vi layer for Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "3,598",
+      "stars": "3,600",
       "forks": "290",
       "addStars": "25",
       "contributors": [
@@ -223,43 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3679678?s=40&v=4",
           "name": "axelf4",
           "url": "https://github.com/axelf4"
-        }
-      ]
-    },
-    {
-      "title": "magit/magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "6,863",
-      "forks": "831",
-      "addStars": "30",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
-          "name": "tarsius",
-          "url": "https://github.com/tarsius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
-          "name": "kyleam",
-          "url": "https://github.com/kyleam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16090?s=40&v=4",
-          "name": "sigma",
-          "url": "https://github.com/sigma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43794?s=40&v=4",
-          "name": "philjackson",
-          "url": "https://github.com/philjackson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/637127?s=40&v=4",
-          "name": "pjweisberg",
-          "url": "https://github.com/pjweisberg"
         }
       ]
     },
@@ -338,25 +301,52 @@
       ]
     },
     {
-      "title": "Fanael/rainbow-delimiters",
-      "url": "https://github.com/Fanael/rainbow-delimiters",
-      "description": "Emacs rainbow delimiters mode",
+      "title": "magit/magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "716",
-      "forks": "32",
-      "addStars": "4",
+      "stars": "6,863",
+      "forks": "831",
+      "addStars": "30",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/270470?s=40&v=4",
-          "name": "Fanael",
-          "url": "https://github.com/Fanael"
+          "avatar": "https://avatars.githubusercontent.com/u/25046?s=40&v=4",
+          "name": "tarsius",
+          "url": "https://github.com/tarsius"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/116911?s=40&v=4",
-          "name": "jlr",
-          "url": "https://github.com/jlr"
+          "avatar": "https://avatars.githubusercontent.com/u/1297788?s=40&v=4",
+          "name": "kyleam",
+          "url": "https://github.com/kyleam"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16090?s=40&v=4",
+          "name": "sigma",
+          "url": "https://github.com/sigma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43794?s=40&v=4",
+          "name": "philjackson",
+          "url": "https://github.com/philjackson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/637127?s=40&v=4",
+          "name": "pjweisberg",
+          "url": "https://github.com/pjweisberg"
+        }
+      ]
+    },
+    {
+      "title": "purcell/exec-path-from-shell",
+      "url": "https://github.com/purcell/exec-path-from-shell",
+      "description": "Make Emacs use the $PATH set up by the user's shell",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "1,506",
+      "forks": "83",
+      "addStars": "8",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5636?s=40&v=4",
           "name": "purcell",
@@ -368,9 +358,19 @@
           "url": "https://github.com/swsnr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84364?s=40&v=4",
-          "name": "skangas",
-          "url": "https://github.com/skangas"
+          "avatar": "https://avatars.githubusercontent.com/u/107097?s=40&v=4",
+          "name": "belak",
+          "url": "https://github.com/belak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1477258?s=40&v=4",
+          "name": "mnewt",
+          "url": "https://github.com/mnewt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118033?s=40&v=4",
+          "name": "jlandahl",
+          "url": "https://github.com/jlandahl"
         }
       ]
     },
@@ -412,15 +412,62 @@
       ]
     },
     {
-      "title": "purcell/exec-path-from-shell",
-      "url": "https://github.com/purcell/exec-path-from-shell",
-      "description": "Make Emacs use the $PATH set up by the user's shell",
+      "title": "joaotavora/yasnippet",
+      "url": "https://github.com/joaotavora/yasnippet",
+      "description": "A template system for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,505",
-      "forks": "83",
+      "stars": "2,883",
+      "forks": "312",
       "addStars": "8",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/387011?s=40&v=4",
+          "name": "joaotavora",
+          "url": "https://github.com/joaotavora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/287742?s=40&v=4",
+          "name": "npostavs",
+          "url": "https://github.com/npostavs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3542?s=40&v=4",
+          "name": "pluskid",
+          "url": "https://github.com/pluskid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
+          "name": "monnier",
+          "url": "https://github.com/monnier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39563?s=40&v=4",
+          "name": "jimeh",
+          "url": "https://github.com/jimeh"
+        }
+      ]
+    },
+    {
+      "title": "Fanael/rainbow-delimiters",
+      "url": "https://github.com/Fanael/rainbow-delimiters",
+      "description": "Emacs rainbow delimiters mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "716",
+      "forks": "32",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/270470?s=40&v=4",
+          "name": "Fanael",
+          "url": "https://github.com/Fanael"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116911?s=40&v=4",
+          "name": "jlr",
+          "url": "https://github.com/jlr"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/5636?s=40&v=4",
           "name": "purcell",
@@ -432,19 +479,9 @@
           "url": "https://github.com/swsnr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107097?s=40&v=4",
-          "name": "belak",
-          "url": "https://github.com/belak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1477258?s=40&v=4",
-          "name": "mnewt",
-          "url": "https://github.com/mnewt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118033?s=40&v=4",
-          "name": "jlandahl",
-          "url": "https://github.com/jlandahl"
+          "avatar": "https://avatars.githubusercontent.com/u/84364?s=40&v=4",
+          "name": "skangas",
+          "url": "https://github.com/skangas"
         }
       ]
     },
@@ -482,43 +519,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2208382?s=40&v=4",
           "name": "justbur",
           "url": "https://github.com/justbur"
-        }
-      ]
-    },
-    {
-      "title": "joaotavora/yasnippet",
-      "url": "https://github.com/joaotavora/yasnippet",
-      "description": "A template system for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,883",
-      "forks": "312",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/387011?s=40&v=4",
-          "name": "joaotavora",
-          "url": "https://github.com/joaotavora"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/287742?s=40&v=4",
-          "name": "npostavs",
-          "url": "https://github.com/npostavs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3542?s=40&v=4",
-          "name": "pluskid",
-          "url": "https://github.com/pluskid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3629383?s=40&v=4",
-          "name": "monnier",
-          "url": "https://github.com/monnier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39563?s=40&v=4",
-          "name": "jimeh",
-          "url": "https://github.com/jimeh"
         }
       ]
     }
