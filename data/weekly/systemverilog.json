@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Oct 2025 07:15:44 GMT",
+  "pubDate": "Thu, 09 Oct 2025 13:33:05 GMT",
   "items": [
     {
       "title": "lowRISC/ibex",
@@ -47,7 +47,7 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "2,984",
+      "stars": "2,983",
       "forks": "901",
       "addStars": "6",
       "contributors": [
@@ -116,43 +116,6 @@
       ]
     },
     {
-      "title": "pulp-platform/common_cells",
-      "url": "https://github.com/pulp-platform/common_cells",
-      "description": "Common SystemVerilog components",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "661",
-      "forks": "180",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
-          "name": "niwis",
-          "url": "https://github.com/niwis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
-          "name": "stmach",
-          "url": "https://github.com/stmach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7882682?s=40&v=4",
-          "name": "FrancescoConti",
-          "url": "https://github.com/FrancescoConti"
-        }
-      ]
-    },
-    {
       "title": "chipsalliance/Cores-VeeR-EL2",
       "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
       "description": "VeeR EL2 Core",
@@ -186,6 +149,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
           "name": "mczyz-antmicro",
           "url": "https://github.com/mczyz-antmicro"
+        }
+      ]
+    },
+    {
+      "title": "pulp-platform/riscv-dbg",
+      "url": "https://github.com/pulp-platform/riscv-dbg",
+      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "274",
+      "forks": "86",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
+          "name": "bluewww",
+          "url": "https://github.com/bluewww"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
+          "name": "Silabs-ArjanB",
+          "url": "https://github.com/Silabs-ArjanB"
+        }
+      ]
+    },
+    {
+      "title": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "8,776",
+      "forks": "687",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
+          "name": "adam-maj",
+          "url": "https://github.com/adam-maj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
+          "name": "ashaltu",
+          "url": "https://github.com/ashaltu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
+          "name": "xianbaoqian",
+          "url": "https://github.com/xianbaoqian"
         }
       ]
     },
@@ -264,76 +296,39 @@
       ]
     },
     {
-      "title": "pulp-platform/fpu_div_sqrt_mvp",
-      "url": "https://github.com/pulp-platform/fpu_div_sqrt_mvp",
-      "description": "[UNRELEASED] FP div/sqrt unit for transprecision",
+      "title": "pulp-platform/common_cells",
+      "url": "https://github.com/pulp-platform/common_cells",
+      "description": "Common SystemVerilog components",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "24",
-      "forks": "17",
-      "addStars": "0",
+      "stars": "661",
+      "forks": "180",
+      "addStars": "1",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
+          "name": "niwis",
+          "url": "https://github.com/niwis"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
           "name": "stmach",
           "url": "https://github.com/stmach"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28906668?s=40&v=4",
-          "name": "flaviens",
-          "url": "https://github.com/flaviens"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55843305?s=40&v=4",
-          "name": "lucabertaccini",
-          "url": "https://github.com/lucabertaccini"
-        }
-      ]
-    },
-    {
-      "title": "pulp-platform/riscv-dbg",
-      "url": "https://github.com/pulp-platform/riscv-dbg",
-      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "274",
-      "forks": "86",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
-          "name": "bluewww",
-          "url": "https://github.com/bluewww"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
-          "name": "Silabs-ArjanB",
-          "url": "https://github.com/Silabs-ArjanB"
+          "avatar": "https://avatars.githubusercontent.com/u/7882682?s=40&v=4",
+          "name": "FrancescoConti",
+          "url": "https://github.com/FrancescoConti"
         }
       ]
     }
