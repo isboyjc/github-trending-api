@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Sun, 12 Oct 2025 07:14:08 GMT</pubDate>
+    <pubDate>Sun, 12 Oct 2025 13:24:07 GMT</pubDate>
     <item>
       <title>vim/vim</title>
       <link>https://github.com/vim/vim</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/vim/vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>39,072</stars>
+      <stars>39,076</stars>
       <forks>5,837</forks>
       <addStars>62</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/neovim/neovim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>93,394</stars>
+      <stars>93,403</stars>
       <forks>6,355</forks>
       <addStars>235</addStars>
       <contributors>
@@ -77,29 +77,6 @@
           <avatar>https://avatars.githubusercontent.com/u/2361214?s=40&amp;v=4</avatar>
           <name>clason</name>
           <url>https://github.com/clason</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>github/copilot.vim</title>
-      <link>https://github.com/github/copilot.vim</link>
-      <description>Neovim plugin for GitHub Copilot</description>
-      <guid>https://github.com/github/copilot.vim</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>10,822</stars>
-      <forks>614</forks>
-      <addStars>40</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/378?s=40&amp;v=4</avatar>
-          <name>tpope</name>
-          <url>https://github.com/tpope</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/782512?s=40&amp;v=4</avatar>
-          <name>djensenius</name>
-          <url>https://github.com/djensenius</url>
         </contributor>
       </contributors>
     </item>
@@ -133,6 +110,29 @@
           <avatar>https://avatars.githubusercontent.com/u/2968860?s=40&amp;v=4</avatar>
           <name>sota1235</name>
           <url>https://github.com/sota1235</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>github/copilot.vim</title>
+      <link>https://github.com/github/copilot.vim</link>
+      <description>Neovim plugin for GitHub Copilot</description>
+      <guid>https://github.com/github/copilot.vim</guid>
+      <language>Vim Script</language>
+      <languageColor>#199f4b</languageColor>
+      <stars>10,823</stars>
+      <forks>614</forks>
+      <addStars>40</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/378?s=40&amp;v=4</avatar>
+          <name>tpope</name>
+          <url>https://github.com/tpope</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/782512?s=40&amp;v=4</avatar>
+          <name>djensenius</name>
+          <url>https://github.com/djensenius</url>
         </contributor>
       </contributors>
     </item>
@@ -175,6 +175,44 @@
       </contributors>
     </item>
     <item>
+      <title>christoomey/vim-tmux-navigator</title>
+      <link>https://github.com/christoomey/vim-tmux-navigator</link>
+      <description>Seamless navigation between tmux panes and vim splits</description>
+      <guid>https://github.com/christoomey/vim-tmux-navigator</guid>
+      <language>Vim Script</language>
+      <languageColor>#199f4b</languageColor>
+      <stars>5,905</stars>
+      <forks>352</forks>
+      <addStars>13</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/420113?s=40&amp;v=4</avatar>
+          <name>christoomey</name>
+          <url>https://github.com/christoomey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5801521?s=40&amp;v=4</avatar>
+          <name>nfischer</name>
+          <url>https://github.com/nfischer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4</avatar>
+          <name>blueyed</name>
+          <url>https://github.com/blueyed</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2506364?s=40&amp;v=4</avatar>
+          <name>sdondley</name>
+          <url>https://github.com/sdondley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4</avatar>
+          <name>keith</name>
+          <url>https://github.com/keith</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vim-jp/vimdoc-ja</title>
       <link>https://github.com/vim-jp/vimdoc-ja</link>
       <description>A project which translate Vim documents into Japanese.</description>
@@ -208,40 +246,78 @@
       </contributors>
     </item>
     <item>
-      <title>junegunn/fzf.vim</title>
-      <link>https://github.com/junegunn/fzf.vim</link>
-      <description>fzf ❤️ vim</description>
-      <guid>https://github.com/junegunn/fzf.vim</guid>
+      <title>andymass/vim-matchup</title>
+      <link>https://github.com/andymass/vim-matchup</link>
+      <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
+      <guid>https://github.com/andymass/vim-matchup</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>10,032</stars>
-      <forks>601</forks>
-      <addStars>11</addStars>
+      <stars>1,841</stars>
+      <forks>81</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/700826?s=40&amp;v=4</avatar>
-          <name>junegunn</name>
-          <url>https://github.com/junegunn</url>
+          <avatar>https://avatars.githubusercontent.com/u/6655373?s=40&amp;v=4</avatar>
+          <name>andymass</name>
+          <url>https://github.com/andymass</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8740057?s=40&amp;v=4</avatar>
-          <name>janlazo</name>
-          <url>https://github.com/janlazo</url>
+          <avatar>https://avatars.githubusercontent.com/u/53507599?s=40&amp;v=4</avatar>
+          <name>TheLeoP</name>
+          <url>https://github.com/TheLeoP</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4</avatar>
-          <name>blueyed</name>
-          <url>https://github.com/blueyed</url>
+          <avatar>https://avatars.githubusercontent.com/u/29718261?s=40&amp;v=4</avatar>
+          <name>amaanq</name>
+          <url>https://github.com/amaanq</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/300342?s=40&amp;v=4</avatar>
-          <name>liskin</name>
-          <url>https://github.com/liskin</url>
+          <avatar>https://avatars.githubusercontent.com/u/314453?s=40&amp;v=4</avatar>
+          <name>Slotos</name>
+          <url>https://github.com/Slotos</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4507647?s=40&amp;v=4</avatar>
-          <name>Frederick888</name>
-          <url>https://github.com/Frederick888</url>
+          <avatar>https://avatars.githubusercontent.com/u/12857160?s=40&amp;v=4</avatar>
+          <name>mrcjkb</name>
+          <url>https://github.com/mrcjkb</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>sainnhe/everforest</title>
+      <link>https://github.com/sainnhe/everforest</link>
+      <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+      <guid>https://github.com/sainnhe/everforest</guid>
+      <language>Vim Script</language>
+      <languageColor>#199f4b</languageColor>
+      <stars>3,601</stars>
+      <forks>140</forks>
+      <addStars>15</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37491630?s=40&amp;v=4</avatar>
+          <name>sainnhe</name>
+          <url>https://github.com/sainnhe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3299086?s=40&amp;v=4</avatar>
+          <name>antoineco</name>
+          <url>https://github.com/antoineco</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12074633?s=40&amp;v=4</avatar>
+          <name>jef</name>
+          <url>https://github.com/jef</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5523984?s=40&amp;v=4</avatar>
+          <name>mhanberg</name>
+          <url>https://github.com/mhanberg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30982357?s=40&amp;v=4</avatar>
+          <name>JarrettAzar</name>
+          <url>https://github.com/JarrettAzar</url>
         </contributor>
       </contributors>
     </item>
@@ -290,7 +366,7 @@
       <guid>https://github.com/dense-analysis/ale</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>13,879</stars>
+      <stars>13,878</stars>
       <forks>1,466</forks>
       <addStars>10</addStars>
       <contributors>
@@ -318,82 +394,6 @@
           <avatar>https://avatars.githubusercontent.com/u/1049222?s=40&amp;v=4</avatar>
           <name>neersighted</name>
           <url>https://github.com/neersighted</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>andymass/vim-matchup</title>
-      <link>https://github.com/andymass/vim-matchup</link>
-      <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-      <guid>https://github.com/andymass/vim-matchup</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>1,840</stars>
-      <forks>81</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6655373?s=40&amp;v=4</avatar>
-          <name>andymass</name>
-          <url>https://github.com/andymass</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53507599?s=40&amp;v=4</avatar>
-          <name>TheLeoP</name>
-          <url>https://github.com/TheLeoP</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29718261?s=40&amp;v=4</avatar>
-          <name>amaanq</name>
-          <url>https://github.com/amaanq</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/314453?s=40&amp;v=4</avatar>
-          <name>Slotos</name>
-          <url>https://github.com/Slotos</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12857160?s=40&amp;v=4</avatar>
-          <name>mrcjkb</name>
-          <url>https://github.com/mrcjkb</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tpope/vim-fugitive</title>
-      <link>https://github.com/tpope/vim-fugitive</link>
-      <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-      <guid>https://github.com/tpope/vim-fugitive</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>21,334</stars>
-      <forks>1,043</forks>
-      <addStars>46</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/378?s=40&amp;v=4</avatar>
-          <name>tpope</name>
-          <url>https://github.com/tpope</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/810650?s=40&amp;v=4</avatar>
-          <name>teoljungberg</name>
-          <url>https://github.com/teoljungberg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4</avatar>
-          <name>blueyed</name>
-          <url>https://github.com/blueyed</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1752162?s=40&amp;v=4</avatar>
-          <name>odnoletkov</name>
-          <url>https://github.com/odnoletkov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2235277?s=40&amp;v=4</avatar>
-          <name>qstrahl</name>
-          <url>https://github.com/qstrahl</url>
         </contributor>
       </contributors>
     </item>
@@ -436,15 +436,15 @@
       </contributors>
     </item>
     <item>
-      <title>junegunn/goyo.vim</title>
-      <link>https://github.com/junegunn/goyo.vim</link>
-      <description>🌷 Distraction-free writing in Vim</description>
-      <guid>https://github.com/junegunn/goyo.vim</guid>
+      <title>junegunn/fzf.vim</title>
+      <link>https://github.com/junegunn/fzf.vim</link>
+      <description>fzf ❤️ vim</description>
+      <guid>https://github.com/junegunn/fzf.vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>4,606</stars>
-      <forks>118</forks>
-      <addStars>8</addStars>
+      <stars>10,032</stars>
+      <forks>601</forks>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/700826?s=40&amp;v=4</avatar>
@@ -452,166 +452,9 @@
           <url>https://github.com/junegunn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1149238?s=40&amp;v=4</avatar>
-          <name>prurigro</name>
-          <url>https://github.com/prurigro</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3652460?s=40&amp;v=4</avatar>
-          <name>rperce</name>
-          <url>https://github.com/rperce</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22802209?s=40&amp;v=4</avatar>
-          <name>benknoble</name>
-          <url>https://github.com/benknoble</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/323761?s=40&amp;v=4</avatar>
-          <name>tlvince</name>
-          <url>https://github.com/tlvince</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>preservim/vim-indent-guides</title>
-      <link>https://github.com/preservim/vim-indent-guides</link>
-      <description>A Vim plugin for visually displaying indent levels in code</description>
-      <guid>https://github.com/preservim/vim-indent-guides</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>2,655</stars>
-      <forks>165</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84757?s=40&amp;v=4</avatar>
-          <name>nathanaelkane</name>
-          <url>https://github.com/nathanaelkane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/173595?s=40&amp;v=4</avatar>
-          <name>alerque</name>
-          <url>https://github.com/alerque</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6110?s=40&amp;v=4</avatar>
-          <name>graywh</name>
-          <url>https://github.com/graywh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/717109?s=40&amp;v=4</avatar>
-          <name>noscript</name>
-          <url>https://github.com/noscript</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/253048?s=40&amp;v=4</avatar>
-          <name>jhogendorn</name>
-          <url>https://github.com/jhogendorn</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>sainnhe/everforest</title>
-      <link>https://github.com/sainnhe/everforest</link>
-      <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
-      <guid>https://github.com/sainnhe/everforest</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>3,601</stars>
-      <forks>140</forks>
-      <addStars>15</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37491630?s=40&amp;v=4</avatar>
-          <name>sainnhe</name>
-          <url>https://github.com/sainnhe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3299086?s=40&amp;v=4</avatar>
-          <name>antoineco</name>
-          <url>https://github.com/antoineco</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12074633?s=40&amp;v=4</avatar>
-          <name>jef</name>
-          <url>https://github.com/jef</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5523984?s=40&amp;v=4</avatar>
-          <name>mhanberg</name>
-          <url>https://github.com/mhanberg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30982357?s=40&amp;v=4</avatar>
-          <name>JarrettAzar</name>
-          <url>https://github.com/JarrettAzar</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tpope/vim-repeat</title>
-      <link>https://github.com/tpope/vim-repeat</link>
-      <description>repeat.vim: enable repeating supported plugin maps with "."</description>
-      <guid>https://github.com/tpope/vim-repeat</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>2,684</stars>
-      <forks>85</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/378?s=40&amp;v=4</avatar>
-          <name>tpope</name>
-          <url>https://github.com/tpope</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/181261?s=40&amp;v=4</avatar>
-          <name>inkarkat</name>
-          <url>https://github.com/inkarkat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/124255?s=40&amp;v=4</avatar>
-          <name>AndrewRadev</name>
-          <url>https://github.com/AndrewRadev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/202547?s=40&amp;v=4</avatar>
-          <name>orlp</name>
-          <url>https://github.com/orlp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/474504?s=40&amp;v=4</avatar>
-          <name>wellle</name>
-          <url>https://github.com/wellle</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ntpeters/vim-better-whitespace</title>
-      <link>https://github.com/ntpeters/vim-better-whitespace</link>
-      <description>Better whitespace highlighting for Vim</description>
-      <guid>https://github.com/ntpeters/vim-better-whitespace</guid>
-      <language>Vim Script</language>
-      <languageColor>#199f4b</languageColor>
-      <stars>1,415</stars>
-      <forks>82</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1189211?s=40&amp;v=4</avatar>
-          <name>ntpeters</name>
-          <url>https://github.com/ntpeters</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6126377?s=40&amp;v=4</avatar>
-          <name>Cimbali</name>
-          <url>https://github.com/Cimbali</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1776?s=40&amp;v=4</avatar>
-          <name>bronson</name>
-          <url>https://github.com/bronson</url>
+          <avatar>https://avatars.githubusercontent.com/u/8740057?s=40&amp;v=4</avatar>
+          <name>janlazo</name>
+          <url>https://github.com/janlazo</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4</avatar>
@@ -619,9 +462,14 @@
           <url>https://github.com/blueyed</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40799?s=40&amp;v=4</avatar>
-          <name>docwhat</name>
-          <url>https://github.com/docwhat</url>
+          <avatar>https://avatars.githubusercontent.com/u/300342?s=40&amp;v=4</avatar>
+          <name>liskin</name>
+          <url>https://github.com/liskin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4507647?s=40&amp;v=4</avatar>
+          <name>Frederick888</name>
+          <url>https://github.com/Frederick888</url>
         </contributor>
       </contributors>
     </item>
@@ -702,25 +550,58 @@
       </contributors>
     </item>
     <item>
-      <title>preservim/tagbar</title>
-      <link>https://github.com/preservim/tagbar</link>
-      <description>Vim plugin that displays tags in a window, ordered by scope</description>
-      <guid>https://github.com/preservim/tagbar</guid>
+      <title>junegunn/goyo.vim</title>
+      <link>https://github.com/junegunn/goyo.vim</link>
+      <description>🌷 Distraction-free writing in Vim</description>
+      <guid>https://github.com/junegunn/goyo.vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>6,208</stars>
-      <forks>484</forks>
-      <addStars>1</addStars>
+      <stars>4,606</stars>
+      <forks>118</forks>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/465527?s=40&amp;v=4</avatar>
-          <name>majutsushi</name>
-          <url>https://github.com/majutsushi</url>
+          <avatar>https://avatars.githubusercontent.com/u/700826?s=40&amp;v=4</avatar>
+          <name>junegunn</name>
+          <url>https://github.com/junegunn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3730811?s=40&amp;v=4</avatar>
-          <name>raven42</name>
-          <url>https://github.com/raven42</url>
+          <avatar>https://avatars.githubusercontent.com/u/1149238?s=40&amp;v=4</avatar>
+          <name>prurigro</name>
+          <url>https://github.com/prurigro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3652460?s=40&amp;v=4</avatar>
+          <name>rperce</name>
+          <url>https://github.com/rperce</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22802209?s=40&amp;v=4</avatar>
+          <name>benknoble</name>
+          <url>https://github.com/benknoble</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/323761?s=40&amp;v=4</avatar>
+          <name>tlvince</name>
+          <url>https://github.com/tlvince</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>preservim/vim-indent-guides</title>
+      <link>https://github.com/preservim/vim-indent-guides</link>
+      <description>A Vim plugin for visually displaying indent levels in code</description>
+      <guid>https://github.com/preservim/vim-indent-guides</guid>
+      <language>Vim Script</language>
+      <languageColor>#199f4b</languageColor>
+      <stars>2,655</stars>
+      <forks>165</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84757?s=40&amp;v=4</avatar>
+          <name>nathanaelkane</name>
+          <url>https://github.com/nathanaelkane</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/173595?s=40&amp;v=4</avatar>
@@ -728,52 +609,57 @@
           <url>https://github.com/alerque</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1688977?s=40&amp;v=4</avatar>
-          <name>jpmv27</name>
-          <url>https://github.com/jpmv27</url>
+          <avatar>https://avatars.githubusercontent.com/u/6110?s=40&amp;v=4</avatar>
+          <name>graywh</name>
+          <url>https://github.com/graywh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/999564?s=40&amp;v=4</avatar>
-          <name>jrc2139</name>
-          <url>https://github.com/jrc2139</url>
+          <avatar>https://avatars.githubusercontent.com/u/717109?s=40&amp;v=4</avatar>
+          <name>noscript</name>
+          <url>https://github.com/noscript</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/253048?s=40&amp;v=4</avatar>
+          <name>jhogendorn</name>
+          <url>https://github.com/jhogendorn</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>vim-airline/vim-airline</title>
-      <link>https://github.com/vim-airline/vim-airline</link>
-      <description>lean &amp; mean status/tabline for vim that's light as air</description>
-      <guid>https://github.com/vim-airline/vim-airline</guid>
+      <title>ntpeters/vim-better-whitespace</title>
+      <link>https://github.com/ntpeters/vim-better-whitespace</link>
+      <description>Better whitespace highlighting for Vim</description>
+      <guid>https://github.com/ntpeters/vim-better-whitespace</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>17,923</stars>
-      <forks>1,107</forks>
-      <addStars>6</addStars>
+      <stars>1,415</stars>
+      <forks>82</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/244927?s=40&amp;v=4</avatar>
-          <name>chrisbra</name>
-          <url>https://github.com/chrisbra</url>
+          <avatar>https://avatars.githubusercontent.com/u/1189211?s=40&amp;v=4</avatar>
+          <name>ntpeters</name>
+          <url>https://github.com/ntpeters</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/306502?s=40&amp;v=4</avatar>
-          <name>bling</name>
-          <url>https://github.com/bling</url>
+          <avatar>https://avatars.githubusercontent.com/u/6126377?s=40&amp;v=4</avatar>
+          <name>Cimbali</name>
+          <url>https://github.com/Cimbali</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36619465?s=40&amp;v=4</avatar>
-          <name>get-me-power</name>
-          <url>https://github.com/get-me-power</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1847343?s=40&amp;v=4</avatar>
-          <name>mrmr1993</name>
-          <url>https://github.com/mrmr1993</url>
+          <avatar>https://avatars.githubusercontent.com/u/1776?s=40&amp;v=4</avatar>
+          <name>bronson</name>
+          <url>https://github.com/bronson</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4</avatar>
           <name>blueyed</name>
           <url>https://github.com/blueyed</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40799?s=40&amp;v=4</avatar>
+          <name>docwhat</name>
+          <url>https://github.com/docwhat</url>
         </contributor>
       </contributors>
     </item>
@@ -816,40 +702,116 @@
       </contributors>
     </item>
     <item>
-      <title>hrsh7th/vim-vsnip-integ</title>
-      <link>https://github.com/hrsh7th/vim-vsnip-integ</link>
-      <description>vim-vsnip integrations to other plugins.</description>
-      <guid>https://github.com/hrsh7th/vim-vsnip-integ</guid>
+      <title>preservim/tagbar</title>
+      <link>https://github.com/preservim/tagbar</link>
+      <description>Vim plugin that displays tags in a window, ordered by scope</description>
+      <guid>https://github.com/preservim/tagbar</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>132</stars>
-      <forks>16</forks>
+      <stars>6,208</stars>
+      <forks>484</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/465527?s=40&amp;v=4</avatar>
+          <name>majutsushi</name>
+          <url>https://github.com/majutsushi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3730811?s=40&amp;v=4</avatar>
+          <name>raven42</name>
+          <url>https://github.com/raven42</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/173595?s=40&amp;v=4</avatar>
+          <name>alerque</name>
+          <url>https://github.com/alerque</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1688977?s=40&amp;v=4</avatar>
+          <name>jpmv27</name>
+          <url>https://github.com/jpmv27</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/999564?s=40&amp;v=4</avatar>
+          <name>jrc2139</name>
+          <url>https://github.com/jrc2139</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>preservim/nerdtree</title>
+      <link>https://github.com/preservim/nerdtree</link>
+      <description>A tree explorer plugin for vim.</description>
+      <guid>https://github.com/preservim/nerdtree</guid>
+      <language>Vim Script</language>
+      <languageColor>#199f4b</languageColor>
+      <stars>19,989</stars>
+      <forks>1,443</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1671?s=40&amp;v=4</avatar>
+          <name>scrooloose</name>
+          <url>https://github.com/scrooloose</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5598066?s=40&amp;v=4</avatar>
+          <name>PhilRunninger</name>
+          <url>https://github.com/PhilRunninger</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15251574?s=40&amp;v=4</avatar>
+          <name>lifecrisis</name>
+          <url>https://github.com/lifecrisis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3788964?s=40&amp;v=4</avatar>
+          <name>rzvxa</name>
+          <url>https://github.com/rzvxa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/173595?s=40&amp;v=4</avatar>
+          <name>alerque</name>
+          <url>https://github.com/alerque</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>junegunn/vader.vim</title>
+      <link>https://github.com/junegunn/vader.vim</link>
+      <description>A simple Vimscript test framework</description>
+      <guid>https://github.com/junegunn/vader.vim</guid>
+      <language>Vim Script</language>
+      <languageColor>#199f4b</languageColor>
+      <stars>596</stars>
+      <forks>40</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/629908?s=40&amp;v=4</avatar>
-          <name>hrsh7th</name>
-          <url>https://github.com/hrsh7th</url>
+          <avatar>https://avatars.githubusercontent.com/u/700826?s=40&amp;v=4</avatar>
+          <name>junegunn</name>
+          <url>https://github.com/junegunn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82267684?s=40&amp;v=4</avatar>
-          <name>uga-rosa</name>
-          <url>https://github.com/uga-rosa</url>
+          <avatar>https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4</avatar>
+          <name>blueyed</name>
+          <url>https://github.com/blueyed</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63794197?s=40&amp;v=4</avatar>
-          <name>matsui54</name>
-          <url>https://github.com/matsui54</url>
+          <avatar>https://avatars.githubusercontent.com/u/1429315?s=40&amp;v=4</avatar>
+          <name>cirosantilli</name>
+          <url>https://github.com/cirosantilli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99910?s=40&amp;v=4</avatar>
-          <name>hokorobi</name>
-          <url>https://github.com/hokorobi</url>
+          <avatar>https://avatars.githubusercontent.com/u/9909?s=40&amp;v=4</avatar>
+          <name>bps</name>
+          <url>https://github.com/bps</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/438791?s=40&amp;v=4</avatar>
-          <name>phongnh</name>
-          <url>https://github.com/phongnh</url>
+          <avatar>https://avatars.githubusercontent.com/u/43559?s=40&amp;v=4</avatar>
+          <name>idbrii</name>
+          <url>https://github.com/idbrii</url>
         </contributor>
       </contributors>
     </item>
