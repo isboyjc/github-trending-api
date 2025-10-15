@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Oct 2025 07:17:17 GMT",
+  "pubDate": "Wed, 15 Oct 2025 13:34:36 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,168",
+      "stars": "8,170",
       "forks": "2,467",
       "addStars": "83",
       "contributors": [
@@ -37,44 +37,12 @@
       ]
     },
     {
-      "title": "GoogleContainerTools/distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "21,376",
-      "forks": "1,310",
-      "addStars": "226",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
-          "name": "loosebazooka",
-          "url": "https://github.com/loosebazooka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
-          "name": "omBratteng",
-          "url": "https://github.com/omBratteng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
-          "name": "chanseokoh",
-          "url": "https://github.com/chanseokoh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
-          "name": "mattmoor",
-          "url": "https://github.com/mattmoor"
-        }
-      ]
-    },
-    {
       "title": "google/cel-spec",
       "url": "https://github.com/google/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,448",
+      "stars": "3,449",
       "forks": "258",
       "addStars": "60",
       "contributors": [
@@ -102,6 +70,70 @@
           "avatar": "https://avatars.githubusercontent.com/u/2355949?s=40&v=4",
           "name": "l46kok",
           "url": "https://github.com/l46kok"
+        }
+      ]
+    },
+    {
+      "title": "GoogleContainerTools/distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "21,378",
+      "forks": "1,310",
+      "addStars": "226",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
+          "name": "loosebazooka",
+          "url": "https://github.com/loosebazooka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
+          "name": "omBratteng",
+          "url": "https://github.com/omBratteng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
+          "name": "chanseokoh",
+          "url": "https://github.com/chanseokoh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
+          "name": "mattmoor",
+          "url": "https://github.com/mattmoor"
+        }
+      ]
+    },
+    {
+      "title": "bazelbuild/bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "328",
+      "forks": "568",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
+          "name": "Vertexwahn",
+          "url": "https://github.com/Vertexwahn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
+          "name": "meteorcloudy",
+          "url": "https://github.com/meteorcloudy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
         }
       ]
     },
@@ -144,7 +176,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "126",
-      "forks": "32",
+      "forks": "33",
       "addStars": "6",
       "contributors": [
         {
@@ -207,34 +239,39 @@
       ]
     },
     {
-      "title": "bazelbuild/bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "bazelbuild/rules_pkg",
+      "url": "https://github.com/bazelbuild/rules_pkg",
+      "description": "Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "328",
-      "forks": "567",
-      "addStars": "8",
+      "stars": "242",
+      "forks": "200",
+      "addStars": "5",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
+          "name": "rickeylev",
+          "url": "https://github.com/rickeylev"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
           "name": "alexeagle",
           "url": "https://github.com/alexeagle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3775001?s=40&v=4",
-          "name": "Vertexwahn",
-          "url": "https://github.com/Vertexwahn"
+          "avatar": "https://avatars.githubusercontent.com/u/5471493?s=40&v=4",
+          "name": "kellyma2",
+          "url": "https://github.com/kellyma2"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
+          "avatar": "https://avatars.githubusercontent.com/u/1645863?s=40&v=4",
+          "name": "dannysullivan",
+          "url": "https://github.com/dannysullivan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
-          "name": "fmeum",
-          "url": "https://github.com/fmeum"
+          "avatar": "https://avatars.githubusercontent.com/u/11906265?s=40&v=4",
+          "name": "tonyaiuto",
+          "url": "https://github.com/tonyaiuto"
         }
       ]
     },
@@ -276,70 +313,6 @@
       ]
     },
     {
-      "title": "uber/hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "365",
-      "forks": "66",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/107720?s=40&v=4",
-          "name": "motiejus",
-          "url": "https://github.com/motiejus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98395?s=40&v=4",
-          "name": "linzhp",
-          "url": "https://github.com/linzhp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84334008?s=40&v=4",
-          "name": "laurynasl-uber",
-          "url": "https://github.com/laurynasl-uber"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13570304?s=40&v=4",
-          "name": "FabianHahn",
-          "url": "https://github.com/FabianHahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
-          "name": "jonathanbaker7",
-          "url": "https://github.com/jonathanbaker7"
-        }
-      ]
-    },
-    {
-      "title": "aspect-build/rules_swc",
-      "url": "https://github.com/aspect-build/rules_swc",
-      "description": "Bazel rules for the swc toolchain https://swc.rs/",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "48",
-      "forks": "36",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
-          "name": "gregmagolan",
-          "url": "https://github.com/gregmagolan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
-          "name": "jbedard",
-          "url": "https://github.com/jbedard"
-        }
-      ]
-    },
-    {
       "title": "aspect-build/rules_lint",
       "url": "https://github.com/aspect-build/rules_lint",
       "description": "Run static analysis tools with Bazel",
@@ -368,112 +341,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
           "name": "jbedard",
           "url": "https://github.com/jbedard"
-        }
-      ]
-    },
-    {
-      "title": "google/bazel-common",
-      "url": "https://github.com/google/bazel-common",
-      "description": "Common functionality for Google's open-source libraries that are built with bazel.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "91",
-      "forks": "44",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/792797?s=40&v=4",
-          "name": "ronshapiro",
-          "url": "https://github.com/ronshapiro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1703908?s=40&v=4",
-          "name": "cpovirk",
-          "url": "https://github.com/cpovirk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101568?s=40&v=4",
-          "name": "cgdecker",
-          "url": "https://github.com/cgdecker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4306377?s=40&v=4",
-          "name": "netdpb",
-          "url": "https://github.com/netdpb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/93746690?s=40&v=4",
-          "name": "mollyibot",
-          "url": "https://github.com/mollyibot"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/rules_pkg",
-      "url": "https://github.com/bazelbuild/rules_pkg",
-      "description": "Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "242",
-      "forks": "200",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
-          "name": "rickeylev",
-          "url": "https://github.com/rickeylev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5471493?s=40&v=4",
-          "name": "kellyma2",
-          "url": "https://github.com/kellyma2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1645863?s=40&v=4",
-          "name": "dannysullivan",
-          "url": "https://github.com/dannysullivan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11906265?s=40&v=4",
-          "name": "tonyaiuto",
-          "url": "https://github.com/tonyaiuto"
-        }
-      ]
-    },
-    {
-      "title": "bazel-contrib/rules_nodejs",
-      "url": "https://github.com/bazel-contrib/rules_nodejs",
-      "description": "NodeJS toolchain for Bazel.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "752",
-      "forks": "523",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
-          "name": "gregmagolan",
-          "url": "https://github.com/gregmagolan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2403720?s=40&v=4",
-          "name": "mattem",
-          "url": "https://github.com/mattem"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
         }
       ]
     },
@@ -552,6 +419,107 @@
       ]
     },
     {
+      "title": "google/bazel-common",
+      "url": "https://github.com/google/bazel-common",
+      "description": "Common functionality for Google's open-source libraries that are built with bazel.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "91",
+      "forks": "44",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/792797?s=40&v=4",
+          "name": "ronshapiro",
+          "url": "https://github.com/ronshapiro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1703908?s=40&v=4",
+          "name": "cpovirk",
+          "url": "https://github.com/cpovirk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101568?s=40&v=4",
+          "name": "cgdecker",
+          "url": "https://github.com/cgdecker"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4306377?s=40&v=4",
+          "name": "netdpb",
+          "url": "https://github.com/netdpb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93746690?s=40&v=4",
+          "name": "mollyibot",
+          "url": "https://github.com/mollyibot"
+        }
+      ]
+    },
+    {
+      "title": "uber/hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "365",
+      "forks": "66",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107720?s=40&v=4",
+          "name": "motiejus",
+          "url": "https://github.com/motiejus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98395?s=40&v=4",
+          "name": "linzhp",
+          "url": "https://github.com/linzhp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84334008?s=40&v=4",
+          "name": "laurynasl-uber",
+          "url": "https://github.com/laurynasl-uber"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13570304?s=40&v=4",
+          "name": "FabianHahn",
+          "url": "https://github.com/FabianHahn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
+          "name": "jonathanbaker7",
+          "url": "https://github.com/jonathanbaker7"
+        }
+      ]
+    },
+    {
+      "title": "aspect-build/rules_swc",
+      "url": "https://github.com/aspect-build/rules_swc",
+      "description": "Bazel rules for the swc toolchain https://swc.rs/",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "48",
+      "forks": "36",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
+          "name": "gregmagolan",
+          "url": "https://github.com/gregmagolan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
+          "name": "jbedard",
+          "url": "https://github.com/jbedard"
+        }
+      ]
+    },
+    {
       "title": "tilt-dev/tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
@@ -626,6 +594,38 @@
       ]
     },
     {
+      "title": "bazel-contrib/rules_nodejs",
+      "url": "https://github.com/bazel-contrib/rules_nodejs",
+      "description": "NodeJS toolchain for Bazel.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "752",
+      "forks": "523",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
+          "name": "gregmagolan",
+          "url": "https://github.com/gregmagolan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2403720?s=40&v=4",
+          "name": "mattem",
+          "url": "https://github.com/mattem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        }
+      ]
+    },
+    {
       "title": "googleapis/api-common-protos",
       "url": "https://github.com/googleapis/api-common-protos",
       "description": "A standard library for use in specifying protocol buffer APIs.",
@@ -658,34 +658,39 @@
       ]
     },
     {
-      "title": "bazel-contrib/rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "bazel-contrib/rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "640",
-      "forks": "634",
-      "addStars": "6",
+      "stars": "30",
+      "forks": "44",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
-          "name": "rickeylev",
-          "url": "https://github.com/rickeylev"
+          "avatar": "https://avatars.githubusercontent.com/u/190297?s=40&v=4",
+          "name": "PiotrSikora",
+          "url": "https://github.com/PiotrSikora"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/240938?s=40&v=4",
-          "name": "aignas",
-          "url": "https://github.com/aignas"
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
+          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
+          "name": "jheaff1",
+          "url": "https://github.com/jheaff1"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
-          "name": "f0rmiga",
-          "url": "https://github.com/f0rmiga"
+          "avatar": "https://avatars.githubusercontent.com/u/4312191?s=40&v=4",
+          "name": "fmeum",
+          "url": "https://github.com/fmeum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11611719?s=40&v=4",
+          "name": "lalten",
+          "url": "https://github.com/lalten"
         }
       ]
     }
