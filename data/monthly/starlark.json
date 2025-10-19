@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 19 Oct 2025 07:13:55 GMT",
+  "pubDate": "Sun, 19 Oct 2025 13:25:30 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,180",
+      "stars": "8,181",
       "forks": "2,468",
       "addStars": "85",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "21,401",
+      "stars": "21,402",
       "forks": "1,311",
       "addStars": "210",
       "contributors": [
@@ -382,6 +382,38 @@
       ]
     },
     {
+      "title": "bazelbuild/rules_proto",
+      "url": "https://github.com/bazelbuild/rules_proto",
+      "description": "Protocol buffer rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "171",
+      "forks": "72",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1796240?s=40&v=4",
+          "name": "comius",
+          "url": "https://github.com/comius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7313747?s=40&v=4",
+          "name": "Yannic",
+          "url": "https://github.com/Yannic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20563340?s=40&v=4",
+          "name": "thesayyn",
+          "url": "https://github.com/thesayyn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
+          "name": "alexeagle",
+          "url": "https://github.com/alexeagle"
+        }
+      ]
+    },
+    {
       "title": "grpc/grpc-proto",
       "url": "https://github.com/grpc/grpc-proto",
       "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
@@ -493,38 +525,6 @@
       ]
     },
     {
-      "title": "bazelbuild/rules_proto",
-      "url": "https://github.com/bazelbuild/rules_proto",
-      "description": "Protocol buffer rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "171",
-      "forks": "72",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1796240?s=40&v=4",
-          "name": "comius",
-          "url": "https://github.com/comius"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7313747?s=40&v=4",
-          "name": "Yannic",
-          "url": "https://github.com/Yannic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20563340?s=40&v=4",
-          "name": "thesayyn",
-          "url": "https://github.com/thesayyn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
-        }
-      ]
-    },
-    {
       "title": "uber/hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -594,43 +594,6 @@
       ]
     },
     {
-      "title": "bazelbuild/rules_docker",
-      "url": "https://github.com/bazelbuild/rules_docker",
-      "description": "Rules for building and handling Docker images with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "1,095",
-      "forks": "696",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
-          "name": "mattmoor",
-          "url": "https://github.com/mattmoor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4062751?s=40&v=4",
-          "name": "nlopezgi",
-          "url": "https://github.com/nlopezgi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8533249?s=40&v=4",
-          "name": "smukherj1",
-          "url": "https://github.com/smukherj1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42874203?s=40&v=4",
-          "name": "alex1545",
-          "url": "https://github.com/alex1545"
-        }
-      ]
-    },
-    {
       "title": "aspect-build/rules_swc",
       "url": "https://github.com/aspect-build/rules_swc",
       "description": "Bazel rules for the swc toolchain https://swc.rs/",
@@ -686,6 +649,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
           "name": "f0rmiga",
           "url": "https://github.com/f0rmiga"
+        }
+      ]
+    },
+    {
+      "title": "bazelbuild/rules_docker",
+      "url": "https://github.com/bazelbuild/rules_docker",
+      "description": "Rules for building and handling Docker images with Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "1,095",
+      "forks": "696",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
+          "name": "mattmoor",
+          "url": "https://github.com/mattmoor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4062751?s=40&v=4",
+          "name": "nlopezgi",
+          "url": "https://github.com/nlopezgi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8533249?s=40&v=4",
+          "name": "smukherj1",
+          "url": "https://github.com/smukherj1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42874203?s=40&v=4",
+          "name": "alex1545",
+          "url": "https://github.com/alex1545"
         }
       ]
     }
