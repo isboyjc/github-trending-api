@@ -2,32 +2,22 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Oct 2025 07:15:37 GMT",
+  "pubDate": "Fri, 24 Oct 2025 13:33:55 GMT",
   "items": [
     {
-      "title": "terraform-aws-modules/terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,012",
-      "forks": "740",
-      "addStars": "0",
+      "stars": "4,822",
+      "forks": "4,296",
+      "addStars": "7",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
           "name": "semantic-release-bot",
           "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
-          "name": "ahlinc",
-          "url": "https://github.com/ahlinc"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
@@ -35,9 +25,19 @@
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
-          "name": "pdecat",
-          "url": "https://github.com/pdecat"
+          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
+          "name": "barryib",
+          "url": "https://github.com/barryib"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
+          "name": "brandonjbjelland",
+          "url": "https://github.com/brandonjbjelland"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8859277?s=40&v=4",
+          "name": "max-rocket-internet",
+          "url": "https://github.com/max-rocket-internet"
         }
       ]
     },
@@ -70,38 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/116259817?s=40&v=4",
           "name": "valkenburg-prevue-ch",
           "url": "https://github.com/valkenburg-prevue-ch"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,231",
-      "forks": "1,245",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
         }
       ]
     },
@@ -143,6 +111,38 @@
       ]
     },
     {
+      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,231",
+      "forks": "1,246",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
       "title": "terraform-google-modules/terraform-example-foundation",
       "url": "https://github.com/terraform-google-modules/terraform-example-foundation",
       "description": "Shows how the CFT modules can be composed to build a secure cloud foundation",
@@ -175,51 +175,14 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "terraform-aws-modules/terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,821",
-      "forks": "4,297",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
-          "name": "barryib",
-          "url": "https://github.com/barryib"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
-          "name": "brandonjbjelland",
-          "url": "https://github.com/brandonjbjelland"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8859277?s=40&v=4",
-          "name": "max-rocket-internet",
-          "url": "https://github.com/max-rocket-internet"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "3,169",
-      "forks": "4,595",
-      "addStars": "2",
+      "stars": "1,012",
+      "forks": "740",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
@@ -232,93 +195,19 @@
           "url": "https://github.com/semantic-release-bot"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
+          "name": "ahlinc",
+          "url": "https://github.com/ahlinc"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
           "name": "bryantbiggs",
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
-          "name": "DrFaust92",
-          "url": "https://github.com/DrFaust92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "349",
-      "forks": "242",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
-          "name": "actions-bot",
-          "url": "https://github.com/actions-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-ec2-bastion-server",
-      "url": "https://github.com/cloudposse/terraform-aws-ec2-bastion-server",
-      "description": "Terraform module to define a generic Bastion host with parameterized user_data and support for AWS SSM Session Manager for remote access with IAM authentication.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "168",
-      "forks": "114",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/639906?s=40&v=4",
-          "name": "syphernl",
-          "url": "https://github.com/syphernl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
-          "name": "actions-bot",
-          "url": "https://github.com/actions-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
+          "name": "pdecat",
+          "url": "https://github.com/pdecat"
         }
       ]
     }

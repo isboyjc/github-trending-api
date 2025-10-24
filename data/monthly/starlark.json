@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Oct 2025 07:15:37 GMT",
+  "pubDate": "Fri, 24 Oct 2025 13:33:55 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -11,7 +11,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "8,194",
-      "forks": "2,470",
+      "forks": "2,471",
       "addStars": "99",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,469",
+      "stars": "3,470",
       "forks": "259",
       "addStars": "71",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "21,466",
+      "stars": "21,471",
       "forks": "1,316",
       "addStars": "233",
       "contributors": [
@@ -313,39 +313,39 @@
       ]
     },
     {
-      "title": "grpc/grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "title": "bazelbuild/bazel-skylib",
+      "url": "https://github.com/bazelbuild/bazel-skylib",
+      "description": "Common useful functions and rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "282",
-      "forks": "109",
-      "addStars": "1",
+      "stars": "431",
+      "forks": "191",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2819812?s=40&v=4",
-          "name": "zpencer",
-          "url": "https://github.com/zpencer"
+          "avatar": "https://avatars.githubusercontent.com/u/13687552?s=40&v=4",
+          "name": "c-parsons",
+          "url": "https://github.com/c-parsons"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2811396?s=40&v=4",
-          "name": "ejona86",
-          "url": "https://github.com/ejona86"
+          "avatar": "https://avatars.githubusercontent.com/u/52517?s=40&v=4",
+          "name": "tetromino",
+          "url": "https://github.com/tetromino"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8943572?s=40&v=4",
-          "name": "carl-mastrangelo",
-          "url": "https://github.com/carl-mastrangelo"
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18664614?s=40&v=4",
-          "name": "markdroth",
-          "url": "https://github.com/markdroth"
+          "avatar": "https://avatars.githubusercontent.com/u/10532244?s=40&v=4",
+          "name": "laszlocsomor",
+          "url": "https://github.com/laszlocsomor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44212643?s=40&v=4",
-          "name": "cdmetcalf",
-          "url": "https://github.com/cdmetcalf"
+          "avatar": "https://avatars.githubusercontent.com/u/30670028?s=40&v=4",
+          "name": "juliexxia",
+          "url": "https://github.com/juliexxia"
         }
       ]
     },
@@ -387,6 +387,43 @@
       ]
     },
     {
+      "title": "grpc/grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "282",
+      "forks": "109",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2819812?s=40&v=4",
+          "name": "zpencer",
+          "url": "https://github.com/zpencer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2811396?s=40&v=4",
+          "name": "ejona86",
+          "url": "https://github.com/ejona86"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8943572?s=40&v=4",
+          "name": "carl-mastrangelo",
+          "url": "https://github.com/carl-mastrangelo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18664614?s=40&v=4",
+          "name": "markdroth",
+          "url": "https://github.com/markdroth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44212643?s=40&v=4",
+          "name": "cdmetcalf",
+          "url": "https://github.com/cdmetcalf"
+        }
+      ]
+    },
+    {
       "title": "bazelbuild/rules_proto",
       "url": "https://github.com/bazelbuild/rules_proto",
       "description": "Protocol buffer rules for Bazel",
@@ -415,112 +452,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
           "name": "alexeagle",
           "url": "https://github.com/alexeagle"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/bazel-skylib",
-      "url": "https://github.com/bazelbuild/bazel-skylib",
-      "description": "Common useful functions and rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "431",
-      "forks": "191",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13687552?s=40&v=4",
-          "name": "c-parsons",
-          "url": "https://github.com/c-parsons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52517?s=40&v=4",
-          "name": "tetromino",
-          "url": "https://github.com/tetromino"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
-          "name": "thomasvl",
-          "url": "https://github.com/thomasvl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10532244?s=40&v=4",
-          "name": "laszlocsomor",
-          "url": "https://github.com/laszlocsomor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30670028?s=40&v=4",
-          "name": "juliexxia",
-          "url": "https://github.com/juliexxia"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/rules_docker",
-      "url": "https://github.com/bazelbuild/rules_docker",
-      "description": "Rules for building and handling Docker images with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "1,095",
-      "forks": "696",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
-          "name": "mattmoor",
-          "url": "https://github.com/mattmoor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4062751?s=40&v=4",
-          "name": "nlopezgi",
-          "url": "https://github.com/nlopezgi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8533249?s=40&v=4",
-          "name": "smukherj1",
-          "url": "https://github.com/smukherj1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42874203?s=40&v=4",
-          "name": "alex1545",
-          "url": "https://github.com/alex1545"
-        }
-      ]
-    },
-    {
-      "title": "googleapis/api-common-protos",
-      "url": "https://github.com/googleapis/api-common-protos",
-      "description": "A standard library for use in specifying protocol buffer APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "265",
-      "forks": "62",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11670828?s=40&v=4",
-          "name": "ethanbao",
-          "url": "https://github.com/ethanbao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
-          "name": "googleapis-publisher",
-          "url": "https://github.com/googleapis-publisher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4346?s=40&v=4",
-          "name": "lukesneeringer",
-          "url": "https://github.com/lukesneeringer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2960535?s=40&v=4",
-          "name": "software-dov",
-          "url": "https://github.com/software-dov"
         }
       ]
     },
@@ -558,6 +489,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/454682?s=40&v=4",
           "name": "phlax",
           "url": "https://github.com/phlax"
+        }
+      ]
+    },
+    {
+      "title": "googleapis/api-common-protos",
+      "url": "https://github.com/googleapis/api-common-protos",
+      "description": "A standard library for use in specifying protocol buffer APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "265",
+      "forks": "62",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11670828?s=40&v=4",
+          "name": "ethanbao",
+          "url": "https://github.com/ethanbao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21183283?s=40&v=4",
+          "name": "googleapis-publisher",
+          "url": "https://github.com/googleapis-publisher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4346?s=40&v=4",
+          "name": "lukesneeringer",
+          "url": "https://github.com/lukesneeringer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2960535?s=40&v=4",
+          "name": "software-dov",
+          "url": "https://github.com/software-dov"
         }
       ]
     },
@@ -663,39 +626,71 @@
       ]
     },
     {
-      "title": "uber/hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "title": "bazelbuild/rules_docker",
+      "url": "https://github.com/bazelbuild/rules_docker",
+      "description": "Rules for building and handling Docker images with Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "366",
-      "forks": "66",
+      "stars": "1,095",
+      "forks": "696",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2442466?s=40&v=4",
+          "name": "mattmoor",
+          "url": "https://github.com/mattmoor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4062751?s=40&v=4",
+          "name": "nlopezgi",
+          "url": "https://github.com/nlopezgi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8533249?s=40&v=4",
+          "name": "smukherj1",
+          "url": "https://github.com/smukherj1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42874203?s=40&v=4",
+          "name": "alex1545",
+          "url": "https://github.com/alex1545"
+        }
+      ]
+    },
+    {
+      "title": "bazelbuild/rules_swift",
+      "url": "https://github.com/bazelbuild/rules_swift",
+      "description": "Bazel rules to build Swift on Apple and Linux platforms",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "333",
+      "forks": "151",
       "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107720?s=40&v=4",
-          "name": "motiejus",
-          "url": "https://github.com/motiejus"
+          "avatar": "https://avatars.githubusercontent.com/u/1062427?s=40&v=4",
+          "name": "allevato",
+          "url": "https://github.com/allevato"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/98395?s=40&v=4",
-          "name": "linzhp",
-          "url": "https://github.com/linzhp"
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84334008?s=40&v=4",
-          "name": "laurynasl-uber",
-          "url": "https://github.com/laurynasl-uber"
+          "avatar": "https://avatars.githubusercontent.com/u/158658?s=40&v=4",
+          "name": "brentleyjones",
+          "url": "https://github.com/brentleyjones"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13570304?s=40&v=4",
-          "name": "FabianHahn",
-          "url": "https://github.com/FabianHahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3226389?s=40&v=4",
-          "name": "jonathanbaker7",
-          "url": "https://github.com/jonathanbaker7"
+          "avatar": "https://avatars.githubusercontent.com/u/5279928?s=40&v=4",
+          "name": "thomasvl",
+          "url": "https://github.com/thomasvl"
         }
       ]
     }
