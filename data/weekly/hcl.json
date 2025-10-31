@@ -2,45 +2,8 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 31 Oct 2025 07:15:26 GMT",
+  "pubDate": "Fri, 31 Oct 2025 13:33:02 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules/terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "4,831",
-      "forks": "4,302",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
-          "name": "barryib",
-          "url": "https://github.com/barryib"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
-          "name": "brandonjbjelland",
-          "url": "https://github.com/brandonjbjelland"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        }
-      ]
-    },
     {
       "title": "GoogleCloudPlatform/cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
@@ -48,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "1,857",
-      "forks": "1,121",
+      "forks": "1,120",
       "addStars": "5",
       "contributors": [
         {
@@ -75,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
           "name": "juliodiez",
           "url": "https://github.com/juliodiez"
+        }
+      ]
+    },
+    {
+      "title": "terraform-aws-modules/terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "4,831",
+      "forks": "4,301",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
+          "name": "barryib",
+          "url": "https://github.com/barryib"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
+          "name": "brandonjbjelland",
+          "url": "https://github.com/brandonjbjelland"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
         }
       ]
     },
@@ -111,13 +111,77 @@
       ]
     },
     {
+      "title": "terraform-aws-modules/terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "3,170",
+      "forks": "4,595",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
+          "name": "DrFaust92",
+          "url": "https://github.com/DrFaust92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-sql-db",
+      "url": "https://github.com/terraform-google-modules/terraform-google-sql-db",
+      "description": "Creates a Cloud SQL database instance",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "288",
+      "forks": "471",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/309329?s=40&v=4",
+          "name": "namusyaka",
+          "url": "https://github.com/namusyaka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21246369?s=40&v=4",
+          "name": "g-awmalik",
+          "url": "https://github.com/g-awmalik"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "1,012",
-      "forks": "739",
+      "forks": "738",
       "addStars": "0",
       "contributors": [
         {
@@ -144,6 +208,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
           "name": "pdecat",
           "url": "https://github.com/pdecat"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "349",
+      "forks": "242",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
+          "name": "nitrocode",
+          "url": "https://github.com/nitrocode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
+          "name": "actions-bot",
+          "url": "https://github.com/actions-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
         }
       ]
     }
