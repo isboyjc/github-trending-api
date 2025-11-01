@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Monthly Trending",
   "description": "Monthly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 01 Nov 2025 07:14:19 GMT",
+  "pubDate": "Sat, 01 Nov 2025 13:26:09 GMT",
   "items": [
     {
       "title": "vim/vim",
@@ -10,7 +10,7 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "39,190",
+      "stars": "39,192",
       "forks": "5,859",
       "addStars": "261",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "3,644",
+      "stars": "3,645",
       "forks": "142",
       "addStars": "74",
       "contributors": [
@@ -79,13 +79,35 @@
       ]
     },
     {
+      "title": "github/copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "10,926",
+      "forks": "636",
+      "addStars": "178",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
+          "name": "tpope",
+          "url": "https://github.com/tpope"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/782512?s=40&v=4",
+          "name": "djensenius",
+          "url": "https://github.com/djensenius"
+        }
+      ]
+    },
+    {
       "title": "neovim/neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "93,850",
-      "forks": "6,387",
+      "stars": "93,861",
+      "forks": "6,386",
       "addStars": "936",
       "contributors": [
         {
@@ -112,28 +134,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2361214?s=40&v=4",
           "name": "clason",
           "url": "https://github.com/clason"
-        }
-      ]
-    },
-    {
-      "title": "github/copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "10,926",
-      "forks": "636",
-      "addStars": "178",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
-          "name": "tpope",
-          "url": "https://github.com/tpope"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/782512?s=40&v=4",
-          "name": "djensenius",
-          "url": "https://github.com/djensenius"
         }
       ]
     },
@@ -286,43 +286,6 @@
       ]
     },
     {
-      "title": "prabirshrestha/vim-lsp",
-      "url": "https://github.com/prabirshrestha/vim-lsp",
-      "description": "async language server protocol plugin for vim and neovim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "3,315",
-      "forks": "309",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/287744?s=40&v=4",
-          "name": "prabirshrestha",
-          "url": "https://github.com/prabirshrestha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10111?s=40&v=4",
-          "name": "mattn",
-          "url": "https://github.com/mattn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
-          "name": "hrsh7th",
-          "url": "https://github.com/hrsh7th"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/823277?s=40&v=4",
-          "name": "rhysd",
-          "url": "https://github.com/rhysd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10748726?s=40&v=4",
-          "name": "thomasfaingnaert",
-          "url": "https://github.com/thomasfaingnaert"
-        }
-      ]
-    },
-    {
       "title": "dense-analysis/ale",
       "url": "https://github.com/dense-analysis/ale",
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
@@ -360,24 +323,88 @@
       ]
     },
     {
-      "title": "mbbill/undotree",
-      "url": "https://github.com/mbbill/undotree",
-      "description": "The undo history visualizer for VIM",
+      "title": "prabirshrestha/vim-lsp",
+      "url": "https://github.com/prabirshrestha/vim-lsp",
+      "description": "async language server protocol plugin for vim and neovim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "4,422",
-      "forks": "115",
-      "addStars": "45",
+      "stars": "3,315",
+      "forks": "309",
+      "addStars": "16",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/841602?s=40&v=4",
-          "name": "mbbill",
-          "url": "https://github.com/mbbill"
+          "avatar": "https://avatars.githubusercontent.com/u/287744?s=40&v=4",
+          "name": "prabirshrestha",
+          "url": "https://github.com/prabirshrestha"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13660997?s=40&v=4",
-          "name": "AshishBhattarai",
-          "url": "https://github.com/AshishBhattarai"
+          "avatar": "https://avatars.githubusercontent.com/u/10111?s=40&v=4",
+          "name": "mattn",
+          "url": "https://github.com/mattn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
+          "name": "hrsh7th",
+          "url": "https://github.com/hrsh7th"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/823277?s=40&v=4",
+          "name": "rhysd",
+          "url": "https://github.com/rhysd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10748726?s=40&v=4",
+          "name": "thomasfaingnaert",
+          "url": "https://github.com/thomasfaingnaert"
+        }
+      ]
+    },
+    {
+      "title": "kristijanhusak/vim-dadbod-completion",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-completion",
+      "description": "Database autocompletion powered by https://github.com/tpope/vim-dadbod",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "755",
+      "forks": "35",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1782860?s=40&v=4",
+          "name": "kristijanhusak",
+          "url": "https://github.com/kristijanhusak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/717088?s=40&v=4",
+          "name": "tkopets",
+          "url": "https://github.com/tkopets"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36409591?s=40&v=4",
+          "name": "Iron-E",
+          "url": "https://github.com/Iron-E"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94425204?s=40&v=4",
+          "name": "joncrangle",
+          "url": "https://github.com/joncrangle"
+        }
+      ]
+    },
+    {
+      "title": "tpope/vim-repeat",
+      "url": "https://github.com/tpope/vim-repeat",
+      "description": "repeat.vim: enable repeating supported plugin maps with \".\"",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "2,688",
+      "forks": "85",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
+          "name": "tpope",
+          "url": "https://github.com/tpope"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/181261?s=40&v=4",
@@ -385,14 +412,19 @@
           "url": "https://github.com/inkarkat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5598066?s=40&v=4",
-          "name": "PhilRunninger",
-          "url": "https://github.com/PhilRunninger"
+          "avatar": "https://avatars.githubusercontent.com/u/124255?s=40&v=4",
+          "name": "AndrewRadev",
+          "url": "https://github.com/AndrewRadev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45028928?s=40&v=4",
-          "name": "tmillr",
-          "url": "https://github.com/tmillr"
+          "avatar": "https://avatars.githubusercontent.com/u/202547?s=40&v=4",
+          "name": "orlp",
+          "url": "https://github.com/orlp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/474504?s=40&v=4",
+          "name": "wellle",
+          "url": "https://github.com/wellle"
         }
       ]
     },
@@ -471,118 +503,12 @@
       ]
     },
     {
-      "title": "tpope/vim-repeat",
-      "url": "https://github.com/tpope/vim-repeat",
-      "description": "repeat.vim: enable repeating supported plugin maps with \".\"",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "2,688",
-      "forks": "85",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/378?s=40&v=4",
-          "name": "tpope",
-          "url": "https://github.com/tpope"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181261?s=40&v=4",
-          "name": "inkarkat",
-          "url": "https://github.com/inkarkat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124255?s=40&v=4",
-          "name": "AndrewRadev",
-          "url": "https://github.com/AndrewRadev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/202547?s=40&v=4",
-          "name": "orlp",
-          "url": "https://github.com/orlp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/474504?s=40&v=4",
-          "name": "wellle",
-          "url": "https://github.com/wellle"
-        }
-      ]
-    },
-    {
-      "title": "kristijanhusak/vim-dadbod-completion",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-completion",
-      "description": "Database autocompletion powered by https://github.com/tpope/vim-dadbod",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "755",
-      "forks": "35",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1782860?s=40&v=4",
-          "name": "kristijanhusak",
-          "url": "https://github.com/kristijanhusak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/717088?s=40&v=4",
-          "name": "tkopets",
-          "url": "https://github.com/tkopets"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36409591?s=40&v=4",
-          "name": "Iron-E",
-          "url": "https://github.com/Iron-E"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94425204?s=40&v=4",
-          "name": "joncrangle",
-          "url": "https://github.com/joncrangle"
-        }
-      ]
-    },
-    {
-      "title": "andymass/vim-matchup",
-      "url": "https://github.com/andymass/vim-matchup",
-      "description": "vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": "1,844",
-      "forks": "83",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6655373?s=40&v=4",
-          "name": "andymass",
-          "url": "https://github.com/andymass"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53507599?s=40&v=4",
-          "name": "TheLeoP",
-          "url": "https://github.com/TheLeoP"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
-          "name": "amaanq",
-          "url": "https://github.com/amaanq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/314453?s=40&v=4",
-          "name": "Slotos",
-          "url": "https://github.com/Slotos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12857160?s=40&v=4",
-          "name": "mrcjkb",
-          "url": "https://github.com/mrcjkb"
-        }
-      ]
-    },
-    {
       "title": "ggml-org/llama.vim",
       "url": "https://github.com/ggml-org/llama.vim",
       "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "1,676",
+      "stars": "1,677",
       "forks": "77",
       "addStars": "47",
       "contributors": [
@@ -619,7 +545,7 @@
       "description": "Go development plugin for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "16,195",
+      "stars": "16,194",
       "forks": "1,430",
       "addStars": "29",
       "contributors": [
@@ -688,39 +614,39 @@
       ]
     },
     {
-      "title": "hrsh7th/vim-vsnip-integ",
-      "url": "https://github.com/hrsh7th/vim-vsnip-integ",
-      "description": "vim-vsnip integrations to other plugins.",
+      "title": "andymass/vim-matchup",
+      "url": "https://github.com/andymass/vim-matchup",
+      "description": "vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "132",
-      "forks": "16",
-      "addStars": "1",
+      "stars": "1,844",
+      "forks": "83",
+      "addStars": "11",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
-          "name": "hrsh7th",
-          "url": "https://github.com/hrsh7th"
+          "avatar": "https://avatars.githubusercontent.com/u/6655373?s=40&v=4",
+          "name": "andymass",
+          "url": "https://github.com/andymass"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/82267684?s=40&v=4",
-          "name": "uga-rosa",
-          "url": "https://github.com/uga-rosa"
+          "avatar": "https://avatars.githubusercontent.com/u/53507599?s=40&v=4",
+          "name": "TheLeoP",
+          "url": "https://github.com/TheLeoP"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63794197?s=40&v=4",
-          "name": "matsui54",
-          "url": "https://github.com/matsui54"
+          "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
+          "name": "amaanq",
+          "url": "https://github.com/amaanq"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99910?s=40&v=4",
-          "name": "hokorobi",
-          "url": "https://github.com/hokorobi"
+          "avatar": "https://avatars.githubusercontent.com/u/314453?s=40&v=4",
+          "name": "Slotos",
+          "url": "https://github.com/Slotos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/438791?s=40&v=4",
-          "name": "phongnh",
-          "url": "https://github.com/phongnh"
+          "avatar": "https://avatars.githubusercontent.com/u/12857160?s=40&v=4",
+          "name": "mrcjkb",
+          "url": "https://github.com/mrcjkb"
         }
       ]
     },
@@ -795,6 +721,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/43559?s=40&v=4",
           "name": "idbrii",
           "url": "https://github.com/idbrii"
+        }
+      ]
+    },
+    {
+      "title": "christoomey/vim-tmux-navigator",
+      "url": "https://github.com/christoomey/vim-tmux-navigator",
+      "description": "Seamless navigation between tmux panes and vim splits",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": "5,923",
+      "forks": "354",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/420113?s=40&v=4",
+          "name": "christoomey",
+          "url": "https://github.com/christoomey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5801521?s=40&v=4",
+          "name": "nfischer",
+          "url": "https://github.com/nfischer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
+          "name": "blueyed",
+          "url": "https://github.com/blueyed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2506364?s=40&v=4",
+          "name": "sdondley",
+          "url": "https://github.com/sdondley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
         }
       ]
     }
