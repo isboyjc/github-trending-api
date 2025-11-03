@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 03 Nov 2025 07:17:00 GMT",
+  "pubDate": "Mon, 03 Nov 2025 13:34:00 GMT",
   "items": [
     {
       "title": "open-telemetry/opentelemetry-collector",
@@ -10,8 +10,8 @@
       "description": "OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,209",
-      "forks": "1,767",
+      "stars": "6,212",
+      "forks": "1,769",
       "addStars": "299",
       "contributors": [
         {
@@ -33,6 +33,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/223565?s=40&v=4",
           "name": "codeboten",
           "url": "https://github.com/codeboten"
+        }
+      ]
+    },
+    {
+      "title": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "32,457",
+      "forks": "1,728",
+      "addStars": "494",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98431?s=40&v=4",
+          "name": "kradalby",
+          "url": "https://github.com/kradalby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/181059?s=40&v=4",
+          "name": "juanfont",
+          "url": "https://github.com/juanfont"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4",
+          "name": "restanrm",
+          "url": "https://github.com/restanrm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/131119?s=40&v=4",
+          "name": "nblock",
+          "url": "https://github.com/nblock"
         }
       ]
     },
@@ -74,8 +106,8 @@
       "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "27,095",
-      "forks": "2,525",
+      "stars": "27,104",
+      "forks": "2,526",
       "addStars": "530",
       "contributors": [
         {
@@ -101,13 +133,45 @@
       ]
     },
     {
+      "title": "charmbracelet/glow",
+      "url": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "20,342",
+      "forks": "490",
+      "addStars": "302",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25087?s=40&v=4",
+          "name": "meowgorithm",
+          "url": "https://github.com/meowgorithm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/146378?s=40&v=4",
+          "name": "muesli",
+          "url": "https://github.com/muesli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/245435?s=40&v=4",
+          "name": "caarlos0",
+          "url": "https://github.com/caarlos0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13225611?s=40&v=4",
+          "name": "penguwin",
+          "url": "https://github.com/penguwin"
+        }
+      ]
+    },
+    {
       "title": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,319",
-      "forks": "827",
+      "stars": "7,335",
+      "forks": "831",
       "addStars": "689",
       "contributors": [
         {
@@ -138,214 +202,12 @@
       ]
     },
     {
-      "title": "juanfont/headscale",
-      "url": "https://github.com/juanfont/headscale",
-      "description": "An open source, self-hosted implementation of the Tailscale control server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "32,445",
-      "forks": "1,728",
-      "addStars": "494",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98431?s=40&v=4",
-          "name": "kradalby",
-          "url": "https://github.com/kradalby"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181059?s=40&v=4",
-          "name": "juanfont",
-          "url": "https://github.com/juanfont"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4",
-          "name": "restanrm",
-          "url": "https://github.com/restanrm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/131119?s=40&v=4",
-          "name": "nblock",
-          "url": "https://github.com/nblock"
-        }
-      ]
-    },
-    {
-      "title": "putyy/res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "11,343",
-      "forks": "1,365",
-      "addStars": "314",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",
-          "name": "putyy",
-          "url": "https://github.com/putyy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13965460?s=40&v=4",
-          "name": "taotieren",
-          "url": "https://github.com/taotieren"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16227832?s=40&v=4",
-          "name": "claviering",
-          "url": "https://github.com/claviering"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19386888?s=40&v=4",
-          "name": "qiuzhiqian",
-          "url": "https://github.com/qiuzhiqian"
-        }
-      ]
-    },
-    {
-      "title": "smartcontractkit/chainlink",
-      "url": "https://github.com/smartcontractkit/chainlink",
-      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "8,057",
-      "forks": "1,898",
-      "addStars": "248",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/573827?s=40&v=4",
-          "name": "se3000",
-          "url": "https://github.com/se3000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/344071?s=40&v=4",
-          "name": "j16r",
-          "url": "https://github.com/j16r"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/635121?s=40&v=4",
-          "name": "dimroc",
-          "url": "https://github.com/dimroc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4147639?s=40&v=4",
-          "name": "samsondav",
-          "url": "https://github.com/samsondav"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1194128?s=40&v=4",
-          "name": "jmank88",
-          "url": "https://github.com/jmank88"
-        }
-      ]
-    },
-    {
-      "title": "charmbracelet/glow",
-      "url": "https://github.com/charmbracelet/glow",
-      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "20,226",
-      "forks": "487",
-      "addStars": "302",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25087?s=40&v=4",
-          "name": "meowgorithm",
-          "url": "https://github.com/meowgorithm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/146378?s=40&v=4",
-          "name": "muesli",
-          "url": "https://github.com/muesli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/245435?s=40&v=4",
-          "name": "caarlos0",
-          "url": "https://github.com/caarlos0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13225611?s=40&v=4",
-          "name": "penguwin",
-          "url": "https://github.com/penguwin"
-        }
-      ]
-    },
-    {
-      "title": "juicedata/juicefs",
-      "url": "https://github.com/juicedata/juicefs",
-      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "12,357",
-      "forks": "1,096",
-      "addStars": "73",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40902?s=40&v=4",
-          "name": "davies",
-          "url": "https://github.com/davies"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31313340?s=40&v=4",
-          "name": "zhijian-pro",
-          "url": "https://github.com/zhijian-pro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13882241?s=40&v=4",
-          "name": "SandyXSD",
-          "url": "https://github.com/SandyXSD"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100545994?s=40&v=4",
-          "name": "zhoucheng361",
-          "url": "https://github.com/zhoucheng361"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/149645?s=40&v=4",
-          "name": "xiaogaozi",
-          "url": "https://github.com/xiaogaozi"
-        }
-      ]
-    },
-    {
-      "title": "chaitin/SafeLine",
-      "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "18,991",
-      "forks": "1,178",
-      "addStars": "437",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/150229899?s=40&v=4",
-          "name": "xbingW",
-          "url": "https://github.com/xbingW"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/780596?s=40&v=4",
-          "name": "delong8",
-          "url": "https://github.com/delong8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6045228?s=40&v=4",
-          "name": "zclaiqcc",
-          "url": "https://github.com/zclaiqcc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/140062425?s=40&v=4",
-          "name": "safe1ine",
-          "url": "https://github.com/safe1ine"
-        }
-      ]
-    },
-    {
       "title": "henrygd/beszel",
       "url": "https://github.com/henrygd/beszel",
       "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,470",
+      "stars": "16,477",
       "forks": "526",
       "addStars": "326",
       "contributors": [
@@ -377,13 +239,131 @@
       ]
     },
     {
+      "title": "trpc-group/trpc-agent-go",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "description": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "652",
+      "forks": "45",
+      "addStars": "201",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20353612?s=40&v=4",
+          "name": "WineChord",
+          "url": "https://github.com/WineChord"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72180543?s=40&v=4",
+          "name": "Rememorio",
+          "url": "https://github.com/Rememorio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/960434?s=40&v=4",
+          "name": "sandyskies",
+          "url": "https://github.com/sandyskies"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53028871?s=40&v=4",
+          "name": "liuzengh",
+          "url": "https://github.com/liuzengh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/207557725?s=40&v=4",
+          "name": "hyprh",
+          "url": "https://github.com/hyprh"
+        }
+      ]
+    },
+    {
+      "title": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "11,365",
+      "forks": "1,370",
+      "addStars": "314",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",
+          "name": "putyy",
+          "url": "https://github.com/putyy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13965460?s=40&v=4",
+          "name": "taotieren",
+          "url": "https://github.com/taotieren"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16227832?s=40&v=4",
+          "name": "claviering",
+          "url": "https://github.com/claviering"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19386888?s=40&v=4",
+          "name": "qiuzhiqian",
+          "url": "https://github.com/qiuzhiqian"
+        }
+      ]
+    },
+    {
+      "title": "bpg/terraform-provider-proxmox",
+      "url": "https://github.com/bpg/terraform-provider-proxmox",
+      "description": "Terraform / OpenTofu Provider for Proxmox VE",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "1,595",
+      "forks": "223",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/627562?s=40&v=4",
+          "name": "bpg",
+          "url": "https://github.com/bpg"
+        }
+      ]
+    },
+    {
+      "title": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "18,999",
+      "forks": "1,178",
+      "addStars": "437",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/150229899?s=40&v=4",
+          "name": "xbingW",
+          "url": "https://github.com/xbingW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/780596?s=40&v=4",
+          "name": "delong8",
+          "url": "https://github.com/delong8"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6045228?s=40&v=4",
+          "name": "zclaiqcc",
+          "url": "https://github.com/zclaiqcc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140062425?s=40&v=4",
+          "name": "safe1ine",
+          "url": "https://github.com/safe1ine"
+        }
+      ]
+    },
+    {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "155,266",
-      "forks": "13,525",
+      "stars": "155,281",
+      "forks": "13,527",
       "addStars": "534",
       "contributors": [
         {
@@ -414,125 +394,39 @@
       ]
     },
     {
-      "title": "Notifuse/notifuse",
-      "url": "https://github.com/Notifuse/notifuse",
-      "description": "Notifuse is an open-source & modern emailing platform",
+      "title": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,247",
-      "forks": "117",
-      "addStars": "260",
+      "stars": "12,101",
+      "forks": "851",
+      "addStars": "72",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1058531?s=40&v=4",
-          "name": "pierre-b",
-          "url": "https://github.com/pierre-b"
+          "avatar": "https://avatars.githubusercontent.com/u/9405495?s=40&v=4",
+          "name": "livio-a",
+          "url": "https://github.com/livio-a"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        }
-      ]
-    },
-    {
-      "title": "go-gitea/gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "51,770",
-      "forks": "6,181",
-      "addStars": "359",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81045?s=40&v=4",
-          "name": "lunny",
-          "url": "https://github.com/lunny"
+          "avatar": "https://avatars.githubusercontent.com/u/10165752?s=40&v=4",
+          "name": "peintnermax",
+          "url": "https://github.com/peintnermax"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2946214?s=40&v=4",
-          "name": "unknwon",
-          "url": "https://github.com/unknwon"
+          "avatar": "https://avatars.githubusercontent.com/u/38692350?s=40&v=4",
+          "name": "hifabienne",
+          "url": "https://github.com/hifabienne"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24582011?s=40&v=4",
-          "name": "GiteaBot",
-          "url": "https://github.com/GiteaBot"
+          "avatar": "https://avatars.githubusercontent.com/u/27845747?s=40&v=4",
+          "name": "adlerhurst",
+          "url": "https://github.com/adlerhurst"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2114189?s=40&v=4",
-          "name": "wxiaoguang",
-          "url": "https://github.com/wxiaoguang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1824502?s=40&v=4",
-          "name": "zeripath",
-          "url": "https://github.com/zeripath"
-        }
-      ]
-    },
-    {
-      "title": "usememos/memos",
-      "url": "https://github.com/usememos/memos",
-      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "45,630",
-      "forks": "3,261",
-      "addStars": "365",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&v=4",
-          "name": "boojack",
-          "url": "https://github.com/boojack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&v=4",
-          "name": "johnnyjoygh",
-          "url": "https://github.com/johnnyjoygh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&v=4",
-          "name": "athurg",
-          "url": "https://github.com/athurg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31177490?s=40&v=4",
-          "name": "Zeng1998",
-          "url": "https://github.com/Zeng1998"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA/k8s-device-plugin",
-      "url": "https://github.com/NVIDIA/k8s-device-plugin",
-      "description": "NVIDIA device plugin for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "3,518",
-      "forks": "752",
-      "addStars": "37",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/931393?s=40&v=4",
-          "name": "elezar",
-          "url": "https://github.com/elezar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96419?s=40&v=4",
-          "name": "klueska",
-          "url": "https://github.com/klueska"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15933089?s=40&v=4",
-          "name": "ArangoGutierrez",
-          "url": "https://github.com/ArangoGutierrez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16581051?s=40&v=4",
-          "name": "cdesiniotis",
-          "url": "https://github.com/cdesiniotis"
+          "avatar": "https://avatars.githubusercontent.com/u/9879976?s=40&v=4",
+          "name": "fforootd",
+          "url": "https://github.com/fforootd"
         }
       ]
     },
@@ -542,8 +436,8 @@
       "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,358",
-      "forks": "2,792",
+      "stars": "52,373",
+      "forks": "2,793",
       "addStars": "279",
       "contributors": [
         {
@@ -574,29 +468,167 @@
       ]
     },
     {
-      "title": "ArvinLovegood/go-stock",
-      "url": "https://github.com/ArvinLovegood/go-stock",
-      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "title": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,024",
-      "forks": "498",
-      "addStars": "139",
+      "stars": "36,459",
+      "forks": "2,886",
+      "addStars": "400",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7401917?s=40&v=4",
-          "name": "ArvinLovegood",
-          "url": "https://github.com/ArvinLovegood"
+          "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&v=4",
+          "name": "mudler",
+          "url": "https://github.com/mudler"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/49932926?s=40&v=4",
-          "name": "CodeNoobLH",
-          "url": "https://github.com/CodeNoobLH"
+          "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&v=4",
+          "name": "localai-bot",
+          "url": "https://github.com/localai-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13131107?s=40&v=4",
-          "name": "GiCo001",
-          "url": "https://github.com/GiCo001"
+          "avatar": "https://avatars.githubusercontent.com/u/15875595?s=40&v=4",
+          "name": "dave-gray101",
+          "url": "https://github.com/dave-gray101"
+        }
+      ]
+    },
+    {
+      "title": "smartcontractkit/chainlink",
+      "url": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "8,057",
+      "forks": "1,899",
+      "addStars": "248",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/573827?s=40&v=4",
+          "name": "se3000",
+          "url": "https://github.com/se3000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/344071?s=40&v=4",
+          "name": "j16r",
+          "url": "https://github.com/j16r"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/635121?s=40&v=4",
+          "name": "dimroc",
+          "url": "https://github.com/dimroc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4147639?s=40&v=4",
+          "name": "samsondav",
+          "url": "https://github.com/samsondav"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1194128?s=40&v=4",
+          "name": "jmank88",
+          "url": "https://github.com/jmank88"
+        }
+      ]
+    },
+    {
+      "title": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "51,779",
+      "forks": "6,183",
+      "addStars": "359",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81045?s=40&v=4",
+          "name": "lunny",
+          "url": "https://github.com/lunny"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2946214?s=40&v=4",
+          "name": "unknwon",
+          "url": "https://github.com/unknwon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24582011?s=40&v=4",
+          "name": "GiteaBot",
+          "url": "https://github.com/GiteaBot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2114189?s=40&v=4",
+          "name": "wxiaoguang",
+          "url": "https://github.com/wxiaoguang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1824502?s=40&v=4",
+          "name": "zeripath",
+          "url": "https://github.com/zeripath"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/k8s-device-plugin",
+      "url": "https://github.com/NVIDIA/k8s-device-plugin",
+      "description": "NVIDIA device plugin for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "3,519",
+      "forks": "752",
+      "addStars": "37",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/931393?s=40&v=4",
+          "name": "elezar",
+          "url": "https://github.com/elezar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96419?s=40&v=4",
+          "name": "klueska",
+          "url": "https://github.com/klueska"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15933089?s=40&v=4",
+          "name": "ArangoGutierrez",
+          "url": "https://github.com/ArangoGutierrez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16581051?s=40&v=4",
+          "name": "cdesiniotis",
+          "url": "https://github.com/cdesiniotis"
+        }
+      ]
+    },
+    {
+      "title": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "45,643",
+      "forks": "3,262",
+      "addStars": "365",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&v=4",
+          "name": "boojack",
+          "url": "https://github.com/boojack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&v=4",
+          "name": "johnnyjoygh",
+          "url": "https://github.com/johnnyjoygh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&v=4",
+          "name": "athurg",
+          "url": "https://github.com/athurg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31177490?s=40&v=4",
+          "name": "Zeng1998",
+          "url": "https://github.com/Zeng1998"
         }
       ]
     },
@@ -606,7 +638,7 @@
       "description": "A rich terminal UI for GitHub that doesn't break your flow.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,191",
+      "stars": "9,197",
       "forks": "294",
       "addStars": "164",
       "contributors": [
@@ -638,56 +670,61 @@
       ]
     },
     {
-      "title": "bpg/terraform-provider-proxmox",
-      "url": "https://github.com/bpg/terraform-provider-proxmox",
-      "description": "Terraform / OpenTofu Provider for Proxmox VE",
+      "title": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,592",
-      "forks": "223",
-      "addStars": "21",
+      "stars": "11,264",
+      "forks": "968",
+      "addStars": "143",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/627562?s=40&v=4",
-          "name": "bpg",
-          "url": "https://github.com/bpg"
+          "avatar": "https://avatars.githubusercontent.com/u/45984206?s=40&v=4",
+          "name": "Yuan325",
+          "url": "https://github.com/Yuan325"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58483338?s=40&v=4",
+          "name": "twishabansal",
+          "url": "https://github.com/twishabansal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117315983?s=40&v=4",
+          "name": "duwenxin99",
+          "url": "https://github.com/duwenxin99"
         }
       ]
     },
     {
-      "title": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "title": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,727",
-      "forks": "2,066",
-      "addStars": "148",
+      "stars": "39,058",
+      "forks": "4,118",
+      "addStars": "38",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
-          "name": "bradfitz",
-          "url": "https://github.com/bradfitz"
+          "avatar": "https://avatars.githubusercontent.com/u/6843?s=40&v=4",
+          "name": "jinzhu",
+          "url": "https://github.com/jinzhu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&v=4",
-          "name": "danderson",
-          "url": "https://github.com/danderson"
+          "avatar": "https://avatars.githubusercontent.com/u/3412241?s=40&v=4",
+          "name": "emirb",
+          "url": "https://github.com/emirb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67496?s=40&v=4",
-          "name": "josharian",
-          "url": "https://github.com/josharian"
+          "avatar": "https://avatars.githubusercontent.com/u/11827916?s=40&v=4",
+          "name": "a631807682",
+          "url": "https://github.com/a631807682"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1079173?s=40&v=4",
-          "name": "andrew-d",
-          "url": "https://github.com/andrew-d"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/348?s=40&v=4",
-          "name": "raggi",
-          "url": "https://github.com/raggi"
+          "avatar": "https://avatars.githubusercontent.com/u/9988859?s=40&v=4",
+          "name": "daheige",
+          "url": "https://github.com/daheige"
         }
       ]
     },
@@ -720,43 +757,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1547186?s=40&v=4",
           "name": "ndyakov",
           "url": "https://github.com/ndyakov"
-        }
-      ]
-    },
-    {
-      "title": "traefik/traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "57,473",
-      "forks": "5,544",
-      "addStars": "165",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5674651?s=40&v=4",
-          "name": "ldez",
-          "url": "https://github.com/ldez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6207234?s=40&v=4",
-          "name": "emilevauge",
-          "url": "https://github.com/emilevauge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13045437?s=40&v=4",
-          "name": "rtribotte",
-          "url": "https://github.com/rtribotte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/299142?s=40&v=4",
-          "name": "kevinpollet",
-          "url": "https://github.com/kevinpollet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6508?s=40&v=4",
-          "name": "vdemeester",
-          "url": "https://github.com/vdemeester"
         }
       ]
     }
