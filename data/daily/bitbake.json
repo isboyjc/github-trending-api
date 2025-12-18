@@ -2,79 +2,42 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 18 Dec 2025 07:20:07 GMT",
+  "pubDate": "Thu, 18 Dec 2025 13:39:26 GMT",
   "items": [
     {
-      "title": "openembedded/meta-openembedded",
-      "url": "https://github.com/openembedded/meta-openembedded",
-      "description": "",
+      "title": "OE4T/meta-tegra",
+      "url": "https://github.com/OE4T/meta-tegra",
+      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "467",
-      "forks": "806",
+      "stars": "509",
+      "forks": "274",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37888291?s=40&v=4",
-          "name": "wangmingyu84",
-          "url": "https://github.com/wangmingyu84"
+          "avatar": "https://avatars.githubusercontent.com/u/3137284?s=40&v=4",
+          "name": "madisongh",
+          "url": "https://github.com/madisongh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48104?s=40&v=4",
+          "name": "kekiefer",
+          "url": "https://github.com/kekiefer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15719516?s=40&v=4",
+          "name": "ichergui",
+          "url": "https://github.com/ichergui"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
+          "name": "dwalkes",
+          "url": "https://github.com/dwalkes"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
           "name": "kraj",
           "url": "https://github.com/kraj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2571823?s=40&v=4",
-          "name": "schnitzeltony",
-          "url": "https://github.com/schnitzeltony"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3279083?s=40&v=4",
-          "name": "leon-anavi",
-          "url": "https://github.com/leon-anavi"
-        }
-      ]
-    },
-    {
-      "title": "openembedded/openembedded-core",
-      "url": "https://github.com/openembedded/openembedded-core",
-      "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/.",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "421",
-      "forks": "544",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1184070?s=40&v=4",
-          "name": "rpurdie",
-          "url": "https://github.com/rpurdie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
-          "name": "rossburton",
-          "url": "https://github.com/rossburton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1011938?s=40&v=4",
-          "name": "kanavin",
-          "url": "https://github.com/kanavin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
-          "name": "kraj",
-          "url": "https://github.com/kraj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37888291?s=40&v=4",
-          "name": "wangmingyu84",
-          "url": "https://github.com/wangmingyu84"
         }
       ]
     },
@@ -116,6 +79,149 @@
       ]
     },
     {
+      "title": "openembedded/meta-openembedded",
+      "url": "https://github.com/openembedded/meta-openembedded",
+      "description": "",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "467",
+      "forks": "807",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37888291?s=40&v=4",
+          "name": "wangmingyu84",
+          "url": "https://github.com/wangmingyu84"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2571823?s=40&v=4",
+          "name": "schnitzeltony",
+          "url": "https://github.com/schnitzeltony"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3279083?s=40&v=4",
+          "name": "leon-anavi",
+          "url": "https://github.com/leon-anavi"
+        }
+      ]
+    },
+    {
+      "title": "openbmc/openbmc",
+      "url": "https://github.com/openbmc/openbmc",
+      "description": "OpenBMC Distribution",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "2,318",
+      "forks": "1,048",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105009?s=40&v=4",
+          "name": "williamspatrick",
+          "url": "https://github.com/williamspatrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1612261?s=40&v=4",
+          "name": "geissonator",
+          "url": "https://github.com/geissonator"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8423748?s=40&v=4",
+          "name": "bradbishop",
+          "url": "https://github.com/bradbishop"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/207355?s=40&v=4",
+          "name": "shenki",
+          "url": "https://github.com/shenki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/526481?s=40&v=4",
+          "name": "amboar",
+          "url": "https://github.com/amboar"
+        }
+      ]
+    },
+    {
+      "title": "openembedded/openembedded-core",
+      "url": "https://github.com/openembedded/openembedded-core",
+      "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/.",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "421",
+      "forks": "544",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1184070?s=40&v=4",
+          "name": "rpurdie",
+          "url": "https://github.com/rpurdie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
+          "name": "rossburton",
+          "url": "https://github.com/rossburton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1011938?s=40&v=4",
+          "name": "kanavin",
+          "url": "https://github.com/kanavin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37888291?s=40&v=4",
+          "name": "wangmingyu84",
+          "url": "https://github.com/wangmingyu84"
+        }
+      ]
+    },
+    {
+      "title": "mendersoftware/meta-mender",
+      "url": "https://github.com/mendersoftware/meta-mender",
+      "description": "Yocto Project meta layer for the Mender client",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "184",
+      "forks": "211",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3168644?s=40&v=4",
+          "name": "lluiscampos",
+          "url": "https://github.com/lluiscampos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29454137?s=40&v=4",
+          "name": "oleorhagen",
+          "url": "https://github.com/oleorhagen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41870?s=40&v=4",
+          "name": "bboozzoo",
+          "url": "https://github.com/bboozzoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6329055?s=40&v=4",
+          "name": "pasinskim",
+          "url": "https://github.com/pasinskim"
+        }
+      ]
+    },
+    {
       "title": "Freescale/meta-freescale",
       "url": "https://github.com/Freescale/meta-freescale",
       "description": "Layer containing NXP hardware support metadata",
@@ -153,342 +259,61 @@
       ]
     },
     {
-      "title": "OE4T/meta-tegra",
-      "url": "https://github.com/OE4T/meta-tegra",
-      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
+      "title": "OSSystems/meta-browser",
+      "url": "https://github.com/OSSystems/meta-browser",
+      "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "509",
-      "forks": "274",
+      "stars": "210",
+      "forks": "216",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3137284?s=40&v=4",
-          "name": "madisongh",
-          "url": "https://github.com/madisongh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48104?s=40&v=4",
-          "name": "kekiefer",
-          "url": "https://github.com/kekiefer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15719516?s=40&v=4",
-          "name": "ichergui",
-          "url": "https://github.com/ichergui"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
-          "name": "dwalkes",
-          "url": "https://github.com/dwalkes"
+          "avatar": "https://avatars.githubusercontent.com/u/25278?s=40&v=4",
+          "name": "otavio",
+          "url": "https://github.com/otavio"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
           "name": "kraj",
           "url": "https://github.com/kraj"
-        }
-      ]
-    },
-    {
-      "title": "mendersoftware/meta-mender",
-      "url": "https://github.com/mendersoftware/meta-mender",
-      "description": "Yocto Project meta layer for the Mender client",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "184",
-      "forks": "211",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3168644?s=40&v=4",
-          "name": "lluiscampos",
-          "url": "https://github.com/lluiscampos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29454137?s=40&v=4",
-          "name": "oleorhagen",
-          "url": "https://github.com/oleorhagen"
+          "avatar": "https://avatars.githubusercontent.com/u/17875704?s=40&v=4",
+          "name": "OldManYellsAtCloud",
+          "url": "https://github.com/OldManYellsAtCloud"
         },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41870?s=40&v=4",
-          "name": "bboozzoo",
-          "url": "https://github.com/bboozzoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6329055?s=40&v=4",
-          "name": "pasinskim",
-          "url": "https://github.com/pasinskim"
-        }
-      ]
-    },
-    {
-      "title": "Xilinx/meta-xilinx",
-      "url": "https://github.com/Xilinx/meta-xilinx",
-      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "167",
-      "forks": "147",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7375778?s=40&v=4",
-          "name": "mhatle",
-          "url": "https://github.com/mhatle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1016397?s=40&v=4",
-          "name": "nathanrossi",
-          "url": "https://github.com/nathanrossi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8731280?s=40&v=4",
-          "name": "grsandeep85",
-          "url": "https://github.com/grsandeep85"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15717918?s=40&v=4",
-          "name": "ckalluri73",
-          "url": "https://github.com/ckalluri73"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68365708?s=40&v=4",
-          "name": "kedareswararao",
-          "url": "https://github.com/kedareswararao"
-        }
-      ]
-    },
-    {
-      "title": "mendersoftware/meta-mender-community",
-      "url": "https://github.com/mendersoftware/meta-mender-community",
-      "description": "Community supported Yocto Project layers (Board integrations) for Mender for different boards",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "69",
-      "forks": "160",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67025528?s=40&v=4",
-          "name": "TheYoctoJester",
-          "url": "https://github.com/TheYoctoJester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5717557?s=40&v=4",
-          "name": "mirzak",
-          "url": "https://github.com/mirzak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3137284?s=40&v=4",
-          "name": "madisongh",
-          "url": "https://github.com/madisongh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1001846?s=40&v=4",
-          "name": "drewmoseley",
-          "url": "https://github.com/drewmoseley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
-          "name": "dwalkes",
-          "url": "https://github.com/dwalkes"
-        }
-      ]
-    },
-    {
-      "title": "rauc/meta-rauc",
-      "url": "https://github.com/rauc/meta-rauc",
-      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "201",
-      "forks": "102",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1416326?s=40&v=4",
-          "name": "ejoerns",
-          "url": "https://github.com/ejoerns"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3678062?s=40&v=4",
-          "name": "jluebbe",
-          "url": "https://github.com/jluebbe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19584951?s=40&v=4",
-          "name": "OnkelUlla",
-          "url": "https://github.com/OnkelUlla"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31402500?s=40&v=4",
-          "name": "mschwan-phytec",
-          "url": "https://github.com/mschwan-phytec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1273320?s=40&v=4",
-          "name": "hnez",
-          "url": "https://github.com/hnez"
-        }
-      ]
-    },
-    {
-      "title": "ros/meta-ros",
-      "url": "https://github.com/ros/meta-ros",
-      "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "459",
-      "forks": "277",
-      "addStars": "0",
-      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
           "name": "shr-project",
           "url": "https://github.com/shr-project"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28444365?s=40&v=4",
-          "name": "robwoolley",
-          "url": "https://github.com/robwoolley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3032216?s=40&v=4",
-          "name": "bulwahn",
-          "url": "https://github.com/bulwahn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33377?s=40&v=4",
-          "name": "rojkov",
-          "url": "https://github.com/rojkov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2306212?s=40&v=4",
-          "name": "herbrechtsmeier",
-          "url": "https://github.com/herbrechtsmeier"
+          "avatar": "https://avatars.githubusercontent.com/u/5306904?s=40&v=4",
+          "name": "msisov",
+          "url": "https://github.com/msisov"
         }
       ]
     },
     {
-      "title": "aws4embeddedlinux/meta-aws",
-      "url": "https://github.com/aws4embeddedlinux/meta-aws",
-      "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
+      "title": "sbabic/meta-swupdate",
+      "url": "https://github.com/sbabic/meta-swupdate",
+      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "133",
-      "forks": "94",
+      "stars": "168",
+      "forks": "121",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91150960?s=40&v=4",
-          "name": "aws-iot-embedded-linux-ci",
-          "url": "https://github.com/aws-iot-embedded-linux-ci"
+          "avatar": "https://avatars.githubusercontent.com/u/1411982?s=40&v=4",
+          "name": "sbabic",
+          "url": "https://github.com/sbabic"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2979656?s=40&v=4",
-          "name": "thomas-roos",
-          "url": "https://github.com/thomas-roos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2113279?s=40&v=4",
-          "name": "rpcme",
-          "url": "https://github.com/rpcme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3642427?s=40&v=4",
-          "name": "nateglims",
-          "url": "https://github.com/nateglims"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2006441?s=40&v=4",
-          "name": "AdnaneKhan",
-          "url": "https://github.com/AdnaneKhan"
-        }
-      ]
-    },
-    {
-      "title": "balena-os/meta-balena",
-      "url": "https://github.com/balena-os/meta-balena",
-      "description": "A collection of Yocto layers used to build balenaOS images",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "983",
-      "forks": "125",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34882892?s=40&v=4",
-          "name": "balena-ci",
-          "url": "https://github.com/balena-ci"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/344336?s=40&v=4",
-          "name": "alexgg",
-          "url": "https://github.com/alexgg"
-        }
-      ]
-    },
-    {
-      "title": "openbmc/openbmc",
-      "url": "https://github.com/openbmc/openbmc",
-      "description": "OpenBMC Distribution",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "2,317",
-      "forks": "1,048",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105009?s=40&v=4",
-          "name": "williamspatrick",
-          "url": "https://github.com/williamspatrick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1612261?s=40&v=4",
-          "name": "geissonator",
-          "url": "https://github.com/geissonator"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8423748?s=40&v=4",
-          "name": "bradbishop",
-          "url": "https://github.com/bradbishop"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/207355?s=40&v=4",
-          "name": "shenki",
-          "url": "https://github.com/shenki"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/526481?s=40&v=4",
-          "name": "amboar",
-          "url": "https://github.com/amboar"
-        }
-      ]
-    },
-    {
-      "title": "Igalia/meta-webkit",
-      "url": "https://github.com/Igalia/meta-webkit",
-      "description": "Yocto / OpenEmbedded layer for WebKit based engines and browsers",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "140",
-      "forks": "80",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/376838?s=40&v=4",
-          "name": "psaavedra",
-          "url": "https://github.com/psaavedra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/221181?s=40&v=4",
-          "name": "clopez",
-          "url": "https://github.com/clopez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34114?s=40&v=4",
-          "name": "philn",
-          "url": "https://github.com/philn"
+          "avatar": "https://avatars.githubusercontent.com/u/638766?s=40&v=4",
+          "name": "diegorondini",
+          "url": "https://github.com/diegorondini"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
@@ -496,9 +321,88 @@
           "url": "https://github.com/kraj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46943217?s=40&v=4",
-          "name": "JoshuaWatt",
-          "url": "https://github.com/JoshuaWatt"
+          "avatar": "https://avatars.githubusercontent.com/u/2828301?s=40&v=4",
+          "name": "texierp",
+          "url": "https://github.com/texierp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34969493?s=40&v=4",
+          "name": "kk6ho",
+          "url": "https://github.com/kk6ho"
+        }
+      ]
+    },
+    {
+      "title": "kraj/meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "188",
+      "forks": "236",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
+          "name": "rossburton",
+          "url": "https://github.com/rossburton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
+          "name": "dankm",
+          "url": "https://github.com/dankm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9674237?s=40&v=4",
+          "name": "Ecordonnier",
+          "url": "https://github.com/Ecordonnier"
+        }
+      ]
+    },
+    {
+      "title": "kraj/meta-openwrt",
+      "url": "https://github.com/kraj/meta-openwrt",
+      "description": "OE/Yocto metadata layer for OpenWRT",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "122",
+      "forks": "82",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
+          "name": "kraj",
+          "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8968?s=40&v=4",
+          "name": "troth",
+          "url": "https://github.com/troth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2940537?s=40&v=4",
+          "name": "fbertux",
+          "url": "https://github.com/fbertux"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5088857?s=40&v=4",
+          "name": "nquest",
+          "url": "https://github.com/nquest"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9120261?s=40&v=4",
+          "name": "stangerm2",
+          "url": "https://github.com/stangerm2"
         }
       ]
     },
@@ -540,6 +444,43 @@
       ]
     },
     {
+      "title": "rauc/meta-rauc",
+      "url": "https://github.com/rauc/meta-rauc",
+      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "201",
+      "forks": "102",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1416326?s=40&v=4",
+          "name": "ejoerns",
+          "url": "https://github.com/ejoerns"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3678062?s=40&v=4",
+          "name": "jluebbe",
+          "url": "https://github.com/jluebbe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19584951?s=40&v=4",
+          "name": "OnkelUlla",
+          "url": "https://github.com/OnkelUlla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31402500?s=40&v=4",
+          "name": "mschwan-phytec",
+          "url": "https://github.com/mschwan-phytec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1273320?s=40&v=4",
+          "name": "hnez",
+          "url": "https://github.com/hnez"
+        }
+      ]
+    },
+    {
       "title": "meta-rust/meta-rust",
       "url": "https://github.com/meta-rust/meta-rust",
       "description": "OpenEmbedded/Yocto layer for Rust and Cargo",
@@ -577,13 +518,50 @@
       ]
     },
     {
+      "title": "meta-flutter/meta-flutter",
+      "url": "https://github.com/meta-flutter/meta-flutter",
+      "description": "Google Flutter for Yocto",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "180",
+      "forks": "80",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12262875?s=40&v=4",
+          "name": "jwinarske",
+          "url": "https://github.com/jwinarske"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101173516?s=40&v=4",
+          "name": "kwavnet",
+          "url": "https://github.com/kwavnet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
+          "name": "shr-project",
+          "url": "https://github.com/shr-project"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35777938?s=40&v=4",
+          "name": "StaticRocket",
+          "url": "https://github.com/StaticRocket"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89133?s=40&v=4",
+          "name": "rzr",
+          "url": "https://github.com/rzr"
+        }
+      ]
+    },
+    {
       "title": "STMicroelectronics/meta-st-stm32mp",
       "url": "https://github.com/STMicroelectronics/meta-st-stm32mp",
       "description": "meta-st-stm32mp",
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": "158",
-      "forks": "116",
+      "forks": "117",
       "addStars": "0",
       "contributors": [
         {
@@ -614,76 +592,135 @@
       ]
     },
     {
-      "title": "rust-embedded/meta-rust-bin",
-      "url": "https://github.com/rust-embedded/meta-rust-bin",
-      "description": "Yocto layer for installing Rust toolchain from pre-built binaries",
+      "title": "aws4embeddedlinux/meta-aws",
+      "url": "https://github.com/aws4embeddedlinux/meta-aws",
+      "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "122",
-      "forks": "81",
+      "stars": "133",
+      "forks": "94",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/41714?s=40&v=4",
-          "name": "posborne",
-          "url": "https://github.com/posborne"
+          "avatar": "https://avatars.githubusercontent.com/u/91150960?s=40&v=4",
+          "name": "aws-iot-embedded-linux-ci",
+          "url": "https://github.com/aws-iot-embedded-linux-ci"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1500008?s=40&v=4",
-          "name": "nastevens",
-          "url": "https://github.com/nastevens"
+          "avatar": "https://avatars.githubusercontent.com/u/2979656?s=40&v=4",
+          "name": "thomas-roos",
+          "url": "https://github.com/thomas-roos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43125?s=40&v=4",
-          "name": "eldruin",
-          "url": "https://github.com/eldruin"
+          "avatar": "https://avatars.githubusercontent.com/u/2113279?s=40&v=4",
+          "name": "rpcme",
+          "url": "https://github.com/rpcme"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3642427?s=40&v=4",
+          "name": "nateglims",
+          "url": "https://github.com/nateglims"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2006441?s=40&v=4",
+          "name": "AdnaneKhan",
+          "url": "https://github.com/AdnaneKhan"
+        }
+      ]
+    },
+    {
+      "title": "mendersoftware/meta-mender-community",
+      "url": "https://github.com/mendersoftware/meta-mender-community",
+      "description": "Community supported Yocto Project layers (Board integrations) for Mender for different boards",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "69",
+      "forks": "160",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67025528?s=40&v=4",
+          "name": "TheYoctoJester",
+          "url": "https://github.com/TheYoctoJester"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5717557?s=40&v=4",
+          "name": "mirzak",
+          "url": "https://github.com/mirzak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3137284?s=40&v=4",
+          "name": "madisongh",
+          "url": "https://github.com/madisongh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1001846?s=40&v=4",
+          "name": "drewmoseley",
+          "url": "https://github.com/drewmoseley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
+          "name": "dwalkes",
+          "url": "https://github.com/dwalkes"
+        }
+      ]
+    },
+    {
+      "title": "balena-os/meta-balena",
+      "url": "https://github.com/balena-os/meta-balena",
+      "description": "A collection of Yocto layers used to build balenaOS images",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "983",
+      "forks": "125",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34882892?s=40&v=4",
+          "name": "balena-ci",
+          "url": "https://github.com/balena-ci"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/344336?s=40&v=4",
+          "name": "alexgg",
+          "url": "https://github.com/alexgg"
+        }
+      ]
+    },
+    {
+      "title": "Freescale/meta-freescale-3rdparty",
+      "url": "https://github.com/Freescale/meta-freescale-3rdparty",
+      "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": "121",
+      "forks": "534",
+      "addStars": "0",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25278?s=40&v=4",
           "name": "otavio",
           "url": "https://github.com/otavio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109770420?s=40&v=4",
-          "name": "eric-seppanen",
-          "url": "https://github.com/eric-seppanen"
-        }
-      ]
-    },
-    {
-      "title": "kraj/meta-clang",
-      "url": "https://github.com/kraj/meta-clang",
-      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": "188",
-      "forks": "235",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
-          "name": "kraj",
-          "url": "https://github.com/kraj"
+          "avatar": "https://avatars.githubusercontent.com/u/2940537?s=40&v=4",
+          "name": "fbertux",
+          "url": "https://github.com/fbertux"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1234642?s=40&v=4",
-          "name": "shr-project",
-          "url": "https://github.com/shr-project"
+          "avatar": "https://avatars.githubusercontent.com/u/9402633?s=40&v=4",
+          "name": "MaxKrummenacher",
+          "url": "https://github.com/MaxKrummenacher"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32394?s=40&v=4",
-          "name": "rossburton",
-          "url": "https://github.com/rossburton"
+          "avatar": "https://avatars.githubusercontent.com/u/1485212?s=40&v=4",
+          "name": "ericnelsonaz",
+          "url": "https://github.com/ericnelsonaz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/179131?s=40&v=4",
-          "name": "dankm",
-          "url": "https://github.com/dankm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9674237?s=40&v=4",
-          "name": "Ecordonnier",
-          "url": "https://github.com/Ecordonnier"
+          "avatar": "https://avatars.githubusercontent.com/u/8184161?s=40&v=4",
+          "name": "iancoolidge89",
+          "url": "https://github.com/iancoolidge89"
         }
       ]
     }
