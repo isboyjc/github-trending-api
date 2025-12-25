@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 25 Dec 2025 07:19:42 GMT",
+  "pubDate": "Thu, 25 Dec 2025 13:35:02 GMT",
   "items": [
     {
       "title": "thu-ml/SageAttention",
@@ -10,8 +10,8 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,926",
-      "forks": "291",
+      "stars": "2,936",
+      "forks": "293",
       "addStars": "17",
       "contributors": [
         {
@@ -42,12 +42,86 @@
       ]
     },
     {
+      "title": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "5,999",
+      "forks": "780",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44948473?s=40&v=4",
+          "name": "soundOfDestiny",
+          "url": "https://github.com/soundOfDestiny"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94977922?s=40&v=4",
+          "name": "zheanxu",
+          "url": "https://github.com/zheanxu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34201481?s=40&v=4",
+          "name": "RayWang96",
+          "url": "https://github.com/RayWang96"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
+          "name": "ko3n1g",
+          "url": "https://github.com/ko3n1g"
+        }
+      ]
+    },
+    {
+      "title": "thu-ml/SpargeAttn",
+      "url": "https://github.com/thu-ml/SpargeAttn",
+      "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "862",
+      "forks": "74",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
+          "name": "jt-zhang",
+          "url": "https://github.com/jt-zhang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66510463?s=40&v=4",
+          "name": "Xiang-cd",
+          "url": "https://github.com/Xiang-cd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
+          "name": "whx1003",
+          "url": "https://github.com/whx1003"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
+          "name": "jason-huang03",
+          "url": "https://github.com/jason-huang03"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
+          "name": "XiaomingXu1995",
+          "url": "https://github.com/XiaomingXu1995"
+        }
+      ]
+    },
+    {
       "title": "Infatoshi/cuda-course",
       "url": "https://github.com/Infatoshi/cuda-course",
       "description": "",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,446",
+      "stars": "2,449",
       "forks": "475",
       "addStars": "25",
       "contributors": [
@@ -75,80 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/28655959?s=40&v=4",
           "name": "tobiaskalb",
           "url": "https://github.com/tobiaskalb"
-        }
-      ]
-    },
-    {
-      "title": "nerfstudio-project/gsplat",
-      "url": "https://github.com/nerfstudio-project/gsplat",
-      "description": "CUDA accelerated rasterization of gaussian splatting",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "4,203",
-      "forks": "645",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10151885?s=40&v=4",
-          "name": "liruilong940607",
-          "url": "https://github.com/liruilong940607"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5694811?s=40&v=4",
-          "name": "vye16",
-          "url": "https://github.com/vye16"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30566358?s=40&v=4",
-          "name": "maturk",
-          "url": "https://github.com/maturk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15806475?s=40&v=4",
-          "name": "kerrj",
-          "url": "https://github.com/kerrj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6992947?s=40&v=4",
-          "name": "brentyi",
-          "url": "https://github.com/brentyi"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA/cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "629",
-      "forks": "104",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
-          "name": "rgsl888prabhu",
-          "url": "https://github.com/rgsl888prabhu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
-          "name": "GPUtester",
-          "url": "https://github.com/GPUtester"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
-          "name": "aliceb-nv",
-          "url": "https://github.com/aliceb-nv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184431765?s=40&v=4",
-          "name": "chris-maes",
-          "url": "https://github.com/chris-maes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15280931?s=40&v=4",
-          "name": "hlinsen",
-          "url": "https://github.com/hlinsen"
         }
       ]
     },
@@ -190,150 +190,76 @@
       ]
     },
     {
-      "title": "deepseek-ai/DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
+      "title": "HazyResearch/ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,830",
-      "forks": "1,037",
-      "addStars": "1",
+      "stars": "3,017",
+      "forks": "220",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
-          "name": "LyricZhao",
-          "url": "https://github.com/LyricZhao"
+          "avatar": "https://avatars.githubusercontent.com/u/11230781?s=40&v=4",
+          "name": "benjaminfspector",
+          "url": "https://github.com/benjaminfspector"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
-          "name": "sphish",
-          "url": "https://github.com/sphish"
+          "avatar": "https://avatars.githubusercontent.com/u/31910389?s=40&v=4",
+          "name": "StuartSul",
+          "url": "https://github.com/StuartSul"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
-          "name": "fzyzcjy",
-          "url": "https://github.com/fzyzcjy"
+          "avatar": "https://avatars.githubusercontent.com/u/48185825?s=40&v=4",
+          "name": "Aaryan0404",
+          "url": "https://github.com/Aaryan0404"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
-          "name": "seth-howell",
-          "url": "https://github.com/seth-howell"
+          "avatar": "https://avatars.githubusercontent.com/u/42813008?s=40&v=4",
+          "name": "jordan-benjamin",
+          "url": "https://github.com/jordan-benjamin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
-          "name": "wangfakang",
-          "url": "https://github.com/wangfakang"
+          "avatar": "https://avatars.githubusercontent.com/u/29069240?s=40&v=4",
+          "name": "simran-arora",
+          "url": "https://github.com/simran-arora"
         }
       ]
     },
     {
-      "title": "karpathy/llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "baidu-research/warp-ctc",
+      "url": "https://github.com/baidu-research/warp-ctc",
+      "description": "Fast parallel CTC.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "28,460",
-      "forks": "3,338",
-      "addStars": "6",
+      "stars": "4,078",
+      "forks": "1,036",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
+          "avatar": "https://avatars.githubusercontent.com/u/155158?s=40&v=4",
+          "name": "jaredcasper",
+          "url": "https://github.com/jaredcasper"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
-          "name": "ngc92",
-          "url": "https://github.com/ngc92"
+          "avatar": "https://avatars.githubusercontent.com/u/2533174?s=40&v=4",
+          "name": "ekelsen",
+          "url": "https://github.com/ekelsen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
-          "name": "gordicaleksa",
-          "url": "https://github.com/gordicaleksa"
+          "avatar": "https://avatars.githubusercontent.com/u/3071933?s=40&v=4",
+          "name": "gangliao",
+          "url": "https://github.com/gangliao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
-          "name": "ademeure",
-          "url": "https://github.com/ademeure"
+          "avatar": "https://avatars.githubusercontent.com/u/164659?s=40&v=4",
+          "name": "bryancatanzaro",
+          "url": "https://github.com/bryancatanzaro"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
-          "name": "rosslwheeler",
-          "url": "https://github.com/rosslwheeler"
-        }
-      ]
-    },
-    {
-      "title": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "5,997",
-      "forks": "779",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
-          "name": "LyricZhao",
-          "url": "https://github.com/LyricZhao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44948473?s=40&v=4",
-          "name": "soundOfDestiny",
-          "url": "https://github.com/soundOfDestiny"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94977922?s=40&v=4",
-          "name": "zheanxu",
-          "url": "https://github.com/zheanxu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34201481?s=40&v=4",
-          "name": "RayWang96",
-          "url": "https://github.com/RayWang96"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
-          "name": "ko3n1g",
-          "url": "https://github.com/ko3n1g"
-        }
-      ]
-    },
-    {
-      "title": "thu-ml/SpargeAttn",
-      "url": "https://github.com/thu-ml/SpargeAttn",
-      "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "860",
-      "forks": "74",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
-          "name": "jt-zhang",
-          "url": "https://github.com/jt-zhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66510463?s=40&v=4",
-          "name": "Xiang-cd",
-          "url": "https://github.com/Xiang-cd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
-          "name": "whx1003",
-          "url": "https://github.com/whx1003"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
-          "name": "jason-huang03",
-          "url": "https://github.com/jason-huang03"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
-          "name": "XiaomingXu1995",
-          "url": "https://github.com/XiaomingXu1995"
+          "avatar": "https://avatars.githubusercontent.com/u/13411999?s=40&v=4",
+          "name": "wangchaochaohu",
+          "url": "https://github.com/wangchaochaohu"
         }
       ]
     },
@@ -375,76 +301,113 @@
       ]
     },
     {
-      "title": "Dao-AILab/causal-conv1d",
-      "url": "https://github.com/Dao-AILab/causal-conv1d",
-      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "title": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "681",
-      "forks": "147",
-      "addStars": "0",
+      "stars": "8,832",
+      "forks": "1,038",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5616128?s=40&v=4",
-          "name": "tridao",
-          "url": "https://github.com/tridao"
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/164261418?s=40&v=4",
-          "name": "ajassani",
-          "url": "https://github.com/ajassani"
+          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
+          "name": "sphish",
+          "url": "https://github.com/sphish"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
-          "name": "ko3n1g",
-          "url": "https://github.com/ko3n1g"
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
+          "name": "fzyzcjy",
+          "url": "https://github.com/fzyzcjy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32954280?s=40&v=4",
-          "name": "mayank31398",
-          "url": "https://github.com/mayank31398"
+          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
+          "name": "seth-howell",
+          "url": "https://github.com/seth-howell"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22727137?s=40&v=4",
-          "name": "johnnynunez",
-          "url": "https://github.com/johnnynunez"
+          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
+          "name": "wangfakang",
+          "url": "https://github.com/wangfakang"
         }
       ]
     },
     {
-      "title": "HazyResearch/ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,016",
-      "forks": "220",
-      "addStars": "3",
+      "title": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "4,358",
+      "forks": "616",
+      "addStars": "10",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11230781?s=40&v=4",
-          "name": "benjaminfspector",
-          "url": "https://github.com/benjaminfspector"
+          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
+          "name": "yzh119",
+          "url": "https://github.com/yzh119"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31910389?s=40&v=4",
-          "name": "StuartSul",
-          "url": "https://github.com/StuartSul"
+          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
+          "name": "yyihuang",
+          "url": "https://github.com/yyihuang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48185825?s=40&v=4",
-          "name": "Aaryan0404",
-          "url": "https://github.com/Aaryan0404"
+          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
+          "name": "bkryu",
+          "url": "https://github.com/bkryu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42813008?s=40&v=4",
-          "name": "jordan-benjamin",
-          "url": "https://github.com/jordan-benjamin"
+          "avatar": "https://avatars.githubusercontent.com/u/2470081?s=40&v=4",
+          "name": "abcdabcd987",
+          "url": "https://github.com/abcdabcd987"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29069240?s=40&v=4",
-          "name": "simran-arora",
-          "url": "https://github.com/simran-arora"
+          "avatar": "https://avatars.githubusercontent.com/u/10205827?s=40&v=4",
+          "name": "yongwww",
+          "url": "https://github.com/yongwww"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "1,383",
+      "forks": "338",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
+          "name": "AddyLaddy",
+          "url": "https://github.com/AddyLaddy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
+          "name": "sjeaugey",
+          "url": "https://github.com/sjeaugey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
+          "name": "jbachan",
+          "url": "https://github.com/jbachan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
+          "name": "lukeyeager",
+          "url": "https://github.com/lukeyeager"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6690627?s=40&v=4",
+          "name": "jithinjosepkl",
+          "url": "https://github.com/jithinjosepkl"
         }
       ]
     },
@@ -486,13 +449,13 @@
       ]
     },
     {
-      "title": "brucefan1983/GPUMD",
-      "url": "https://github.com/brucefan1983/GPUMD",
-      "description": "Graphics Processing Units Molecular Dynamics",
+      "title": "brucefan1983/CUDA-Programming",
+      "url": "https://github.com/brucefan1983/CUDA-Programming",
+      "description": "Sample codes for my CUDA programming book",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "702",
-      "forks": "164",
+      "stars": "1,956",
+      "forks": "380",
       "addStars": "0",
       "contributors": [
         {
@@ -501,24 +464,78 @@
           "url": "https://github.com/brucefan1983"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30561696?s=40&v=4",
-          "name": "Kick-H",
-          "url": "https://github.com/Kick-H"
+          "avatar": "https://avatars.githubusercontent.com/u/36254396?s=40&v=4",
+          "name": "YouQixiaowu",
+          "url": "https://github.com/YouQixiaowu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/105558367?s=40&v=4",
-          "name": "BBBuZHIDAO",
-          "url": "https://github.com/BBBuZHIDAO"
+          "avatar": "https://avatars.githubusercontent.com/u/19585240?s=40&v=4",
+          "name": "tomguluson92",
+          "url": "https://github.com/tomguluson92"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36497958?s=40&v=4",
-          "name": "psn417",
-          "url": "https://github.com/psn417"
+          "avatar": "https://avatars.githubusercontent.com/u/90297911?s=40&v=4",
+          "name": "c8ef",
+          "url": "https://github.com/c8ef"
+        }
+      ]
+    },
+    {
+      "title": "siboehm/SGEMM_CUDA",
+      "url": "https://github.com/siboehm/SGEMM_CUDA",
+      "description": "Fast CUDA matrix multiplication from scratch",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "987",
+      "forks": "149",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14908678?s=40&v=4",
+          "name": "siboehm",
+          "url": "https://github.com/siboehm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/27208255?s=40&v=4",
-          "name": "elindgren",
-          "url": "https://github.com/elindgren"
+          "avatar": "https://avatars.githubusercontent.com/u/24358098?s=40&v=4",
+          "name": "philipfabianek",
+          "url": "https://github.com/philipfabianek"
+        }
+      ]
+    },
+    {
+      "title": "nerfstudio-project/gsplat",
+      "url": "https://github.com/nerfstudio-project/gsplat",
+      "description": "CUDA accelerated rasterization of gaussian splatting",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "4,202",
+      "forks": "645",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10151885?s=40&v=4",
+          "name": "liruilong940607",
+          "url": "https://github.com/liruilong940607"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5694811?s=40&v=4",
+          "name": "vye16",
+          "url": "https://github.com/vye16"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30566358?s=40&v=4",
+          "name": "maturk",
+          "url": "https://github.com/maturk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15806475?s=40&v=4",
+          "name": "kerrj",
+          "url": "https://github.com/kerrj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6992947?s=40&v=4",
+          "name": "brentyi",
+          "url": "https://github.com/brentyi"
         }
       ]
     },
@@ -560,150 +577,187 @@
       ]
     },
     {
-      "title": "NVIDIA/nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
+      "title": "karpathy/llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,383",
-      "forks": "337",
-      "addStars": "0",
+      "stars": "28,459",
+      "forks": "3,338",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
-          "name": "AddyLaddy",
-          "url": "https://github.com/AddyLaddy"
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12857445?s=40&v=4",
-          "name": "sjeaugey",
-          "url": "https://github.com/sjeaugey"
+          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
+          "name": "ngc92",
+          "url": "https://github.com/ngc92"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2293859?s=40&v=4",
-          "name": "jbachan",
-          "url": "https://github.com/jbachan"
+          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
+          "name": "gordicaleksa",
+          "url": "https://github.com/gordicaleksa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
-          "name": "lukeyeager",
-          "url": "https://github.com/lukeyeager"
+          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
+          "name": "ademeure",
+          "url": "https://github.com/ademeure"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6690627?s=40&v=4",
-          "name": "jithinjosepkl",
-          "url": "https://github.com/jithinjosepkl"
+          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
+          "name": "rosslwheeler",
+          "url": "https://github.com/rosslwheeler"
         }
       ]
     },
     {
-      "title": "rapidsai/cuvs",
-      "url": "https://github.com/rapidsai/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "title": "brucefan1983/GPUMD",
+      "url": "https://github.com/brucefan1983/GPUMD",
+      "description": "Graphics Processing Units Molecular Dynamics",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "599",
-      "forks": "150",
-      "addStars": "1",
+      "stars": "703",
+      "forks": "165",
+      "addStars": "0",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24891193?s=40&v=4",
+          "name": "brucefan1983",
+          "url": "https://github.com/brucefan1983"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30561696?s=40&v=4",
+          "name": "Kick-H",
+          "url": "https://github.com/Kick-H"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105558367?s=40&v=4",
+          "name": "BBBuZHIDAO",
+          "url": "https://github.com/BBBuZHIDAO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36497958?s=40&v=4",
+          "name": "psn417",
+          "url": "https://github.com/psn417"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27208255?s=40&v=4",
+          "name": "elindgren",
+          "url": "https://github.com/elindgren"
+        }
+      ]
+    },
+    {
+      "title": "Dao-AILab/causal-conv1d",
+      "url": "https://github.com/Dao-AILab/causal-conv1d",
+      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "682",
+      "forks": "147",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5616128?s=40&v=4",
+          "name": "tridao",
+          "url": "https://github.com/tridao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/164261418?s=40&v=4",
+          "name": "ajassani",
+          "url": "https://github.com/ajassani"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
+          "name": "ko3n1g",
+          "url": "https://github.com/ko3n1g"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32954280?s=40&v=4",
+          "name": "mayank31398",
+          "url": "https://github.com/mayank31398"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22727137?s=40&v=4",
+          "name": "johnnynunez",
+          "url": "https://github.com/johnnynunez"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "629",
+      "forks": "104",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
+          "name": "rgsl888prabhu",
+          "url": "https://github.com/rgsl888prabhu"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
           "name": "GPUtester",
           "url": "https://github.com/GPUtester"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69536?s=40&v=4",
-          "name": "benfred",
-          "url": "https://github.com/benfred"
+          "avatar": "https://avatars.githubusercontent.com/u/160623740?s=40&v=4",
+          "name": "aliceb-nv",
+          "url": "https://github.com/aliceb-nv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3943761?s=40&v=4",
-          "name": "bdice",
-          "url": "https://github.com/bdice"
+          "avatar": "https://avatars.githubusercontent.com/u/184431765?s=40&v=4",
+          "name": "chris-maes",
+          "url": "https://github.com/chris-maes"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9253178?s=40&v=4",
-          "name": "achirkin",
-          "url": "https://github.com/achirkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1242464?s=40&v=4",
-          "name": "cjnolet",
-          "url": "https://github.com/cjnolet"
+          "avatar": "https://avatars.githubusercontent.com/u/15280931?s=40&v=4",
+          "name": "hlinsen",
+          "url": "https://github.com/hlinsen"
         }
       ]
     },
     {
-      "title": "princeton-vl/lietorch",
-      "url": "https://github.com/princeton-vl/lietorch",
-      "description": "",
+      "title": "NVIDIA/AMGX",
+      "url": "https://github.com/NVIDIA/AMGX",
+      "description": "Distributed multigrid linear solver library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "812",
-      "forks": "91",
+      "stars": "630",
+      "forks": "167",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11929093?s=40&v=4",
-          "name": "zachteed",
-          "url": "https://github.com/zachteed"
+          "avatar": "https://avatars.githubusercontent.com/u/9931059?s=40&v=4",
+          "name": "mattmartineau",
+          "url": "https://github.com/mattmartineau"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5267999?s=40&v=4",
-          "name": "jiadeng",
-          "url": "https://github.com/jiadeng"
+          "avatar": "https://avatars.githubusercontent.com/u/32493426?s=40&v=4",
+          "name": "marsaev",
+          "url": "https://github.com/marsaev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19435177?s=40&v=4",
-          "name": "hectorpiteau",
-          "url": "https://github.com/hectorpiteau"
+          "avatar": "https://avatars.githubusercontent.com/u/65027571?s=40&v=4",
+          "name": "gonzalobg",
+          "url": "https://github.com/gonzalobg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13513172?s=40&v=4",
-          "name": "mli0603",
-          "url": "https://github.com/mli0603"
+          "avatar": "https://avatars.githubusercontent.com/u/51991688?s=40&v=4",
+          "name": "mhrywniak",
+          "url": "https://github.com/mhrywniak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91532035?s=40&v=4",
-          "name": "nicogorlo",
-          "url": "https://github.com/nicogorlo"
-        }
-      ]
-    },
-    {
-      "title": "flashinfer-ai/flashinfer",
-      "url": "https://github.com/flashinfer-ai/flashinfer",
-      "description": "FlashInfer: Kernel Library for LLM Serving",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "4,353",
-      "forks": "616",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
-          "name": "yzh119",
-          "url": "https://github.com/yzh119"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
-          "name": "yyihuang",
-          "url": "https://github.com/yyihuang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43616432?s=40&v=4",
-          "name": "bkryu",
-          "url": "https://github.com/bkryu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2470081?s=40&v=4",
-          "name": "abcdabcd987",
-          "url": "https://github.com/abcdabcd987"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10205827?s=40&v=4",
-          "name": "yongwww",
-          "url": "https://github.com/yongwww"
+          "avatar": "https://avatars.githubusercontent.com/u/971921?s=40&v=4",
+          "name": "ibaned",
+          "url": "https://github.com/ibaned"
         }
       ]
     }
