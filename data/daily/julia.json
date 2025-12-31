@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 31 Dec 2025 07:21:23 GMT",
+  "pubDate": "Wed, 31 Dec 2025 13:35:23 GMT",
   "items": [
     {
       "title": "JuliaLang/julia",
@@ -79,34 +79,150 @@
       ]
     },
     {
-      "title": "CliMA/ClimaAtmos.jl",
-      "url": "https://github.com/CliMA/ClimaAtmos.jl",
-      "description": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
+      "title": "jump-dev/JuMP.jl",
+      "url": "https://github.com/jump-dev/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "108",
-      "forks": "27",
+      "stars": "2,389",
+      "forks": "412",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1733683?s=40&v=4",
+          "name": "mlubin",
+          "url": "https://github.com/mlubin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8177701?s=40&v=4",
+          "name": "odow",
+          "url": "https://github.com/odow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1048205?s=40&v=4",
+          "name": "blegat",
+          "url": "https://github.com/blegat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1373010?s=40&v=4",
+          "name": "joehuchette",
+          "url": "https://github.com/joehuchette"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/692635?s=40&v=4",
+          "name": "IainNZ",
+          "url": "https://github.com/IainNZ"
+        }
+      ]
+    },
+    {
+      "title": "SciML/LabelledArrays.jl",
+      "url": "https://github.com/SciML/LabelledArrays.jl",
+      "description": "Arrays which also have a label for each element for easy scientific machine learning (SciML)",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "122",
+      "forks": "20",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
-          "name": "charleskawczynski",
-          "url": "https://github.com/charleskawczynski"
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11598433?s=40&v=4",
-          "name": "szy21",
-          "url": "https://github.com/szy21"
+          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
+          "name": "YingboMa",
+          "url": "https://github.com/YingboMa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
-          "name": "Sbozzolo",
-          "url": "https://github.com/Sbozzolo"
+          "avatar": "https://avatars.githubusercontent.com/u/8043603?s=40&v=4",
+          "name": "chriselrod",
+          "url": "https://github.com/chriselrod"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1196696?s=40&v=4",
-          "name": "trontrytel",
-          "url": "https://github.com/trontrytel"
+          "avatar": "https://avatars.githubusercontent.com/u/11204473?s=40&v=4",
+          "name": "ArnoStrouwen",
+          "url": "https://github.com/ArnoStrouwen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30965945?s=40&v=4",
+          "name": "MSeeker1340",
+          "url": "https://github.com/MSeeker1340"
+        }
+      ]
+    },
+    {
+      "title": "JuliaCI/PkgTemplates.jl",
+      "url": "https://github.com/JuliaCI/PkgTemplates.jl",
+      "description": "Create new Julia packages, the easy way",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "687",
+      "forks": "107",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17228795?s=40&v=4",
+          "name": "christopher-dG",
+          "url": "https://github.com/christopher-dG"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5127634?s=40&v=4",
+          "name": "oxinabox",
+          "url": "https://github.com/oxinabox"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13448787?s=40&v=4",
+          "name": "nickrobinson251",
+          "url": "https://github.com/nickrobinson251"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22795598?s=40&v=4",
+          "name": "gdalle",
+          "url": "https://github.com/gdalle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3131001?s=40&v=4",
+          "name": "iamed2",
+          "url": "https://github.com/iamed2"
+        }
+      ]
+    },
+    {
+      "title": "SciML/LinearSolve.jl",
+      "url": "https://github.com/SciML/LinearSolve.jl",
+      "description": "LinearSolve.jl: High-Performance Unified Interface for Linear Solvers in Julia. Easily switch between factorization and Krylov methods, add preconditioners, and all in one interface.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "276",
+      "forks": "80",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34165782?s=40&v=4",
+          "name": "jClugstor",
+          "url": "https://github.com/jClugstor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36345239?s=40&v=4",
+          "name": "vpuri3",
+          "url": "https://github.com/vpuri3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30564094?s=40&v=4",
+          "name": "avik-pal",
+          "url": "https://github.com/avik-pal"
         }
       ]
     },
@@ -143,29 +259,93 @@
       ]
     },
     {
-      "title": "CliMA/ClimaCoupler.jl",
-      "url": "https://github.com/CliMA/ClimaCoupler.jl",
-      "description": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+      "title": "SciML/OrdinaryDiffEq.jl",
+      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
+      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "37",
-      "forks": "7",
+      "stars": "617",
+      "forks": "241",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51397186?s=40&v=4",
-          "name": "juliasloan25",
-          "url": "https://github.com/juliasloan25"
+          "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
+          "name": "ChrisRackauckas",
+          "url": "https://github.com/ChrisRackauckas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
-          "name": "Sbozzolo",
-          "url": "https://github.com/Sbozzolo"
+          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
+          "name": "YingboMa",
+          "url": "https://github.com/YingboMa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38083334?s=40&v=4",
-          "name": "LenkaNovak",
-          "url": "https://github.com/LenkaNovak"
+          "avatar": "https://avatars.githubusercontent.com/u/128291516?s=40&v=4",
+          "name": "ParamThakkar123",
+          "url": "https://github.com/ParamThakkar123"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34165782?s=40&v=4",
+          "name": "jClugstor",
+          "url": "https://github.com/jClugstor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26102?s=40&v=4",
+          "name": "devmotion",
+          "url": "https://github.com/devmotion"
+        }
+      ]
+    },
+    {
+      "title": "JuliaLang/PackageCompiler.jl",
+      "url": "https://github.com/JuliaLang/PackageCompiler.jl",
+      "description": "Compile your Julia Package",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "1,521",
+      "forks": "198",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1282691?s=40&v=4",
+          "name": "KristofferC",
+          "url": "https://github.com/KristofferC"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1010467?s=40&v=4",
+          "name": "SimonDanisch",
+          "url": "https://github.com/SimonDanisch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8380499?s=40&v=4",
+          "name": "lucatrv",
+          "url": "https://github.com/lucatrv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5619885?s=40&v=4",
+          "name": "DilumAluthge",
+          "url": "https://github.com/DilumAluthge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/744411?s=40&v=4",
+          "name": "ViralBShah",
+          "url": "https://github.com/ViralBShah"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/ClimaAtmos.jl",
+      "url": "https://github.com/CliMA/ClimaAtmos.jl",
+      "description": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "108",
+      "forks": "27",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/11598433?s=40&v=4",
@@ -173,9 +353,14 @@
           "url": "https://github.com/szy21"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65419507?s=40&v=4",
-          "name": "jb-mackay",
-          "url": "https://github.com/jb-mackay"
+          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
+          "name": "Sbozzolo",
+          "url": "https://github.com/Sbozzolo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1196696?s=40&v=4",
+          "name": "trontrytel",
+          "url": "https://github.com/trontrytel"
         }
       ]
     },
@@ -185,7 +370,7 @@
       "description": "Relax! Flux is the ML library that doesn't make you tensor",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "4,691",
+      "stars": "4,692",
       "forks": "615",
       "addStars": "2",
       "contributors": [
@@ -212,13 +397,13 @@
       ]
     },
     {
-      "title": "SciML/RuntimeGeneratedFunctions.jl",
-      "url": "https://github.com/SciML/RuntimeGeneratedFunctions.jl",
-      "description": "Functions generated at runtime without world-age issues or overhead",
+      "title": "SciML/NonlinearSolve.jl",
+      "url": "https://github.com/SciML/NonlinearSolve.jl",
+      "description": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "108",
-      "forks": "15",
+      "stars": "285",
+      "forks": "61",
       "addStars": "0",
       "contributors": [
         {
@@ -227,19 +412,61 @@
           "url": "https://github.com/ChrisRackauckas"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/30564094?s=40&v=4",
+          "name": "avik-pal",
+          "url": "https://github.com/avik-pal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34165782?s=40&v=4",
+          "name": "jClugstor",
+          "url": "https://github.com/jClugstor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87299998?s=40&v=4",
+          "name": "Deltadahl",
+          "url": "https://github.com/Deltadahl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52615090?s=40&v=4",
+          "name": "ErikQQY",
+          "url": "https://github.com/ErikQQY"
+        }
+      ]
+    },
+    {
+      "title": "JuliaArrays/StaticArrays.jl",
+      "url": "https://github.com/JuliaArrays/StaticArrays.jl",
+      "description": "Statically sized arrays for Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "820",
+      "forks": "153",
+      "addStars": "1",
+      "contributors": [
+        {
           "avatar": "https://avatars.githubusercontent.com/u/601473?s=40&v=4",
           "name": "c42f",
           "url": "https://github.com/c42f"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11204473?s=40&v=4",
-          "name": "ArnoStrouwen",
-          "url": "https://github.com/ArnoStrouwen"
+          "avatar": "https://avatars.githubusercontent.com/u/2974526?s=40&v=4",
+          "name": "andyferris",
+          "url": "https://github.com/andyferris"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17304743?s=40&v=4",
-          "name": "YingboMa",
-          "url": "https://github.com/YingboMa"
+          "avatar": "https://avatars.githubusercontent.com/u/2551062?s=40&v=4",
+          "name": "mateuszbaran",
+          "url": "https://github.com/mateuszbaran"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/828643?s=40&v=4",
+          "name": "kshyatt",
+          "url": "https://github.com/kshyatt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1010467?s=40&v=4",
+          "name": "SimonDanisch",
+          "url": "https://github.com/SimonDanisch"
         }
       ]
     },
@@ -276,78 +503,14 @@
       ]
     },
     {
-      "title": "JuliaAstro/GeneralAstrodynamics.jl",
-      "url": "https://github.com/JuliaAstro/GeneralAstrodynamics.jl",
-      "description": "Astrodynamics with units! Provides common astrodynamics calculations, plotting, and iterative Halo, Kepler, and Lambert solvers.",
+      "title": "JuliaSymbolics/Symbolics.jl",
+      "url": "https://github.com/JuliaSymbolics/Symbolics.jl",
+      "description": "Symbolic programming for the next generation of numerical software",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "28",
-      "forks": "4",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12131808?s=40&v=4",
-          "name": "cadojo",
-          "url": "https://github.com/cadojo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25312320?s=40&v=4",
-          "name": "icweaver",
-          "url": "https://github.com/icweaver"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/231346?s=40&v=4",
-          "name": "pbouffard",
-          "url": "https://github.com/pbouffard"
-        }
-      ]
-    },
-    {
-      "title": "CliMA/Oceananigans.jl",
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "1,216",
-      "forks": "259",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20099589?s=40&v=4",
-          "name": "ali-ramadhan",
-          "url": "https://github.com/ali-ramadhan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15271942?s=40&v=4",
-          "name": "glwagner",
-          "url": "https://github.com/glwagner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7112768?s=40&v=4",
-          "name": "navidcy",
-          "url": "https://github.com/navidcy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33547697?s=40&v=4",
-          "name": "simone-silvestri",
-          "url": "https://github.com/simone-silvestri"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13205162?s=40&v=4",
-          "name": "tomchor",
-          "url": "https://github.com/tomchor"
-        }
-      ]
-    },
-    {
-      "title": "SciML/RecursiveArrayTools.jl",
-      "url": "https://github.com/SciML/RecursiveArrayTools.jl",
-      "description": "Tools for easily handling objects like arrays of arrays and deeper nestings in scientific machine learning (SciML) and other applications",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "224",
-      "forks": "70",
-      "addStars": "0",
+      "stars": "1,482",
+      "forks": "175",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1814174?s=40&v=4",
@@ -365,46 +528,14 @@
           "url": "https://github.com/YingboMa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1156048?s=40&v=4",
-          "name": "jlchan",
-          "url": "https://github.com/jlchan"
+          "avatar": "https://avatars.githubusercontent.com/u/45696147?s=40&v=4",
+          "name": "bowenszhu",
+          "url": "https://github.com/bowenszhu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19674071?s=40&v=4",
-          "name": "sharanry",
-          "url": "https://github.com/sharanry"
-        }
-      ]
-    },
-    {
-      "title": "EnzymeAD/Reactant.jl",
-      "url": "https://github.com/EnzymeAD/Reactant.jl",
-      "description": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "277",
-      "forks": "39",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1260124?s=40&v=4",
-          "name": "wsmoses",
-          "url": "https://github.com/wsmoses"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30564094?s=40&v=4",
-          "name": "avik-pal",
-          "url": "https://github.com/avik-pal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15837247?s=40&v=4",
-          "name": "mofeing",
-          "url": "https://github.com/mofeing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
-          "name": "giordano",
-          "url": "https://github.com/giordano"
+          "avatar": "https://avatars.githubusercontent.com/u/58118886?s=40&v=4",
+          "name": "n0rbed",
+          "url": "https://github.com/n0rbed"
         }
       ]
     }
