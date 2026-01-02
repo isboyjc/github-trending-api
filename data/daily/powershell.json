@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Jan 2026 07:21:58 GMT",
+  "pubDate": "Fri, 02 Jan 2026 13:35:41 GMT",
   "items": [
     {
       "title": "microsoft/winget-pkgs",
@@ -10,8 +10,8 @@
       "description": "The Microsoft community Windows Package Manager manifest repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "10,060",
-      "forks": "5,841",
+      "stars": "10,062",
+      "forks": "5,842",
       "addStars": "3",
       "contributors": [
         {
@@ -42,12 +42,76 @@
       ]
     },
     {
+      "title": "actions/runner-images",
+      "url": "https://github.com/actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "12,293",
+      "forks": "3,639",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72681142?s=40&v=4",
+          "name": "459680",
+          "url": "https://github.com/459680"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47745270?s=40&v=4",
+          "name": "al-cheb",
+          "url": "https://github.com/al-cheb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48208649?s=40&v=4",
+          "name": "miketimofeev",
+          "url": "https://github.com/miketimofeev"
+        }
+      ]
+    },
+    {
+      "title": "ionuttbara/windows-defender-remover",
+      "url": "https://github.com/ionuttbara/windows-defender-remover",
+      "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "6,821",
+      "forks": "448",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76656855?s=40&v=4",
+          "name": "ionuttbara",
+          "url": "https://github.com/ionuttbara"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1227781?s=40&v=4",
+          "name": "laramy2020",
+          "url": "https://github.com/laramy2020"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3605378?s=40&v=4",
+          "name": "spddl",
+          "url": "https://github.com/spddl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38593134?s=40&v=4",
+          "name": "drunkwinter",
+          "url": "https://github.com/drunkwinter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/952007?s=40&v=4",
+          "name": "szepeviktor",
+          "url": "https://github.com/szepeviktor"
+        }
+      ]
+    },
+    {
       "title": "ChrisTitusTech/winutil",
       "url": "https://github.com/ChrisTitusTech/winutil",
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "44,998",
+      "stars": "45,008",
       "forks": "2,374",
       "addStars": "39",
       "contributors": [
@@ -79,214 +143,189 @@
       ]
     },
     {
-      "title": "SpecterOps/BloodHound-Legacy",
-      "url": "https://github.com/SpecterOps/BloodHound-Legacy",
-      "description": "Six Degrees of Domain Admin",
+      "title": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "10,488",
-      "forks": "1,789",
+      "stars": "36,959",
+      "forks": "1,432",
+      "addStars": "65",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
+          "name": "Raphire",
+          "url": "https://github.com/Raphire"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&v=4",
+          "name": "SashankBhamidi",
+          "url": "https://github.com/SashankBhamidi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&v=4",
+          "name": "tsumi",
+          "url": "https://github.com/tsumi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&v=4",
+          "name": "N0tHorizon",
+          "url": "https://github.com/N0tHorizon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2017355?s=40&v=4",
+          "name": "kapad",
+          "url": "https://github.com/kapad"
+        }
+      ]
+    },
+    {
+      "title": "dartraiden/NVIDIA-patcher",
+      "url": "https://github.com/dartraiden/NVIDIA-patcher",
+      "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "1,149",
+      "forks": "101",
       "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5720446?s=40&v=4",
-          "name": "rvazarkar",
-          "url": "https://github.com/rvazarkar"
+          "avatar": "https://avatars.githubusercontent.com/u/5046855?s=40&v=4",
+          "name": "dartraiden",
+          "url": "https://github.com/dartraiden"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/842644?s=40&v=4",
-          "name": "andyrobbins",
-          "url": "https://github.com/andyrobbins"
+          "avatar": "https://avatars.githubusercontent.com/u/46279346?s=40&v=4",
+          "name": "lupaev",
+          "url": "https://github.com/lupaev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12843299?s=40&v=4",
-          "name": "JonasBK",
-          "url": "https://github.com/JonasBK"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5504523?s=40&v=4",
-          "name": "HarmJ0y",
-          "url": "https://github.com/HarmJ0y"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40902872?s=40&v=4",
-          "name": "ShutdownRepo",
-          "url": "https://github.com/ShutdownRepo"
+          "avatar": "https://avatars.githubusercontent.com/u/19232315?s=40&v=4",
+          "name": "operador777",
+          "url": "https://github.com/operador777"
         }
       ]
     },
     {
-      "title": "cmderdev/cmder",
-      "url": "https://github.com/cmderdev/cmder",
-      "description": "Lovely console emulator package for Windows",
+      "title": "MicrosoftDocs/PowerShell-Docs",
+      "url": "https://github.com/MicrosoftDocs/PowerShell-Docs",
+      "description": "The official PowerShell documentation sources",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "26,718",
-      "forks": "2,084",
+      "stars": "2,343",
+      "forks": "1,675",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7318053?s=40&v=4",
-          "name": "daxgames",
-          "url": "https://github.com/daxgames"
+          "avatar": "https://avatars.githubusercontent.com/u/19415881?s=40&v=4",
+          "name": "sdwheeler",
+          "url": "https://github.com/sdwheeler"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4673812?s=40&v=4",
-          "name": "DRSDavidSoft",
-          "url": "https://github.com/DRSDavidSoft"
+          "avatar": "https://avatars.githubusercontent.com/u/38988242?s=40&v=4",
+          "name": "huypub",
+          "url": "https://github.com/huypub"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/75278?s=40&v=4",
-          "name": "Stanzilla",
-          "url": "https://github.com/Stanzilla"
+          "avatar": "https://avatars.githubusercontent.com/u/31453523?s=40&v=4",
+          "name": "chasewilson",
+          "url": "https://github.com/chasewilson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1244603?s=40&v=4",
-          "name": "MartiUK",
-          "url": "https://github.com/MartiUK"
+          "avatar": "https://avatars.githubusercontent.com/u/17914685?s=40&v=4",
+          "name": "juanpablojofre",
+          "url": "https://github.com/juanpablojofre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2674600?s=40&v=4",
-          "name": "samvasko",
-          "url": "https://github.com/samvasko"
+          "avatar": "https://avatars.githubusercontent.com/u/14190564?s=40&v=4",
+          "name": "michaeltlombardi",
+          "url": "https://github.com/michaeltlombardi"
         }
       ]
     },
     {
-      "title": "MicrosoftDocs/mcp",
-      "url": "https://github.com/MicrosoftDocs/mcp",
-      "description": "Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
+      "title": "Azure/PSRule.Rules.Azure",
+      "url": "https://github.com/Azure/PSRule.Rules.Azure",
+      "description": "Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,241",
-      "forks": "140",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5326582?s=40&v=4",
-          "name": "TianqiZhang",
-          "url": "https://github.com/TianqiZhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4709852?s=40&v=4",
-          "name": "pdebruin",
-          "url": "https://github.com/pdebruin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1669295?s=40&v=4",
-          "name": "partychen",
-          "url": "https://github.com/partychen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110547957?s=40&v=4",
-          "name": "Eimasogi",
-          "url": "https://github.com/Eimasogi"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/SdnDiagnostics",
-      "url": "https://github.com/microsoft/SdnDiagnostics",
-      "description": "SdnDiagnostics is a PowerShell module that is designed to simplify the diagnostic troubleshooting and data collection process when troubleshooting issues related to Microsoft Software Defined Network.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "30",
-      "forks": "4",
+      "stars": "432",
+      "forks": "99",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18577812?s=40&v=4",
-          "name": "arudell",
-          "url": "https://github.com/arudell"
+          "avatar": "https://avatars.githubusercontent.com/u/13513058?s=40&v=4",
+          "name": "BernieWhite",
+          "url": "https://github.com/BernieWhite"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50725564?s=40&v=4",
-          "name": "luyaof",
-          "url": "https://github.com/luyaof"
+          "avatar": "https://avatars.githubusercontent.com/u/99641908?s=40&v=4",
+          "name": "BenjaminEngeset",
+          "url": "https://github.com/BenjaminEngeset"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22527892?s=40&v=4",
-          "name": "microsoftopensource",
-          "url": "https://github.com/microsoftopensource"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83981959?s=40&v=4",
-          "name": "sbgms",
-          "url": "https://github.com/sbgms"
+          "avatar": "https://avatars.githubusercontent.com/u/20082136?s=40&v=4",
+          "name": "ArmaanMcleod",
+          "url": "https://github.com/ArmaanMcleod"
         }
       ]
     },
     {
-      "title": "cisagov/ScubaGear",
-      "url": "https://github.com/cisagov/ScubaGear",
-      "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
+      "title": "jenkinsci/docker",
+      "url": "https://github.com/jenkinsci/docker",
+      "description": "Docker official jenkins repo",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "2,388",
-      "forks": "335",
-      "addStars": "0",
+      "stars": "7,306",
+      "forks": "4,707",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108814318?s=40&v=4",
-          "name": "schrolla",
-          "url": "https://github.com/schrolla"
+          "avatar": "https://avatars.githubusercontent.com/u/23651?s=40&v=4",
+          "name": "carlossg",
+          "url": "https://github.com/carlossg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/105074908?s=40&v=4",
-          "name": "buidav",
-          "url": "https://github.com/buidav"
+          "avatar": "https://avatars.githubusercontent.com/u/156685?s=40&v=4",
+          "name": "MarkEWaite",
+          "url": "https://github.com/MarkEWaite"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7025068?s=40&v=4",
-          "name": "crutchfield",
-          "url": "https://github.com/crutchfield"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52328727?s=40&v=4",
-          "name": "james-garriss",
-          "url": "https://github.com/james-garriss"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106177711?s=40&v=4",
-          "name": "adhilto",
-          "url": "https://github.com/adhilto"
+          "avatar": "https://avatars.githubusercontent.com/u/1522731?s=40&v=4",
+          "name": "dduportal",
+          "url": "https://github.com/dduportal"
         }
       ]
     },
     {
-      "title": "microsoft/AL",
-      "url": "https://github.com/microsoft/AL",
-      "description": "Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.",
+      "title": "jamesstringer90/Easy-GPU-PV",
+      "url": "https://github.com/jamesstringer90/Easy-GPU-PV",
+      "description": "A Project dedicated to making GPU Partitioning on Windows easier!",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "833",
-      "forks": "271",
-      "addStars": "0",
+      "stars": "5,292",
+      "forks": "528",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12556556?s=40&v=4",
-          "name": "SusanneWindfeldPedersen",
-          "url": "https://github.com/SusanneWindfeldPedersen"
+          "avatar": "https://avatars.githubusercontent.com/u/38541878?s=40&v=4",
+          "name": "jamesstringer90",
+          "url": "https://github.com/jamesstringer90"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9417259?s=40&v=4",
-          "name": "SBalslev",
-          "url": "https://github.com/SBalslev"
+          "avatar": "https://avatars.githubusercontent.com/u/16600839?s=40&v=4",
+          "name": "Kodikuu",
+          "url": "https://github.com/Kodikuu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16351673?s=40&v=4",
-          "name": "Gallimathias",
-          "url": "https://github.com/Gallimathias"
+          "avatar": "https://avatars.githubusercontent.com/u/39804469?s=40&v=4",
+          "name": "Borgotto",
+          "url": "https://github.com/Borgotto"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3097909?s=40&v=4",
-          "name": "atoader",
-          "url": "https://github.com/atoader"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24257835?s=40&v=4",
-          "name": "esbenk",
-          "url": "https://github.com/esbenk"
+          "avatar": "https://avatars.githubusercontent.com/u/79947287?s=40&v=4",
+          "name": "CollinCodez",
+          "url": "https://github.com/CollinCodez"
         }
       ]
     },
@@ -328,93 +367,140 @@
       ]
     },
     {
-      "title": "Azure/PSRule.Rules.Azure",
-      "url": "https://github.com/Azure/PSRule.Rules.Azure",
-      "description": "Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.",
+      "title": "CrowdStrike/psfalcon",
+      "url": "https://github.com/CrowdStrike/psfalcon",
+      "description": "PowerShell for CrowdStrike's OAuth2 APIs",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "432",
-      "forks": "99",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13513058?s=40&v=4",
-          "name": "BernieWhite",
-          "url": "https://github.com/BernieWhite"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99641908?s=40&v=4",
-          "name": "BenjaminEngeset",
-          "url": "https://github.com/BenjaminEngeset"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20082136?s=40&v=4",
-          "name": "ArmaanMcleod",
-          "url": "https://github.com/ArmaanMcleod"
-        }
-      ]
-    },
-    {
-      "title": "actions/runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "description": "GitHub Actions runner images",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "12,292",
-      "forks": "3,638",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72681142?s=40&v=4",
-          "name": "459680",
-          "url": "https://github.com/459680"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47745270?s=40&v=4",
-          "name": "al-cheb",
-          "url": "https://github.com/al-cheb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48208649?s=40&v=4",
-          "name": "miketimofeev",
-          "url": "https://github.com/miketimofeev"
-        }
-      ]
-    },
-    {
-      "title": "PowerShellMafia/PowerSploit",
-      "url": "https://github.com/PowerShellMafia/PowerSploit",
-      "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "12,778",
-      "forks": "4,725",
+      "stars": "446",
+      "forks": "79",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5504523?s=40&v=4",
-          "name": "HarmJ0y",
-          "url": "https://github.com/HarmJ0y"
+          "avatar": "https://avatars.githubusercontent.com/u/54042976?s=40&v=4",
+          "name": "bk-cs",
+          "url": "https://github.com/bk-cs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4003012?s=40&v=4",
-          "name": "clymb3r",
-          "url": "https://github.com/clymb3r"
+          "avatar": "https://avatars.githubusercontent.com/u/74007258?s=40&v=4",
+          "name": "jshcodes",
+          "url": "https://github.com/jshcodes"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3047099?s=40&v=4",
-          "name": "obscuresec",
-          "url": "https://github.com/obscuresec"
+          "avatar": "https://avatars.githubusercontent.com/u/109954900?s=40&v=4",
+          "name": "Cr4shest",
+          "url": "https://github.com/Cr4shest"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1940826?s=40&v=4",
-          "name": "webstersprodigy",
-          "url": "https://github.com/webstersprodigy"
+          "avatar": "https://avatars.githubusercontent.com/u/89965722?s=40&v=4",
+          "name": "kra-ts",
+          "url": "https://github.com/kra-ts"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10997340?s=40&v=4",
-          "name": "FuzzySecurity",
-          "url": "https://github.com/FuzzySecurity"
+          "avatar": "https://avatars.githubusercontent.com/u/10909105?s=40&v=4",
+          "name": "SleepySysadmin",
+          "url": "https://github.com/SleepySysadmin"
+        }
+      ]
+    },
+    {
+      "title": "CubeCoders/AMPTemplates",
+      "url": "https://github.com/CubeCoders/AMPTemplates",
+      "description": "For the AMP community to share Generic Module templates.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "157",
+      "forks": "466",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53196309?s=40&v=4",
+          "name": "Greelan",
+          "url": "https://github.com/Greelan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96364530?s=40&v=4",
+          "name": "IceOfWraith",
+          "url": "https://github.com/IceOfWraith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/400560?s=40&v=4",
+          "name": "PhonicUK",
+          "url": "https://github.com/PhonicUK"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1365273?s=40&v=4",
+          "name": "ssfdre38",
+          "url": "https://github.com/ssfdre38"
+        }
+      ]
+    },
+    {
+      "title": "ScoopInstaller/Main",
+      "url": "https://github.com/ScoopInstaller/Main",
+      "description": "📦 The default bucket for Scoop.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "1,776",
+      "forks": "1,087",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/432127?s=40&v=4",
+          "name": "r15ch13",
+          "url": "https://github.com/r15ch13"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13260377?s=40&v=4",
+          "name": "Ash258",
+          "url": "https://github.com/Ash258"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103446?s=40&v=4",
+          "name": "lukesampson",
+          "url": "https://github.com/lukesampson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46838874?s=40&v=4",
+          "name": "rashil2000",
+          "url": "https://github.com/rashil2000"
+        }
+      ]
+    },
+    {
+      "title": "samratashok/nishang",
+      "url": "https://github.com/samratashok/nishang",
+      "description": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "9,652",
+      "forks": "2,543",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1753291?s=40&v=4",
+          "name": "samratashok",
+          "url": "https://github.com/samratashok"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5989847?s=40&v=4",
+          "name": "sammbertram",
+          "url": "https://github.com/sammbertram"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4646697?s=40&v=4",
+          "name": "DrDinosaur",
+          "url": "https://github.com/DrDinosaur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13077860?s=40&v=4",
+          "name": "Dliv3",
+          "url": "https://github.com/Dliv3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17518559?s=40&v=4",
+          "name": "zer1t0",
+          "url": "https://github.com/zer1t0"
         }
       ]
     },
@@ -424,7 +510,7 @@
       "description": "TVerRecは、TVerの番組をダウンロード保存するためのダウンロード支援ツールです。番組のジャンルや出演タレント、番組名などを指定して一括ダウンロードする支援をします。TVerRec is a software to assist in downloading and saving TVer programs. Supporst bulk downloading by specifying the genre, talent, name, etc.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "205",
+      "stars": "207",
       "forks": "21",
       "addStars": "1",
       "contributors": [
@@ -451,98 +537,76 @@
       ]
     },
     {
-      "title": "MicrosoftDocs/power-platform",
-      "url": "https://github.com/MicrosoftDocs/power-platform",
-      "description": "Documentation for Microsoft Power Platform",
+      "title": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "description": "Scripts to build a trimmed-down Windows 11 image.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "454",
-      "forks": "669",
-      "addStars": "1",
+      "stars": "17,244",
+      "forks": "1,332",
+      "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21126341?s=40&v=4",
-          "name": "sericks007",
-          "url": "https://github.com/sericks007"
+          "avatar": "https://avatars.githubusercontent.com/u/38796849?s=40&v=4",
+          "name": "ntdevlabs",
+          "url": "https://github.com/ntdevlabs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19712577?s=40&v=4",
-          "name": "jimholtz",
-          "url": "https://github.com/jimholtz"
+          "avatar": "https://avatars.githubusercontent.com/u/167513064?s=40&v=4",
+          "name": "Miiraak",
+          "url": "https://github.com/Miiraak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1670116?s=40&v=4",
-          "name": "KumarVivek",
-          "url": "https://github.com/KumarVivek"
+          "avatar": "https://avatars.githubusercontent.com/u/45657752?s=40&v=4",
+          "name": "Karl-WE",
+          "url": "https://github.com/Karl-WE"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15990269?s=40&v=4",
-          "name": "iaanw",
-          "url": "https://github.com/iaanw"
+          "avatar": "https://avatars.githubusercontent.com/u/952007?s=40&v=4",
+          "name": "szepeviktor",
+          "url": "https://github.com/szepeviktor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25205455?s=40&v=4",
-          "name": "buck1ey",
-          "url": "https://github.com/buck1ey"
+          "avatar": "https://avatars.githubusercontent.com/u/406768?s=40&v=4",
+          "name": "eugenesan",
+          "url": "https://github.com/eugenesan"
         }
       ]
     },
     {
-      "title": "dartraiden/NVIDIA-patcher",
-      "url": "https://github.com/dartraiden/NVIDIA-patcher",
-      "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.",
+      "title": "dotnet/core",
+      "url": "https://github.com/dotnet/core",
+      "description": ".NET news, announcements, release notes, and more!",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,148",
-      "forks": "101",
-      "addStars": "2",
+      "stars": "21,831",
+      "forks": "4,951",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5046855?s=40&v=4",
-          "name": "dartraiden",
-          "url": "https://github.com/dartraiden"
+          "avatar": "https://avatars.githubusercontent.com/u/2212879?s=40&v=4",
+          "name": "leecow",
+          "url": "https://github.com/leecow"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46279346?s=40&v=4",
-          "name": "lupaev",
-          "url": "https://github.com/lupaev"
+          "avatar": "https://avatars.githubusercontent.com/u/30737530?s=40&v=4",
+          "name": "rbhanda",
+          "url": "https://github.com/rbhanda"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19232315?s=40&v=4",
-          "name": "operador777",
-          "url": "https://github.com/operador777"
-        }
-      ]
-    },
-    {
-      "title": "jamesstringer90/Easy-GPU-PV",
-      "url": "https://github.com/jamesstringer90/Easy-GPU-PV",
-      "description": "A Project dedicated to making GPU Partitioning on Windows easier!",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "5,292",
-      "forks": "528",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38541878?s=40&v=4",
-          "name": "jamesstringer90",
-          "url": "https://github.com/jamesstringer90"
+          "avatar": "https://avatars.githubusercontent.com/u/2608468?s=40&v=4",
+          "name": "richlander",
+          "url": "https://github.com/richlander"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16600839?s=40&v=4",
-          "name": "Kodikuu",
-          "url": "https://github.com/Kodikuu"
+          "avatar": "https://avatars.githubusercontent.com/u/12971179?s=40&v=4",
+          "name": "mairaw",
+          "url": "https://github.com/mairaw"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39804469?s=40&v=4",
-          "name": "Borgotto",
-          "url": "https://github.com/Borgotto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79947287?s=40&v=4",
-          "name": "CollinCodez",
-          "url": "https://github.com/CollinCodez"
+          "avatar": "https://avatars.githubusercontent.com/u/11581923?s=40&v=4",
+          "name": "vivmishra",
+          "url": "https://github.com/vivmishra"
         }
       ]
     },
@@ -552,7 +616,7 @@
       "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "7,281",
+      "stars": "7,282",
       "forks": "1,019",
       "addStars": "3",
       "contributors": [
@@ -580,6 +644,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/42496487?s=40&v=4",
           "name": "zuesdevil",
           "url": "https://github.com/zuesdevil"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/undocked",
+      "url": "https://github.com/microsoft/undocked",
+      "description": "Simplifies the process of building internal, native Windows projects",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "31",
+      "forks": "11",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20663557?s=40&v=4",
+          "name": "nibanks",
+          "url": "https://github.com/nibanks"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3517159?s=40&v=4",
+          "name": "mtfriesen",
+          "url": "https://github.com/mtfriesen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22527892?s=40&v=4",
+          "name": "microsoftopensource",
+          "url": "https://github.com/microsoftopensource"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58704857?s=40&v=4",
+          "name": "nigriMSFT",
+          "url": "https://github.com/nigriMSFT"
         }
       ]
     }
