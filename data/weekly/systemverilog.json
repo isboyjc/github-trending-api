@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Jan 2026 07:25:08 GMT",
+  "pubDate": "Wed, 21 Jan 2026 13:50:21 GMT",
   "items": [
     {
       "title": "adam-maj/tiny-gpu",
@@ -10,8 +10,8 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "10,536",
-      "forks": "842",
+      "stars": "10,542",
+      "forks": "843",
       "addStars": "723",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,311",
+      "stars": "3,312",
       "forks": "743",
       "addStars": "22",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "1,741",
+      "stars": "1,742",
       "forks": "680",
       "addStars": "6",
       "contributors": [
@@ -144,6 +144,65 @@
           "avatar": "https://avatars.githubusercontent.com/u/2758621?s=40&v=4",
           "name": "atraber",
           "url": "https://github.com/atraber"
+        }
+      ]
+    },
+    {
+      "title": "hughperkins/VeriGPU",
+      "url": "https://github.com/hughperkins/VeriGPU",
+      "description": "OpenSource GPU, in Verilog, loosely based on RISC-V ISA",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "1,200",
+      "forks": "134",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/123560?s=40&v=4",
+          "name": "hughperkins",
+          "url": "https://github.com/hughperkins"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20174596?s=40&v=4",
+          "name": "hpasapp",
+          "url": "https://github.com/hpasapp"
+        }
+      ]
+    },
+    {
+      "title": "chipsalliance/Cores-VeeR-EL2",
+      "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
+      "description": "VeeR EL2 Core",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "313",
+      "forks": "94",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3785621?s=40&v=4",
+          "name": "kgugala",
+          "url": "https://github.com/kgugala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38781500?s=40&v=4",
+          "name": "tmichalak",
+          "url": "https://github.com/tmichalak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47315577?s=40&v=4",
+          "name": "mkurc-ant",
+          "url": "https://github.com/mkurc-ant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48583927?s=40&v=4",
+          "name": "wsipak",
+          "url": "https://github.com/wsipak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
+          "name": "mczyz-antmicro",
+          "url": "https://github.com/mczyz-antmicro"
         }
       ]
     },
@@ -185,61 +244,39 @@
       ]
     },
     {
-      "title": "hughperkins/VeriGPU",
-      "url": "https://github.com/hughperkins/VeriGPU",
-      "description": "OpenSource GPU, in Verilog, loosely based on RISC-V ISA",
+      "title": "chipsalliance/caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "1,200",
-      "forks": "134",
-      "addStars": "18",
+      "stars": "126",
+      "forks": "73",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/123560?s=40&v=4",
-          "name": "hughperkins",
-          "url": "https://github.com/hughperkins"
+          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
+          "name": "calebofearth",
+          "url": "https://github.com/calebofearth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20174596?s=40&v=4",
-          "name": "hpasapp",
-          "url": "https://github.com/hpasapp"
-        }
-      ]
-    },
-    {
-      "title": "pulp-platform/common_cells",
-      "url": "https://github.com/pulp-platform/common_cells",
-      "description": "Common SystemVerilog components",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "697",
-      "forks": "188",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
+          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
+          "name": "Nitsirks",
+          "url": "https://github.com/Nitsirks"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
+          "avatar": "https://avatars.githubusercontent.com/u/102058313?s=40&v=4",
+          "name": "mojtaba-bisheh",
+          "url": "https://github.com/mojtaba-bisheh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
-          "name": "niwis",
-          "url": "https://github.com/niwis"
+          "avatar": "https://avatars.githubusercontent.com/u/125604693?s=40&v=4",
+          "name": "upadhyayulakiran",
+          "url": "https://github.com/upadhyayulakiran"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
-          "name": "stmach",
-          "url": "https://github.com/stmach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7882682?s=40&v=4",
-          "name": "FrancescoConti",
-          "url": "https://github.com/FrancescoConti"
+          "avatar": "https://avatars.githubusercontent.com/u/107714838?s=40&v=4",
+          "name": "anjpar",
+          "url": "https://github.com/anjpar"
         }
       ]
     },
@@ -281,13 +318,13 @@
       ]
     },
     {
-      "title": "chipsalliance/caliptra-rtl",
-      "url": "https://github.com/chipsalliance/caliptra-rtl",
-      "description": "HW Design Collateral for Caliptra RoT IP",
+      "title": "chipsalliance/caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "126",
-      "forks": "73",
+      "stars": "36",
+      "forks": "32",
       "addStars": "1",
       "contributors": [
         {
@@ -296,24 +333,24 @@
           "url": "https://github.com/calebofearth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
-          "name": "Nitsirks",
-          "url": "https://github.com/Nitsirks"
+          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
+          "name": "ekarabu",
+          "url": "https://github.com/ekarabu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/102058313?s=40&v=4",
-          "name": "mojtaba-bisheh",
-          "url": "https://github.com/mojtaba-bisheh"
+          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
+          "name": "clayton8",
+          "url": "https://github.com/clayton8"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125604693?s=40&v=4",
-          "name": "upadhyayulakiran",
-          "url": "https://github.com/upadhyayulakiran"
+          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
+          "name": "nileshbpat",
+          "url": "https://github.com/nileshbpat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107714838?s=40&v=4",
-          "name": "anjpar",
-          "url": "https://github.com/anjpar"
+          "avatar": "https://avatars.githubusercontent.com/u/178779597?s=40&v=4",
+          "name": "andrea-caforio",
+          "url": "https://github.com/andrea-caforio"
         }
       ]
     },
@@ -392,6 +429,117 @@
       ]
     },
     {
+      "title": "chipsalliance/i3c-core",
+      "url": "https://github.com/chipsalliance/i3c-core",
+      "description": "",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "43",
+      "forks": "18",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3785621?s=40&v=4",
+          "name": "kgugala",
+          "url": "https://github.com/kgugala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47315577?s=40&v=4",
+          "name": "mkurc-ant",
+          "url": "https://github.com/mkurc-ant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58303687?s=40&v=4",
+          "name": "wkkuna",
+          "url": "https://github.com/wkkuna"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39563896?s=40&v=4",
+          "name": "robertszczepanski",
+          "url": "https://github.com/robertszczepanski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
+          "name": "mczyz-antmicro",
+          "url": "https://github.com/mczyz-antmicro"
+        }
+      ]
+    },
+    {
+      "title": "pulp-platform/common_cells",
+      "url": "https://github.com/pulp-platform/common_cells",
+      "description": "Common SystemVerilog components",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "698",
+      "forks": "188",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
+          "name": "niwis",
+          "url": "https://github.com/niwis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
+          "name": "stmach",
+          "url": "https://github.com/stmach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7882682?s=40&v=4",
+          "name": "FrancescoConti",
+          "url": "https://github.com/FrancescoConti"
+        }
+      ]
+    },
+    {
+      "title": "aws/aws-fpga",
+      "url": "https://github.com/aws/aws-fpga",
+      "description": "Official repository of the AWS EC2 FPGA Hardware and Software Development Kit",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "1,628",
+      "forks": "533",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23247657?s=40&v=4",
+          "name": "kristopk",
+          "url": "https://github.com/kristopk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23247716?s=40&v=4",
+          "name": "deeppat",
+          "url": "https://github.com/deeppat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23534756?s=40&v=4",
+          "name": "AWSGH",
+          "url": "https://github.com/AWSGH"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/174385813?s=40&v=4",
+          "name": "mjthimm",
+          "url": "https://github.com/mjthimm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82236989?s=40&v=4",
+          "name": "kyyalama2",
+          "url": "https://github.com/kyyalama2"
+        }
+      ]
+    },
+    {
       "title": "pulp-platform/axi_mem_if",
       "url": "https://github.com/pulp-platform/axi_mem_if",
       "description": "Simple single-port AXI memory interface",
@@ -429,93 +577,19 @@
       ]
     },
     {
-      "title": "chipsalliance/Cores-VeeR-EL2",
-      "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
-      "description": "VeeR EL2 Core",
+      "title": "openhwgroup/cvfpu",
+      "url": "https://github.com/openhwgroup/cvfpu",
+      "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "313",
-      "forks": "94",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3785621?s=40&v=4",
-          "name": "kgugala",
-          "url": "https://github.com/kgugala"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38781500?s=40&v=4",
-          "name": "tmichalak",
-          "url": "https://github.com/tmichalak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47315577?s=40&v=4",
-          "name": "mkurc-ant",
-          "url": "https://github.com/mkurc-ant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48583927?s=40&v=4",
-          "name": "wsipak",
-          "url": "https://github.com/wsipak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
-          "name": "mczyz-antmicro",
-          "url": "https://github.com/mczyz-antmicro"
-        }
-      ]
-    },
-    {
-      "title": "chipsalliance/caliptra-ss",
-      "url": "https://github.com/chipsalliance/caliptra-ss",
-      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "36",
-      "forks": "32",
+      "stars": "559",
+      "forks": "146",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
-          "name": "calebofearth",
-          "url": "https://github.com/calebofearth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
-          "name": "ekarabu",
-          "url": "https://github.com/ekarabu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
-          "name": "clayton8",
-          "url": "https://github.com/clayton8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
-          "name": "nileshbpat",
-          "url": "https://github.com/nileshbpat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/178779597?s=40&v=4",
-          "name": "andrea-caforio",
-          "url": "https://github.com/andrea-caforio"
-        }
-      ]
-    },
-    {
-      "title": "pulp-platform/fpu_div_sqrt_mvp",
-      "url": "https://github.com/pulp-platform/fpu_div_sqrt_mvp",
-      "description": "[UNRELEASED] FP div/sqrt unit for transprecision",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "25",
-      "forks": "17",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
-          "name": "stmach",
-          "url": "https://github.com/stmach"
+          "avatar": "https://avatars.githubusercontent.com/u/9446837?s=40&v=4",
+          "name": "michael-platzer",
+          "url": "https://github.com/michael-platzer"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
@@ -523,19 +597,56 @@
           "url": "https://github.com/zarubaf"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/55843305?s=40&v=4",
+          "name": "lucabertaccini",
+          "url": "https://github.com/lucabertaccini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18549773?s=40&v=4",
+          "name": "davideschiavone",
+          "url": "https://github.com/davideschiavone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
+          "name": "stmach",
+          "url": "https://github.com/stmach"
+        }
+      ]
+    },
+    {
+      "title": "pulp-platform/axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "1,469",
+      "forks": "332",
+      "addStars": "11",
+      "contributors": [
+        {
           "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
           "name": "andreaskurth",
           "url": "https://github.com/andreaskurth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28906668?s=40&v=4",
-          "name": "flaviens",
-          "url": "https://github.com/flaviens"
+          "avatar": "https://avatars.githubusercontent.com/u/65011851?s=40&v=4",
+          "name": "thommythomaso",
+          "url": "https://github.com/thommythomaso"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55843305?s=40&v=4",
-          "name": "lucabertaccini",
-          "url": "https://github.com/lucabertaccini"
+          "avatar": "https://avatars.githubusercontent.com/u/6088584?s=40&v=4",
+          "name": "micprog",
+          "url": "https://github.com/micprog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6261373?s=40&v=4",
+          "name": "suehtamacv",
+          "url": "https://github.com/suehtamacv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
         }
       ]
     }
