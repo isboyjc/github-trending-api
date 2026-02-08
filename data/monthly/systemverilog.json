@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:36:23 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:48:47 GMT",
   "items": [
     {
       "title": "adam-maj/tiny-gpu",
@@ -10,8 +10,8 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "11,301",
-      "forks": "964",
+      "stars": "11,304",
+      "forks": "965",
       "addStars": "1,958",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,126",
+      "stars": "3,127",
       "forks": "949",
       "addStars": "47",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,343",
+      "stars": "3,344",
       "forks": "749",
       "addStars": "69",
       "contributors": [
@@ -296,39 +296,39 @@
       ]
     },
     {
-      "title": "pulp-platform/riscv-dbg",
-      "url": "https://github.com/pulp-platform/riscv-dbg",
-      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
+      "title": "pulp-platform/axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "294",
-      "forks": "90",
-      "addStars": "6",
+      "stars": "1,489",
+      "forks": "340",
+      "addStars": "37",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
-          "name": "bluewww",
-          "url": "https://github.com/bluewww"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
           "name": "andreaskurth",
           "url": "https://github.com/andreaskurth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
-          "name": "Silabs-ArjanB",
-          "url": "https://github.com/Silabs-ArjanB"
+          "avatar": "https://avatars.githubusercontent.com/u/65011851?s=40&v=4",
+          "name": "thommythomaso",
+          "url": "https://github.com/thommythomaso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6088584?s=40&v=4",
+          "name": "micprog",
+          "url": "https://github.com/micprog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6261373?s=40&v=4",
+          "name": "suehtamacv",
+          "url": "https://github.com/suehtamacv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
         }
       ]
     },
@@ -370,39 +370,76 @@
       ]
     },
     {
-      "title": "pulp-platform/axi",
-      "url": "https://github.com/pulp-platform/axi",
-      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "title": "pulp-platform/riscv-dbg",
+      "url": "https://github.com/pulp-platform/riscv-dbg",
+      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "1,489",
-      "forks": "340",
-      "addStars": "37",
+      "stars": "294",
+      "forks": "90",
+      "addStars": "6",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
+          "name": "bluewww",
+          "url": "https://github.com/bluewww"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
           "name": "andreaskurth",
           "url": "https://github.com/andreaskurth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65011851?s=40&v=4",
-          "name": "thommythomaso",
-          "url": "https://github.com/thommythomaso"
+          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
+          "name": "Silabs-ArjanB",
+          "url": "https://github.com/Silabs-ArjanB"
+        }
+      ]
+    },
+    {
+      "title": "chipsalliance/Cores-VeeR-EL2",
+      "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
+      "description": "VeeR EL2 Core",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "317",
+      "forks": "97",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3785621?s=40&v=4",
+          "name": "kgugala",
+          "url": "https://github.com/kgugala"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6088584?s=40&v=4",
-          "name": "micprog",
-          "url": "https://github.com/micprog"
+          "avatar": "https://avatars.githubusercontent.com/u/38781500?s=40&v=4",
+          "name": "tmichalak",
+          "url": "https://github.com/tmichalak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6261373?s=40&v=4",
-          "name": "suehtamacv",
-          "url": "https://github.com/suehtamacv"
+          "avatar": "https://avatars.githubusercontent.com/u/47315577?s=40&v=4",
+          "name": "mkurc-ant",
+          "url": "https://github.com/mkurc-ant"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
+          "avatar": "https://avatars.githubusercontent.com/u/48583927?s=40&v=4",
+          "name": "wsipak",
+          "url": "https://github.com/wsipak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
+          "name": "mczyz-antmicro",
+          "url": "https://github.com/mczyz-antmicro"
         }
       ]
     },
