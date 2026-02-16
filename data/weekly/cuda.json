@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Feb 2026 07:51:44 GMT",
+  "pubDate": "Mon, 16 Feb 2026 14:06:26 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,7 +10,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "28,909",
+      "stars": "28,912",
       "forks": "3,386",
       "addStars": "110",
       "contributors": [
@@ -153,12 +153,71 @@
       ]
     },
     {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "3,163",
+      "forks": "349",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
+          "name": "jt-zhang",
+          "url": "https://github.com/jt-zhang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
+          "name": "jason-huang03",
+          "url": "https://github.com/jason-huang03"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
+          "name": "whx1003",
+          "url": "https://github.com/whx1003"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
+          "name": "XiaomingXu1995",
+          "url": "https://github.com/XiaomingXu1995"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
+          "name": "guilhermeleobas",
+          "url": "https://github.com/guilhermeleobas"
+        }
+      ]
+    },
+    {
+      "title": "siboehm/SGEMM_CUDA",
+      "url": "https://github.com/siboehm/SGEMM_CUDA",
+      "description": "Fast CUDA matrix multiplication from scratch",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "1,052",
+      "forks": "162",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14908678?s=40&v=4",
+          "name": "siboehm",
+          "url": "https://github.com/siboehm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24358098?s=40&v=4",
+          "name": "philipfabianek",
+          "url": "https://github.com/philipfabianek"
+        }
+      ]
+    },
+    {
       "title": "deepseek-ai/DeepGEMM",
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,178",
+      "stars": "6,179",
       "forks": "818",
       "addStars": "17",
       "contributors": [
@@ -196,7 +255,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "17,275",
-      "forks": "2,049",
+      "forks": "2,050",
       "addStars": "21",
       "contributors": [
         {
@@ -264,49 +323,12 @@
       ]
     },
     {
-      "title": "JeffreyXiang/CuMesh",
-      "url": "https://github.com/JeffreyXiang/CuMesh",
-      "description": "Cuda mesh utils.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "169",
-      "forks": "30",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45420254?s=40&v=4",
-          "name": "JeffreyXiang",
-          "url": "https://github.com/JeffreyXiang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4570032?s=40&v=4",
-          "name": "seed93",
-          "url": "https://github.com/seed93"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16235598?s=40&v=4",
-          "name": "gustavomassa",
-          "url": "https://github.com/gustavomassa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57418757?s=40&v=4",
-          "name": "PozzettiAndrea",
-          "url": "https://github.com/PozzettiAndrea"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1301701?s=40&v=4",
-          "name": "geekuillaume",
-          "url": "https://github.com/geekuillaume"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/nccl-tests",
       "url": "https://github.com/NVIDIA/nccl-tests",
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,433",
+      "stars": "1,434",
       "forks": "349",
       "addStars": "6",
       "contributors": [
@@ -334,65 +356,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/687269?s=40&v=4",
           "name": "lukeyeager",
           "url": "https://github.com/lukeyeager"
-        }
-      ]
-    },
-    {
-      "title": "thu-ml/SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "3,163",
-      "forks": "349",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
-          "name": "jt-zhang",
-          "url": "https://github.com/jt-zhang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110245937?s=40&v=4",
-          "name": "jason-huang03",
-          "url": "https://github.com/jason-huang03"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38180676?s=40&v=4",
-          "name": "whx1003",
-          "url": "https://github.com/whx1003"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37583905?s=40&v=4",
-          "name": "XiaomingXu1995",
-          "url": "https://github.com/XiaomingXu1995"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
-          "name": "guilhermeleobas",
-          "url": "https://github.com/guilhermeleobas"
-        }
-      ]
-    },
-    {
-      "title": "siboehm/SGEMM_CUDA",
-      "url": "https://github.com/siboehm/SGEMM_CUDA",
-      "description": "Fast CUDA matrix multiplication from scratch",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "1,052",
-      "forks": "162",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14908678?s=40&v=4",
-          "name": "siboehm",
-          "url": "https://github.com/siboehm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24358098?s=40&v=4",
-          "name": "philipfabianek",
-          "url": "https://github.com/philipfabianek"
         }
       ]
     }
