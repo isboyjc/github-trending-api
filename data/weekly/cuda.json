@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Feb 2026 07:47:37 GMT",
+  "pubDate": "Thu, 19 Feb 2026 14:10:21 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,7 +10,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "28,927",
+      "stars": "28,929",
       "forks": "3,392",
       "addStars": "113",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "713",
+      "stars": "712",
       "forks": "125",
       "addStars": "9",
       "contributors": [
@@ -112,43 +112,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/15280931?s=40&v=4",
           "name": "hlinsen",
           "url": "https://github.com/hlinsen"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA/nvbench",
-      "url": "https://github.com/NVIDIA/nvbench",
-      "description": "CUDA Kernel Benchmarking Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "814",
-      "forks": "102",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58744?s=40&v=4",
-          "name": "alliepiper",
-          "url": "https://github.com/alliepiper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21087696?s=40&v=4",
-          "name": "oleksandr-pavlyk",
-          "url": "https://github.com/oleksandr-pavlyk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9890394?s=40&v=4",
-          "name": "gevtushenko",
-          "url": "https://github.com/gevtushenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3190405?s=40&v=4",
-          "name": "shwina",
-          "url": "https://github.com/shwina"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/215756?s=40&v=4",
-          "name": "robertmaynard",
-          "url": "https://github.com/robertmaynard"
         }
       ]
     },
@@ -190,12 +153,86 @@
       ]
     },
     {
+      "title": "Dao-AILab/causal-conv1d",
+      "url": "https://github.com/Dao-AILab/causal-conv1d",
+      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "723",
+      "forks": "154",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5616128?s=40&v=4",
+          "name": "tridao",
+          "url": "https://github.com/tridao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/164261418?s=40&v=4",
+          "name": "ajassani",
+          "url": "https://github.com/ajassani"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
+          "name": "ko3n1g",
+          "url": "https://github.com/ko3n1g"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32954280?s=40&v=4",
+          "name": "mayank31398",
+          "url": "https://github.com/mayank31398"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22727137?s=40&v=4",
+          "name": "johnnynunez",
+          "url": "https://github.com/johnnynunez"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "814",
+      "forks": "102",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58744?s=40&v=4",
+          "name": "alliepiper",
+          "url": "https://github.com/alliepiper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21087696?s=40&v=4",
+          "name": "oleksandr-pavlyk",
+          "url": "https://github.com/oleksandr-pavlyk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9890394?s=40&v=4",
+          "name": "gevtushenko",
+          "url": "https://github.com/gevtushenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3190405?s=40&v=4",
+          "name": "shwina",
+          "url": "https://github.com/shwina"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/215756?s=40&v=4",
+          "name": "robertmaynard",
+          "url": "https://github.com/robertmaynard"
+        }
+      ]
+    },
+    {
       "title": "thu-ml/SageAttention",
       "url": "https://github.com/thu-ml/SageAttention",
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,164",
+      "stars": "3,166",
       "forks": "352",
       "addStars": "9",
       "contributors": [
@@ -223,43 +260,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2712115?s=40&v=4",
           "name": "guilhermeleobas",
           "url": "https://github.com/guilhermeleobas"
-        }
-      ]
-    },
-    {
-      "title": "JeffreyXiang/CuMesh",
-      "url": "https://github.com/JeffreyXiang/CuMesh",
-      "description": "Cuda mesh utils.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "169",
-      "forks": "31",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45420254?s=40&v=4",
-          "name": "JeffreyXiang",
-          "url": "https://github.com/JeffreyXiang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4570032?s=40&v=4",
-          "name": "seed93",
-          "url": "https://github.com/seed93"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16235598?s=40&v=4",
-          "name": "gustavomassa",
-          "url": "https://github.com/gustavomassa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57418757?s=40&v=4",
-          "name": "PozzettiAndrea",
-          "url": "https://github.com/PozzettiAndrea"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1301701?s=40&v=4",
-          "name": "geekuillaume",
-          "url": "https://github.com/geekuillaume"
         }
       ]
     },
@@ -297,43 +297,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
           "name": "ko3n1g",
           "url": "https://github.com/ko3n1g"
-        }
-      ]
-    },
-    {
-      "title": "Dao-AILab/causal-conv1d",
-      "url": "https://github.com/Dao-AILab/causal-conv1d",
-      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "723",
-      "forks": "154",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5616128?s=40&v=4",
-          "name": "tridao",
-          "url": "https://github.com/tridao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/164261418?s=40&v=4",
-          "name": "ajassani",
-          "url": "https://github.com/ajassani"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
-          "name": "ko3n1g",
-          "url": "https://github.com/ko3n1g"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32954280?s=40&v=4",
-          "name": "mayank31398",
-          "url": "https://github.com/mayank31398"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22727137?s=40&v=4",
-          "name": "johnnynunez",
-          "url": "https://github.com/johnnynunez"
         }
       ]
     }
