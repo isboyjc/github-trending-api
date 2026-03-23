@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Mar 2026 08:00:37 GMT",
+  "pubDate": "Mon, 23 Mar 2026 14:17:14 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-vpc",
@@ -148,6 +148,43 @@
       ]
     },
     {
+      "title": "cloudposse/terraform-aws-eks-cluster",
+      "url": "https://github.com/cloudposse/terraform-aws-eks-cluster",
+      "description": "Terraform module for provisioning an EKS cluster",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "549",
+      "forks": "366",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
+          "name": "Nuru",
+          "url": "https://github.com/Nuru"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
+          "name": "aknysh",
+          "url": "https://github.com/aknysh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        }
+      ]
+    },
+    {
       "title": "cloudposse/terraform-aws-ecs-alb-service-task",
       "url": "https://github.com/cloudposse/terraform-aws-ecs-alb-service-task",
       "description": "Terraform module which implements an ECS service which exposes a web service via ALB.",
@@ -185,30 +222,15 @@
       ]
     },
     {
-      "title": "cloudposse/terraform-aws-eks-cluster",
-      "url": "https://github.com/cloudposse/terraform-aws-eks-cluster",
-      "description": "Terraform module for provisioning an EKS cluster",
+      "title": "cloudposse/terraform-aws-dynamic-subnets",
+      "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
+      "description": "Terraform module for public and private subnets provisioning in existing VPC",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "549",
-      "forks": "366",
-      "addStars": "1",
+      "stars": "206",
+      "forks": "166",
+      "addStars": "0",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
-          "name": "Nuru",
-          "url": "https://github.com/Nuru"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
           "name": "aknysh",
@@ -218,6 +240,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
           "name": "cloudpossebot",
           "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
         }
       ]
     },
@@ -296,24 +328,56 @@
       ]
     },
     {
-      "title": "cloudposse/terraform-aws-dynamic-subnets",
-      "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
-      "description": "Terraform module for public and private subnets provisioning in existing VPC",
+      "title": "GoogleCloudPlatform/terraform-google-artifact-registry",
+      "url": "https://github.com/GoogleCloudPlatform/terraform-google-artifact-registry",
+      "description": "Create and manage Artifact Registry repositories",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "206",
-      "forks": "166",
-      "addStars": "0",
+      "stars": "23",
+      "forks": "23",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7356997?s=40&v=4",
-          "name": "aknysh",
-          "url": "https://github.com/aknysh"
+          "avatar": "https://avatars.githubusercontent.com/u/18209477?s=40&v=4",
+          "name": "prabhu34",
+          "url": "https://github.com/prabhu34"
         },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24850745?s=40&v=4",
+          "name": "Ayushi001",
+          "url": "https://github.com/Ayushi001"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-eks-node-group",
+      "url": "https://github.com/cloudposse/terraform-aws-eks-node-group",
+      "description": "Terraform module to provision a fully managed AWS EKS Node Group",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "100",
+      "forks": "133",
+      "addStars": "0",
+      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
           "name": "cloudpossebot",
           "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
+          "name": "Nuru",
+          "url": "https://github.com/Nuru"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -324,33 +388,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
           "name": "osterman",
           "url": "https://github.com/osterman"
-        }
-      ]
-    },
-    {
-      "title": "PaloAltoNetworks/cortex-cloud-devsecops-workshop",
-      "url": "https://github.com/PaloAltoNetworks/cortex-cloud-devsecops-workshop",
-      "description": "DevSecOps with Cortex Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "92",
-      "forks": "1,143",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98756224?s=40&v=4",
-          "name": "tprenderville",
-          "url": "https://github.com/tprenderville"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4009987?s=40&v=4",
-          "name": "chambersaj",
-          "url": "https://github.com/chambersaj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173073863?s=40&v=4",
-          "name": "tlh2857-2024",
-          "url": "https://github.com/tlh2857-2024"
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
         }
       ]
     }

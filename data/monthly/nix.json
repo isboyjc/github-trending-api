@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Mar 2026 08:00:37 GMT",
+  "pubDate": "Mon, 23 Mar 2026 14:17:14 GMT",
   "items": [
     {
       "title": "numtide/llm-agents.nix",
@@ -27,35 +27,13 @@
       ]
     },
     {
-      "title": "openclaw/nix-openclaw",
-      "url": "https://github.com/openclaw/nix-openclaw",
-      "description": "Packages OpenClaw for nix.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "576",
-      "forks": "198",
-      "addStars": "145",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1497361?s=40&v=4",
-          "name": "joshp123",
-          "url": "https://github.com/joshp123"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "NixOS/nixpkgs",
       "url": "https://github.com/NixOS/nixpkgs",
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "23,999",
-      "forks": "18,392",
+      "stars": "24,003",
+      "forks": "18,396",
       "addStars": "490",
       "contributors": [
         {
@@ -86,12 +64,34 @@
       ]
     },
     {
+      "title": "openclaw/nix-openclaw",
+      "url": "https://github.com/openclaw/nix-openclaw",
+      "description": "Packages OpenClaw for nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "576",
+      "forks": "198",
+      "addStars": "145",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1497361?s=40&v=4",
+          "name": "joshp123",
+          "url": "https://github.com/joshp123"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "NixOS/nixos-hardware",
       "url": "https://github.com/NixOS/nixos-hardware",
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,992",
+      "stars": "2,993",
       "forks": "895",
       "addStars": "56",
       "contributors": [
@@ -114,38 +114,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
           "name": "Lyndeno",
           "url": "https://github.com/Lyndeno"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/nixos-apple-silicon",
-      "url": "https://github.com/nix-community/nixos-apple-silicon",
-      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "1,442",
-      "forks": "147",
-      "addStars": "51",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208010?s=40&v=4",
-          "name": "tpwrules",
-          "url": "https://github.com/tpwrules"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/183879?s=40&v=4",
-          "name": "flokli",
-          "url": "https://github.com/flokli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/193895068?s=40&v=4",
-          "name": "yuyuyureka",
-          "url": "https://github.com/yuyuyureka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9061737?s=40&v=4",
-          "name": "natsukagami",
-          "url": "https://github.com/natsukagami"
         }
       ]
     },
@@ -187,12 +155,71 @@
       ]
     },
     {
+      "title": "nix-community/disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "2,940",
+      "forks": "290",
+      "addStars": "75",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
+          "name": "Lassulus",
+          "url": "https://github.com/Lassulus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
+          "name": "iFreilicht",
+          "url": "https://github.com/iFreilicht"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/nixos-apple-silicon",
+      "url": "https://github.com/nix-community/nixos-apple-silicon",
+      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "1,443",
+      "forks": "147",
+      "addStars": "51",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208010?s=40&v=4",
+          "name": "tpwrules",
+          "url": "https://github.com/tpwrules"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/183879?s=40&v=4",
+          "name": "flokli",
+          "url": "https://github.com/flokli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/193895068?s=40&v=4",
+          "name": "yuyuyureka",
+          "url": "https://github.com/yuyuyureka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9061737?s=40&v=4",
+          "name": "natsukagami",
+          "url": "https://github.com/natsukagami"
+        }
+      ]
+    },
+    {
       "title": "nix-community/NixOS-WSL",
       "url": "https://github.com/nix-community/NixOS-WSL",
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,814",
+      "stars": "2,816",
       "forks": "153",
       "addStars": "70",
       "contributors": [
@@ -215,70 +242,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/332418?s=40&v=4",
           "name": "Trundle",
           "url": "https://github.com/Trundle"
-        }
-      ]
-    },
-    {
-      "title": "nvmd/nixos-raspberrypi",
-      "url": "https://github.com/nvmd/nixos-raspberrypi",
-      "description": "Nix flake for a fully declarative NixOS on Raspberry Pi",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "484",
-      "forks": "51",
-      "addStars": "41",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/524492?s=40&v=4",
-          "name": "nvmd",
-          "url": "https://github.com/nvmd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1358764?s=40&v=4",
-          "name": "JamieMagee",
-          "url": "https://github.com/JamieMagee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56915010?s=40&v=4",
-          "name": "michaelbrusegard",
-          "url": "https://github.com/michaelbrusegard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40729975?s=40&v=4",
-          "name": "ungeskriptet",
-          "url": "https://github.com/ungeskriptet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2130305?s=40&v=4",
-          "name": "turboMaCk",
-          "url": "https://github.com/turboMaCk"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "2,939",
-      "forks": "290",
-      "addStars": "75",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
-          "name": "Lassulus",
-          "url": "https://github.com/Lassulus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
-          "name": "iFreilicht",
-          "url": "https://github.com/iFreilicht"
         }
       ]
     },
@@ -316,38 +279,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/108965432?s=40&v=4",
           "name": "ReedClanton",
           "url": "https://github.com/ReedClanton"
-        }
-      ]
-    },
-    {
-      "title": "0xc000022070/zen-browser-flake",
-      "url": "https://github.com/0xc000022070/zen-browser-flake",
-      "description": "Community-driven Nix Flake for the Zen browser",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "839",
-      "forks": "79",
-      "addStars": "42",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86449787?s=40&v=4",
-          "name": "luisnquin",
-          "url": "https://github.com/luisnquin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27727194?s=40&v=4",
-          "name": "chermnyx",
-          "url": "https://github.com/chermnyx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1399250?s=40&v=4",
-          "name": "MarceColl",
-          "url": "https://github.com/MarceColl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32384814?s=40&v=4",
-          "name": "ch4og",
-          "url": "https://github.com/ch4og"
         }
       ]
     }
