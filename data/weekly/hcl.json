@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 29 Mar 2026 07:50:40 GMT",
+  "pubDate": "Sun, 29 Mar 2026 13:55:12 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -10,7 +10,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,916",
+      "stars": "4,915",
       "forks": "4,376",
       "addStars": "6",
       "contributors": [
@@ -227,6 +227,38 @@
       ]
     },
     {
+      "title": "cloudposse/terraform-aws-lb-s3-bucket",
+      "url": "https://github.com/cloudposse/terraform-aws-lb-s3-bucket",
+      "description": "Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "45",
+      "forks": "34",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1146619?s=40&v=4",
+          "name": "maximmi",
+          "url": "https://github.com/maximmi"
+        }
+      ]
+    },
+    {
       "title": "DataDog/serverless-sample-app",
       "url": "https://github.com/DataDog/serverless-sample-app",
       "description": "Explore Datadog's serverless observability features with this sample app.",
@@ -250,6 +282,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/47579703?s=40&v=4",
           "name": "kimi-p",
           "url": "https://github.com/kimi-p"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-s3-log-storage",
+      "url": "https://github.com/cloudposse/terraform-aws-s3-log-storage",
+      "description": "This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "120",
+      "forks": "106",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
+          "name": "Nuru",
+          "url": "https://github.com/Nuru"
         }
       ]
     },
@@ -287,70 +351,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/51918433?s=40&v=4",
           "name": "psoleckimoj",
           "url": "https://github.com/psoleckimoj"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-lb-s3-bucket",
-      "url": "https://github.com/cloudposse/terraform-aws-lb-s3-bucket",
-      "description": "Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "45",
-      "forks": "34",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1146619?s=40&v=4",
-          "name": "maximmi",
-          "url": "https://github.com/maximmi"
-        }
-      ]
-    },
-    {
-      "title": "cloudposse/terraform-aws-s3-log-storage",
-      "url": "https://github.com/cloudposse/terraform-aws-s3-log-storage",
-      "description": "This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "120",
-      "forks": "106",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2793313?s=40&v=4",
-          "name": "Nuru",
-          "url": "https://github.com/Nuru"
         }
       ]
     }
