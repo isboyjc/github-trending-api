@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Wed, 08 Apr 2026 08:11:13 GMT</pubDate>
+    <pubDate>Wed, 08 Apr 2026 14:48:20 GMT</pubDate>
     <item>
       <title>xenodium/agent-shell</title>
       <link>https://github.com/xenodium/agent-shell</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/xenodium/agent-shell</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>1,004</stars>
+      <stars>1,007</stars>
       <forks>140</forks>
       <addStars>219</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/emacs-mirror/emacs</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>5,006</stars>
+      <stars>5,007</stars>
       <forks>1,362</forks>
       <addStars>48</addStars>
       <contributors>
@@ -119,52 +119,14 @@
       </contributors>
     </item>
     <item>
-      <title>manzaltu/claude-code-ide.el</title>
-      <link>https://github.com/manzaltu/claude-code-ide.el</link>
-      <description>Claude Code IDE integration for Emacs</description>
-      <guid>https://github.com/manzaltu/claude-code-ide.el</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>1,465</stars>
-      <forks>88</forks>
-      <addStars>77</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8388472?s=40&amp;v=4</avatar>
-          <name>manzaltu</name>
-          <url>https://github.com/manzaltu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5394722?s=40&amp;v=4</avatar>
-          <name>catern</name>
-          <url>https://github.com/catern</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39552603?s=40&amp;v=4</avatar>
-          <name>AmayruN5</name>
-          <url>https://github.com/AmayruN5</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83730246?s=40&amp;v=4</avatar>
-          <name>z80dev</name>
-          <url>https://github.com/z80dev</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>karthink/gptel</title>
       <link>https://github.com/karthink/gptel</link>
       <description>A simple, extensible LLM client for Emacs</description>
       <guid>https://github.com/karthink/gptel</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>3,285</stars>
-      <forks>379</forks>
+      <stars>3,286</stars>
+      <forks>380</forks>
       <addStars>64</addStars>
       <contributors>
         <contributor>
@@ -191,6 +153,44 @@
           <avatar>https://avatars.githubusercontent.com/u/2631472?s=40&amp;v=4</avatar>
           <name>kiennq</name>
           <url>https://github.com/kiennq</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>purcell/exec-path-from-shell</title>
+      <link>https://github.com/purcell/exec-path-from-shell</link>
+      <description>Make Emacs use the $PATH set up by the user's shell</description>
+      <guid>https://github.com/purcell/exec-path-from-shell</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>1,553</stars>
+      <forks>84</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5636?s=40&amp;v=4</avatar>
+          <name>purcell</name>
+          <url>https://github.com/purcell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/224922?s=40&amp;v=4</avatar>
+          <name>swsnr</name>
+          <url>https://github.com/swsnr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/107097?s=40&amp;v=4</avatar>
+          <name>belak</name>
+          <url>https://github.com/belak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1477258?s=40&amp;v=4</avatar>
+          <name>mnewt</name>
+          <url>https://github.com/mnewt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3824934?s=40&amp;v=4</avatar>
+          <name>Gastove</name>
+          <url>https://github.com/Gastove</url>
         </contributor>
       </contributors>
     </item>
@@ -230,11 +230,11 @@
     <item>
       <title>eval-exec/neomacs</title>
       <link>https://github.com/eval-exec/neomacs</link>
-      <description>NEO Emacs: A GPU-powered Emacs written in Rust with a modern display engine. Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀 Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.</description>
+      <description>NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine. Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀 Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.</description>
       <guid>https://github.com/eval-exec/neomacs</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>629</stars>
+      <stars>628</stars>
       <forks>24</forks>
       <addStars>145</addStars>
       <contributors>
@@ -294,40 +294,40 @@
       </contributors>
     </item>
     <item>
-      <title>purcell/exec-path-from-shell</title>
-      <link>https://github.com/purcell/exec-path-from-shell</link>
-      <description>Make Emacs use the $PATH set up by the user's shell</description>
-      <guid>https://github.com/purcell/exec-path-from-shell</guid>
+      <title>Wilfred/elisp-refs</title>
+      <link>https://github.com/Wilfred/elisp-refs</link>
+      <description>semantic code search for emacs lisp</description>
+      <guid>https://github.com/Wilfred/elisp-refs</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>1,553</stars>
-      <forks>84</forks>
-      <addStars>5</addStars>
+      <stars>130</stars>
+      <forks>19</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5636?s=40&amp;v=4</avatar>
-          <name>purcell</name>
-          <url>https://github.com/purcell</url>
+          <avatar>https://avatars.githubusercontent.com/u/70800?s=40&amp;v=4</avatar>
+          <name>Wilfred</name>
+          <url>https://github.com/Wilfred</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/224922?s=40&amp;v=4</avatar>
-          <name>swsnr</name>
-          <url>https://github.com/swsnr</url>
+          <avatar>https://avatars.githubusercontent.com/u/25046?s=40&amp;v=4</avatar>
+          <name>tarsius</name>
+          <url>https://github.com/tarsius</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107097?s=40&amp;v=4</avatar>
-          <name>belak</name>
-          <url>https://github.com/belak</url>
+          <avatar>https://avatars.githubusercontent.com/u/37385?s=40&amp;v=4</avatar>
+          <name>bestlem</name>
+          <url>https://github.com/bestlem</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1477258?s=40&amp;v=4</avatar>
-          <name>mnewt</name>
-          <url>https://github.com/mnewt</url>
+          <avatar>https://avatars.githubusercontent.com/u/54600?s=40&amp;v=4</avatar>
+          <name>oylenshpeegul</name>
+          <url>https://github.com/oylenshpeegul</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3824934?s=40&amp;v=4</avatar>
-          <name>Gastove</name>
-          <url>https://github.com/Gastove</url>
+          <avatar>https://avatars.githubusercontent.com/u/160028?s=40&amp;v=4</avatar>
+          <name>wyuenho</name>
+          <url>https://github.com/wyuenho</url>
         </contributor>
       </contributors>
     </item>
@@ -370,15 +370,91 @@
       </contributors>
     </item>
     <item>
-      <title>Wilfred/elisp-refs</title>
-      <link>https://github.com/Wilfred/elisp-refs</link>
-      <description>semantic code search for emacs lisp</description>
-      <guid>https://github.com/Wilfred/elisp-refs</guid>
+      <title>jwiegley/emacs-async</title>
+      <link>https://github.com/jwiegley/emacs-async</link>
+      <description>Simple library for asynchronous processing in Emacs</description>
+      <guid>https://github.com/jwiegley/emacs-async</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>130</stars>
-      <forks>19</forks>
-      <addStars>4</addStars>
+      <stars>900</stars>
+      <forks>70</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1533939?s=40&amp;v=4</avatar>
+          <name>thierryvolpiatto</name>
+          <url>https://github.com/thierryvolpiatto</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8460?s=40&amp;v=4</avatar>
+          <name>jwiegley</name>
+          <url>https://github.com/jwiegley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/228145?s=40&amp;v=4</avatar>
+          <name>DarwinAwardWinner</name>
+          <url>https://github.com/DarwinAwardWinner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2664959?s=40&amp;v=4</avatar>
+          <name>Fuco1</name>
+          <url>https://github.com/Fuco1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>editor-code-assistant/eca-emacs</title>
+      <link>https://github.com/editor-code-assistant/eca-emacs</link>
+      <description>Editor Code Assistant (ECA) integration for Emacs</description>
+      <guid>https://github.com/editor-code-assistant/eca-emacs</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>386</stars>
+      <forks>38</forks>
+      <addStars>41</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7820865?s=40&amp;v=4</avatar>
+          <name>ericdallo</name>
+          <url>https://github.com/ericdallo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23665525?s=40&amp;v=4</avatar>
+          <name>CsBigDataHub</name>
+          <url>https://github.com/CsBigDataHub</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21566?s=40&amp;v=4</avatar>
+          <name>r0man</name>
+          <url>https://github.com/r0man</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40757859?s=40&amp;v=4</avatar>
+          <name>zikajk</name>
+          <url>https://github.com/zikajk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104818?s=40&amp;v=4</avatar>
+          <name>lukaszkorecki</name>
+          <url>https://github.com/lukaszkorecki</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Wilfred/helpful</title>
+      <link>https://github.com/Wilfred/helpful</link>
+      <description>A better Emacs *help* buffer</description>
+      <guid>https://github.com/Wilfred/helpful</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>1,269</stars>
+      <forks>72</forks>
+      <addStars>13</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70800?s=40&amp;v=4</avatar>
@@ -386,24 +462,24 @@
           <url>https://github.com/Wilfred</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25046?s=40&amp;v=4</avatar>
-          <name>tarsius</name>
-          <url>https://github.com/tarsius</url>
+          <avatar>https://avatars.githubusercontent.com/u/17630138?s=40&amp;v=4</avatar>
+          <name>nickdrozd</name>
+          <url>https://github.com/nickdrozd</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37385?s=40&amp;v=4</avatar>
-          <name>bestlem</name>
-          <url>https://github.com/bestlem</url>
+          <avatar>https://avatars.githubusercontent.com/u/3595930?s=40&amp;v=4</avatar>
+          <name>narendraj9</name>
+          <url>https://github.com/narendraj9</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54600?s=40&amp;v=4</avatar>
-          <name>oylenshpeegul</name>
-          <url>https://github.com/oylenshpeegul</url>
+          <avatar>https://avatars.githubusercontent.com/u/217543?s=40&amp;v=4</avatar>
+          <name>DamienCassou</name>
+          <url>https://github.com/DamienCassou</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/160028?s=40&amp;v=4</avatar>
-          <name>wyuenho</name>
-          <url>https://github.com/wyuenho</url>
+          <avatar>https://avatars.githubusercontent.com/u/11722318?s=40&amp;v=4</avatar>
+          <name>kisaragi-hiu</name>
+          <url>https://github.com/kisaragi-hiu</url>
         </contributor>
       </contributors>
     </item>
@@ -446,13 +522,84 @@
       </contributors>
     </item>
     <item>
+      <title>purcell/emacs-reformatter</title>
+      <link>https://github.com/purcell/emacs-reformatter</link>
+      <description>Define commands which run reformatters on the current Emacs buffer</description>
+      <guid>https://github.com/purcell/emacs-reformatter</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>304</stars>
+      <forks>23</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5636?s=40&amp;v=4</avatar>
+          <name>purcell</name>
+          <url>https://github.com/purcell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/217543?s=40&amp;v=4</avatar>
+          <name>DamienCassou</name>
+          <url>https://github.com/DamienCassou</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5188977?s=40&amp;v=4</avatar>
+          <name>kenranunderscore</name>
+          <url>https://github.com/kenranunderscore</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/160028?s=40&amp;v=4</avatar>
+          <name>wyuenho</name>
+          <url>https://github.com/wyuenho</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>magit/forge</title>
+      <link>https://github.com/magit/forge</link>
+      <description>Work with Git forges from the comfort of Magit</description>
+      <guid>https://github.com/magit/forge</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>1,519</stars>
+      <forks>133</forks>
+      <addStars>9</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25046?s=40&amp;v=4</avatar>
+          <name>tarsius</name>
+          <url>https://github.com/tarsius</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2082195?s=40&amp;v=4</avatar>
+          <name>vermiculus</name>
+          <url>https://github.com/vermiculus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106838?s=40&amp;v=4</avatar>
+          <name>stepnem</name>
+          <url>https://github.com/stepnem</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/131893?s=40&amp;v=4</avatar>
+          <name>nbarrientos</name>
+          <url>https://github.com/nbarrientos</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12057118?s=40&amp;v=4</avatar>
+          <name>zainab-ali</name>
+          <url>https://github.com/zainab-ali</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>google-coral/coralnpu</title>
       <link>https://github.com/google-coral/coralnpu</link>
       <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
       <guid>https://github.com/google-coral/coralnpu</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>2,208</stars>
+      <stars>2,209</stars>
       <forks>260</forks>
       <addStars>70</addStars>
       <contributors>
@@ -480,44 +627,6 @@
           <avatar>https://avatars.githubusercontent.com/u/241349384?s=40&amp;v=4</avatar>
           <name>stefanh111</name>
           <url>https://github.com/stefanh111</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>doomemacs/doomemacs</title>
-      <link>https://github.com/doomemacs/doomemacs</link>
-      <description>An Emacs framework for the stubborn martian hacker</description>
-      <guid>https://github.com/doomemacs/doomemacs</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>21,929</stars>
-      <forks>3,162</forks>
-      <addStars>186</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/510883?s=40&amp;v=4</avatar>
-          <name>hlissner</name>
-          <url>https://github.com/hlissner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19792685?s=40&amp;v=4</avatar>
-          <name>iyefrat</name>
-          <url>https://github.com/iyefrat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20903656?s=40&amp;v=4</avatar>
-          <name>tecosaur</name>
-          <url>https://github.com/tecosaur</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13229321?s=40&amp;v=4</avatar>
-          <name>patrl</name>
-          <url>https://github.com/patrl</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2872862?s=40&amp;v=4</avatar>
-          <name>elken</name>
-          <url>https://github.com/elken</url>
         </contributor>
       </contributors>
     </item>
