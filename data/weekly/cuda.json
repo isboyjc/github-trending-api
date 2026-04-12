@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Apr 2026 08:01:13 GMT",
+  "pubDate": "Sun, 12 Apr 2026 14:00:49 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,7 +10,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "29,525",
+      "stars": "29,532",
       "forks": "3,514",
       "addStars": "159",
       "contributors": [
@@ -38,6 +38,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
           "name": "rosslwheeler",
           "url": "https://github.com/rosslwheeler"
+        }
+      ]
+    },
+    {
+      "title": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "9,116",
+      "forks": "1,149",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
+          "name": "sphish",
+          "url": "https://github.com/sphish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
+          "name": "fzyzcjy",
+          "url": "https://github.com/fzyzcjy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
+          "name": "seth-howell",
+          "url": "https://github.com/seth-howell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
+          "name": "wangfakang",
+          "url": "https://github.com/wangfakang"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA/cub",
+      "url": "https://github.com/NVIDIA/cub",
+      "description": "[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "1,827",
+      "forks": "463",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9890394?s=40&v=4",
+          "name": "gevtushenko",
+          "url": "https://github.com/gevtushenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58744?s=40&v=4",
+          "name": "alliepiper",
+          "url": "https://github.com/alliepiper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1476032?s=40&v=4",
+          "name": "dumerrill",
+          "url": "https://github.com/dumerrill"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/398194?s=40&v=4",
+          "name": "brycelelbach",
+          "url": "https://github.com/brycelelbach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3958403?s=40&v=4",
+          "name": "elstehle",
+          "url": "https://github.com/elstehle"
         }
       ]
     },
@@ -79,51 +153,14 @@
       ]
     },
     {
-      "title": "NVIDIA/cub",
-      "url": "https://github.com/NVIDIA/cub",
-      "description": "[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl",
+      "title": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,826",
-      "forks": "463",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9890394?s=40&v=4",
-          "name": "gevtushenko",
-          "url": "https://github.com/gevtushenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58744?s=40&v=4",
-          "name": "alliepiper",
-          "url": "https://github.com/alliepiper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1476032?s=40&v=4",
-          "name": "dumerrill",
-          "url": "https://github.com/dumerrill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/398194?s=40&v=4",
-          "name": "brycelelbach",
-          "url": "https://github.com/brycelelbach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3958403?s=40&v=4",
-          "name": "elstehle",
-          "url": "https://github.com/elstehle"
-        }
-      ]
-    },
-    {
-      "title": "deepseek-ai/DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "9,111",
-      "forks": "1,149",
-      "addStars": "18",
+      "stars": "6,323",
+      "forks": "858",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -131,24 +168,24 @@
           "url": "https://github.com/LyricZhao"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
-          "name": "sphish",
-          "url": "https://github.com/sphish"
+          "avatar": "https://avatars.githubusercontent.com/u/44948473?s=40&v=4",
+          "name": "soundOfDestiny",
+          "url": "https://github.com/soundOfDestiny"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
-          "name": "fzyzcjy",
-          "url": "https://github.com/fzyzcjy"
+          "avatar": "https://avatars.githubusercontent.com/u/94977922?s=40&v=4",
+          "name": "zheanxu",
+          "url": "https://github.com/zheanxu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
-          "name": "seth-howell",
-          "url": "https://github.com/seth-howell"
+          "avatar": "https://avatars.githubusercontent.com/u/34201481?s=40&v=4",
+          "name": "RayWang96",
+          "url": "https://github.com/RayWang96"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
-          "name": "wangfakang",
-          "url": "https://github.com/wangfakang"
+          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
+          "name": "ko3n1g",
+          "url": "https://github.com/ko3n1g"
         }
       ]
     },
@@ -227,49 +264,12 @@
       ]
     },
     {
-      "title": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "6,322",
-      "forks": "858",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
-          "name": "LyricZhao",
-          "url": "https://github.com/LyricZhao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44948473?s=40&v=4",
-          "name": "soundOfDestiny",
-          "url": "https://github.com/soundOfDestiny"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94977922?s=40&v=4",
-          "name": "zheanxu",
-          "url": "https://github.com/zheanxu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34201481?s=40&v=4",
-          "name": "RayWang96",
-          "url": "https://github.com/RayWang96"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&v=4",
-          "name": "ko3n1g",
-          "url": "https://github.com/ko3n1g"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/cuopt",
       "url": "https://github.com/NVIDIA/cuopt",
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "809",
+      "stars": "810",
       "forks": "158",
       "addStars": "9",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "824",
+      "stars": "825",
       "forks": "171",
       "addStars": "14",
       "contributors": [
