@@ -2,8 +2,45 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Apr 2026 08:25:57 GMT",
+  "pubDate": "Wed, 15 Apr 2026 14:47:26 GMT",
   "items": [
+    {
+      "title": "NixOS/nixpkgs",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "description": "Nix Packages collection & NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "24,297",
+      "forks": "18,600",
+      "addStars": "495",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37933096?s=40&v=4",
+          "name": "r-ryantm",
+          "url": "https://github.com/r-ryantm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&v=4",
+          "name": "fabaff",
+          "url": "https://github.com/fabaff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15247171?s=40&v=4",
+          "name": "NickCao",
+          "url": "https://github.com/NickCao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/131599?s=40&v=4",
+          "name": "mweinelt",
+          "url": "https://github.com/mweinelt"
+        }
+      ]
+    },
     {
       "title": "BirdeeHub/nix-wrapper-modules",
       "url": "https://github.com/BirdeeHub/nix-wrapper-modules",
@@ -33,75 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/94313?s=40&v=4",
           "name": "iynaix",
           "url": "https://github.com/iynaix"
-        }
-      ]
-    },
-    {
-      "title": "NixOS/nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,028",
-      "forks": "909",
-      "addStars": "53",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
-          "name": "mexisme",
-          "url": "https://github.com/mexisme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
-          "name": "lukateras",
-          "url": "https://github.com/lukateras"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
-          "name": "Lyndeno",
-          "url": "https://github.com/Lyndeno"
-        }
-      ]
-    },
-    {
-      "title": "vic/den",
-      "url": "https://github.com/vic/den",
-      "description": "Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "297",
-      "forks": "33",
-      "addStars": "137",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/331?s=40&v=4",
-          "name": "vic",
-          "url": "https://github.com/vic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130664?s=40&v=4",
-          "name": "sini",
-          "url": "https://github.com/sini"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44377258?s=40&v=4",
-          "name": "HeitorAugustoLN",
-          "url": "https://github.com/HeitorAugustoLN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/756348?s=40&v=4",
-          "name": "theutz",
-          "url": "https://github.com/theutz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/252042?s=40&v=4",
-          "name": "drupol",
-          "url": "https://github.com/drupol"
         }
       ]
     },
@@ -138,14 +106,14 @@
       ]
     },
     {
-      "title": "nix-community/disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "title": "NixOS/nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,985",
-      "forks": "294",
-      "addStars": "74",
+      "stars": "3,028",
+      "forks": "909",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
@@ -153,14 +121,88 @@
           "url": "https://github.com/Mic92"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
-          "name": "Lassulus",
-          "url": "https://github.com/Lassulus"
+          "avatar": "https://avatars.githubusercontent.com/u/329349?s=40&v=4",
+          "name": "mexisme",
+          "url": "https://github.com/mexisme"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
-          "name": "iFreilicht",
-          "url": "https://github.com/iFreilicht"
+          "avatar": "https://avatars.githubusercontent.com/u/1643293?s=40&v=4",
+          "name": "lukateras",
+          "url": "https://github.com/lukateras"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13490857?s=40&v=4",
+          "name": "Lyndeno",
+          "url": "https://github.com/Lyndeno"
+        }
+      ]
+    },
+    {
+      "title": "microvm-nix/microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "2,495",
+      "forks": "193",
+      "addStars": "124",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12923?s=40&v=4",
+          "name": "astro",
+          "url": "https://github.com/astro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14830?s=40&v=4",
+          "name": "Ramblurr",
+          "url": "https://github.com/Ramblurr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/112069?s=40&v=4",
+          "name": "luizribeiro",
+          "url": "https://github.com/luizribeiro"
+        }
+      ]
+    },
+    {
+      "title": "vic/den",
+      "url": "https://github.com/vic/den",
+      "description": "Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "298",
+      "forks": "33",
+      "addStars": "137",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/331?s=40&v=4",
+          "name": "vic",
+          "url": "https://github.com/vic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130664?s=40&v=4",
+          "name": "sini",
+          "url": "https://github.com/sini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44377258?s=40&v=4",
+          "name": "HeitorAugustoLN",
+          "url": "https://github.com/HeitorAugustoLN"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/756348?s=40&v=4",
+          "name": "theutz",
+          "url": "https://github.com/theutz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/252042?s=40&v=4",
+          "name": "drupol",
+          "url": "https://github.com/drupol"
         }
       ]
     },
@@ -183,43 +225,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "NixOS/nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "description": "Nix Packages collection & NixOS",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "24,294",
-      "forks": "18,598",
-      "addStars": "495",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37933096?s=40&v=4",
-          "name": "r-ryantm",
-          "url": "https://github.com/r-ryantm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&v=4",
-          "name": "fabaff",
-          "url": "https://github.com/fabaff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15247171?s=40&v=4",
-          "name": "NickCao",
-          "url": "https://github.com/NickCao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
-          "name": "SuperSandro2000",
-          "url": "https://github.com/SuperSandro2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/131599?s=40&v=4",
-          "name": "mweinelt",
-          "url": "https://github.com/mweinelt"
         }
       ]
     },
@@ -266,7 +271,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,762",
+      "stars": "2,763",
       "forks": "215",
       "addStars": "77",
       "contributors": [
@@ -288,7 +293,7 @@
       "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,224",
+      "stars": "2,225",
       "forks": "324",
       "addStars": "48",
       "contributors": [
@@ -320,34 +325,29 @@
       ]
     },
     {
-      "title": "nix-community/nixos-apple-silicon",
-      "url": "https://github.com/nix-community/nixos-apple-silicon",
-      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
+      "title": "nix-community/disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,469",
-      "forks": "148",
-      "addStars": "47",
+      "stars": "2,985",
+      "forks": "294",
+      "addStars": "74",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/208010?s=40&v=4",
-          "name": "tpwrules",
-          "url": "https://github.com/tpwrules"
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/183879?s=40&v=4",
-          "name": "flokli",
-          "url": "https://github.com/flokli"
+          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
+          "name": "Lassulus",
+          "url": "https://github.com/Lassulus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/193895068?s=40&v=4",
-          "name": "yuyuyureka",
-          "url": "https://github.com/yuyuyureka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9061737?s=40&v=4",
-          "name": "natsukagami",
-          "url": "https://github.com/natsukagami"
+          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
+          "name": "iFreilicht",
+          "url": "https://github.com/iFreilicht"
         }
       ]
     },
@@ -385,6 +385,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/55629891?s=40&v=4",
           "name": "diniamo",
           "url": "https://github.com/diniamo"
+        }
+      ]
+    },
+    {
+      "title": "xddxdd/nix-cachyos-kernel",
+      "url": "https://github.com/xddxdd/nix-cachyos-kernel",
+      "description": "CachyOS kernel for NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "445",
+      "forks": "17",
+      "addStars": "109",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5778879?s=40&v=4",
+          "name": "xddxdd",
+          "url": "https://github.com/xddxdd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78790545?s=40&v=4",
+          "name": "sempiternal-aurora",
+          "url": "https://github.com/sempiternal-aurora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57358788?s=40&v=4",
+          "name": "LoricAndre",
+          "url": "https://github.com/LoricAndre"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76160668?s=40&v=4",
+          "name": "Malix-Labs",
+          "url": "https://github.com/Malix-Labs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130664?s=40&v=4",
+          "name": "sini",
+          "url": "https://github.com/sini"
+        }
+      ]
+    },
+    {
+      "title": "viperML/wrapper-manager",
+      "url": "https://github.com/viperML/wrapper-manager",
+      "description": "Post-modern configuration management",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "387",
+      "forks": "10",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11395853?s=40&v=4",
+          "name": "viperML",
+          "url": "https://github.com/viperML"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/566844?s=40&v=4",
+          "name": "christoph00",
+          "url": "https://github.com/christoph00"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5565585?s=40&v=4",
+          "name": "dliberalesso",
+          "url": "https://github.com/dliberalesso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24574288?s=40&v=4",
+          "name": "nrabulinski",
+          "url": "https://github.com/nrabulinski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29682759?s=40&v=4",
+          "name": "pyrotelekinetic",
+          "url": "https://github.com/pyrotelekinetic"
         }
       ]
     }
