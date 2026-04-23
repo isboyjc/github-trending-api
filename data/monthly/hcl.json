@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 23 Apr 2026 08:50:41 GMT",
+  "pubDate": "Thu, 23 Apr 2026 15:15:50 GMT",
   "items": [
     {
       "title": "techiescamp/devops-projects",
@@ -116,12 +116,49 @@
       ]
     },
     {
+      "title": "terraform-aws-modules/terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "4,929",
+      "forks": "4,383",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
+          "name": "barryib",
+          "url": "https://github.com/barryib"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
+          "name": "brandonjbjelland",
+          "url": "https://github.com/brandonjbjelland"
+        }
+      ]
+    },
+    {
       "title": "GoogleCloudPlatform/cluster-toolkit",
       "url": "https://github.com/GoogleCloudPlatform/cluster-toolkit",
       "description": "Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "334",
+      "stars": "335",
       "forks": "291",
       "addStars": "7",
       "contributors": [
@@ -153,125 +190,14 @@
       ]
     },
     {
-      "title": "cloudposse/terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "terraform-aws-modules/terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "350",
-      "forks": "239",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
-          "name": "actions-bot",
-          "url": "https://github.com/actions-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        }
-      ]
-    },
-    {
-      "title": "ministryofjustice/cloud-platform-environments",
-      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
-      "description": "Environment configuration for the Cloud Platform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "77",
-      "forks": "39",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2338?s=40&v=4",
-          "name": "digitalronin",
-          "url": "https://github.com/digitalronin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105213050?s=40&v=4",
-          "name": "anthony-britton-moj",
-          "url": "https://github.com/anthony-britton-moj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51327941?s=40&v=4",
-          "name": "simon-mitchell",
-          "url": "https://github.com/simon-mitchell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5099053?s=40&v=4",
-          "name": "petergphillips",
-          "url": "https://github.com/petergphillips"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51918433?s=40&v=4",
-          "name": "psoleckimoj",
-          "url": "https://github.com/psoleckimoj"
-        }
-      ]
-    },
-    {
-      "title": "aws-ia/terraform-aws-mwaa",
-      "url": "https://github.com/aws-ia/terraform-aws-mwaa",
-      "description": "Terraform module for Amazon MWAA(Apache Airflow)",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "56",
-      "forks": "74",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19464259?s=40&v=4",
-          "name": "vara-bonthu",
-          "url": "https://github.com/vara-bonthu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13080965?s=40&v=4",
-          "name": "Almenon",
-          "url": "https://github.com/Almenon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16223299?s=40&v=4",
-          "name": "maiconrocha",
-          "url": "https://github.com/maiconrocha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60814528?s=40&v=4",
-          "name": "ricsue-aws",
-          "url": "https://github.com/ricsue-aws"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3812162?s=40&v=4",
-          "name": "drewmullen",
-          "url": "https://github.com/drewmullen"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "118",
-      "forks": "199",
-      "addStars": "1",
+      "stars": "1,035",
+      "forks": "762",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
@@ -284,19 +210,46 @@
           "url": "https://github.com/semantic-release-bot"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
+          "name": "ahlinc",
+          "url": "https://github.com/ahlinc"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
           "name": "bryantbiggs",
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
+          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
+          "name": "pdecat",
+          "url": "https://github.com/pdecat"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "151",
+      "forks": "114",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
+          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
+          "name": "ludoo",
+          "url": "https://github.com/ludoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
         }
       ]
     }
