@@ -2,45 +2,8 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 29 Apr 2026 09:07:48 GMT",
+  "pubDate": "Wed, 29 Apr 2026 15:19:18 GMT",
   "items": [
-    {
-      "title": "bazel-contrib/rules_foreign_cc",
-      "url": "https://github.com/bazel-contrib/rules_foreign_cc",
-      "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "733",
-      "forks": "265",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6598461?s=40&v=4",
-          "name": "irengrig",
-          "url": "https://github.com/irengrig"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
-          "name": "UebelAndre",
-          "url": "https://github.com/UebelAndre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9639?s=40&v=4",
-          "name": "novas0x2a",
-          "url": "https://github.com/novas0x2a"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
-          "name": "jheaff1",
-          "url": "https://github.com/jheaff1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
-        }
-      ]
-    },
     {
       "title": "uber/hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
@@ -79,29 +42,39 @@
       ]
     },
     {
-      "title": "immich-app/immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
+      "title": "bazel-contrib/rules_foreign_cc",
+      "url": "https://github.com/bazel-contrib/rules_foreign_cc",
+      "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "316",
-      "forks": "107",
-      "addStars": "11",
+      "stars": "733",
+      "forks": "265",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11602424?s=40&v=4",
-          "name": "bo0tzz",
-          "url": "https://github.com/bo0tzz"
+          "avatar": "https://avatars.githubusercontent.com/u/6598461?s=40&v=4",
+          "name": "irengrig",
+          "url": "https://github.com/irengrig"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5434875?s=40&v=4",
-          "name": "PixelJonas",
-          "url": "https://github.com/PixelJonas"
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8062692?s=40&v=4",
-          "name": "orbatschow",
-          "url": "https://github.com/orbatschow"
+          "avatar": "https://avatars.githubusercontent.com/u/9639?s=40&v=4",
+          "name": "novas0x2a",
+          "url": "https://github.com/novas0x2a"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48310225?s=40&v=4",
+          "name": "jheaff1",
+          "url": "https://github.com/jheaff1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
         }
       ]
     },
@@ -111,7 +84,7 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,781",
+      "stars": "3,782",
       "forks": "293",
       "addStars": "44",
       "contributors": [
@@ -139,6 +112,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/2355949?s=40&v=4",
           "name": "l46kok",
           "url": "https://github.com/l46kok"
+        }
+      ]
+    },
+    {
+      "title": "immich-app/immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "316",
+      "forks": "107",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11602424?s=40&v=4",
+          "name": "bo0tzz",
+          "url": "https://github.com/bo0tzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5434875?s=40&v=4",
+          "name": "PixelJonas",
+          "url": "https://github.com/PixelJonas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8062692?s=40&v=4",
+          "name": "orbatschow",
+          "url": "https://github.com/orbatschow"
         }
       ]
     },
@@ -286,38 +286,6 @@
       ]
     },
     {
-      "title": "GoogleContainerTools/distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "22,568",
-      "forks": "1,386",
-      "addStars": "162",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
-          "name": "loosebazooka",
-          "url": "https://github.com/loosebazooka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
-          "name": "omBratteng",
-          "url": "https://github.com/omBratteng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
-          "name": "chanseokoh",
-          "url": "https://github.com/chanseokoh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
-          "name": "distroless-bot",
-          "url": "https://github.com/distroless-bot"
-        }
-      ]
-    },
-    {
       "title": "ProdriveTechnologies/bazel-latex",
       "url": "https://github.com/ProdriveTechnologies/bazel-latex",
       "description": "Bazel build system rules for LaTeX",
@@ -351,38 +319,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/212864?s=40&v=4",
           "name": "fsareshwala",
           "url": "https://github.com/fsareshwala"
-        }
-      ]
-    },
-    {
-      "title": "bazelbuild/rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": "808",
-      "forks": "588",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
-          "name": "UebelAndre",
-          "url": "https://github.com/UebelAndre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1131704?s=40&v=4",
-          "name": "illicitonion",
-          "url": "https://github.com/illicitonion"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/814566?s=40&v=4",
-          "name": "hlopko",
-          "url": "https://github.com/hlopko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29306214?s=40&v=4",
-          "name": "krasimirgg",
-          "url": "https://github.com/krasimirgg"
         }
       ]
     },
@@ -424,71 +360,66 @@
       ]
     },
     {
-      "title": "f0rmiga/gcc-toolchain",
-      "url": "https://github.com/f0rmiga/gcc-toolchain",
-      "description": "A fully-hermetic Bazel GCC toolchain for Linux.",
+      "title": "bazelbuild/rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "133",
-      "forks": "36",
-      "addStars": "1",
+      "stars": "808",
+      "forks": "589",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
-          "name": "f0rmiga",
-          "url": "https://github.com/f0rmiga"
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5861182?s=40&v=4",
-          "name": "blorente",
-          "url": "https://github.com/blorente"
+          "avatar": "https://avatars.githubusercontent.com/u/1131704?s=40&v=4",
+          "name": "illicitonion",
+          "url": "https://github.com/illicitonion"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
-          "name": "gregmagolan",
-          "url": "https://github.com/gregmagolan"
+          "avatar": "https://avatars.githubusercontent.com/u/814566?s=40&v=4",
+          "name": "hlopko",
+          "url": "https://github.com/hlopko"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/86471569?s=40&v=4",
-          "name": "z8v",
-          "url": "https://github.com/z8v"
+          "avatar": "https://avatars.githubusercontent.com/u/29306214?s=40&v=4",
+          "name": "krasimirgg",
+          "url": "https://github.com/krasimirgg"
         }
       ]
     },
     {
-      "title": "bazelbuild/platforms",
-      "url": "https://github.com/bazelbuild/platforms",
-      "description": "Constraint values for specifying platforms and toolchains",
+      "title": "GoogleContainerTools/distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "119",
-      "forks": "90",
-      "addStars": "0",
+      "stars": "22,570",
+      "forks": "1,386",
+      "addStars": "162",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/326527?s=40&v=4",
-          "name": "katre",
-          "url": "https://github.com/katre"
+          "avatar": "https://avatars.githubusercontent.com/u/1304826?s=40&v=4",
+          "name": "loosebazooka",
+          "url": "https://github.com/loosebazooka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1687706?s=40&v=4",
-          "name": "iirina",
-          "url": "https://github.com/iirina"
+          "avatar": "https://avatars.githubusercontent.com/u/1681525?s=40&v=4",
+          "name": "omBratteng",
+          "url": "https://github.com/omBratteng"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4171702?s=40&v=4",
-          "name": "meteorcloudy",
-          "url": "https://github.com/meteorcloudy"
+          "avatar": "https://avatars.githubusercontent.com/u/10523105?s=40&v=4",
+          "name": "chanseokoh",
+          "url": "https://github.com/chanseokoh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5130366?s=40&v=4",
-          "name": "gregestren",
-          "url": "https://github.com/gregestren"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/689198?s=40&v=4",
-          "name": "sergiocampama",
-          "url": "https://github.com/sergiocampama"
+          "avatar": "https://avatars.githubusercontent.com/u/99663502?s=40&v=4",
+          "name": "distroless-bot",
+          "url": "https://github.com/distroless-bot"
         }
       ]
     },
@@ -562,19 +493,24 @@
       ]
     },
     {
-      "title": "aspect-build/rules_js",
-      "url": "https://github.com/aspect-build/rules_js",
-      "description": "High-performance Bazel rules for running Node.js tools and building JavaScript projects",
+      "title": "f0rmiga/gcc-toolchain",
+      "url": "https://github.com/f0rmiga/gcc-toolchain",
+      "description": "A fully-hermetic Bazel GCC toolchain for Linux.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "366",
-      "forks": "166",
-      "addStars": "2",
+      "stars": "133",
+      "forks": "36",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/89246?s=40&v=4",
-          "name": "jbedard",
-          "url": "https://github.com/jbedard"
+          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
+          "name": "f0rmiga",
+          "url": "https://github.com/f0rmiga"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5861182?s=40&v=4",
+          "name": "blorente",
+          "url": "https://github.com/blorente"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/520826?s=40&v=4",
@@ -582,14 +518,9 @@
           "url": "https://github.com/gregmagolan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4948761?s=40&v=4",
-          "name": "kormide",
-          "url": "https://github.com/kormide"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47395?s=40&v=4",
-          "name": "alexeagle",
-          "url": "https://github.com/alexeagle"
+          "avatar": "https://avatars.githubusercontent.com/u/86471569?s=40&v=4",
+          "name": "z8v",
+          "url": "https://github.com/z8v"
         }
       ]
     },
@@ -654,6 +585,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/70984784?s=40&v=4",
           "name": "yoshi-code-bot",
           "url": "https://github.com/yoshi-code-bot"
+        }
+      ]
+    },
+    {
+      "title": "bazel-contrib/rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": "674",
+      "forks": "681",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34175098?s=40&v=4",
+          "name": "rickeylev",
+          "url": "https://github.com/rickeylev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/240938?s=40&v=4",
+          "name": "aignas",
+          "url": "https://github.com/aignas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3149049?s=40&v=4",
+          "name": "f0rmiga",
+          "url": "https://github.com/f0rmiga"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26427366?s=40&v=4",
+          "name": "UebelAndre",
+          "url": "https://github.com/UebelAndre"
         }
       ]
     }
