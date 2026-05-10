@@ -2,45 +2,8 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 10 May 2026 08:50:44 GMT",
+  "pubDate": "Sun, 10 May 2026 14:20:41 GMT",
   "items": [
-    {
-      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "2,007",
-      "forks": "1,219",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
-          "name": "juliocc",
-          "url": "https://github.com/juliocc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
-          "name": "lcaggio",
-          "url": "https://github.com/lcaggio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
-          "name": "wiktorn",
-          "url": "https://github.com/wiktorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
-          "name": "juliodiez",
-          "url": "https://github.com/juliodiez"
-        }
-      ]
-    },
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
@@ -75,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
           "name": "brandonjbjelland",
           "url": "https://github.com/brandonjbjelland"
+        }
+      ]
+    },
+    {
+      "title": "GoogleCloudPlatform/cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "2,007",
+      "forks": "1,219",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
+          "name": "ludoo",
+          "url": "https://github.com/ludoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100541?s=40&v=4",
+          "name": "juliocc",
+          "url": "https://github.com/juliocc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81653?s=40&v=4",
+          "name": "lcaggio",
+          "url": "https://github.com/lcaggio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3180307?s=40&v=4",
+          "name": "wiktorn",
+          "url": "https://github.com/wiktorn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2862327?s=40&v=4",
+          "name": "juliodiez",
+          "url": "https://github.com/juliodiez"
         }
       ]
     },
@@ -296,12 +296,44 @@
       ]
     },
     {
+      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "1,260",
+      "forks": "1,270",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,039",
+      "stars": "1,040",
       "forks": "765",
       "addStars": "8",
       "contributors": [
@@ -333,34 +365,29 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-google-modules/terraform-google-cloud-dns",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-dns",
+      "description": "Creates and manages Cloud DNS public or private zones and their records",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,260",
-      "forks": "1,270",
-      "addStars": "5",
+      "stars": "74",
+      "forks": "87",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
+          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
+          "name": "cloud-foundation-bot",
+          "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
+          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
+          "name": "ludoo",
+          "url": "https://github.com/ludoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
+          "avatar": "https://avatars.githubusercontent.com/u/56636958?s=40&v=4",
+          "name": "guillaume-dondero-at-fr-claranet",
+          "url": "https://github.com/guillaume-dondero-at-fr-claranet"
         }
       ]
     },
@@ -398,33 +425,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
           "name": "osterman",
           "url": "https://github.com/osterman"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-cloud-dns",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-dns",
-      "description": "Creates and manages Cloud DNS public or private zones and their records",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "74",
-      "forks": "87",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60107303?s=40&v=4",
-          "name": "cloud-foundation-bot",
-          "url": "https://github.com/cloud-foundation-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66007?s=40&v=4",
-          "name": "ludoo",
-          "url": "https://github.com/ludoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56636958?s=40&v=4",
-          "name": "guillaume-dondero-at-fr-claranet",
-          "url": "https://github.com/guillaume-dondero-at-fr-claranet"
         }
       ]
     }
