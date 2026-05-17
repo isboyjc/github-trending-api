@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Sun, 17 May 2026 09:02:34 GMT</pubDate>
+    <pubDate>Sun, 17 May 2026 14:26:32 GMT</pubDate>
     <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -195,44 +195,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</link>
-      <description>Terraform module to create AWS RDS Aurora resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>417</stars>
-      <forks>604</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
-          <name>magreenbaum</name>
-          <url>https://github.com/magreenbaum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
-          <name>betajobot</name>
-          <url>https://github.com/betajobot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>terraform-aws-modules/terraform-aws-security-group</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-security-group</link>
       <description>Terraform module to create AWS Security Group resources 🇺🇦</description>
@@ -271,6 +233,77 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</link>
+      <description>Terraform module to create AWS RDS Aurora resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>417</stars>
+      <forks>604</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
+          <name>antonbabenko</name>
+          <url>https://github.com/antonbabenko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
+          <name>magreenbaum</name>
+          <url>https://github.com/magreenbaum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
+          <name>betajobot</name>
+          <url>https://github.com/betajobot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-iam</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
+      <description>Manages multiple IAM roles for resources on Google Cloud</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-iam</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>241</stars>
+      <forks>188</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/667688?s=40&amp;v=4</avatar>
+          <name>cray0000</name>
+          <url>https://github.com/cray0000</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>cloudposse/terraform-aws-ecs-container-definition</title>
       <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
       <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
@@ -305,39 +338,6 @@
           <avatar>https://avatars.githubusercontent.com/u/52489?s=40&amp;v=4</avatar>
           <name>osterman</name>
           <url>https://github.com/osterman</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>terraform-google-modules/terraform-google-iam</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
-      <description>Manages multiple IAM roles for resources on Google Cloud</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-iam</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>241</stars>
-      <forks>188</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
-          <name>cloud-foundation-bot</name>
-          <url>https://github.com/cloud-foundation-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/667688?s=40&amp;v=4</avatar>
-          <name>cray0000</name>
-          <url>https://github.com/cray0000</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
-          <name>morgante</name>
-          <url>https://github.com/morgante</url>
         </contributor>
       </contributors>
     </item>
