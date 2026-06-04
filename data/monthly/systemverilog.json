@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 04 Jun 2026 10:36:41 GMT",
+  "pubDate": "Thu, 04 Jun 2026 16:20:54 GMT",
   "items": [
     {
       "title": "lowRISC/opentitan",
@@ -10,7 +10,7 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,424",
+      "stars": "3,425",
       "forks": "1,034",
       "addStars": "87",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "1,900",
+      "stars": "1,901",
       "forks": "743",
       "addStars": "38",
       "contributors": [
@@ -190,43 +190,6 @@
       ]
     },
     {
-      "title": "verilator/verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "3,652",
-      "forks": "825",
-      "addStars": "71",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
-          "name": "wsnyder",
-          "url": "https://github.com/wsnyder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
-          "name": "gezalore",
-          "url": "https://github.com/gezalore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
-          "name": "RRozak",
-          "url": "https://github.com/RRozak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
-          "name": "toddstrader",
-          "url": "https://github.com/toddstrader"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9216518?s=40&v=4",
-          "name": "kbieganski",
-          "url": "https://github.com/kbieganski"
-        }
-      ]
-    },
-    {
       "title": "chipsalliance/Cores-VeeR-EL2",
       "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
       "description": "VeeR EL2 Core",
@@ -260,38 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
           "name": "mczyz-antmicro",
           "url": "https://github.com/mczyz-antmicro"
-        }
-      ]
-    },
-    {
-      "title": "adam-maj/tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "12,528",
-      "forks": "1,192",
-      "addStars": "197",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
-          "name": "adam-maj",
-          "url": "https://github.com/adam-maj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
-          "name": "ashaltu",
-          "url": "https://github.com/ashaltu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-          "name": "eltociear",
-          "url": "https://github.com/eltociear"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
-          "name": "xianbaoqian",
-          "url": "https://github.com/xianbaoqian"
         }
       ]
     },
@@ -370,6 +301,43 @@
       ]
     },
     {
+      "title": "pulp-platform/riscv-dbg",
+      "url": "https://github.com/pulp-platform/riscv-dbg",
+      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "311",
+      "forks": "92",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
+          "name": "bluewww",
+          "url": "https://github.com/bluewww"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
+          "name": "Silabs-ArjanB",
+          "url": "https://github.com/Silabs-ArjanB"
+        }
+      ]
+    },
+    {
       "title": "pulp-platform/axi_mem_if",
       "url": "https://github.com/pulp-platform/axi_mem_if",
       "description": "Simple single-port AXI memory interface",
@@ -407,6 +375,43 @@
       ]
     },
     {
+      "title": "verilator/verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "3,652",
+      "forks": "825",
+      "addStars": "71",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
+          "name": "wsnyder",
+          "url": "https://github.com/wsnyder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
+          "name": "gezalore",
+          "url": "https://github.com/gezalore"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
+          "name": "RRozak",
+          "url": "https://github.com/RRozak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
+          "name": "toddstrader",
+          "url": "https://github.com/toddstrader"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9216518?s=40&v=4",
+          "name": "kbieganski",
+          "url": "https://github.com/kbieganski"
+        }
+      ]
+    },
+    {
       "title": "openhwgroup/cv32e40p",
       "url": "https://github.com/openhwgroup/cv32e40p",
       "description": "CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform",
@@ -440,43 +445,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/692141?s=40&v=4",
           "name": "svenstucki",
           "url": "https://github.com/svenstucki"
-        }
-      ]
-    },
-    {
-      "title": "pulp-platform/riscv-dbg",
-      "url": "https://github.com/pulp-platform/riscv-dbg",
-      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "311",
-      "forks": "92",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
-          "name": "bluewww",
-          "url": "https://github.com/bluewww"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
-          "name": "Silabs-ArjanB",
-          "url": "https://github.com/Silabs-ArjanB"
         }
       ]
     },
