@@ -2,8 +2,45 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Jun 2026 09:26:23 GMT",
+  "pubDate": "Sat, 27 Jun 2026 14:44:41 GMT",
   "items": [
+    {
+      "title": "kubernetes/k8s.io",
+      "url": "https://github.com/kubernetes/k8s.io",
+      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "963",
+      "forks": "1,021",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
+          "name": "k8s-ci-robot",
+          "url": "https://github.com/k8s-ci-robot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49258?s=40&v=4",
+          "name": "spiffxp",
+          "url": "https://github.com/spiffxp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2343515?s=40&v=4",
+          "name": "ameukam",
+          "url": "https://github.com/ameukam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4115580?s=40&v=4",
+          "name": "cpanato",
+          "url": "https://github.com/cpanato"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
+          "name": "thockin",
+          "url": "https://github.com/thockin"
+        }
+      ]
+    },
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
@@ -190,76 +227,34 @@
       ]
     },
     {
-      "title": "cloudposse/terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "aws-ia/terraform-aws-eks-blueprints",
+      "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+      "description": "Configure and deploy complete EKS clusters.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "351",
-      "forks": "239",
+      "stars": "3,023",
+      "forks": "1,515",
       "addStars": "1",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
-          "name": "actions-bot",
-          "url": "https://github.com/actions-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
-          "name": "cloudpossebot",
-          "url": "https://github.com/cloudpossebot"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
           "name": "actions-user",
           "url": "https://github.com/actions-user"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
-        }
-      ]
-    },
-    {
-      "title": "terraform-aws-modules/terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "27",
-      "forks": "67",
-      "addStars": "0",
-      "contributors": [
+          "avatar": "https://avatars.githubusercontent.com/u/19464259?s=40&v=4",
+          "name": "vara-bonthu",
+          "url": "https://github.com/vara-bonthu"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
           "name": "bryantbiggs",
           "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
-          "name": "FlorinAndrei",
-          "url": "https://github.com/FlorinAndrei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4600857?s=40&v=4",
-          "name": "adubkov",
-          "url": "https://github.com/adubkov"
+          "avatar": "https://avatars.githubusercontent.com/u/20686953?s=40&v=4",
+          "name": "Zvikan",
+          "url": "https://github.com/Zvikan"
         }
       ]
     },
@@ -301,34 +296,39 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules/terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,272",
-      "forks": "1,271",
-      "addStars": "1",
+      "stars": "27",
+      "forks": "67",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
+          "avatar": "https://avatars.githubusercontent.com/u/901867?s=40&v=4",
+          "name": "FlorinAndrei",
+          "url": "https://github.com/FlorinAndrei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4600857?s=40&v=4",
+          "name": "adubkov",
+          "url": "https://github.com/adubkov"
         }
       ]
     }
