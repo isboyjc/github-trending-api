@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 04 Jul 2026 09:19:51 GMT",
+  "pubDate": "Sat, 04 Jul 2026 14:40:36 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-iam",
@@ -42,43 +42,6 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "3,243",
-      "forks": "4,630",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
-          "name": "DrFaust92",
-          "url": "https://github.com/DrFaust92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        }
-      ]
-    },
-    {
       "title": "terraform-aws-modules/terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
@@ -112,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
           "name": "brandonjbjelland",
           "url": "https://github.com/brandonjbjelland"
+        }
+      ]
+    },
+    {
+      "title": "terraform-aws-modules/terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "3,243",
+      "forks": "4,630",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33663870?s=40&v=4",
+          "name": "DrFaust92",
+          "url": "https://github.com/DrFaust92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
         }
       ]
     },
@@ -328,43 +328,6 @@
       ]
     },
     {
-      "title": "semgrep/semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,197",
-      "forks": "556",
-      "addStars": "23",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2419690?s=40&v=4",
-          "name": "LewisArdern",
-          "url": "https://github.com/LewisArdern"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2299241?s=40&v=4",
-          "name": "inkz",
-          "url": "https://github.com/inkz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23181670?s=40&v=4",
-          "name": "colleend",
-          "url": "https://github.com/colleend"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98792107?s=40&v=4",
-          "name": "kurt-r2c",
-          "url": "https://github.com/kurt-r2c"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3809983?s=40&v=4",
-          "name": "0xDC0DE",
-          "url": "https://github.com/0xDC0DE"
-        }
-      ]
-    },
-    {
       "title": "terraform-google-modules/terraform-google-sql-db",
       "url": "https://github.com/terraform-google-modules/terraform-google-sql-db",
       "description": "Creates a Cloud SQL database instance",
@@ -392,13 +355,45 @@
       ]
     },
     {
-      "title": "terraform-google-modules/terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "243",
-      "forks": "191",
+      "stars": "1,271",
+      "forks": "1,271",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
+          "name": "morgante",
+          "url": "https://github.com/morgante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
+          "name": "apeabody",
+          "url": "https://github.com/apeabody"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
+          "name": "bharathkkb",
+          "url": "https://github.com/bharathkkb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
+          "name": "aaron-lane",
+          "url": "https://github.com/aaron-lane"
+        }
+      ]
+    },
+    {
+      "title": "terraform-google-modules/terraform-google-lb-http",
+      "url": "https://github.com/terraform-google-modules/terraform-google-lb-http",
+      "description": "Creates a global HTTP load balancer for Compute Engine by using forwarding rules",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "354",
+      "forks": "399",
       "addStars": "2",
       "contributors": [
         {
@@ -407,19 +402,14 @@
           "url": "https://github.com/cloud-foundation-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/667688?s=40&v=4",
-          "name": "cray0000",
-          "url": "https://github.com/cray0000"
+          "avatar": "https://avatars.githubusercontent.com/u/323725?s=40&v=4",
+          "name": "danisla",
+          "url": "https://github.com/danisla"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
+          "avatar": "https://avatars.githubusercontent.com/u/1397633?s=40&v=4",
+          "name": "Dev25",
+          "url": "https://github.com/Dev25"
         }
       ]
     }
