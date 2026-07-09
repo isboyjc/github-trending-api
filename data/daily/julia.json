@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Jul 2026 10:21:52 GMT",
+  "pubDate": "Thu, 09 Jul 2026 16:00:52 GMT",
   "items": [
     {
       "title": "JuliaRegistries/General",
@@ -47,7 +47,7 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "48,919",
+      "stars": "48,920",
       "forks": "5,806",
       "addStars": "5",
       "contributors": [
@@ -79,39 +79,66 @@
       ]
     },
     {
-      "title": "CliMA/Oceananigans.jl",
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "title": "CliMA/ClimaCore.jl",
+      "url": "https://github.com/CliMA/ClimaCore.jl",
+      "description": "CliMA model dycore",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "1,341",
-      "forks": "283",
+      "stars": "111",
+      "forks": "18",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20099589?s=40&v=4",
-          "name": "ali-ramadhan",
-          "url": "https://github.com/ali-ramadhan"
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15271942?s=40&v=4",
-          "name": "glwagner",
-          "url": "https://github.com/glwagner"
+          "avatar": "https://avatars.githubusercontent.com/u/1692009?s=40&v=4",
+          "name": "simonbyrne",
+          "url": "https://github.com/simonbyrne"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7112768?s=40&v=4",
-          "name": "navidcy",
-          "url": "https://github.com/navidcy"
+          "avatar": "https://avatars.githubusercontent.com/u/39932030?s=40&v=4",
+          "name": "valeriabarra",
+          "url": "https://github.com/valeriabarra"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33547697?s=40&v=4",
-          "name": "simone-silvestri",
-          "url": "https://github.com/simone-silvestri"
+          "avatar": "https://avatars.githubusercontent.com/u/55154978?s=40&v=4",
+          "name": "sriharshakandala",
+          "url": "https://github.com/sriharshakandala"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/ClimaAtmos.jl",
+      "url": "https://github.com/CliMA/ClimaAtmos.jl",
+      "description": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "119",
+      "forks": "34",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13205162?s=40&v=4",
-          "name": "tomchor",
-          "url": "https://github.com/tomchor"
+          "avatar": "https://avatars.githubusercontent.com/u/11598433?s=40&v=4",
+          "name": "szy21",
+          "url": "https://github.com/szy21"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
+          "name": "Sbozzolo",
+          "url": "https://github.com/Sbozzolo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1196696?s=40&v=4",
+          "name": "trontrytel",
+          "url": "https://github.com/trontrytel"
         }
       ]
     },
@@ -153,38 +180,6 @@
       ]
     },
     {
-      "title": "CliMA/ClimaAtmos.jl",
-      "url": "https://github.com/CliMA/ClimaAtmos.jl",
-      "description": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "119",
-      "forks": "34",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
-          "name": "charleskawczynski",
-          "url": "https://github.com/charleskawczynski"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11598433?s=40&v=4",
-          "name": "szy21",
-          "url": "https://github.com/szy21"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9167485?s=40&v=4",
-          "name": "Sbozzolo",
-          "url": "https://github.com/Sbozzolo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1196696?s=40&v=4",
-          "name": "trontrytel",
-          "url": "https://github.com/trontrytel"
-        }
-      ]
-    },
-    {
       "title": "CliMA/ClimaLand.jl",
       "url": "https://github.com/CliMA/ClimaLand.jl",
       "description": "Clima's Land Model",
@@ -217,13 +212,114 @@
       ]
     },
     {
+      "title": "CliMA/ClimaTimeSteppers.jl",
+      "url": "https://github.com/CliMA/ClimaTimeSteppers.jl",
+      "description": "GPU-ready IMEX and multirate ODE solvers for large-scale scientific models",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "52",
+      "forks": "8",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1692009?s=40&v=4",
+          "name": "simonbyrne",
+          "url": "https://github.com/simonbyrne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8855258?s=40&v=4",
+          "name": "dennisYatunin",
+          "url": "https://github.com/dennisYatunin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15185316?s=40&v=4",
+          "name": "tapios",
+          "url": "https://github.com/tapios"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/CloudMicrophysics.jl",
+      "url": "https://github.com/CliMA/CloudMicrophysics.jl",
+      "description": "A library of cloud microphysics parameterizations",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "46",
+      "forks": "10",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1196696?s=40&v=4",
+          "name": "trontrytel",
+          "url": "https://github.com/trontrytel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45243236?s=40&v=4",
+          "name": "haakon-e",
+          "url": "https://github.com/haakon-e"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121587057?s=40&v=4",
+          "name": "amylu00",
+          "url": "https://github.com/amylu00"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/Oceananigans.jl",
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "1,341",
+      "forks": "283",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20099589?s=40&v=4",
+          "name": "ali-ramadhan",
+          "url": "https://github.com/ali-ramadhan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15271942?s=40&v=4",
+          "name": "glwagner",
+          "url": "https://github.com/glwagner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7112768?s=40&v=4",
+          "name": "navidcy",
+          "url": "https://github.com/navidcy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33547697?s=40&v=4",
+          "name": "simone-silvestri",
+          "url": "https://github.com/simone-silvestri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13205162?s=40&v=4",
+          "name": "tomchor",
+          "url": "https://github.com/tomchor"
+        }
+      ]
+    },
+    {
       "title": "MakieOrg/Makie.jl",
       "url": "https://github.com/MakieOrg/Makie.jl",
       "description": "Interactive data visualizations and plotting in Julia",
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": "2,788",
-      "forks": "390",
+      "forks": "391",
       "addStars": "1",
       "contributors": [
         {
@@ -250,6 +346,70 @@
           "avatar": "https://avatars.githubusercontent.com/u/2054835?s=40&v=4",
           "name": "anthony-wang",
           "url": "https://github.com/anthony-wang"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/ClimaOcean.jl",
+      "url": "https://github.com/CliMA/ClimaOcean.jl",
+      "description": "🌎 Regional-to-global coupled ocean and sea ice simulations based on Oceananigans",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "63",
+      "forks": "32",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15271942?s=40&v=4",
+          "name": "glwagner",
+          "url": "https://github.com/glwagner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7112768?s=40&v=4",
+          "name": "navidcy",
+          "url": "https://github.com/navidcy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33547697?s=40&v=4",
+          "name": "simone-silvestri",
+          "url": "https://github.com/simone-silvestri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51397186?s=40&v=4",
+          "name": "juliasloan25",
+          "url": "https://github.com/juliasloan25"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/RRTMGP.jl",
+      "url": "https://github.com/CliMA/RRTMGP.jl",
+      "description": "A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "64",
+      "forks": "12",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55154978?s=40&v=4",
+          "name": "sriharshakandala",
+          "url": "https://github.com/sriharshakandala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11598433?s=40&v=4",
+          "name": "szy21",
+          "url": "https://github.com/szy21"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60049837?s=40&v=4",
+          "name": "nefrathenrici",
+          "url": "https://github.com/nefrathenrici"
         }
       ]
     },
@@ -287,43 +447,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/26390525?s=40&v=4",
           "name": "lgoettgens",
           "url": "https://github.com/lgoettgens"
-        }
-      ]
-    },
-    {
-      "title": "WaterLily-jl/WaterLily.jl",
-      "url": "https://github.com/WaterLily-jl/WaterLily.jl",
-      "description": "Fast and simple fluid simulator in Julia",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": "824",
-      "forks": "113",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/468263?s=40&v=4",
-          "name": "weymouth",
-          "url": "https://github.com/weymouth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17761372?s=40&v=4",
-          "name": "b-fg",
-          "url": "https://github.com/b-fg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48692086?s=40&v=4",
-          "name": "marinlauber",
-          "url": "https://github.com/marinlauber"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29675019?s=40&v=4",
-          "name": "TzuYaoHuang",
-          "url": "https://github.com/TzuYaoHuang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7112768?s=40&v=4",
-          "name": "navidcy",
-          "url": "https://github.com/navidcy"
         }
       ]
     }
