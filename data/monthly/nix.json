@@ -2,48 +2,16 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 21 Jul 2026 09:24:34 GMT",
+  "pubDate": "Tue, 21 Jul 2026 15:06:06 GMT",
   "items": [
-    {
-      "title": "nix-darwin/nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "5,714",
-      "forks": "649",
-      "addStars": "148",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/689294?s=40&v=4",
-          "name": "LnL7",
-          "url": "https://github.com/LnL7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10492681?s=40&v=4",
-          "name": "Enzime",
-          "url": "https://github.com/Enzime"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18535642?s=40&v=4",
-          "name": "emilazy",
-          "url": "https://github.com/emilazy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/126339?s=40&v=4",
-          "name": "domenkozar",
-          "url": "https://github.com/domenkozar"
-        }
-      ]
-    },
     {
       "title": "NixOS/nixpkgs",
       "url": "https://github.com/NixOS/nixpkgs",
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "25,490",
-      "forks": "19,579",
+      "stars": "25,499",
+      "forks": "19,583",
       "addStars": "366",
       "contributors": [
         {
@@ -74,12 +42,44 @@
       ]
     },
     {
+      "title": "nix-darwin/nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "5,715",
+      "forks": "649",
+      "addStars": "148",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/689294?s=40&v=4",
+          "name": "LnL7",
+          "url": "https://github.com/LnL7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10492681?s=40&v=4",
+          "name": "Enzime",
+          "url": "https://github.com/Enzime"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18535642?s=40&v=4",
+          "name": "emilazy",
+          "url": "https://github.com/emilazy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/126339?s=40&v=4",
+          "name": "domenkozar",
+          "url": "https://github.com/domenkozar"
+        }
+      ]
+    },
+    {
       "title": "nix-community/home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "10,120",
+      "stars": "10,121",
       "forks": "2,439",
       "addStars": "174",
       "contributors": [
@@ -111,12 +111,34 @@
       ]
     },
     {
+      "title": "Mic92/sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,034",
+      "forks": "223",
+      "addStars": "92",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
+          "name": "dasJ",
+          "url": "https://github.com/dasJ"
+        }
+      ]
+    },
+    {
       "title": "microvm-nix/microvm.nix",
       "url": "https://github.com/microvm-nix/microvm.nix",
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,770",
+      "stars": "2,772",
       "forks": "218",
       "addStars": "102",
       "contributors": [
@@ -139,28 +161,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/112069?s=40&v=4",
           "name": "luizribeiro",
           "url": "https://github.com/luizribeiro"
-        }
-      ]
-    },
-    {
-      "title": "Mic92/sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,034",
-      "forks": "223",
-      "addStars": "92",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4971975?s=40&v=4",
-          "name": "dasJ",
-          "url": "https://github.com/dasJ"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,225",
+      "stars": "3,227",
       "forks": "954",
       "addStars": "67",
       "contributors": [
@@ -266,13 +266,40 @@
       ]
     },
     {
+      "title": "feel-co/hjem",
+      "url": "https://github.com/feel-co/hjem",
+      "description": "Streamlined, elegant $HOME management with Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "558",
+      "forks": "23",
+      "addStars": "54",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/848000?s=40&v=4",
+          "name": "eclairevoyant",
+          "url": "https://github.com/eclairevoyant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62766066?s=40&v=4",
+          "name": "NotAShelf",
+          "url": "https://github.com/NotAShelf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35857948?s=40&v=4",
+          "name": "Lunarnovaa",
+          "url": "https://github.com/Lunarnovaa"
+        }
+      ]
+    },
+    {
       "title": "nix-community/stylix",
       "url": "https://github.com/nix-community/stylix",
       "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,338",
-      "forks": "346",
+      "forks": "345",
       "addStars": "41",
       "contributors": [
         {
@@ -299,33 +326,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/64027365?s=40&v=4",
           "name": "Flameopathic",
           "url": "https://github.com/Flameopathic"
-        }
-      ]
-    },
-    {
-      "title": "nix-community/disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "3,196",
-      "forks": "316",
-      "addStars": "64",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
-          "name": "Mic92",
-          "url": "https://github.com/Mic92"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
-          "name": "Lassulus",
-          "url": "https://github.com/Lassulus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
-          "name": "iFreilicht",
-          "url": "https://github.com/iFreilicht"
         }
       ]
     },
@@ -357,12 +357,108 @@
       ]
     },
     {
+      "title": "sodiboo/niri-flake",
+      "url": "https://github.com/sodiboo/niri-flake",
+      "description": "Nix-native configuration for niri",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "939",
+      "forks": "135",
+      "addStars": "38",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37938646?s=40&v=4",
+          "name": "sodiboo",
+          "url": "https://github.com/sodiboo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17243?s=40&v=4",
+          "name": "algernon",
+          "url": "https://github.com/algernon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64381190?s=40&v=4",
+          "name": "imnotpoz",
+          "url": "https://github.com/imnotpoz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67189813?s=40&v=4",
+          "name": "fred21O4",
+          "url": "https://github.com/fred21O4"
+        }
+      ]
+    },
+    {
+      "title": "ryantm/agenix",
+      "url": "https://github.com/ryantm/agenix",
+      "description": "age-encrypted secrets for NixOS and Home manager",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "2,434",
+      "forks": "156",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4804?s=40&v=4",
+          "name": "ryantm",
+          "url": "https://github.com/ryantm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1234956?s=40&v=4",
+          "name": "n8henrie",
+          "url": "https://github.com/n8henrie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28582702?s=40&v=4",
+          "name": "cole-h",
+          "url": "https://github.com/cole-h"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12501720?s=40&v=4",
+          "name": "dlubawy",
+          "url": "https://github.com/dlubawy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14615?s=40&v=4",
+          "name": "edrex",
+          "url": "https://github.com/edrex"
+        }
+      ]
+    },
+    {
+      "title": "nix-community/disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": "3,198",
+      "forks": "316",
+      "addStars": "64",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
+          "name": "Lassulus",
+          "url": "https://github.com/Lassulus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9742635?s=40&v=4",
+          "name": "iFreilicht",
+          "url": "https://github.com/iFreilicht"
+        }
+      ]
+    },
+    {
       "title": "NixOS/nix.dev",
       "url": "https://github.com/NixOS/nix.dev",
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,875",
+      "stars": "3,876",
       "forks": "334",
       "addStars": "50",
       "contributors": [
@@ -394,29 +490,19 @@
       ]
     },
     {
-      "title": "feel-co/hjem",
-      "url": "https://github.com/feel-co/hjem",
-      "description": "Streamlined, elegant $HOME management with Nix",
+      "title": "Mic92/dotfiles",
+      "url": "https://github.com/Mic92/dotfiles",
+      "description": "My NixOS dotfiles",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "558",
-      "forks": "23",
-      "addStars": "54",
+      "stars": "762",
+      "forks": "39",
+      "addStars": "9",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/848000?s=40&v=4",
-          "name": "eclairevoyant",
-          "url": "https://github.com/eclairevoyant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62766066?s=40&v=4",
-          "name": "NotAShelf",
-          "url": "https://github.com/NotAShelf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35857948?s=40&v=4",
-          "name": "Lunarnovaa",
-          "url": "https://github.com/Lunarnovaa"
+          "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
+          "name": "Mic92",
+          "url": "https://github.com/Mic92"
         }
       ]
     },
