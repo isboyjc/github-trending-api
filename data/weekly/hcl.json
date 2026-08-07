@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 07 Aug 2026 08:10:26 GMT",
+  "pubDate": "Fri, 07 Aug 2026 14:14:07 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform/cloud-foundation-fabric",
@@ -42,13 +42,50 @@
       ]
     },
     {
+      "title": "terraform-aws-modules/terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "581",
+      "forks": "3,808",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
+          "name": "magreenbaum",
+          "url": "https://github.com/magreenbaum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
+          "name": "betajobot",
+          "url": "https://github.com/betajobot"
+        }
+      ]
+    },
+    {
       "title": "terraform-aws-modules/terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "4,996",
-      "forks": "4,404",
+      "forks": "4,403",
       "addStars": "8",
       "contributors": [
         {
@@ -116,75 +153,6 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "581",
-      "forks": "3,808",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69476188?s=40&v=4",
-          "name": "magreenbaum",
-          "url": "https://github.com/magreenbaum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28572351?s=40&v=4",
-          "name": "betajobot",
-          "url": "https://github.com/betajobot"
-        }
-      ]
-    },
-    {
-      "title": "terraform-google-modules/terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "1,277",
-      "forks": "1,274",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1627801?s=40&v=4",
-          "name": "morgante",
-          "url": "https://github.com/morgante"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14035345?s=40&v=4",
-          "name": "apeabody",
-          "url": "https://github.com/apeabody"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10992720?s=40&v=4",
-          "name": "bharathkkb",
-          "url": "https://github.com/bharathkkb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10655063?s=40&v=4",
-          "name": "aaron-lane",
-          "url": "https://github.com/aaron-lane"
-        }
-      ]
-    },
-    {
       "title": "bridgecrewio/checkov-action",
       "url": "https://github.com/bridgecrewio/checkov-action",
       "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
@@ -222,43 +190,6 @@
       ]
     },
     {
-      "title": "kubernetes/k8s.io",
-      "url": "https://github.com/kubernetes/k8s.io",
-      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "976",
-      "forks": "1,029",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
-          "name": "k8s-ci-robot",
-          "url": "https://github.com/k8s-ci-robot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49258?s=40&v=4",
-          "name": "spiffxp",
-          "url": "https://github.com/spiffxp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2343515?s=40&v=4",
-          "name": "ameukam",
-          "url": "https://github.com/ameukam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4115580?s=40&v=4",
-          "name": "cpanato",
-          "url": "https://github.com/cpanato"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
-          "name": "thockin",
-          "url": "https://github.com/thockin"
-        }
-      ]
-    },
-    {
       "title": "chainguard-images/images",
       "url": "https://github.com/chainguard-images/images",
       "description": "Public Chainguard Images",
@@ -287,6 +218,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/246775?s=40&v=4",
           "name": "amouat",
           "url": "https://github.com/amouat"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "350",
+      "forks": "239",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
+          "name": "nitrocode",
+          "url": "https://github.com/nitrocode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
+          "name": "actions-bot",
+          "url": "https://github.com/actions-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
         }
       ]
     },
@@ -350,24 +318,78 @@
       ]
     },
     {
-      "title": "cloudposse/terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "terraform-aws-modules/terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "350",
-      "forks": "239",
+      "stars": "1,047",
+      "forks": "771",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
+          "name": "antonbabenko",
+          "url": "https://github.com/antonbabenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
+          "name": "semantic-release-bot",
+          "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
+          "name": "ahlinc",
+          "url": "https://github.com/ahlinc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
+          "name": "bryantbiggs",
+          "url": "https://github.com/bryantbiggs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
+          "name": "pdecat",
+          "url": "https://github.com/pdecat"
+        }
+      ]
+    },
+    {
+      "title": "cisco-open/forge",
+      "url": "https://github.com/cisco-open/forge",
+      "description": "ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and ARC/Kubernetes runner scale sets for many tenant repositories.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "211",
+      "forks": "9",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1094995?s=40&v=4",
+          "name": "edersonbrilhante",
+          "url": "https://github.com/edersonbrilhante"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16332508?s=40&v=4",
+          "name": "Rostislavz",
+          "url": "https://github.com/Rostislavz"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-lb-s3-bucket",
+      "url": "https://github.com/cloudposse/terraform-aws-lb-s3-bucket",
+      "description": "Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "45",
+      "forks": "33",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7775707?s=40&v=4",
-          "name": "nitrocode",
-          "url": "https://github.com/nitrocode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58130806?s=40&v=4",
-          "name": "actions-bot",
-          "url": "https://github.com/actions-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
@@ -380,9 +402,9 @@
           "url": "https://github.com/actions-user"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
-          "name": "osterman",
-          "url": "https://github.com/osterman"
+          "avatar": "https://avatars.githubusercontent.com/u/1146619?s=40&v=4",
+          "name": "maximmi",
+          "url": "https://github.com/maximmi"
         }
       ]
     },
@@ -419,39 +441,93 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "kubernetes/k8s.io",
+      "url": "https://github.com/kubernetes/k8s.io",
+      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,047",
-      "forks": "771",
-      "addStars": "2",
+      "stars": "976",
+      "forks": "1,029",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/393243?s=40&v=4",
-          "name": "antonbabenko",
-          "url": "https://github.com/antonbabenko"
+          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
+          "name": "k8s-ci-robot",
+          "url": "https://github.com/k8s-ci-robot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/49258?s=40&v=4",
+          "name": "spiffxp",
+          "url": "https://github.com/spiffxp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14666676?s=40&v=4",
-          "name": "ahlinc",
-          "url": "https://github.com/ahlinc"
+          "avatar": "https://avatars.githubusercontent.com/u/2343515?s=40&v=4",
+          "name": "ameukam",
+          "url": "https://github.com/ameukam"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
+          "avatar": "https://avatars.githubusercontent.com/u/4115580?s=40&v=4",
+          "name": "cpanato",
+          "url": "https://github.com/cpanato"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/318490?s=40&v=4",
-          "name": "pdecat",
-          "url": "https://github.com/pdecat"
+          "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
+          "name": "thockin",
+          "url": "https://github.com/thockin"
+        }
+      ]
+    },
+    {
+      "title": "cloudposse/terraform-aws-alb",
+      "url": "https://github.com/cloudposse/terraform-aws-alb",
+      "description": "Terraform module to provision a standard ALB for HTTP/HTTP traffic",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "116",
+      "forks": "120",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11232728?s=40&v=4",
+          "name": "cloudpossebot",
+          "url": "https://github.com/cloudpossebot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52489?s=40&v=4",
+          "name": "osterman",
+          "url": "https://github.com/osterman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        }
+      ]
+    },
+    {
+      "title": "Azure/terraform-azurerm-avm-res-keyvault-vault",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
+      "description": "Terraform Azure Verified Resource Module for Key Vault",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": "48",
+      "forks": "58",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16320656?s=40&v=4",
+          "name": "matt-FFFFFF",
+          "url": "https://github.com/matt-FFFFFF"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2226434?s=40&v=4",
+          "name": "andyleejordan",
+          "url": "https://github.com/andyleejordan"
         }
       ]
     }
